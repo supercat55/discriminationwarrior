@@ -102,6 +102,7 @@
   .value {
     font-size: 24px;
     font-weight: 400;
+    color: 000;
   }
 
   .right {
@@ -113,5 +114,66 @@
       font-size: 20px;
     }
     
+  }
+}
+
+
+@media screen and (max-width: 700px) {
+  .header {
+    h1 {
+      font-size: 28px;
+    }
+
+    .condition {
+      :global {
+        .ant-select {
+          height: 38px;
+        }
+        .ant-select-selector {
+          width: 140px;
+          height: 38px;
+        }
+        .ant-select-selection-item {
+          height: 38px;
+          font-size: 28px !important;
+          line-height: 38px !important;
+        }
+      }
+      input {
+        width: 90px;
+        font-size: 28px;
+      }
+    }
+  }
+  .divider {
+    margin: 10px 0;
+  }
+  
+  :global(.ant-list) {
+    padding: 0 10px;
+  }
+  :global(.ant-card) {
+    box-shadow: 0 4px 8px 0 rgba(100,102,106,.1), 0 1px 4px 0 rgba(100,102,106,.36);
+    border: none;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+  .card {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    .col {
+      flex: 0 0 50%;
+    }
+    .col2 {
+      flex: 0 0 50%;
+    }
+    .value {
+      font-size: 18px;
+    }
+    .bank {
+      font-size: 18px !important;
+    }
   }
 }

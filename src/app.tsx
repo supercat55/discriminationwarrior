@@ -14,5 +14,6 @@ export const request: RequestConfig = {
   errorConfig: {
     errorHandler
   },
+  baseURL: process.env.NODE_ENV === 'development' ? '/rank' : '',
   responseInterceptors: [responseInterceptors],
 }
