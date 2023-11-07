@@ -1,0 +1,117 @@
+.header {
+  width: 100%;
+  padding: 20px 0;
+  h1 {
+    font-size: 44px;
+    display: flex;
+    justify-content: flex-start;
+    line-height: 1.5;
+    span {
+      vertical-align: text-top;
+    }
+  }
+
+  .condition {
+    position: relative;
+    :global(.ant-input-group-addon) {
+      display: none;
+    }
+    &.error {
+      input {
+        border-color: #de2828;
+        background-color: #ffe8e8;
+      }
+    }
+    :global(.ant-select) {
+      height: 70px;
+    }
+    :global(.ant-select-selector) {
+      width: 230px;
+      background-color: #e3faf2;
+      border-radius: 0;
+      border-width: 0 0 2px;
+      padding: 0 0 0 8px;
+      line-height: 1.1875;
+      overflow: hidden;
+      border-bottom: 3px solid;
+      border-color: #008254;
+      outline: none;
+      margin: 0 10px;
+      height: 70px;
+      font-family: Chronicle Display,serif;
+      font-weight: 700;
+    }
+    :global(.ant-select-selection-item) {
+      line-height: 70px !important;
+      height: 70px;
+      font-size: 54px !important;
+      font-family: Chronicle Display,serif;
+      font-weight: 700;
+    }
+    input {
+      width: 170px;
+      background-color: #e3faf2;
+      border-radius: 0;
+      border-width: 0 0 2px;
+      padding: 0 0 0 8px;
+      font-family: Chronicle Display,serif;
+      font-size: 54px;
+      line-height: 1.1875;
+      font-weight: 700;
+      overflow: hidden;
+      border-bottom: 3px solid;
+      border-color: #008254;
+      outline: none;
+      margin-left: 10px;
+      
+    }
+    .tip {
+      position: absolute;
+      left: 10px;
+      bottom: -20px;
+      font-size: 14px;
+      color: #de2828;
+    }
+  }
+  
+}
+
+.divider {
+  width: 100%;
+  margin: 50px 0;
+  height: 1px;
+  background-color: #d8d9da;
+}
+
+.card {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+
+  .col {
+    flex: 0 0 150px;
+  }
+  .col2 {
+    flex: 0 0 200px;
+  }
+  .label {
+    font-size: 12px;
+    color: #64666a;
+  }
+  .value {
+    font-size: 24px;
+    font-weight: 400;
+  }
+
+  .right {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    .bank {
+      font-weight: bold;
+      font-size: 20px;
+    }
+    
+  }
+}
