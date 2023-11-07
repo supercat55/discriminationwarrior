@@ -4,6 +4,7 @@
   "scripts": {
     "dev": "max dev",
     "build": "max build",
+    "build-prod": "max build && cp -r data dist",
     "format": "prettier --cache --write .",
     "prepare": "husky install",
     "postinstall": "max setup",
