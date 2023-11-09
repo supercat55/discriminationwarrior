@@ -134,7 +134,7 @@ const RankPage = () => {
             <div className={`${cls.condition} ${showEmptyError ? cls.error : ''}`}>
               <Input.Search
                 maxLength={5}
-                inputMode="numeric"
+                inputMode="search"
                 placeholder="10001"
                 value={zipCode}
                 onChange={e => setZipCode(e.target.value)}
