@@ -1,5 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
-import { Input, BackTop, List, Card, Select, Spin } from 'antd';
+import { history } from '@umijs/max'
+import { Input, BackTop, List, Card, Select, Spin, Popover, Space } from 'antd';
+import { QuestionCircleOutlined } from '@ant-design/icons';
 import {
   queryConnectionZipCodeState,
   queryInterestCountryByZipCode,
@@ -8,7 +10,7 @@ import {
 } from "@/services";
 import useLocalStorage from './useLocal';
 import useQuery from './useQuery';
-import cls from '@/pages/index.less';
+import cls from '@/pages/banking.less';
 
 
 enum Type {
@@ -16,13 +18,24 @@ enum Type {
   Rejection
 }
 
-const RankPage = () => {
+export const GetHistoryQuery = () => {
+  const query = {} as Record<string, string | undefined>;
+  const search = new URLSearchParams(history.location.search);
+
+  for (const [key, value] of search) {
+    query[key] = value;
+  }
+  return query;
+};
+
+const BankingPage = () => {
+  const { type: locationQueryType = 'interest' } = GetHistoryQuery();
   const connectionZipCodeStateRef = useRef<Rule[]>([]);
   const { getConnection, setConnection } = useLocalStorage();
 
   const [zipCode, setZipCode] = useState<string>();
   const [data, setData] = useState<Option[]>([]);
-  const [type, setType] = useState(Type.Interest);
+  const [type, setType] = useState(locationQueryType === 'interest' ? Type.Interest : Type.Rejection);
 
   const { query, loading } = useQuery();
 
@@ -103,6 +116,11 @@ const RankPage = () => {
   }
 
 
+  const triggerText = type === Type.Interest ?
+    'The numerical value of the coefficient indicates how many extra basis points minority borrowers need to pay compared with white borrowers in this bank.' :
+    'The numerical value of the coefficient indicates the extra probability of loan denial for minority borrowers compared with white borrowers in this bank.'
+
+  const significanceTriggerText = 'If indicated by “***/**/*”, it means there is a significant difference in the statistics betweenminority and non-minority groups, with a 99%/95%/90% likelihood, respectively. “Not significant” means there is no statistically significant difference at the considered levels of likelihood'
 
   return (
     <Spin spinning={loading}>
@@ -147,11 +165,15 @@ const RankPage = () => {
 
       </div>
       <div className={cls.divider} />
-
       <div className="center-wrap">
         <List
           header={(
-            <h2>Here are {data.length} options for you</h2>
+            <div>
+              <h2>Here are {data.length} options for you</h2>
+              <div className={cls.subTitle}>
+                We arrange the results in descending order based on the size of the coefficients
+              </div>
+            </div>
           )}
           dataSource={convertSort(data)}
           className={cls.item}
@@ -160,7 +182,24 @@ const RankPage = () => {
               <Card key={item.arid} style={{ marginBottom: 20 }}>
                 <div className={cls.card}>
                   <div className={cls.col}>
-                    <div className={cls.label}>Coefficient</div>
+                    <div className={cls.label}>
+                      <Space>
+                        <span>Coefficient</span>
+                        <Popover
+                          trigger='click'
+                          title={(
+                            <div style={{ width: 300 }}>{triggerText}</div>
+                          )}
+                        >
+                          <Popover
+                            trigger='hover'
+                            title='What does this coefficient mean?'
+                          >
+                            <QuestionCircleOutlined />
+                          </Popover>
+                        </Popover>
+                      </Space>
+                    </div>
                     <div className={cls.value}>{item.Coefficient}</div>
                   </div>
                   <div className={cls.col}>
@@ -168,7 +207,24 @@ const RankPage = () => {
                     <div className={cls.value}>{item["T-Value"]}</div>
                   </div>
                   <div className={cls.col2}>
-                    <div className={cls.label}>Significance</div>
+                    <div className={cls.label}>
+                      <Space>
+                        <span>Significance</span>
+                        <Popover
+                          trigger='click'
+                          title={(
+                            <div style={{ width: 400 }}>{significanceTriggerText}</div>
+                          )}
+                        >
+                          <Popover
+                            trigger='hover'
+                            title='What does significance mean here?'
+                          >
+                            <QuestionCircleOutlined />
+                          </Popover>
+                        </Popover>
+                      </Space>
+                    </div>
                     <div className={cls.value}>{item.Significance}</div>
                   </div>
                   <div className={cls.col}>
@@ -192,4 +248,4 @@ const RankPage = () => {
   )
 };
 
-export default RankPage;
+export default BankingPage;

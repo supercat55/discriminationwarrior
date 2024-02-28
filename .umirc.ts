@@ -6,7 +6,8 @@ export default defineConfig({
   request: {
   },
   routes: [
-    { path: "/", component: "index" },
+    { path: "/", component: "home" },
+    { path: "/banking", component: "banking" },
   ],
   npmClient: 'pnpm',
   proxy: {
