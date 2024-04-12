@@ -60,12 +60,13 @@ const BankingPage = () => {
 
     if (cache && Array.isArray(cache)) {
       connectionZipCodeStateRef.current = cache;
+    } else {
+      const result: Rule[] = await query(() => queryConnectionZipCodeState())
 
-      return;
+      connectionZipCodeStateRef.current = result;
+  
+      setConnection(result);
     }
-
-    const result: Rule[] = await query(() => queryConnectionZipCodeState())
-    setConnection(result);
   }
 
   const searchInterest = async (code: string) => {
