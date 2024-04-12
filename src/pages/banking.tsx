@@ -1,6 +1,6 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useMemo, useRef, useState } from "react";
 import { history } from '@umijs/max'
-import { Input, BackTop, List, Card, Select, Spin, Popover, Space } from 'antd';
+import { Input, BackTop, List, Card, Select, Spin, Popover, Space, Alert } from 'antd';
 import { QuestionCircleOutlined } from '@ant-design/icons';
 import {
   queryConnectionZipCodeState,
@@ -18,6 +18,11 @@ enum Type {
   Rejection
 }
 
+enum Sort {
+  Descending,
+  Ascending
+}
+
 export const GetHistoryQuery = () => {
   const query = {} as Record<string, string | undefined>;
   const search = new URLSearchParams(history.location.search);
@@ -33,13 +38,15 @@ const BankingPage = () => {
   const connectionZipCodeStateRef = useRef<Rule[]>([]);
   const { getConnection, setConnection } = useLocalStorage();
 
-  const [zipCode, setZipCode] = useState<string>();
+  const [zipCode, setZipCode] = useState<string>('02135');
   const [data, setData] = useState<Option[]>([]);
   const [type, setType] = useState(locationQueryType === 'interest' ? Type.Interest : Type.Rejection);
 
   const { query, loading } = useQuery();
 
   const showEmptyError = zipCode !== undefined && (zipCode.length < 5 || isNaN(Number(zipCode)));
+
+  const [sort, setSort] = useState(Sort.Descending)
 
   useEffect(() => {
     init()
@@ -59,12 +66,6 @@ const BankingPage = () => {
 
     const result: Rule[] = await query(() => queryConnectionZipCodeState())
     setConnection(result);
-  }
-
-  const convertSort = (list: any[]) => {
-    return list.sort((a: any, b: any) => {
-      return Number(b.Coefficient) - Number(a.Coefficient)
-    });
   }
 
   const searchInterest = async (code: string) => {
@@ -115,12 +116,17 @@ const BankingPage = () => {
     }
   }
 
+  const dataSource = useMemo(() => {
+    return data.sort((a: any, b: any) => {
+      return sort === Sort.Descending ? Number(b.Coefficient) - Number(a.Coefficient) : Number(a.Coefficient) - Number(b.Coefficient)
+    });
+  }, [data, sort])
 
   const triggerText = type === Type.Interest ?
-    'The numerical value of the coefficient indicates how many extra basis points minority borrowers need to pay compared with white borrowers in this bank.' :
+    'The numerical value of the coefficient indicates how many extra percentage minority borrowers need to pay compared with white borrowers in this bank.' :
     'The numerical value of the coefficient indicates the extra probability of loan denial for minority borrowers compared with white borrowers in this bank.'
 
-  const significanceTriggerText = 'If indicated by “***/**/*”, it means there is a significant difference in the statistics betweenminority and non-minority groups, with a 99%/95%/90% likelihood, respectively. “Not significant” means there is no statistically significant difference at the considered levels of likelihood'
+  const significanceTriggerText = 'If indicated by “***/**/*”, it means there is a significant difference in the statistics between minority and non-minority groups, with a 99%/95%/90% likelihood, respectively. “Not significant” means there is no statistically significant difference at the considered levels of likelihood.'
 
   return (
     <Spin spinning={loading}>
@@ -169,36 +175,40 @@ const BankingPage = () => {
         <List
           header={(
             <div>
-              <h2>Here are {data.length} options for you</h2>
+              <h2>
+                <Space style={{ marginBottom: 12}}>
+                  <span>Here are {data.length} options for you</span>
+                  <Select
+                    value={sort}
+                    bordered={false}
+                    options={[
+                      {
+                        value: Sort.Descending,
+                        label: 'Descending',
+                      },
+                      {
+                        value: Sort.Ascending,
+                        label: 'Ascending',
+                      },
+                    ]}
+                    onChange={setSort}
+                  />
+                </Space>
+              </h2>
               <div className={cls.subTitle}>
-                We arrange the results in descending order based on the size of the coefficients
-              </div>
+                We arrange the results in descending order based on the size of the coefficients, by default
+              S</div>
             </div>
           )}
-          dataSource={convertSort(data)}
+          dataSource={dataSource}
           className={cls.item}
           renderItem={(item) => {
             return (
-              <Card key={item.arid} style={{ marginBottom: 20 }}>
+              <Card key={item.arid} style={{ marginBottom: 20 }} bodyStyle={{ padding: '20px 20px 12px 20px'}}>
                 <div className={cls.card}>
                   <div className={cls.col}>
                     <div className={cls.label}>
-                      <Space>
-                        <span>Coefficient</span>
-                        <Popover
-                          trigger='click'
-                          title={(
-                            <div style={{ width: 300 }}>{triggerText}</div>
-                          )}
-                        >
-                          <Popover
-                            trigger='hover'
-                            title='What does this coefficient mean?'
-                          >
-                            <QuestionCircleOutlined />
-                          </Popover>
-                        </Popover>
-                      </Space>
+                      Coefficient
                     </div>
                     <div className={cls.value}>{item.Coefficient}</div>
                   </div>
@@ -210,19 +220,14 @@ const BankingPage = () => {
                     <div className={cls.label}>
                       <Space>
                         <span>Significance</span>
-                        <Popover
-                          trigger='click'
-                          title={(
-                            <div style={{ width: 400 }}>{significanceTriggerText}</div>
-                          )}
-                        >
                           <Popover
                             trigger='hover'
-                            title='What does significance mean here?'
+                            title={(
+                              <div style={{ width: 400 }}>{significanceTriggerText}</div>
+                            )}
                           >
                             <QuestionCircleOutlined />
                           </Popover>
-                        </Popover>
                       </Space>
                     </div>
                     <div className={cls.value}>{item.Significance}</div>
@@ -239,6 +244,7 @@ const BankingPage = () => {
                   </div>
 
                 </div>
+                <Alert message={triggerText}/>
               </Card>
             )
           }}

@@ -29,7 +29,7 @@ const HomePage = () => {
           <h1 className={cls.title}>Our Vision</h1>
           <div className={cls.desc}>
             <div>When you're seeking a minority-friendly mortgage lender, we provide valuable insights by highlighting the racial disparities in interest rates and rejection rates among banks at the zip code level.</div>
-            <div>
+            <div className={cls.hrefText}>
               <a href="https://drive.google.com/file/d/1qDt1RZQcQziXk8dx2DtsdctTLHSobZqU/view?usp=drive_link">
                 We rank the racial discrimination of banks in a specific zip code by using this methodology.
               </a>

@@ -22,7 +22,7 @@
   }
 
   .content {
-    width: 90%;
+    width: 80%;
     min-height: 340px;
     margin: 0 auto;
     display: flex;
@@ -39,6 +39,7 @@
       z-index: 100;
     }
     .desc {
+      max-width: 90%;
       padding: 1.5rem 0;
       font-size: 18px;
       line-height: 1.5;
@@ -46,18 +47,22 @@
       vertical-align: baseline;
       z-index: 100;
 
+      .hrefText {
+        margin-top: 12px;
+      }
       .small {
         font-size: 12px;
       }
       a {
         color: #fff;
+        line-height: 20px;
       }
     }
   } 
 }
 
 .main {
-  width: 90%;
+  width: 80%;
   padding-top: 80px;
   margin: 0 auto;
   background-color: #fff;
