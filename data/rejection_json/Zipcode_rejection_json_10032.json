@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.056,
+        "T-Value": "(0.010)",
+        "Significance": "***",
+        "County": 36061,
+        "Zipcode": "10032",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.024,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 36061,
+        "Zipcode": "10032",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.042,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 36061,
+        "Zipcode": "10032",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.067,
+        "T-Value": "(0.011)",
+        "Significance": "***",
+        "County": 36061,
+        "Zipcode": "10032",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7203,
+        "arid": 92489805,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36061,
+        "Zipcode": "10032",
+        "Bank_Name": "Morgan Stanley Private Bank, National Association"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": -0.212,
+        "T-Value": "(0.132)",
+        "Significance": "Not Significant",
+        "County": 36061,
+        "Zipcode": "10032",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7612,
+        "arid": 7133670961,
+        "Coefficient": 0.5,
+        "T-Value": "(0.211)",
+        "Significance": "**",
+        "County": 36061,
+        "Zipcode": "10032",
+        "Bank_Name": "Guardhill Financial CORP."
+    }
+]

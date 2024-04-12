@@ -1,0 +1,102 @@
+[
+    {
+        "arid_id": 5675,
+        "arid": 568053,
+        "Coefficient": 0.5,
+        "T-Value": "(0.264)",
+        "Significance": "*",
+        "County": 6115,
+        "Zipcode": "95692",
+        "Bank_Name": "Sierra Central Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.121,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 6115,
+        "Zipcode": "95692",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6115,
+        "Zipcode": "95692",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.333,
+        "T-Value": "(0.155)",
+        "Significance": "*",
+        "County": 6115,
+        "Zipcode": "95692",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.5,
+        "T-Value": "(0.261)",
+        "Significance": "*",
+        "County": 6115,
+        "Zipcode": "95692",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8136,
+        "arid": 7470912342,
+        "Coefficient": -0.333,
+        "T-Value": "(0.173)",
+        "Significance": "*",
+        "County": 6115,
+        "Zipcode": "95692",
+        "Bank_Name": "Loanpal, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.0,
+        "T-Value": "(0.294)",
+        "Significance": "Not Significant",
+        "County": 6115,
+        "Zipcode": "95692",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8516,
+        "arid": 7911374387,
+        "Coefficient": 0.0,
+        "T-Value": "(0.278)",
+        "Significance": "Not Significant",
+        "County": 6115,
+        "Zipcode": "95692",
+        "Bank_Name": "Evergreen Moneysource Mortgage Company"
+    },
+    {
+        "arid_id": 8845,
+        "arid": 73000809992,
+        "Coefficient": -0.429,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 6115,
+        "Zipcode": "95692",
+        "Bank_Name": "K. Hovnanian American Mortgage, L.L.C."
+    },
+    {
+        "arid_id": 8910,
+        "arid": 77257500009,
+        "Coefficient": 0.071,
+        "T-Value": "(0.033)",
+        "Significance": "*",
+        "County": 6115,
+        "Zipcode": "95692",
+        "Bank_Name": "Academy Mortgage Corporation"
+    }
+]

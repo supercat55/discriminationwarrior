@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 1059,
+        "arid": 53025,
+        "Coefficient": 0.083,
+        "T-Value": "(0.016)",
+        "Significance": "***",
+        "County": 36067,
+        "Zipcode": "13152",
+        "Bank_Name": "Empower Federal Credit Union"
+    },
+    {
+        "arid_id": 5781,
+        "arid": 568433,
+        "Coefficient": 0.009,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 36067,
+        "Zipcode": "13152",
+        "Bank_Name": "Americu Credit Union"
+    },
+    {
+        "arid_id": 6191,
+        "arid": 1705278,
+        "Coefficient": -0.084,
+        "T-Value": "(0.095)",
+        "Significance": "Not Significant",
+        "County": 36067,
+        "Zipcode": "13152",
+        "Bank_Name": "Geddes Federal Savings And Loan Association"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": 0.5,
+        "T-Value": "(0.112)",
+        "Significance": "***",
+        "County": 36067,
+        "Zipcode": "13152",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.059,
+        "T-Value": "(0.038)",
+        "Significance": "Not Significant",
+        "County": 36067,
+        "Zipcode": "13152",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6920,
+        "arid": 9501105,
+        "Coefficient": -0.385,
+        "T-Value": "(0.071)",
+        "Significance": "***",
+        "County": 36067,
+        "Zipcode": "13152",
+        "Bank_Name": "Manufacturers And Traders Trust Company"
+    },
+    {
+        "arid_id": 7236,
+        "arid": 510940996,
+        "Coefficient": -0.002,
+        "T-Value": "(0.012)",
+        "Significance": "Not Significant",
+        "County": 36067,
+        "Zipcode": "13152",
+        "Bank_Name": "Sefcu Services, LLC"
+    },
+    {
+        "arid_id": 8853,
+        "arid": 73444109999,
+        "Coefficient": 0.364,
+        "T-Value": "(0.060)",
+        "Significance": "***",
+        "County": 36067,
+        "Zipcode": "13152",
+        "Bank_Name": "Syracuse Securities, INC."
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36067,
+        "Zipcode": "13152",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

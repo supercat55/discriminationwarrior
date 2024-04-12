@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 5917,
+        "arid": 568665,
+        "Coefficient": -0.053,
+        "T-Value": "(0.007)",
+        "Significance": "***",
+        "County": 39011,
+        "Zipcode": "45869",
+        "Bank_Name": "Superior Credit Union, INC."
+    },
+    {
+        "arid_id": 6664,
+        "arid": 2604024,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39011,
+        "Zipcode": "45869",
+        "Bank_Name": "Minster Bank"
+    }
+]

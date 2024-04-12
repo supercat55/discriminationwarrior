@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.019,
+        "T-Value": "(0.040)",
+        "Significance": "Not Significant",
+        "County": 42041,
+        "Zipcode": "17025",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1921,
+        "arid": 7208921389,
+        "Coefficient": 0.101,
+        "T-Value": "(0.071)",
+        "Significance": "Not Significant",
+        "County": 42041,
+        "Zipcode": "17025",
+        "Bank_Name": "Home Point Financial Corporation"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": -0.07,
+        "T-Value": "(0.082)",
+        "Significance": "Not Significant",
+        "County": 42041,
+        "Zipcode": "17025",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2192,
+        "arid": 7760503625,
+        "Coefficient": -0.03,
+        "T-Value": "(0.047)",
+        "Significance": "Not Significant",
+        "County": 42041,
+        "Zipcode": "17025",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 2338,
+        "arid": 73827009995,
+        "Coefficient": 0.064,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 42041,
+        "Zipcode": "17025",
+        "Bank_Name": "Union Home Mortgage CORP."
+    }
+]

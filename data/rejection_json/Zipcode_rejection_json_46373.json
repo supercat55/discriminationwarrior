@@ -1,0 +1,232 @@
+[
+    {
+        "arid_id": 2307,
+        "arid": 312854,
+        "Coefficient": 0.082,
+        "T-Value": "(0.062)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Centier Bank"
+    },
+    {
+        "arid_id": 2353,
+        "arid": 313303,
+        "Coefficient": -0.032,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Bank of England"
+    },
+    {
+        "arid_id": 3393,
+        "arid": 329523,
+        "Coefficient": 0.268,
+        "T-Value": "(0.073)",
+        "Significance": "***",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Peoples Bank"
+    },
+    {
+        "arid_id": 3407,
+        "arid": 329809,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "First Savings Bank of Hegewisch"
+    },
+    {
+        "arid_id": 3416,
+        "arid": 329878,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "American Community Bank of Indiana"
+    },
+    {
+        "arid_id": 5968,
+        "arid": 975633,
+        "Coefficient": -0.006,
+        "T-Value": "(0.123)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Bmo Harris Bank National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.001,
+        "T-Value": "(0.024)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.088,
+        "T-Value": "(0.141)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.4,
+        "T-Value": "(0.301)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.088,
+        "T-Value": "(0.032)",
+        "Significance": "**",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7194,
+        "arid": 91007846,
+        "Coefficient": 0.174,
+        "T-Value": "(0.108)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "First Midwest Bank"
+    },
+    {
+        "arid_id": 7207,
+        "arid": 92712969,
+        "Coefficient": 0.004,
+        "T-Value": "(0.436)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Fifth Third Mortgage Company"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.155,
+        "T-Value": "(0.095)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7989,
+        "arid": 7364176531,
+        "Coefficient": -0.209,
+        "T-Value": "(0.167)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "First Centennial Mortgage Corporation"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.034,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8085,
+        "arid": 7453143795,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Direct Mortgage Loans, LLC"
+    },
+    {
+        "arid_id": 8134,
+        "arid": 7470873092,
+        "Coefficient": 0.077,
+        "T-Value": "(0.387)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Network Capital Funding Corporation"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.167,
+        "T-Value": "(0.156)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8782,
+        "arid": 71360809998,
+        "Coefficient": 0.015,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Lake Mortgage Company Inc"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.24,
+        "T-Value": "(0.219)",
+        "Significance": "Not Significant",
+        "County": 18089,
+        "Zipcode": "46373",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

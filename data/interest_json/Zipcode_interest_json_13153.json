@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.182,
+        "T-Value": "(0.080)",
+        "Significance": "*",
+        "County": 36067,
+        "Zipcode": "13153",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1655,
+        "arid": 9480228,
+        "Coefficient": 0.248,
+        "T-Value": "(0.053)",
+        "Significance": "***",
+        "County": 36067,
+        "Zipcode": "13153",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.146,
+        "T-Value": "(0.039)",
+        "Significance": "***",
+        "County": 36067,
+        "Zipcode": "13153",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1742,
+        "arid": 92618780,
+        "Coefficient": -0.084,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 36067,
+        "Zipcode": "13153",
+        "Bank_Name": "Texas Capital Bank, National Association"
+    },
+    {
+        "arid_id": 1749,
+        "arid": 93303298,
+        "Coefficient": 0.054,
+        "T-Value": "(0.106)",
+        "Significance": "Not Significant",
+        "County": 36067,
+        "Zipcode": "13153",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 1757,
+        "arid": 510940996,
+        "Coefficient": 0.023,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 36067,
+        "Zipcode": "13153",
+        "Bank_Name": "Sefcu Services, LLC"
+    },
+    {
+        "arid_id": 2187,
+        "arid": 7752921540,
+        "Coefficient": -0.303,
+        "T-Value": "(0.058)",
+        "Significance": "***",
+        "County": 36067,
+        "Zipcode": "13153",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.292,
+        "T-Value": "(0.106)",
+        "Significance": "**",
+        "County": 36067,
+        "Zipcode": "13153",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

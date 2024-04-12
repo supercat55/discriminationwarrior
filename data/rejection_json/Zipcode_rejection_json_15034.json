@@ -1,0 +1,242 @@
+[
+    {
+        "arid_id": 689,
+        "arid": 37468,
+        "Coefficient": 0.197,
+        "T-Value": "(0.097)",
+        "Significance": "*",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "First Commonwealth Bank"
+    },
+    {
+        "arid_id": 3392,
+        "arid": 329520,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Washington Financial Bank"
+    },
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.172,
+        "T-Value": "(0.116)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 6266,
+        "arid": 1708043,
+        "Coefficient": 0.077,
+        "T-Value": "(0.032)",
+        "Significance": "**",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Dollar Bank, Federal Savings Bank"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": 0.0,
+        "T-Value": "(0.381)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 6907,
+        "arid": 9379920,
+        "Coefficient": 0.019,
+        "T-Value": "(0.143)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "First National Bank of Pennsylvania"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.058,
+        "T-Value": "(0.029)",
+        "Significance": "*",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.369,
+        "T-Value": "(0.163)",
+        "Significance": "*",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.137,
+        "T-Value": "(0.094)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.16,
+        "T-Value": "(0.034)",
+        "Significance": "***",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.102,
+        "T-Value": "(0.091)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": -0.435,
+        "T-Value": "(0.113)",
+        "Significance": "***",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7658,
+        "arid": 7201830388,
+        "Coefficient": -0.471,
+        "T-Value": "(0.045)",
+        "Significance": "***",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Affordable Mortgage Advisors, LLC."
+    },
+    {
+        "arid_id": 7690,
+        "arid": 7203702275,
+        "Coefficient": -0.001,
+        "T-Value": "(0.012)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Fbc Mortgage, LLC"
+    },
+    {
+        "arid_id": 7753,
+        "arid": 7223039688,
+        "Coefficient": 0.714,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 7784,
+        "arid": 7251613078,
+        "Coefficient": -0.009,
+        "T-Value": "(0.018)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Sail Mortgage CORP."
+    },
+    {
+        "arid_id": 7789,
+        "arid": 7260084919,
+        "Coefficient": -0.07,
+        "T-Value": "(0.050)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Victorian Finance, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.333,
+        "T-Value": "(0.230)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.1,
+        "T-Value": "(0.294)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8798,
+        "arid": 71611300007,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Equity Resources, INC."
+    },
+    {
+        "arid_id": 8859,
+        "arid": 73827009995,
+        "Coefficient": 0.034,
+        "T-Value": "(0.038)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Union Home Mortgage CORP."
+    },
+    {
+        "arid_id": 8881,
+        "arid": 77015500006,
+        "Coefficient": 0.006,
+        "T-Value": "(0.018)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Howard Hanna Financial Services, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.012,
+        "T-Value": "(0.173)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": -0.046,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 42003,
+        "Zipcode": "15034",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

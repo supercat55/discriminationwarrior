@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 648,
+        "arid": 35854,
+        "Coefficient": 0.25,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 21009,
+        "Zipcode": "42160",
+        "Bank_Name": "South Central Bank, INC."
+    },
+    {
+        "arid_id": 887,
+        "arid": 39678,
+        "Coefficient": 0.385,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 21009,
+        "Zipcode": "42160",
+        "Bank_Name": "Edmonton State Bank"
+    }
+]

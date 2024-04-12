@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 1636,
+        "arid": 9146672,
+        "Coefficient": -1.066,
+        "T-Value": "(0.017)",
+        "Significance": "***",
+        "County": 18059,
+        "Zipcode": "46117",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -0.208,
+        "T-Value": "(0.183)",
+        "Significance": "Not Significant",
+        "County": 18059,
+        "Zipcode": "46117",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": -0.064,
+        "T-Value": "(0.104)",
+        "Significance": "Not Significant",
+        "County": 18059,
+        "Zipcode": "46117",
+        "Bank_Name": "Caliber Home Loans, INC."
+    }
+]

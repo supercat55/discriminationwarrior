@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 3326,
+        "arid": 328316,
+        "Coefficient": 0.02,
+        "T-Value": "(0.165)",
+        "Significance": "Not Significant",
+        "County": 22071,
+        "Zipcode": "70117",
+        "Bank_Name": "Fidelity Bank"
+    },
+    {
+        "arid_id": 3532,
+        "arid": 332974,
+        "Coefficient": -0.333,
+        "T-Value": "(0.286)",
+        "Significance": "Not Significant",
+        "County": 22071,
+        "Zipcode": "70117",
+        "Bank_Name": "Gulf Coast Bank And Trust Company"
+    },
+    {
+        "arid_id": 6882,
+        "arid": 9112837,
+        "Coefficient": -0.333,
+        "T-Value": "(0.160)",
+        "Significance": "*",
+        "County": 22071,
+        "Zipcode": "70117",
+        "Bank_Name": "Capital One, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.19,
+        "T-Value": "(0.095)",
+        "Significance": "*",
+        "County": 22071,
+        "Zipcode": "70117",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6913,
+        "arid": 9463735,
+        "Coefficient": -0.033,
+        "T-Value": "(0.073)",
+        "Significance": "Not Significant",
+        "County": 22071,
+        "Zipcode": "70117",
+        "Bank_Name": "Hancock Whitney Bank"
+    },
+    {
+        "arid_id": 6958,
+        "arid": 9808176,
+        "Coefficient": -0.018,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 22071,
+        "Zipcode": "70117",
+        "Bank_Name": "Iberiabank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.026,
+        "T-Value": "(0.077)",
+        "Significance": "Not Significant",
+        "County": 22071,
+        "Zipcode": "70117",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.1,
+        "T-Value": "(0.051)",
+        "Significance": "*",
+        "County": 22071,
+        "Zipcode": "70117",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.4,
+        "T-Value": "(0.267)",
+        "Significance": "Not Significant",
+        "County": 22071,
+        "Zipcode": "70117",
+        "Bank_Name": "Ditech Financial LLC"
+    }
+]

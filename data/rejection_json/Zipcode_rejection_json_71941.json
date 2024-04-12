@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": -0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5059,
+        "Zipcode": "71941",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.314,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5059,
+        "Zipcode": "71941",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5059,
+        "Zipcode": "71941",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

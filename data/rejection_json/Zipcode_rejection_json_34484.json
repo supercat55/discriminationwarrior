@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 2353,
+        "arid": 313303,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 12119,
+        "Zipcode": "34484",
+        "Bank_Name": "Bank of England"
+    },
+    {
+        "arid_id": 3547,
+        "arid": 333440,
+        "Coefficient": -0.003,
+        "T-Value": "(0.006)",
+        "Significance": "Not Significant",
+        "County": 12119,
+        "Zipcode": "34484",
+        "Bank_Name": "Citizens First Bank"
+    },
+    {
+        "arid_id": 5901,
+        "arid": 568645,
+        "Coefficient": 0.0,
+        "T-Value": "(0.236)",
+        "Significance": "Not Significant",
+        "County": 12119,
+        "Zipcode": "34484",
+        "Bank_Name": "Suncoast Credit Union"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12119,
+        "Zipcode": "34484",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": -0.286,
+        "T-Value": "(0.085)",
+        "Significance": "***",
+        "County": 12119,
+        "Zipcode": "34484",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.102,
+        "T-Value": "(0.028)",
+        "Significance": "***",
+        "County": 12119,
+        "Zipcode": "34484",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.069,
+        "T-Value": "(0.085)",
+        "Significance": "Not Significant",
+        "County": 12119,
+        "Zipcode": "34484",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

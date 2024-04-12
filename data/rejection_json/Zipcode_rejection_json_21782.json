@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.111,
+        "T-Value": "(0.054)",
+        "Significance": "*",
+        "County": 24043,
+        "Zipcode": "21782",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.333,
+        "T-Value": "(0.088)",
+        "Significance": "***",
+        "County": 24043,
+        "Zipcode": "21782",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

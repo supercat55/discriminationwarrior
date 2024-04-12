@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 5722,
+        "arid": 568287,
+        "Coefficient": 0.429,
+        "T-Value": "(0.120)",
+        "Significance": "***",
+        "County": 18043,
+        "Zipcode": "47119",
+        "Bank_Name": "Centra Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.032,
+        "T-Value": "(0.028)",
+        "Significance": "Not Significant",
+        "County": 18043,
+        "Zipcode": "47119",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.034,
+        "T-Value": "(0.079)",
+        "Significance": "Not Significant",
+        "County": 18043,
+        "Zipcode": "47119",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.439,
+        "T-Value": "(0.048)",
+        "Significance": "***",
+        "County": 18043,
+        "Zipcode": "47119",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 8253,
+        "arid": 7611306242,
+        "Coefficient": -0.286,
+        "T-Value": "(0.051)",
+        "Significance": "***",
+        "County": 18043,
+        "Zipcode": "47119",
+        "Bank_Name": "Century Mortgage Company"
+    },
+    {
+        "arid_id": 8932,
+        "arid": 77505400005,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18043,
+        "Zipcode": "47119",
+        "Bank_Name": "Stearns Lending, LLC"
+    }
+]

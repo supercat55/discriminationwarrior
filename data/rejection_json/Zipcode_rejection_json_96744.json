@@ -1,0 +1,252 @@
+[
+    {
+        "arid_id": 972,
+        "arid": 51718,
+        "Coefficient": -0.108,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Hawaii State Federal Credit Union"
+    },
+    {
+        "arid_id": 2711,
+        "arid": 317308,
+        "Coefficient": 0.012,
+        "T-Value": "(0.051)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Central Pacific Bank"
+    },
+    {
+        "arid_id": 3516,
+        "arid": 332489,
+        "Coefficient": -0.093,
+        "T-Value": "(0.048)",
+        "Significance": "*",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Homestreet Bank"
+    },
+    {
+        "arid_id": 6288,
+        "arid": 1708384,
+        "Coefficient": 0.026,
+        "T-Value": "(0.037)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "American Savings Bank, FSB"
+    },
+    {
+        "arid_id": 6644,
+        "arid": 2564977,
+        "Coefficient": 0.08,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Territorial Savings Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.113,
+        "T-Value": "(0.046)",
+        "Significance": "**",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.189,
+        "T-Value": "(0.040)",
+        "Significance": "***",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6938,
+        "arid": 9617677,
+        "Coefficient": 0.235,
+        "T-Value": "(0.078)",
+        "Significance": "**",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Navy Federal Credit Union"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": 1.143,
+        "T-Value": "(0.116)",
+        "Significance": "***",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 6954,
+        "arid": 9795968,
+        "Coefficient": 0.031,
+        "T-Value": "(0.024)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Bank of Hawaii"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -1.482,
+        "T-Value": "(0.342)",
+        "Significance": "***",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6975,
+        "arid": 9980661,
+        "Coefficient": 0.06,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "First Hawaiian Bank"
+    },
+    {
+        "arid_id": 7208,
+        "arid": 92735146,
+        "Coefficient": -0.181,
+        "T-Value": "(0.023)",
+        "Significance": "***",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 7775,
+        "arid": 7232769131,
+        "Coefficient": 0.286,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.036,
+        "T-Value": "(0.040)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7873,
+        "arid": 7270894121,
+        "Coefficient": -0.026,
+        "T-Value": "(0.016)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Honolulu Homeloans, INC."
+    },
+    {
+        "arid_id": 7957,
+        "arid": 7330941669,
+        "Coefficient": 0.014,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Plaza Home Mortgage, INC."
+    },
+    {
+        "arid_id": 7970,
+        "arid": 7342000096,
+        "Coefficient": 0.143,
+        "T-Value": "(0.092)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Mann Financial INC."
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": -0.037,
+        "T-Value": "(0.044)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8127,
+        "arid": 7464770767,
+        "Coefficient": -0.312,
+        "T-Value": "(0.075)",
+        "Significance": "***",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Compass Home Loans, LLC"
+    },
+    {
+        "arid_id": 8139,
+        "arid": 7471809999,
+        "Coefficient": -0.011,
+        "T-Value": "(0.042)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Guild Mortgage Company"
+    },
+    {
+        "arid_id": 8493,
+        "arid": 7860860478,
+        "Coefficient": -0.494,
+        "T-Value": "(0.020)",
+        "Significance": "***",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Primary Residential Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.01,
+        "T-Value": "(0.034)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8932,
+        "arid": 77505400005,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Stearns Lending, LLC"
+    },
+    {
+        "arid_id": 8966,
+        "arid": 77810600004,
+        "Coefficient": -0.071,
+        "T-Value": "(0.090)",
+        "Significance": "Not Significant",
+        "County": 15003,
+        "Zipcode": "96744",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    }
+]

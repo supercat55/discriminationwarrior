@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6654,
+        "arid": 2590220,
+        "Coefficient": 0.069,
+        "T-Value": "(0.091)",
+        "Significance": "Not Significant",
+        "County": 37167,
+        "Zipcode": "28137",
+        "Bank_Name": "Uwharrie Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.002,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 37167,
+        "Zipcode": "28137",
+        "Bank_Name": "State Employees'"
+    }
+]

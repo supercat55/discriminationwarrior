@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": -0.184,
+        "T-Value": "(0.058)",
+        "Significance": "**",
+        "County": 5051,
+        "Zipcode": "71902",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.211,
+        "T-Value": "(0.131)",
+        "Significance": "Not Significant",
+        "County": 5051,
+        "Zipcode": "71902",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 5051,
+        "Zipcode": "71902",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.016,
+        "T-Value": "(0.079)",
+        "Significance": "Not Significant",
+        "County": 5051,
+        "Zipcode": "71902",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.4,
+        "T-Value": "(0.163)",
+        "Significance": "**",
+        "County": 5051,
+        "Zipcode": "71902",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5051,
+        "Zipcode": "71902",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

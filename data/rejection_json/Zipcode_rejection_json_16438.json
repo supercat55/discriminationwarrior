@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 930,
+        "arid": 51117,
+        "Coefficient": -0.059,
+        "T-Value": "(0.128)",
+        "Significance": "Not Significant",
+        "County": 42049,
+        "Zipcode": "16438",
+        "Bank_Name": "Widget Federal Credit Union"
+    },
+    {
+        "arid_id": 960,
+        "arid": 51476,
+        "Coefficient": 0.271,
+        "T-Value": "(0.172)",
+        "Significance": "Not Significant",
+        "County": 42049,
+        "Zipcode": "16438",
+        "Bank_Name": "Erie Federal Credit Union"
+    },
+    {
+        "arid_id": 2376,
+        "arid": 313876,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42049,
+        "Zipcode": "16438",
+        "Bank_Name": "Cnb Bank"
+    },
+    {
+        "arid_id": 3318,
+        "arid": 328178,
+        "Coefficient": -0.006,
+        "T-Value": "(0.113)",
+        "Significance": "Not Significant",
+        "County": 42049,
+        "Zipcode": "16438",
+        "Bank_Name": "Northwest Bank"
+    },
+    {
+        "arid_id": 3460,
+        "arid": 330544,
+        "Coefficient": -0.099,
+        "T-Value": "(0.057)",
+        "Significance": "Not Significant",
+        "County": 42049,
+        "Zipcode": "16438",
+        "Bank_Name": "Marquette Savings Bank"
+    },
+    {
+        "arid_id": 6907,
+        "arid": 9379920,
+        "Coefficient": 0.5,
+        "T-Value": "(0.173)",
+        "Significance": "**",
+        "County": 42049,
+        "Zipcode": "16438",
+        "Bank_Name": "First National Bank of Pennsylvania"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42049,
+        "Zipcode": "16438",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.229,
+        "T-Value": "(0.165)",
+        "Significance": "Not Significant",
+        "County": 42049,
+        "Zipcode": "16438",
+        "Bank_Name": "Pnc Bank, National Association"
+    }
+]

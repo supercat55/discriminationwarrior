@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 6704,
+        "arid": 2667757,
+        "Coefficient": 0.073,
+        "T-Value": "(0.094)",
+        "Significance": "Not Significant",
+        "County": 22073,
+        "Zipcode": "71291",
+        "Bank_Name": "Origin Bank"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.571,
+        "T-Value": "(0.141)",
+        "Significance": "***",
+        "County": 22073,
+        "Zipcode": "71291",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6936,
+        "arid": 9606046,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 22073,
+        "Zipcode": "71291",
+        "Bank_Name": "Bancorpsouth Bank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.009,
+        "T-Value": "(0.078)",
+        "Significance": "Not Significant",
+        "County": 22073,
+        "Zipcode": "71291",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.25,
+        "T-Value": "(0.146)",
+        "Significance": "Not Significant",
+        "County": 22073,
+        "Zipcode": "71291",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8360,
+        "arid": 7720506617,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 22073,
+        "Zipcode": "71291",
+        "Bank_Name": "United Built Homes, L.L.C."
+    }
+]

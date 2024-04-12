@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 5097,
+        "arid": 561315,
+        "Coefficient": 0.132,
+        "T-Value": "(0.036)",
+        "Significance": "***",
+        "County": 4009,
+        "Zipcode": "85546",
+        "Bank_Name": "Oneaz Credit Union"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.5,
+        "T-Value": "(0.212)",
+        "Significance": "**",
+        "County": 4009,
+        "Zipcode": "85546",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

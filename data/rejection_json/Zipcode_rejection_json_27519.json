@@ -1,0 +1,502 @@
+[
+    {
+        "arid_id": 3756,
+        "arid": 335095,
+        "Coefficient": 0.118,
+        "T-Value": "(0.105)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Towne Bank"
+    },
+    {
+        "arid_id": 4669,
+        "arid": 518297,
+        "Coefficient": 0.078,
+        "T-Value": "(0.021)",
+        "Significance": "***",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Coastal Federal Credit Union"
+    },
+    {
+        "arid_id": 4789,
+        "arid": 523521,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Digital Federal Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.049,
+        "T-Value": "(0.009)",
+        "Significance": "***",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.143,
+        "T-Value": "(0.109)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.05,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6918,
+        "arid": 9491224,
+        "Coefficient": 0.04,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "First-citizens Bank & Trust Company"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.056,
+        "T-Value": "(0.117)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 6944,
+        "arid": 9675332,
+        "Coefficient": 0.19,
+        "T-Value": "(0.039)",
+        "Significance": "***",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.138,
+        "T-Value": "(0.143)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.089,
+        "T-Value": "(0.038)",
+        "Significance": "**",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.039,
+        "T-Value": "(0.027)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 6966,
+        "arid": 9915878,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Third Federal Savings And Loan Association of Cleveland"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": 0.032,
+        "T-Value": "(0.048)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7084,
+        "arid": 22915461,
+        "Coefficient": 0.017,
+        "T-Value": "(0.021)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "North State Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.066,
+        "T-Value": "(0.013)",
+        "Significance": "***",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": -0.333,
+        "T-Value": "(0.407)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7414,
+        "arid": 3271026893,
+        "Coefficient": 0.095,
+        "T-Value": "(0.035)",
+        "Significance": "**",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Towne Mortgage of the Carolinas, LLC"
+    },
+    {
+        "arid_id": 7624,
+        "arid": 7141886719,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Alcova Mortgage LLC"
+    },
+    {
+        "arid_id": 7671,
+        "arid": 7202409656,
+        "Coefficient": -0.049,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Goprime Mortgage, INC."
+    },
+    {
+        "arid_id": 7707,
+        "arid": 7205216358,
+        "Coefficient": 0.02,
+        "T-Value": "(0.022)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Prosperity Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 7771,
+        "arid": 7232470039,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Cardinal Financial Company, Limited Partnership"
+    },
+    {
+        "arid_id": 7788,
+        "arid": 7260021318,
+        "Coefficient": -0.25,
+        "T-Value": "(0.328)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Amerisave Mortgage Corporation"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": 0.005,
+        "T-Value": "(0.016)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7906,
+        "arid": 7300583815,
+        "Coefficient": 0.037,
+        "T-Value": "(0.101)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Calatlantic Mortgage Inc"
+    },
+    {
+        "arid_id": 7911,
+        "arid": 7311060110,
+        "Coefficient": 0.389,
+        "T-Value": "(0.249)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "First Equity Mortgage Incorporated"
+    },
+    {
+        "arid_id": 7912,
+        "arid": 7311076317,
+        "Coefficient": 0.02,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "M/i Financial, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": -0.093,
+        "T-Value": "(0.154)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": -0.066,
+        "T-Value": "(0.049)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.046,
+        "T-Value": "(0.043)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8134,
+        "arid": 7470873092,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Network Capital Funding Corporation"
+    },
+    {
+        "arid_id": 8165,
+        "arid": 7510517525,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "On Q Financial, INC."
+    },
+    {
+        "arid_id": 8181,
+        "arid": 7522337558,
+        "Coefficient": 0.008,
+        "T-Value": "(0.016)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Taylor Morrison Home Funding, LLC"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": -0.158,
+        "T-Value": "(0.170)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8211,
+        "arid": 7562007637,
+        "Coefficient": -0.033,
+        "T-Value": "(0.025)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Corporate Investors Mortgage Group, INC."
+    },
+    {
+        "arid_id": 8216,
+        "arid": 7562237729,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Wyndham Capital Mortgage, INC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.148,
+        "T-Value": "(0.126)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8455,
+        "arid": 7813798202,
+        "Coefficient": 0.08,
+        "T-Value": "(0.135)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Kbhs Home Loans, LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.012,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.059,
+        "T-Value": "(0.017)",
+        "Significance": "***",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8845,
+        "arid": 73000809992,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "K. Hovnanian American Mortgage, L.L.C."
+    },
+    {
+        "arid_id": 8885,
+        "arid": 77056000000,
+        "Coefficient": 0.5,
+        "T-Value": "(0.549)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Sierra Pacific Mortgage Company, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.064,
+        "T-Value": "(0.036)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8914,
+        "arid": 77275700004,
+        "Coefficient": 0.217,
+        "T-Value": "(0.261)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "TBI Mortgage Company"
+    },
+    {
+        "arid_id": 8932,
+        "arid": 77505400005,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Stearns Lending, LLC"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.022,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    },
+    {
+        "arid_id": 8966,
+        "arid": 77810600004,
+        "Coefficient": 0.063,
+        "T-Value": "(0.126)",
+        "Significance": "Not Significant",
+        "County": 37183,
+        "Zipcode": "27519",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    }
+]

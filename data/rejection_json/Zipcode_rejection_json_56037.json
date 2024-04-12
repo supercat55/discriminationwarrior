@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 895,
+        "arid": 39760,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 27013,
+        "Zipcode": "56037",
+        "Bank_Name": "Community Bank Mankato"
+    },
+    {
+        "arid_id": 4696,
+        "arid": 519440,
+        "Coefficient": 0.75,
+        "T-Value": "(0.024)",
+        "Significance": "***",
+        "County": 27013,
+        "Zipcode": "56037",
+        "Bank_Name": "Minnesota Valley Federal Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.147,
+        "T-Value": "(0.012)",
+        "Significance": "***",
+        "County": 27013,
+        "Zipcode": "56037",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 27013,
+        "Zipcode": "56037",
+        "Bank_Name": "U.S. Bank National Association"
+    }
+]

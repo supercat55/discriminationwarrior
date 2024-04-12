@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -0.425,
+        "T-Value": "(0.018)",
+        "Significance": "***",
+        "County": 55131,
+        "Zipcode": "53095",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 2160,
+        "arid": 7680309242,
+        "Coefficient": 0.011,
+        "T-Value": "(0.245)",
+        "Significance": "Not Significant",
+        "County": 55131,
+        "Zipcode": "53095",
+        "Bank_Name": "Cmg Mortgage, INC."
+    }
+]

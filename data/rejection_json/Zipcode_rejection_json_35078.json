@@ -1,0 +1,142 @@
+[
+    {
+        "arid_id": 778,
+        "arid": 38663,
+        "Coefficient": 0.041,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Firstbank"
+    },
+    {
+        "arid_id": 2275,
+        "arid": 312437,
+        "Coefficient": 0.296,
+        "T-Value": "(0.154)",
+        "Significance": "*",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Renasant Bank"
+    },
+    {
+        "arid_id": 4065,
+        "arid": 358088,
+        "Coefficient": 0.5,
+        "T-Value": "(0.226)",
+        "Significance": "*",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Southpoint Bank"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.135,
+        "T-Value": "(0.061)",
+        "Significance": "*",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6902,
+        "arid": 9342634,
+        "Coefficient": 0.085,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Trustmark National Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.099,
+        "T-Value": "(0.037)",
+        "Significance": "**",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6949,
+        "arid": 9697633,
+        "Coefficient": -0.029,
+        "T-Value": "(0.021)",
+        "Significance": "Not Significant",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Bbva USA"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.299,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.358,
+        "T-Value": "(0.185)",
+        "Significance": "*",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7870,
+        "arid": 7270349391,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Interlinc Mortgage Services, LLC"
+    },
+    {
+        "arid_id": 8263,
+        "arid": 7621532940,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 0.077,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.139,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 1117,
+        "Zipcode": "35078",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

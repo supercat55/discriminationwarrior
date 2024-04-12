@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": -0.57,
+        "T-Value": "(0.221)",
+        "Significance": "**",
+        "County": 51003,
+        "Zipcode": "22959",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -0.265,
+        "T-Value": "(0.092)",
+        "Significance": "**",
+        "County": 51003,
+        "Zipcode": "22959",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

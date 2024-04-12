@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 6074,
+        "arid": 1702818,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 27099,
+        "Zipcode": "55912",
+        "Bank_Name": "Home Federal Savings Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.137,
+        "T-Value": "(0.012)",
+        "Significance": "***",
+        "County": 27099,
+        "Zipcode": "55912",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": -0.091,
+        "T-Value": "(0.033)",
+        "Significance": "**",
+        "County": 27099,
+        "Zipcode": "55912",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    }
+]

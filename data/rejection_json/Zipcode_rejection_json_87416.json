@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 425,
+        "arid": 31164,
+        "Coefficient": -0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 35045,
+        "Zipcode": "87416",
+        "Bank_Name": "The Citizens Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.128,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 35045,
+        "Zipcode": "87416",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 8407,
+        "arid": 7760236067,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 35045,
+        "Zipcode": "87416",
+        "Bank_Name": "Cornerstone Home Lending, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.5,
+        "T-Value": "(0.171)",
+        "Significance": "**",
+        "County": 35045,
+        "Zipcode": "87416",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

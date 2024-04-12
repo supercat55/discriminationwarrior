@@ -1,0 +1,192 @@
+[
+    {
+        "arid_id": 1125,
+        "arid": 54580,
+        "Coefficient": -0.25,
+        "T-Value": "(0.198)",
+        "Significance": "Not Significant",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "The Summit Federal Credit Union"
+    },
+    {
+        "arid_id": 3170,
+        "arid": 326333,
+        "Coefficient": -0.007,
+        "T-Value": "(0.053)",
+        "Significance": "Not Significant",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Genesee Regional Bank"
+    },
+    {
+        "arid_id": 3429,
+        "arid": 330056,
+        "Coefficient": -0.084,
+        "T-Value": "(0.088)",
+        "Significance": "Not Significant",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Fairport Savings Bank"
+    },
+    {
+        "arid_id": 4688,
+        "arid": 519085,
+        "Coefficient": -0.039,
+        "T-Value": "(0.065)",
+        "Significance": "Not Significant",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Pittsford Federal Credit Union"
+    },
+    {
+        "arid_id": 4879,
+        "arid": 524563,
+        "Coefficient": 0.106,
+        "T-Value": "(0.028)",
+        "Significance": "***",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Esl Federal Credit Union"
+    },
+    {
+        "arid_id": 6661,
+        "arid": 2601416,
+        "Coefficient": -0.119,
+        "T-Value": "(0.048)",
+        "Significance": "**",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Five Star Bank"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": -0.332,
+        "T-Value": "(0.130)",
+        "Significance": "**",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.002,
+        "T-Value": "(0.044)",
+        "Significance": "Not Significant",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.142,
+        "T-Value": "(0.096)",
+        "Significance": "Not Significant",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6920,
+        "arid": 9501105,
+        "Coefficient": 0.074,
+        "T-Value": "(0.053)",
+        "Significance": "Not Significant",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Manufacturers And Traders Trust Company"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.341,
+        "T-Value": "(0.167)",
+        "Significance": "*",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": 0.2,
+        "T-Value": "(0.098)",
+        "Significance": "*",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7299,
+        "arid": 1161237621,
+        "Coefficient": 0.088,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Home Town Funding, INC."
+    },
+    {
+        "arid_id": 7630,
+        "arid": 7161566654,
+        "Coefficient": -0.005,
+        "T-Value": "(0.011)",
+        "Significance": "Not Significant",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Premium Mortgage Corporation"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.266,
+        "T-Value": "(0.088)",
+        "Significance": "**",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    },
+    {
+        "arid_id": 8964,
+        "arid": 77776600008,
+        "Coefficient": 0.115,
+        "T-Value": "(0.056)",
+        "Significance": "*",
+        "County": 36055,
+        "Zipcode": "14621",
+        "Bank_Name": "1st Priority Mortgage, INC."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 6209,
+        "arid": 1705798,
+        "Coefficient": -0.186,
+        "T-Value": "(0.209)",
+        "Significance": "Not Significant",
+        "County": 13285,
+        "Zipcode": "30230",
+        "Bank_Name": "Charterbank"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.333,
+        "T-Value": "(0.248)",
+        "Significance": "Not Significant",
+        "County": 13285,
+        "Zipcode": "30230",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13285,
+        "Zipcode": "30230",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

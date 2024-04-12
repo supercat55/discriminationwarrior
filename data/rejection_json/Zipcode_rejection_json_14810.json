@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 968,
+        "arid": 51644,
+        "Coefficient": 0.04,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 36101,
+        "Zipcode": "14810",
+        "Bank_Name": "Corning"
+    },
+    {
+        "arid_id": 4407,
+        "arid": 510933,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36101,
+        "Zipcode": "14810",
+        "Bank_Name": "Servu Federal Credit Union"
+    }
+]

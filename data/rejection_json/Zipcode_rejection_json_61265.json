@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 2834,
+        "arid": 318402,
+        "Coefficient": -0.091,
+        "T-Value": "(0.137)",
+        "Significance": "Not Significant",
+        "County": 17161,
+        "Zipcode": "61265",
+        "Bank_Name": "Blackhawk Bank & Trust"
+    },
+    {
+        "arid_id": 4983,
+        "arid": 560337,
+        "Coefficient": -0.045,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 17161,
+        "Zipcode": "61265",
+        "Bank_Name": "I. H. Mississippi Valley Credit Union"
+    },
+    {
+        "arid_id": 5076,
+        "arid": 561093,
+        "Coefficient": -0.05,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 17161,
+        "Zipcode": "61265",
+        "Bank_Name": "Vibrant Credit Union"
+    },
+    {
+        "arid_id": 5273,
+        "arid": 563268,
+        "Coefficient": -0.25,
+        "T-Value": "(0.098)",
+        "Significance": "**",
+        "County": 17161,
+        "Zipcode": "61265",
+        "Bank_Name": "Ascentra"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.333,
+        "T-Value": "(0.136)",
+        "Significance": "**",
+        "County": 17161,
+        "Zipcode": "61265",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17161,
+        "Zipcode": "61265",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.333,
+        "T-Value": "(0.158)",
+        "Significance": "*",
+        "County": 17161,
+        "Zipcode": "61265",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

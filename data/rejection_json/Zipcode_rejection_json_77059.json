@@ -1,0 +1,702 @@
+[
+    {
+        "arid_id": 250,
+        "arid": 13656,
+        "Coefficient": 0.043,
+        "T-Value": "(0.127)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Cadence Bank, N.A."
+    },
+    {
+        "arid_id": 993,
+        "arid": 51941,
+        "Coefficient": 0.093,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Shell Federal Credit Union"
+    },
+    {
+        "arid_id": 1698,
+        "arid": 116892,
+        "Coefficient": 0.172,
+        "T-Value": "(0.204)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Woodforest National Bank"
+    },
+    {
+        "arid_id": 4832,
+        "arid": 524326,
+        "Coefficient": -0.033,
+        "T-Value": "(0.108)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Chevron"
+    },
+    {
+        "arid_id": 5018,
+        "arid": 560608,
+        "Coefficient": -0.5,
+        "T-Value": "(0.471)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Associated Credit Union of Texas"
+    },
+    {
+        "arid_id": 5029,
+        "arid": 560705,
+        "Coefficient": 0.103,
+        "T-Value": "(0.128)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Texas Dow Employees Credit Union"
+    },
+    {
+        "arid_id": 5497,
+        "arid": 566818,
+        "Coefficient": 0.125,
+        "T-Value": "(0.156)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "First Community Credit Union"
+    },
+    {
+        "arid_id": 5670,
+        "arid": 568021,
+        "Coefficient": 0.01,
+        "T-Value": "(0.221)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Community Resource Credit Union"
+    },
+    {
+        "arid_id": 6882,
+        "arid": 9112837,
+        "Coefficient": 0.295,
+        "T-Value": "(0.111)",
+        "Significance": "**",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Capital One, National Association"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": 0.005,
+        "T-Value": "(0.042)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.207,
+        "T-Value": "(0.226)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6897,
+        "arid": 9276579,
+        "Coefficient": -0.016,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Zions Bancorporation, N.A."
+    },
+    {
+        "arid_id": 6901,
+        "arid": 9339858,
+        "Coefficient": 0.201,
+        "T-Value": "(0.117)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Bokf, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.042,
+        "T-Value": "(0.011)",
+        "Significance": "***",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6913,
+        "arid": 9463735,
+        "Coefficient": -0.054,
+        "T-Value": "(0.086)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Hancock Whitney Bank"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.033,
+        "T-Value": "(0.016)",
+        "Significance": "*",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.002,
+        "T-Value": "(0.019)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.002,
+        "T-Value": "(0.108)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": -0.008,
+        "T-Value": "(0.097)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 6942,
+        "arid": 9664756,
+        "Coefficient": 0.4,
+        "T-Value": "(0.342)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Prosperity Bank"
+    },
+    {
+        "arid_id": 6948,
+        "arid": 9694904,
+        "Coefficient": -0.429,
+        "T-Value": "(0.446)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "New York Community Bank"
+    },
+    {
+        "arid_id": 6949,
+        "arid": 9697633,
+        "Coefficient": 0.02,
+        "T-Value": "(0.018)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Bbva USA"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.037,
+        "T-Value": "(0.016)",
+        "Significance": "*",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.187,
+        "T-Value": "(0.233)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": 0.057,
+        "T-Value": "(0.036)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7203,
+        "arid": 92489805,
+        "Coefficient": 0.089,
+        "T-Value": "(0.109)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Morgan Stanley Private Bank, National Association"
+    },
+    {
+        "arid_id": 7205,
+        "arid": 92590037,
+        "Coefficient": 0.105,
+        "T-Value": "(0.178)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "State Farm Bank, F.S.B."
+    },
+    {
+        "arid_id": 7208,
+        "arid": 92735146,
+        "Coefficient": 0.08,
+        "T-Value": "(0.087)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": -0.066,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": -0.025,
+        "T-Value": "(0.032)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7706,
+        "arid": 7205113139,
+        "Coefficient": -0.081,
+        "T-Value": "(0.079)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Cornerstone Mortgage Partners of Texas, L.P."
+    },
+    {
+        "arid_id": 7721,
+        "arid": 7205913596,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Clm Mortgage, Inc"
+    },
+    {
+        "arid_id": 7722,
+        "arid": 7205973457,
+        "Coefficient": 0.059,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Nations Reliable Lending, LLC"
+    },
+    {
+        "arid_id": 7736,
+        "arid": 7208693961,
+        "Coefficient": -0.016,
+        "T-Value": "(0.023)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Crestmark Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 7737,
+        "arid": 7208745846,
+        "Coefficient": -0.25,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Carrington Mortgage Services, LLC"
+    },
+    {
+        "arid_id": 7771,
+        "arid": 7232470039,
+        "Coefficient": -0.019,
+        "T-Value": "(0.051)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Cardinal Financial Company, Limited Partnership"
+    },
+    {
+        "arid_id": 7788,
+        "arid": 7260021318,
+        "Coefficient": 0.333,
+        "T-Value": "(0.345)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Amerisave Mortgage Corporation"
+    },
+    {
+        "arid_id": 7793,
+        "arid": 7260399209,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Fc Lending, LTD."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.05,
+        "T-Value": "(0.038)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7870,
+        "arid": 7270349391,
+        "Coefficient": 0.06,
+        "T-Value": "(0.059)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Interlinc Mortgage Services, LLC"
+    },
+    {
+        "arid_id": 7906,
+        "arid": 7300583815,
+        "Coefficient": 0.097,
+        "T-Value": "(0.095)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Calatlantic Mortgage Inc"
+    },
+    {
+        "arid_id": 7912,
+        "arid": 7311076317,
+        "Coefficient": 0.022,
+        "T-Value": "(0.169)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "M/i Financial, LLC"
+    },
+    {
+        "arid_id": 7920,
+        "arid": 7320016270,
+        "Coefficient": 0.056,
+        "T-Value": "(0.032)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Amcap Mortgage, LTD."
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.035,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": -0.216,
+        "T-Value": "(0.053)",
+        "Significance": "***",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.081,
+        "T-Value": "(0.057)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8134,
+        "arid": 7470873092,
+        "Coefficient": 0.042,
+        "T-Value": "(0.018)",
+        "Significance": "**",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Network Capital Funding Corporation"
+    },
+    {
+        "arid_id": 8136,
+        "arid": 7470912342,
+        "Coefficient": -0.5,
+        "T-Value": "(0.438)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Loanpal, LLC"
+    },
+    {
+        "arid_id": 8181,
+        "arid": 7522337558,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Taylor Morrison Home Funding, LLC"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": -0.002,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8226,
+        "arid": 7571175755,
+        "Coefficient": 0.5,
+        "T-Value": "(0.429)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Crosscountry Mortgage, LLC"
+    },
+    {
+        "arid_id": 8350,
+        "arid": 7680309242,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Cmg Mortgage, INC."
+    },
+    {
+        "arid_id": 8374,
+        "arid": 7731577221,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Gateway First Bank"
+    },
+    {
+        "arid_id": 8398,
+        "arid": 7752838184,
+        "Coefficient": 0.06,
+        "T-Value": "(0.049)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Ark-la-tex Financial Services, LLC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.067,
+        "T-Value": "(0.045)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8407,
+        "arid": 7760236067,
+        "Coefficient": -0.022,
+        "T-Value": "(0.016)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Cornerstone Home Lending, INC."
+    },
+    {
+        "arid_id": 8411,
+        "arid": 7760454396,
+        "Coefficient": -0.079,
+        "T-Value": "(0.064)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Republic State Mortgage CO."
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 0.061,
+        "T-Value": "(0.029)",
+        "Significance": "*",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8415,
+        "arid": 7760561995,
+        "Coefficient": 0.023,
+        "T-Value": "(0.031)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Network Funding, L.P."
+    },
+    {
+        "arid_id": 8418,
+        "arid": 7760578435,
+        "Coefficient": -0.016,
+        "T-Value": "(0.017)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Hometrust Mortgage Company"
+    },
+    {
+        "arid_id": 8424,
+        "arid": 7760678163,
+        "Coefficient": 0.04,
+        "T-Value": "(0.047)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Priority Home Mortgage, L.P."
+    },
+    {
+        "arid_id": 8455,
+        "arid": 7813798202,
+        "Coefficient": -0.104,
+        "T-Value": "(0.017)",
+        "Significance": "***",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Kbhs Home Loans, LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.021,
+        "T-Value": "(0.255)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8800,
+        "arid": 71635900004,
+        "Coefficient": 0.009,
+        "T-Value": "(0.006)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Envoy Mortgage, Ltd"
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.042,
+        "T-Value": "(0.016)",
+        "Significance": "**",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8845,
+        "arid": 73000809992,
+        "Coefficient": 0.074,
+        "T-Value": "(0.163)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "K. Hovnanian American Mortgage, L.L.C."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.033,
+        "T-Value": "(0.022)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8914,
+        "arid": 77275700004,
+        "Coefficient": -0.074,
+        "T-Value": "(0.119)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "TBI Mortgage Company"
+    },
+    {
+        "arid_id": 8932,
+        "arid": 77505400005,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Stearns Lending, LLC"
+    },
+    {
+        "arid_id": 8966,
+        "arid": 77810600004,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48201,
+        "Zipcode": "77059",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    }
+]

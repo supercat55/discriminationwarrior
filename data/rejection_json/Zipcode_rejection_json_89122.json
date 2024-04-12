@@ -1,0 +1,522 @@
+[
+    {
+        "arid_id": 4900,
+        "arid": 524694,
+        "Coefficient": -0.223,
+        "T-Value": "(0.153)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "America First"
+    },
+    {
+        "arid_id": 5880,
+        "arid": 568613,
+        "Coefficient": 0.029,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "One Nevada Credit Union"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": -0.022,
+        "T-Value": "(0.203)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6897,
+        "arid": 9276579,
+        "Coefficient": -0.032,
+        "T-Value": "(0.198)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Zions Bancorporation, N.A."
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.037,
+        "T-Value": "(0.010)",
+        "Significance": "***",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.023,
+        "T-Value": "(0.072)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.066,
+        "T-Value": "(0.023)",
+        "Significance": "**",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.103,
+        "T-Value": "(0.021)",
+        "Significance": "***",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": 0.1,
+        "T-Value": "(0.361)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 6940,
+        "arid": 9656377,
+        "Coefficient": 0.206,
+        "T-Value": "(0.292)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Washington Federal Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.011,
+        "T-Value": "(0.025)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7205,
+        "arid": 92590037,
+        "Coefficient": 0.3,
+        "T-Value": "(0.327)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "State Farm Bank, F.S.B."
+    },
+    {
+        "arid_id": 7229,
+        "arid": 94186591,
+        "Coefficient": 0.308,
+        "T-Value": "(0.091)",
+        "Significance": "***",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Pennymac Loan Services, LLC"
+    },
+    {
+        "arid_id": 7242,
+        "arid": 710726495,
+        "Coefficient": 0.014,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Broker Solutions, INC."
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": 0.258,
+        "T-Value": "(0.277)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7684,
+        "arid": 7202928975,
+        "Coefficient": 0.286,
+        "T-Value": "(0.167)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Castle & Cooke Mortgage, LLC"
+    },
+    {
+        "arid_id": 7726,
+        "arid": 7208083209,
+        "Coefficient": 0.15,
+        "T-Value": "(0.181)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Panorama Mortgage Group, LLC"
+    },
+    {
+        "arid_id": 7753,
+        "arid": 7223039688,
+        "Coefficient": 0.038,
+        "T-Value": "(0.061)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 7771,
+        "arid": 7232470039,
+        "Coefficient": -0.044,
+        "T-Value": "(0.009)",
+        "Significance": "***",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Cardinal Financial Company, Limited Partnership"
+    },
+    {
+        "arid_id": 7796,
+        "arid": 7260455770,
+        "Coefficient": 0.231,
+        "T-Value": "(0.122)",
+        "Significance": "*",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Axia Financial, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.028,
+        "T-Value": "(0.022)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7906,
+        "arid": 7300583815,
+        "Coefficient": 0.111,
+        "T-Value": "(0.248)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Calatlantic Mortgage Inc"
+    },
+    {
+        "arid_id": 7907,
+        "arid": 7300809647,
+        "Coefficient": 0.11,
+        "T-Value": "(0.259)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "William Lyon Mortgage, LLC"
+    },
+    {
+        "arid_id": 7970,
+        "arid": 7342000096,
+        "Coefficient": -0.167,
+        "T-Value": "(0.207)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Mann Financial INC."
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.25,
+        "T-Value": "(0.301)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": 0.333,
+        "T-Value": "(0.338)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8011,
+        "arid": 7382749215,
+        "Coefficient": 0.055,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Van Dyk Mortgage Corporation"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.041,
+        "T-Value": "(0.018)",
+        "Significance": "*",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": -0.048,
+        "T-Value": "(0.223)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.022,
+        "T-Value": "(0.065)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8136,
+        "arid": 7470912342,
+        "Coefficient": 0.205,
+        "T-Value": "(0.111)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Loanpal, LLC"
+    },
+    {
+        "arid_id": 8139,
+        "arid": 7471809999,
+        "Coefficient": -0.011,
+        "T-Value": "(0.031)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Guild Mortgage Company"
+    },
+    {
+        "arid_id": 8161,
+        "arid": 7481148159,
+        "Coefficient": -0.3,
+        "T-Value": "(0.279)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Leaderone Financial Corporation"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.06,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8263,
+        "arid": 7621532940,
+        "Coefficient": 0.2,
+        "T-Value": "(0.272)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 8350,
+        "arid": 7680309242,
+        "Coefficient": 0.153,
+        "T-Value": "(0.181)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Cmg Mortgage, INC."
+    },
+    {
+        "arid_id": 8394,
+        "arid": 7752695327,
+        "Coefficient": 0.021,
+        "T-Value": "(0.107)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Everett Financial, INC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.17,
+        "T-Value": "(0.045)",
+        "Significance": "***",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": -0.291,
+        "T-Value": "(0.065)",
+        "Significance": "***",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8455,
+        "arid": 7813798202,
+        "Coefficient": 0.091,
+        "T-Value": "(0.133)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Kbhs Home Loans, LLC"
+    },
+    {
+        "arid_id": 8456,
+        "arid": 7814312733,
+        "Coefficient": -0.068,
+        "T-Value": "(0.010)",
+        "Significance": "***",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Inspire Home Loans INC."
+    },
+    {
+        "arid_id": 8468,
+        "arid": 7840927358,
+        "Coefficient": 0.04,
+        "T-Value": "(0.011)",
+        "Significance": "***",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Homeamerican Mortgage Corporation"
+    },
+    {
+        "arid_id": 8483,
+        "arid": 7860415227,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Nova Financial & Investment Corporation"
+    },
+    {
+        "arid_id": 8501,
+        "arid": 7870623581,
+        "Coefficient": 0.066,
+        "T-Value": "(0.157)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Citywide Home Loans, LLC"
+    },
+    {
+        "arid_id": 8509,
+        "arid": 7880209429,
+        "Coefficient": 0.045,
+        "T-Value": "(0.056)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "All Western Mortgage, INC."
+    },
+    {
+        "arid_id": 8516,
+        "arid": 7911374387,
+        "Coefficient": 0.022,
+        "T-Value": "(0.013)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Evergreen Moneysource Mortgage Company"
+    },
+    {
+        "arid_id": 8748,
+        "arid": 71047300008,
+        "Coefficient": 0.017,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Rms & Associates"
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.021,
+        "T-Value": "(0.012)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.024,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8914,
+        "arid": 77275700004,
+        "Coefficient": -0.105,
+        "T-Value": "(0.066)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "TBI Mortgage Company"
+    },
+    {
+        "arid_id": 8932,
+        "arid": 77505400005,
+        "Coefficient": 0.204,
+        "T-Value": "(0.135)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Stearns Lending, LLC"
+    },
+    {
+        "arid_id": 8948,
+        "arid": 77635500004,
+        "Coefficient": -0.052,
+        "T-Value": "(0.050)",
+        "Significance": "Not Significant",
+        "County": 32003,
+        "Zipcode": "89122",
+        "Bank_Name": "Securitynational Mortgage Company"
+    }
+]

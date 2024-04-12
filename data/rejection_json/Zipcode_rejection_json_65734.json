@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 3787,
+        "arid": 335276,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 29009,
+        "Zipcode": "65734",
+        "Bank_Name": "Freedom Bank of Southern Missouri"
+    },
+    {
+        "arid_id": 6900,
+        "arid": 9311845,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 29009,
+        "Zipcode": "65734",
+        "Bank_Name": "Arvest Bank"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 29009,
+        "Zipcode": "65734",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 7205,
+        "arid": 92590037,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 29009,
+        "Zipcode": "65734",
+        "Bank_Name": "State Farm Bank, F.S.B."
+    }
+]

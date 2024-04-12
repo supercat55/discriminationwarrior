@@ -1,0 +1,872 @@
+[
+    {
+        "arid_id": 1808,
+        "arid": 123216,
+        "Coefficient": -0.333,
+        "T-Value": "(0.210)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Barrington Bank & Trust Company, N.A."
+    },
+    {
+        "arid_id": 1977,
+        "arid": 125080,
+        "Coefficient": -0.091,
+        "T-Value": "(0.090)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Banc of California, National Association"
+    },
+    {
+        "arid_id": 2887,
+        "arid": 319222,
+        "Coefficient": -0.199,
+        "T-Value": "(0.247)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Fremont Bank"
+    },
+    {
+        "arid_id": 3516,
+        "arid": 332489,
+        "Coefficient": 0.114,
+        "T-Value": "(0.054)",
+        "Significance": "*",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Homestreet Bank"
+    },
+    {
+        "arid_id": 4559,
+        "arid": 514384,
+        "Coefficient": 0.079,
+        "T-Value": "(0.024)",
+        "Significance": "**",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Mission"
+    },
+    {
+        "arid_id": 5069,
+        "arid": 561004,
+        "Coefficient": 0.024,
+        "T-Value": "(0.017)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "San Diego County Credit Union"
+    },
+    {
+        "arid_id": 5465,
+        "arid": 566584,
+        "Coefficient": 0.047,
+        "T-Value": "(0.049)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "California Coast Credit Union"
+    },
+    {
+        "arid_id": 5816,
+        "arid": 568494,
+        "Coefficient": 0.333,
+        "T-Value": "(0.284)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Frontwave"
+    },
+    {
+        "arid_id": 6219,
+        "arid": 1706051,
+        "Coefficient": 0.014,
+        "T-Value": "(0.008)",
+        "Significance": "*",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Provident Savings Bank, F.S.B."
+    },
+    {
+        "arid_id": 6273,
+        "arid": 1708146,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Mutual of Omaha Bank"
+    },
+    {
+        "arid_id": 6358,
+        "arid": 1716456,
+        "Coefficient": -0.289,
+        "T-Value": "(0.121)",
+        "Significance": "**",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Axos Bank"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": -0.011,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6891,
+        "arid": 9212465,
+        "Coefficient": 0.02,
+        "T-Value": "(0.024)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Mufg Union Bank, National Association"
+    },
+    {
+        "arid_id": 6909,
+        "arid": 9413208,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Hsbc Bank USA, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.036,
+        "T-Value": "(0.007)",
+        "Significance": "***",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.057,
+        "T-Value": "(0.036)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.054,
+        "T-Value": "(0.011)",
+        "Significance": "***",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.064,
+        "T-Value": "(0.028)",
+        "Significance": "*",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6938,
+        "arid": 9617677,
+        "Coefficient": 0.07,
+        "T-Value": "(0.026)",
+        "Significance": "**",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Navy Federal Credit Union"
+    },
+    {
+        "arid_id": 6949,
+        "arid": 9697633,
+        "Coefficient": 0.004,
+        "T-Value": "(0.044)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Bbva USA"
+    },
+    {
+        "arid_id": 6957,
+        "arid": 9804963,
+        "Coefficient": 0.171,
+        "T-Value": "(0.139)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Bank of the West"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.192,
+        "T-Value": "(0.148)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.028,
+        "T-Value": "(0.010)",
+        "Significance": "**",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": -0.058,
+        "T-Value": "(0.023)",
+        "Significance": "**",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7203,
+        "arid": 92489805,
+        "Coefficient": -0.005,
+        "T-Value": "(0.095)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Morgan Stanley Private Bank, National Association"
+    },
+    {
+        "arid_id": 7208,
+        "arid": 92735146,
+        "Coefficient": -0.086,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 7218,
+        "arid": 93150447,
+        "Coefficient": 0.082,
+        "T-Value": "(0.185)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Charles Schwab Bank, SSB"
+    },
+    {
+        "arid_id": 7219,
+        "arid": 93212149,
+        "Coefficient": 0.224,
+        "T-Value": "(0.166)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Ubs Bank USA"
+    },
+    {
+        "arid_id": 7226,
+        "arid": 93918898,
+        "Coefficient": 0.128,
+        "T-Value": "(0.043)",
+        "Significance": "**",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Cit Bank, National Association"
+    },
+    {
+        "arid_id": 7228,
+        "arid": 94114567,
+        "Coefficient": -0.044,
+        "T-Value": "(0.066)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "First Republic Bank"
+    },
+    {
+        "arid_id": 7229,
+        "arid": 94186591,
+        "Coefficient": 0.112,
+        "T-Value": "(0.178)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Pennymac Loan Services, LLC"
+    },
+    {
+        "arid_id": 7242,
+        "arid": 710726495,
+        "Coefficient": 0.067,
+        "T-Value": "(0.019)",
+        "Significance": "***",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Broker Solutions, INC."
+    },
+    {
+        "arid_id": 7247,
+        "arid": 720486480,
+        "Coefficient": -0.364,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Lendus, LLC"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": 0.006,
+        "T-Value": "(0.010)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7702,
+        "arid": 7204866754,
+        "Coefficient": -0.068,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Celebrity Home Loans, LLC"
+    },
+    {
+        "arid_id": 7741,
+        "arid": 7208803449,
+        "Coefficient": 0.5,
+        "T-Value": "(0.398)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Athas Capital Group, INC."
+    },
+    {
+        "arid_id": 7753,
+        "arid": 7223039688,
+        "Coefficient": -0.029,
+        "T-Value": "(0.051)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 7771,
+        "arid": 7232470039,
+        "Coefficient": -0.305,
+        "T-Value": "(0.210)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Cardinal Financial Company, Limited Partnership"
+    },
+    {
+        "arid_id": 7775,
+        "arid": 7232769131,
+        "Coefficient": 0.087,
+        "T-Value": "(0.031)",
+        "Significance": "**",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    },
+    {
+        "arid_id": 7788,
+        "arid": 7260021318,
+        "Coefficient": -0.129,
+        "T-Value": "(0.053)",
+        "Significance": "**",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Amerisave Mortgage Corporation"
+    },
+    {
+        "arid_id": 7791,
+        "arid": 7260360466,
+        "Coefficient": 0.058,
+        "T-Value": "(0.037)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Bay Equity LLC"
+    },
+    {
+        "arid_id": 7802,
+        "arid": 7260707492,
+        "Coefficient": -0.195,
+        "T-Value": "(0.135)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Jmac Lending, INC."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.021,
+        "T-Value": "(0.011)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7895,
+        "arid": 7274023565,
+        "Coefficient": -0.5,
+        "T-Value": "(0.364)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Lakeview Loan Servicing, LLC"
+    },
+    {
+        "arid_id": 7906,
+        "arid": 7300583815,
+        "Coefficient": 0.041,
+        "T-Value": "(0.139)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Calatlantic Mortgage Inc"
+    },
+    {
+        "arid_id": 7940,
+        "arid": 7330594693,
+        "Coefficient": -0.05,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Residential Wholesale Mortgage, INC."
+    },
+    {
+        "arid_id": 7943,
+        "arid": 7330649866,
+        "Coefficient": 0.243,
+        "T-Value": "(0.243)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "First Nations Home Finance Corporation"
+    },
+    {
+        "arid_id": 7957,
+        "arid": 7330941669,
+        "Coefficient": 0.07,
+        "T-Value": "(0.047)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Plaza Home Mortgage, INC."
+    },
+    {
+        "arid_id": 7961,
+        "arid": 7330975529,
+        "Coefficient": 0.174,
+        "T-Value": "(0.118)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Paramount Residential Mortgage Group, INC."
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": -0.022,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8001,
+        "arid": 7371493496,
+        "Coefficient": 0.22,
+        "T-Value": "(0.072)",
+        "Significance": "**",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Parkside Lending, LLC"
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": 0.009,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.025,
+        "T-Value": "(0.007)",
+        "Significance": "***",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.4,
+        "T-Value": "(0.090)",
+        "Significance": "***",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8046,
+        "arid": 7411914032,
+        "Coefficient": 0.063,
+        "T-Value": "(0.043)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Homeservices Lending, LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.117,
+        "T-Value": "(0.112)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8103,
+        "arid": 7461728831,
+        "Coefficient": -0.254,
+        "T-Value": "(0.173)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Mutual of Omaha Mortgage, INC."
+    },
+    {
+        "arid_id": 8121,
+        "arid": 7463676810,
+        "Coefficient": -0.436,
+        "T-Value": "(0.001)",
+        "Significance": "***",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "The Loan Store, INC."
+    },
+    {
+        "arid_id": 8136,
+        "arid": 7470912342,
+        "Coefficient": 0.244,
+        "T-Value": "(0.118)",
+        "Significance": "*",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Loanpal, LLC"
+    },
+    {
+        "arid_id": 8139,
+        "arid": 7471809999,
+        "Coefficient": 0.016,
+        "T-Value": "(0.034)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Guild Mortgage Company"
+    },
+    {
+        "arid_id": 8173,
+        "arid": 7522091594,
+        "Coefficient": 0.036,
+        "T-Value": "(0.031)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "American Internet Mortgage, INC."
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.1,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8226,
+        "arid": 7571175755,
+        "Coefficient": -0.004,
+        "T-Value": "(0.006)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Crosscountry Mortgage, LLC"
+    },
+    {
+        "arid_id": 8263,
+        "arid": 7621532940,
+        "Coefficient": -0.333,
+        "T-Value": "(0.324)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 8350,
+        "arid": 7680309242,
+        "Coefficient": 0.086,
+        "T-Value": "(0.025)",
+        "Significance": "***",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Cmg Mortgage, INC."
+    },
+    {
+        "arid_id": 8398,
+        "arid": 7752838184,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Ark-la-tex Financial Services, LLC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.021,
+        "T-Value": "(0.023)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": -0.038,
+        "T-Value": "(0.118)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8429,
+        "arid": 7770158990,
+        "Coefficient": -0.026,
+        "T-Value": "(0.016)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Golden Empire Mortgage, INC."
+    },
+    {
+        "arid_id": 8441,
+        "arid": 7800233937,
+        "Coefficient": -0.03,
+        "T-Value": "(0.042)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Impac Mortgage CORP."
+    },
+    {
+        "arid_id": 8455,
+        "arid": 7813798202,
+        "Coefficient": 0.213,
+        "T-Value": "(0.021)",
+        "Significance": "***",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Kbhs Home Loans, LLC"
+    },
+    {
+        "arid_id": 8489,
+        "arid": 7860634557,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Amerifirst Financial, INC."
+    },
+    {
+        "arid_id": 8546,
+        "arid": 7953821253,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "South Pacific Financial Corporation"
+    },
+    {
+        "arid_id": 8547,
+        "arid": 7953990375,
+        "Coefficient": 0.015,
+        "T-Value": "(0.019)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Skyline Financial CORP."
+    },
+    {
+        "arid_id": 8559,
+        "arid": 7954523866,
+        "Coefficient": 0.005,
+        "T-Value": "(0.076)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Shea Mortgage INC."
+    },
+    {
+        "arid_id": 8561,
+        "arid": 7954539084,
+        "Coefficient": -0.25,
+        "T-Value": "(0.224)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Amwest Funding CORP."
+    },
+    {
+        "arid_id": 8577,
+        "arid": 9133222578,
+        "Coefficient": -0.346,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Citimortgage, INC."
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.017,
+        "T-Value": "(0.180)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": -0.038,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8879,
+        "arid": 76451209990,
+        "Coefficient": -0.025,
+        "T-Value": "(0.023)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "San Diego Funding"
+    },
+    {
+        "arid_id": 8885,
+        "arid": 77056000000,
+        "Coefficient": -0.025,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Sierra Pacific Mortgage Company, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.015,
+        "T-Value": "(0.015)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8932,
+        "arid": 77505400005,
+        "Coefficient": 0.029,
+        "T-Value": "(0.026)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Stearns Lending, LLC"
+    },
+    {
+        "arid_id": 8966,
+        "arid": 77810600004,
+        "Coefficient": 0.033,
+        "T-Value": "(0.021)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    },
+    {
+        "arid_id": 8967,
+        "arid": 77811300008,
+        "Coefficient": -0.099,
+        "T-Value": "(0.022)",
+        "Significance": "***",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Homebridge Financial Services, INC."
+    },
+    {
+        "arid_id": 8985,
+        "arid": 77976700006,
+        "Coefficient": 0.043,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "Eagle Home Mortgage of California"
+    },
+    {
+        "arid_id": 8987,
+        "arid": 77992700007,
+        "Coefficient": 0.168,
+        "T-Value": "(0.098)",
+        "Significance": "Not Significant",
+        "County": 6073,
+        "Zipcode": "92101",
+        "Bank_Name": "American Pacific Mortgage Corporation"
+    }
+]

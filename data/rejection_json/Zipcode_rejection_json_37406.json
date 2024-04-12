@@ -1,0 +1,152 @@
+[
+    {
+        "arid_id": 963,
+        "arid": 51520,
+        "Coefficient": 0.14,
+        "T-Value": "(0.135)",
+        "Significance": "Not Significant",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Tennessee Valley"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.058,
+        "T-Value": "(0.078)",
+        "Significance": "Not Significant",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.076,
+        "T-Value": "(0.108)",
+        "Significance": "Not Significant",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6917,
+        "arid": 9485559,
+        "Coefficient": -0.273,
+        "T-Value": "(0.112)",
+        "Significance": "**",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "First Horizon Bank"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.5,
+        "T-Value": "(0.522)",
+        "Significance": "Not Significant",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6944,
+        "arid": 9675332,
+        "Coefficient": -0.5,
+        "T-Value": "(0.167)",
+        "Significance": "**",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.322,
+        "T-Value": "(0.273)",
+        "Significance": "Not Significant",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": 0.188,
+        "T-Value": "(0.147)",
+        "Significance": "Not Significant",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.106,
+        "T-Value": "(0.114)",
+        "Significance": "Not Significant",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.13,
+        "T-Value": "(0.399)",
+        "Significance": "Not Significant",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8463,
+        "arid": 7830310268,
+        "Coefficient": 0.025,
+        "T-Value": "(0.086)",
+        "Significance": "Not Significant",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Mortgage Investors Group, INC."
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.076,
+        "T-Value": "(0.095)",
+        "Significance": "Not Significant",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.301,
+        "T-Value": "(0.106)",
+        "Significance": "**",
+        "County": 47065,
+        "Zipcode": "37406",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

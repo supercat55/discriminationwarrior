@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37141,
+        "Zipcode": "28421",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37141,
+        "Zipcode": "28421",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.027,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37141,
+        "Zipcode": "28421",
+        "Bank_Name": "Guaranteed Rate, INC."
+    }
+]

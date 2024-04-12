@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 5309,
+        "arid": 563829,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33013,
+        "Zipcode": "03263",
+        "Bank_Name": "St. Mary's Bank"
+    },
+    {
+        "arid_id": 7247,
+        "arid": 720486480,
+        "Coefficient": 0.007,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 33013,
+        "Zipcode": "03263",
+        "Bank_Name": "Lendus, LLC"
+    }
+]

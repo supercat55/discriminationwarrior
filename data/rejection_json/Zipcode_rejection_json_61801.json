@@ -1,0 +1,152 @@
+[
+    {
+        "arid_id": 1469,
+        "arid": 111443,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "Inb, National Association"
+    },
+    {
+        "arid_id": 1612,
+        "arid": 114757,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "The Fisher National Bank"
+    },
+    {
+        "arid_id": 2624,
+        "arid": 316450,
+        "Coefficient": 0.036,
+        "T-Value": "(0.014)",
+        "Significance": "**",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "Busey Bank"
+    },
+    {
+        "arid_id": 2963,
+        "arid": 320250,
+        "Coefficient": -0.008,
+        "T-Value": "(0.061)",
+        "Significance": "Not Significant",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "Marine Bank"
+    },
+    {
+        "arid_id": 2969,
+        "arid": 320369,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "Heartland Bank And Trust Company"
+    },
+    {
+        "arid_id": 3079,
+        "arid": 322874,
+        "Coefficient": 0.25,
+        "T-Value": "(0.109)",
+        "Significance": "*",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "Hickory Point Bank And Trust"
+    },
+    {
+        "arid_id": 5015,
+        "arid": 560583,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "University of Illinois Community"
+    },
+    {
+        "arid_id": 6029,
+        "arid": 1701611,
+        "Coefficient": -0.01,
+        "T-Value": "(0.019)",
+        "Significance": "Not Significant",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "First Federal Savings Bank of Champaign-urbana"
+    },
+    {
+        "arid_id": 6769,
+        "arid": 2773247,
+        "Coefficient": -0.313,
+        "T-Value": "(0.149)",
+        "Significance": "*",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "Midland States Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.435,
+        "T-Value": "(0.098)",
+        "Significance": "***",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.006,
+        "T-Value": "(0.029)",
+        "Significance": "Not Significant",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.407,
+        "T-Value": "(0.167)",
+        "Significance": "**",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": 0.0,
+        "T-Value": "(0.002)",
+        "Significance": "Not Significant",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7433,
+        "arid": 3412181683,
+        "Coefficient": -0.286,
+        "T-Value": "(0.099)",
+        "Significance": "**",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "First State Mortgage Services, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.714,
+        "T-Value": "(0.184)",
+        "Significance": "***",
+        "County": 17019,
+        "Zipcode": "61801",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

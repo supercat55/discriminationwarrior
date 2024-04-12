@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 718,
+        "arid": 38136,
+        "Coefficient": -0.039,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 21059,
+        "Zipcode": "42303",
+        "Bank_Name": "Independence Bank of Kentucky"
+    },
+    {
+        "arid_id": 970,
+        "arid": 51682,
+        "Coefficient": -0.027,
+        "T-Value": "(0.099)",
+        "Significance": "Not Significant",
+        "County": 21059,
+        "Zipcode": "42303",
+        "Bank_Name": "Evansville Teachers"
+    },
+    {
+        "arid_id": 3120,
+        "arid": 323627,
+        "Coefficient": -0.1,
+        "T-Value": "(0.236)",
+        "Significance": "Not Significant",
+        "County": 21059,
+        "Zipcode": "42303",
+        "Bank_Name": "Republic Bank & Trust Company"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.199,
+        "T-Value": "(0.071)",
+        "Significance": "**",
+        "County": 21059,
+        "Zipcode": "42303",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.473,
+        "T-Value": "(0.194)",
+        "Significance": "**",
+        "County": 21059,
+        "Zipcode": "42303",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.035,
+        "T-Value": "(0.065)",
+        "Significance": "Not Significant",
+        "County": 21059,
+        "Zipcode": "42303",
+        "Bank_Name": "Truist Bank"
+    }
+]

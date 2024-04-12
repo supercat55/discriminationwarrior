@@ -1,0 +1,192 @@
+[
+    {
+        "arid_id": 3119,
+        "arid": 323623,
+        "Coefficient": -0.286,
+        "T-Value": "(0.233)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "The Washington Trust Company, of Westerly"
+    },
+    {
+        "arid_id": 3188,
+        "arid": 326467,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Sage Bank"
+    },
+    {
+        "arid_id": 4311,
+        "arid": 358937,
+        "Coefficient": -0.02,
+        "T-Value": "(0.025)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Coastway Community Bank"
+    },
+    {
+        "arid_id": 5245,
+        "arid": 562882,
+        "Coefficient": 0.063,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Navigant Credit Union"
+    },
+    {
+        "arid_id": 5558,
+        "arid": 567278,
+        "Coefficient": -0.027,
+        "T-Value": "(0.049)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Pawtucket"
+    },
+    {
+        "arid_id": 6137,
+        "arid": 1704167,
+        "Coefficient": 0.333,
+        "T-Value": "(0.275)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Milford Federal Bank"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": -0.01,
+        "T-Value": "(0.029)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.14,
+        "T-Value": "(0.103)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.209,
+        "T-Value": "(0.164)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6951,
+        "arid": 9722777,
+        "Coefficient": 0.083,
+        "T-Value": "(0.113)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 6953,
+        "arid": 9761806,
+        "Coefficient": -0.2,
+        "T-Value": "(0.180)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Webster Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.5,
+        "T-Value": "(0.436)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": -0.045,
+        "T-Value": "(0.066)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7742,
+        "arid": 7208921389,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Home Point Financial Corporation"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.091,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.397,
+        "T-Value": "(0.214)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8929,
+        "arid": 77442300004,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "First Home Mortgage Corporation"
+    },
+    {
+        "arid_id": 8970,
+        "arid": 77851800005,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 44007,
+        "Zipcode": "02859",
+        "Bank_Name": "Allied Mortgage Group, INC."
+    }
+]

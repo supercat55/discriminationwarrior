@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.143,
+        "T-Value": "(0.072)",
+        "Significance": "*",
+        "County": 26147,
+        "Zipcode": "48040",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7570,
+        "arid": 5383358941,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 26147,
+        "Zipcode": "48040",
+        "Bank_Name": "Mortgage Center L.c"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 2.0,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 26147,
+        "Zipcode": "48040",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8986,
+        "arid": 77983500003,
+        "Coefficient": 0.095,
+        "T-Value": "(0.051)",
+        "Significance": "*",
+        "County": 26147,
+        "Zipcode": "48040",
+        "Bank_Name": "Michigan Mutual, INC."
+    }
+]

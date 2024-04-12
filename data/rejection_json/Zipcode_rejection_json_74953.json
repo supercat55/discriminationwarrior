@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 1488,
+        "arid": 112158,
+        "Coefficient": 0.167,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 40079,
+        "Zipcode": "74953",
+        "Bank_Name": "The Central National Bank of Poteau"
+    },
+    {
+        "arid_id": 6900,
+        "arid": 9311845,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 40079,
+        "Zipcode": "74953",
+        "Bank_Name": "Arvest Bank"
+    },
+    {
+        "arid_id": 7205,
+        "arid": 92590037,
+        "Coefficient": -0.429,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 40079,
+        "Zipcode": "74953",
+        "Bank_Name": "State Farm Bank, F.S.B."
+    }
+]

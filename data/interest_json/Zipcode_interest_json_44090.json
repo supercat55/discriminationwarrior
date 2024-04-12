@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 1388,
+        "arid": 1703536,
+        "Coefficient": 0.049,
+        "T-Value": "(0.061)",
+        "Significance": "Not Significant",
+        "County": 39093,
+        "Zipcode": "44090",
+        "Bank_Name": "First Federal Savings And Loan Association of Lakewood"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.213,
+        "T-Value": "(0.059)",
+        "Significance": "**",
+        "County": 39093,
+        "Zipcode": "44090",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1688,
+        "arid": 9817824,
+        "Coefficient": -0.596,
+        "T-Value": "(0.085)",
+        "Significance": "***",
+        "County": 39093,
+        "Zipcode": "44090",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.04,
+        "T-Value": "(0.077)",
+        "Significance": "Not Significant",
+        "County": 39093,
+        "Zipcode": "44090",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1749,
+        "arid": 93303298,
+        "Coefficient": 0.08,
+        "T-Value": "(0.256)",
+        "Significance": "Not Significant",
+        "County": 39093,
+        "Zipcode": "44090",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": -0.328,
+        "T-Value": "(0.070)",
+        "Significance": "***",
+        "County": 39093,
+        "Zipcode": "44090",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2370,
+        "arid": 77527300003,
+        "Coefficient": -0.185,
+        "T-Value": "(0.039)",
+        "Significance": "***",
+        "County": 39093,
+        "Zipcode": "44090",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

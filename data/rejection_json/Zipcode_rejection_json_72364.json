@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": -0.5,
+        "T-Value": "(0.183)",
+        "Significance": "**",
+        "County": 5035,
+        "Zipcode": "72364",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.154,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5035,
+        "Zipcode": "72364",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.429,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5035,
+        "Zipcode": "72364",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

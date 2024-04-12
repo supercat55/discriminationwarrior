@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 6589,
+        "arid": 2456045,
+        "Coefficient": -0.207,
+        "T-Value": "(0.133)",
+        "Significance": "Not Significant",
+        "County": 5115,
+        "Zipcode": "72801",
+        "Bank_Name": "Centennial Bank"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.157,
+        "T-Value": "(0.085)",
+        "Significance": "Not Significant",
+        "County": 5115,
+        "Zipcode": "72801",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6900,
+        "arid": 9311845,
+        "Coefficient": -0.007,
+        "T-Value": "(0.064)",
+        "Significance": "Not Significant",
+        "County": 5115,
+        "Zipcode": "72801",
+        "Bank_Name": "Arvest Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.429,
+        "T-Value": "(0.042)",
+        "Significance": "***",
+        "County": 5115,
+        "Zipcode": "72801",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

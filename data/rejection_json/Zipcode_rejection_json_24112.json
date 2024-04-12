@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 5518,
+        "arid": 566924,
+        "Coefficient": -0.187,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51089,
+        "Zipcode": "24112",
+        "Bank_Name": "Valleystar Credit Union"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": -0.111,
+        "T-Value": "(0.023)",
+        "Significance": "***",
+        "County": 51089,
+        "Zipcode": "24112",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.031,
+        "T-Value": "(0.018)",
+        "Significance": "Not Significant",
+        "County": 51089,
+        "Zipcode": "24112",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    }
+]

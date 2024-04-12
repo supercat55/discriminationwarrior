@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 4898,
+        "arid": 524692,
+        "Coefficient": 0.101,
+        "T-Value": "(0.054)",
+        "Significance": "*",
+        "County": 49045,
+        "Zipcode": "84083",
+        "Bank_Name": "Mountain America"
+    },
+    {
+        "arid_id": 4900,
+        "arid": 524694,
+        "Coefficient": -0.5,
+        "T-Value": "(0.238)",
+        "Significance": "*",
+        "County": 49045,
+        "Zipcode": "84083",
+        "Bank_Name": "America First"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.124,
+        "T-Value": "(0.133)",
+        "Significance": "Not Significant",
+        "County": 49045,
+        "Zipcode": "84083",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7753,
+        "arid": 7223039688,
+        "Coefficient": -0.333,
+        "T-Value": "(0.188)",
+        "Significance": "Not Significant",
+        "County": 49045,
+        "Zipcode": "84083",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": -0.333,
+        "T-Value": "(0.148)",
+        "Significance": "*",
+        "County": 49045,
+        "Zipcode": "84083",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.5,
+        "T-Value": "(0.262)",
+        "Significance": "*",
+        "County": 49045,
+        "Zipcode": "84083",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8501,
+        "arid": 7870623581,
+        "Coefficient": 0.034,
+        "T-Value": "(0.015)",
+        "Significance": "*",
+        "County": 49045,
+        "Zipcode": "84083",
+        "Bank_Name": "Citywide Home Loans, LLC"
+    },
+    {
+        "arid_id": 8910,
+        "arid": 77257500009,
+        "Coefficient": -0.5,
+        "T-Value": "(0.244)",
+        "Significance": "*",
+        "County": 49045,
+        "Zipcode": "84083",
+        "Bank_Name": "Academy Mortgage Corporation"
+    },
+    {
+        "arid_id": 8948,
+        "arid": 77635500004,
+        "Coefficient": -0.2,
+        "T-Value": "(0.117)",
+        "Significance": "Not Significant",
+        "County": 49045,
+        "Zipcode": "84083",
+        "Bank_Name": "Securitynational Mortgage Company"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 76,
+        "arid": 14742,
+        "Coefficient": -0.488,
+        "T-Value": "(0.083)",
+        "Significance": "***",
+        "County": 48041,
+        "Zipcode": "77844",
+        "Bank_Name": "Sunflower Bank, National Association"
+    },
+    {
+        "arid_id": 1636,
+        "arid": 9146672,
+        "Coefficient": 0.187,
+        "T-Value": "(0.085)",
+        "Significance": "*",
+        "County": 48041,
+        "Zipcode": "77844",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.083,
+        "T-Value": "(0.104)",
+        "Significance": "Not Significant",
+        "County": 48041,
+        "Zipcode": "77844",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": 0.428,
+        "T-Value": "(0.073)",
+        "Significance": "***",
+        "County": 48041,
+        "Zipcode": "77844",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.363,
+        "T-Value": "(0.074)",
+        "Significance": "***",
+        "County": 48041,
+        "Zipcode": "77844",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1690,
+        "arid": 9852320,
+        "Coefficient": -0.665,
+        "T-Value": "(0.186)",
+        "Significance": "***",
+        "County": 48041,
+        "Zipcode": "77844",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.169,
+        "T-Value": "(0.379)",
+        "Significance": "Not Significant",
+        "County": 48041,
+        "Zipcode": "77844",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2189,
+        "arid": 7760236067,
+        "Coefficient": -0.454,
+        "T-Value": "(0.114)",
+        "Significance": "***",
+        "County": 48041,
+        "Zipcode": "77844",
+        "Bank_Name": "Cornerstone Home Lending, INC."
+    },
+    {
+        "arid_id": 2192,
+        "arid": 7760503625,
+        "Coefficient": 0.215,
+        "T-Value": "(0.122)",
+        "Significance": "Not Significant",
+        "County": 48041,
+        "Zipcode": "77844",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    }
+]

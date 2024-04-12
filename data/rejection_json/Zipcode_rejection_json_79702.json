@@ -1,0 +1,142 @@
+[
+    {
+        "arid_id": 1727,
+        "arid": 118054,
+        "Coefficient": -0.019,
+        "T-Value": "(0.022)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Community National Bank"
+    },
+    {
+        "arid_id": 1840,
+        "arid": 123681,
+        "Coefficient": -0.015,
+        "T-Value": "(0.043)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Firstcapital Bank of Texas, National Association"
+    },
+    {
+        "arid_id": 4832,
+        "arid": 524326,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Chevron"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.013,
+        "T-Value": "(0.011)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.051,
+        "T-Value": "(0.031)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": -0.005,
+        "T-Value": "(0.009)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7468,
+        "arid": 3751744262,
+        "Coefficient": -0.028,
+        "T-Value": "(0.017)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Primewest Mortgage Corporation"
+    },
+    {
+        "arid_id": 7690,
+        "arid": 7203702275,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Fbc Mortgage, LLC"
+    },
+    {
+        "arid_id": 7848,
+        "arid": 7263780954,
+        "Coefficient": -0.25,
+        "T-Value": "(0.136)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Premia Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.177,
+        "T-Value": "(0.100)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.096,
+        "T-Value": "(0.045)",
+        "Significance": "*",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8397,
+        "arid": 7752821496,
+        "Coefficient": 0.006,
+        "T-Value": "(0.008)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Lrs Financial Network, INC."
+    },
+    {
+        "arid_id": 8398,
+        "arid": 7752838184,
+        "Coefficient": 0.049,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Ark-la-tex Financial Services, LLC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.065,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 48329,
+        "Zipcode": "79702",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

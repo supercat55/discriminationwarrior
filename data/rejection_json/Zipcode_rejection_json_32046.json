@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 5812,
+        "arid": 568490,
+        "Coefficient": 0.181,
+        "T-Value": "(0.053)",
+        "Significance": "***",
+        "County": 12089,
+        "Zipcode": "32046",
+        "Bank_Name": "Vystar"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.015,
+        "T-Value": "(0.051)",
+        "Significance": "Not Significant",
+        "County": 12089,
+        "Zipcode": "32046",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12089,
+        "Zipcode": "32046",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

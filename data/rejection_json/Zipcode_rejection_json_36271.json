@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 1246,
+        "arid": 56680,
+        "Coefficient": 0.5,
+        "T-Value": "(0.073)",
+        "Significance": "***",
+        "County": 1015,
+        "Zipcode": "36271",
+        "Bank_Name": "Aod Federal Credit Union"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.119,
+        "T-Value": "(0.047)",
+        "Significance": "**",
+        "County": 1015,
+        "Zipcode": "36271",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.783,
+        "T-Value": "(0.183)",
+        "Significance": "***",
+        "County": 1015,
+        "Zipcode": "36271",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.5,
+        "T-Value": "(0.184)",
+        "Significance": "**",
+        "County": 1015,
+        "Zipcode": "36271",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 1015,
+        "Zipcode": "36271",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.362,
+        "T-Value": "(0.111)",
+        "Significance": "**",
+        "County": 1015,
+        "Zipcode": "36271",
+        "Bank_Name": "Truist Bank"
+    }
+]

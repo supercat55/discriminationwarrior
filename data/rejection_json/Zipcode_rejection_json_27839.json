@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": -0.4,
+        "T-Value": "(0.101)",
+        "Significance": "***",
+        "County": 37083,
+        "Zipcode": "27839",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": -0.2,
+        "T-Value": "(0.085)",
+        "Significance": "**",
+        "County": 37083,
+        "Zipcode": "27839",
+        "Bank_Name": "State Employees'"
+    }
+]

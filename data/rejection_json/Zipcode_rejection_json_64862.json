@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 3080,
+        "arid": 322876,
+        "Coefficient": 0.159,
+        "T-Value": "(0.038)",
+        "Significance": "***",
+        "County": 29097,
+        "Zipcode": "64862",
+        "Bank_Name": "Southwest Missouri Bank"
+    },
+    {
+        "arid_id": 6861,
+        "arid": 2957757,
+        "Coefficient": 0.662,
+        "T-Value": "(0.168)",
+        "Significance": "***",
+        "County": 29097,
+        "Zipcode": "64862",
+        "Bank_Name": "Community Bank And Trust"
+    },
+    {
+        "arid_id": 6900,
+        "arid": 9311845,
+        "Coefficient": -0.086,
+        "T-Value": "(0.062)",
+        "Significance": "Not Significant",
+        "County": 29097,
+        "Zipcode": "64862",
+        "Bank_Name": "Arvest Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 29097,
+        "Zipcode": "64862",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.006,
+        "T-Value": "(0.082)",
+        "Significance": "Not Significant",
+        "County": 29097,
+        "Zipcode": "64862",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 7681,
+        "arid": 7202746596,
+        "Coefficient": -0.001,
+        "T-Value": "(0.001)",
+        "Significance": "Not Significant",
+        "County": 29097,
+        "Zipcode": "64862",
+        "Bank_Name": "Flat Branch Mortgage, INC."
+    }
+]

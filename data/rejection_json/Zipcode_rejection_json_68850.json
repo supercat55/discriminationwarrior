@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 620,
+        "arid": 35415,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 31047,
+        "Zipcode": "68850",
+        "Bank_Name": "Security First Bank"
+    },
+    {
+        "arid_id": 2104,
+        "arid": 310634,
+        "Coefficient": 0.385,
+        "T-Value": "(0.195)",
+        "Significance": "*",
+        "County": 31047,
+        "Zipcode": "68850",
+        "Bank_Name": "Pinnacle Bank"
+    },
+    {
+        "arid_id": 6100,
+        "arid": 1703519,
+        "Coefficient": 0.667,
+        "T-Value": "(0.108)",
+        "Significance": "***",
+        "County": 31047,
+        "Zipcode": "68850",
+        "Bank_Name": "Home Federal Savings & Loan Association of Grand Island"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.222,
+        "T-Value": "(0.160)",
+        "Significance": "Not Significant",
+        "County": 31047,
+        "Zipcode": "68850",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

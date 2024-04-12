@@ -1,0 +1,172 @@
+[
+    {
+        "arid_id": 5504,
+        "arid": 566836,
+        "Coefficient": 0.116,
+        "T-Value": "(0.051)",
+        "Significance": "*",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Virginia Credit Union, INC."
+    },
+    {
+        "arid_id": 6882,
+        "arid": 9112837,
+        "Coefficient": -0.182,
+        "T-Value": "(0.202)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Capital One, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.034,
+        "T-Value": "(0.026)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.117,
+        "T-Value": "(0.059)",
+        "Significance": "*",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.105,
+        "T-Value": "(0.068)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.328,
+        "T-Value": "(0.107)",
+        "Significance": "**",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7385,
+        "arid": 2542024584,
+        "Coefficient": 0.083,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "George Mason Mortgage, LLC"
+    },
+    {
+        "arid_id": 7448,
+        "arid": 3541874129,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Village Bank Mortgage Corporation"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": 0.03,
+        "T-Value": "(0.036)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.026,
+        "T-Value": "(0.099)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": -0.5,
+        "T-Value": "(0.199)",
+        "Significance": "**",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8193,
+        "arid": 7541862878,
+        "Coefficient": 0.053,
+        "T-Value": "(0.047)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Capital Center, L.L.C."
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.13,
+        "T-Value": "(0.044)",
+        "Significance": "**",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.072,
+        "T-Value": "(0.093)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8932,
+        "arid": 77505400005,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Stearns Lending, LLC"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.05,
+        "T-Value": "(0.051)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23237",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

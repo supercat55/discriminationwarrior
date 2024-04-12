@@ -1,0 +1,522 @@
+[
+    {
+        "arid_id": 1175,
+        "arid": 55500,
+        "Coefficient": 0.293,
+        "T-Value": "(0.095)",
+        "Significance": "**",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Northwest Federal Credit Union"
+    },
+    {
+        "arid_id": 1183,
+        "arid": 55582,
+        "Coefficient": 0.009,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Bank-fund Staff Federal Credit Union"
+    },
+    {
+        "arid_id": 4431,
+        "arid": 511307,
+        "Coefficient": 0.222,
+        "T-Value": "(0.147)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Apple Federal Credit Union"
+    },
+    {
+        "arid_id": 6238,
+        "arid": 1706809,
+        "Coefficient": 0.286,
+        "T-Value": "(0.258)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Colonial Savings, F.a."
+    },
+    {
+        "arid_id": 6279,
+        "arid": 1708186,
+        "Coefficient": -0.002,
+        "T-Value": "(0.005)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Presidential Bank, FSB"
+    },
+    {
+        "arid_id": 6616,
+        "arid": 2506922,
+        "Coefficient": 0.037,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Sandy Spring Bank"
+    },
+    {
+        "arid_id": 6882,
+        "arid": 9112837,
+        "Coefficient": 0.0,
+        "T-Value": "(0.408)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Capital One, National Association"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": 0.151,
+        "T-Value": "(0.275)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.047,
+        "T-Value": "(0.014)",
+        "Significance": "**",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.127,
+        "T-Value": "(0.059)",
+        "Significance": "*",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.066,
+        "T-Value": "(0.019)",
+        "Significance": "***",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": -0.078,
+        "T-Value": "(0.197)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.131,
+        "T-Value": "(0.102)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6928,
+        "arid": 9546571,
+        "Coefficient": 0.035,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Pentagon Federal Credit Union"
+    },
+    {
+        "arid_id": 6938,
+        "arid": 9617677,
+        "Coefficient": 0.1,
+        "T-Value": "(0.033)",
+        "Significance": "**",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Navy Federal Credit Union"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": 0.18,
+        "T-Value": "(0.101)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 6944,
+        "arid": 9675332,
+        "Coefficient": 0.277,
+        "T-Value": "(0.041)",
+        "Significance": "***",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": -0.099,
+        "T-Value": "(0.083)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.078,
+        "T-Value": "(0.031)",
+        "Significance": "**",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.016,
+        "T-Value": "(0.088)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7048,
+        "arid": 22652092,
+        "Coefficient": -0.036,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Eaglebank"
+    },
+    {
+        "arid_id": 7203,
+        "arid": 92489805,
+        "Coefficient": 0.084,
+        "T-Value": "(0.090)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Morgan Stanley Private Bank, National Association"
+    },
+    {
+        "arid_id": 7208,
+        "arid": 92735146,
+        "Coefficient": 0.118,
+        "T-Value": "(0.144)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": -0.106,
+        "T-Value": "(0.101)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7283,
+        "arid": 750402708,
+        "Coefficient": 0.195,
+        "T-Value": "(0.195)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Embrace Home Loans, INC."
+    },
+    {
+        "arid_id": 7385,
+        "arid": 2542024584,
+        "Coefficient": -0.001,
+        "T-Value": "(0.014)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "George Mason Mortgage, LLC"
+    },
+    {
+        "arid_id": 7409,
+        "arid": 3264030355,
+        "Coefficient": -0.073,
+        "T-Value": "(0.062)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Potomac Mortgage Group, INC."
+    },
+    {
+        "arid_id": 7433,
+        "arid": 3412181683,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "First State Mortgage Services, LLC"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": -0.036,
+        "T-Value": "(0.021)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7707,
+        "arid": 7205216358,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Prosperity Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 7788,
+        "arid": 7260021318,
+        "Coefficient": 0.277,
+        "T-Value": "(0.172)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Amerisave Mortgage Corporation"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.092,
+        "T-Value": "(0.043)",
+        "Significance": "*",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.018,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.5,
+        "T-Value": "(0.357)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8053,
+        "arid": 7412259092,
+        "Coefficient": -0.013,
+        "T-Value": "(0.008)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Mclean Mortgage Corporation"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.063,
+        "T-Value": "(0.056)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8134,
+        "arid": 7470873092,
+        "Coefficient": 0.017,
+        "T-Value": "(0.112)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Network Capital Funding Corporation"
+    },
+    {
+        "arid_id": 8174,
+        "arid": 7522102740,
+        "Coefficient": 0.5,
+        "T-Value": "(0.438)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Nfm, INC."
+    },
+    {
+        "arid_id": 8191,
+        "arid": 7541822464,
+        "Coefficient": 0.063,
+        "T-Value": "(0.062)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "First Heritage Mortgage, LLC"
+    },
+    {
+        "arid_id": 8197,
+        "arid": 7541994393,
+        "Coefficient": -0.182,
+        "T-Value": "(0.169)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "J.g. Wentworth Home Lending, LLC"
+    },
+    {
+        "arid_id": 8216,
+        "arid": 7562237729,
+        "Coefficient": -0.195,
+        "T-Value": "(0.178)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Wyndham Capital Mortgage, INC."
+    },
+    {
+        "arid_id": 8259,
+        "arid": 7611645461,
+        "Coefficient": 0.019,
+        "T-Value": "(0.012)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Atlantic Coast Mortgage, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.186,
+        "T-Value": "(0.139)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.042,
+        "T-Value": "(0.029)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8845,
+        "arid": 73000809992,
+        "Coefficient": 0.333,
+        "T-Value": "(0.362)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "K. Hovnanian American Mortgage, L.L.C."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.036,
+        "T-Value": "(0.025)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8915,
+        "arid": 77280100005,
+        "Coefficient": 0.026,
+        "T-Value": "(0.019)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "First Savings Mortgage Corporation"
+    },
+    {
+        "arid_id": 8926,
+        "arid": 77416700009,
+        "Coefficient": -0.005,
+        "T-Value": "(0.016)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Intercoastal Mortgage Company"
+    },
+    {
+        "arid_id": 8929,
+        "arid": 77442300004,
+        "Coefficient": -0.025,
+        "T-Value": "(0.017)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "First Home Mortgage Corporation"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.142,
+        "T-Value": "(0.130)",
+        "Significance": "Not Significant",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    },
+    {
+        "arid_id": 8966,
+        "arid": 77810600004,
+        "Coefficient": -0.148,
+        "T-Value": "(0.039)",
+        "Significance": "***",
+        "County": 51059,
+        "Zipcode": "22308",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    }
+]

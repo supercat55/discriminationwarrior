@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.192,
+        "T-Value": "(0.211)",
+        "Significance": "Not Significant",
+        "County": 21117,
+        "Zipcode": "41014",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 5998,
+        "arid": 1700709,
+        "Coefficient": 0.106,
+        "T-Value": "(0.251)",
+        "Significance": "Not Significant",
+        "County": 21117,
+        "Zipcode": "41014",
+        "Bank_Name": "Guardian Savings Bank, A Federal Savings Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 21117,
+        "Zipcode": "41014",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.051,
+        "T-Value": "(0.138)",
+        "Significance": "Not Significant",
+        "County": 21117,
+        "Zipcode": "41014",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.25,
+        "T-Value": "(0.225)",
+        "Significance": "Not Significant",
+        "County": 21117,
+        "Zipcode": "41014",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "arid_id": 3756,
+        "arid": 335095,
+        "Coefficient": -0.5,
+        "T-Value": "(0.387)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Towne Bank"
+    },
+    {
+        "arid_id": 5504,
+        "arid": 566836,
+        "Coefficient": 0.013,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Virginia Credit Union, INC."
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.083,
+        "T-Value": "(0.025)",
+        "Significance": "***",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.5,
+        "T-Value": "(0.258)",
+        "Significance": "*",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.229,
+        "T-Value": "(0.094)",
+        "Significance": "**",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6920,
+        "arid": 9501105,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Manufacturers And Traders Trust Company"
+    },
+    {
+        "arid_id": 6938,
+        "arid": 9617677,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Navy Federal Credit Union"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.367,
+        "T-Value": "(0.215)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7071,
+        "arid": 22788496,
+        "Coefficient": -0.286,
+        "T-Value": "(0.276)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Union Mortgage Group, INC."
+    },
+    {
+        "arid_id": 7446,
+        "arid": 3541773964,
+        "Coefficient": 0.445,
+        "T-Value": "(0.165)",
+        "Significance": "**",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "C & F Mortgage Corporation"
+    },
+    {
+        "arid_id": 7707,
+        "arid": 7205216358,
+        "Coefficient": 0.152,
+        "T-Value": "(0.138)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Prosperity Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": 0.202,
+        "T-Value": "(0.134)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.115,
+        "T-Value": "(0.106)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8193,
+        "arid": 7541862878,
+        "Coefficient": 0.015,
+        "T-Value": "(0.026)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Capital Center, L.L.C."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.231,
+        "T-Value": "(0.172)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.016,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.464,
+        "T-Value": "(0.166)",
+        "Significance": "**",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8929,
+        "arid": 77442300004,
+        "Coefficient": 0.333,
+        "T-Value": "(0.244)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "First Home Mortgage Corporation"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": -0.063,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 51087,
+        "Zipcode": "23238",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

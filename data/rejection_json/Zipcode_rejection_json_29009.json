@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 1432,
+        "arid": 59988,
+        "Coefficient": 0.093,
+        "T-Value": "(0.041)",
+        "Significance": "*",
+        "County": 45055,
+        "Zipcode": "29009",
+        "Bank_Name": "Safe Federal Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.077,
+        "T-Value": "(0.092)",
+        "Significance": "Not Significant",
+        "County": 45055,
+        "Zipcode": "29009",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 45055,
+        "Zipcode": "29009",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

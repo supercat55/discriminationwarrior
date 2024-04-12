@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 5705,
+        "arid": 568239,
+        "Coefficient": 0.308,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 41059,
+        "Zipcode": "97875",
+        "Bank_Name": "Hapo Community Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.171,
+        "T-Value": "(0.132)",
+        "Significance": "Not Significant",
+        "County": 41059,
+        "Zipcode": "97875",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.167,
+        "T-Value": "(0.129)",
+        "Significance": "Not Significant",
+        "County": 41059,
+        "Zipcode": "97875",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 8910,
+        "arid": 77257500009,
+        "Coefficient": -0.333,
+        "T-Value": "(0.122)",
+        "Significance": "**",
+        "County": 41059,
+        "Zipcode": "97875",
+        "Bank_Name": "Academy Mortgage Corporation"
+    }
+]

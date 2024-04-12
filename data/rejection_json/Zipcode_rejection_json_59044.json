@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 1231,
+        "arid": 56275,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 30111,
+        "Zipcode": "59044",
+        "Bank_Name": "Altana Federal Credit Union"
+    },
+    {
+        "arid_id": 2480,
+        "arid": 315219,
+        "Coefficient": 0.071,
+        "T-Value": "(0.064)",
+        "Significance": "Not Significant",
+        "County": 30111,
+        "Zipcode": "59044",
+        "Bank_Name": "Dubuque Bank And Trust Company"
+    },
+    {
+        "arid_id": 2594,
+        "arid": 316191,
+        "Coefficient": 0.125,
+        "T-Value": "(0.058)",
+        "Significance": "*",
+        "County": 30111,
+        "Zipcode": "59044",
+        "Bank_Name": "Stockman Bank of Montana"
+    },
+    {
+        "arid_id": 3471,
+        "arid": 330788,
+        "Coefficient": 0.072,
+        "T-Value": "(0.032)",
+        "Significance": "*",
+        "County": 30111,
+        "Zipcode": "59044",
+        "Bank_Name": "Glacier Bank"
+    },
+    {
+        "arid_id": 6697,
+        "arid": 2659855,
+        "Coefficient": -0.102,
+        "T-Value": "(0.079)",
+        "Significance": "Not Significant",
+        "County": 30111,
+        "Zipcode": "59044",
+        "Bank_Name": "First Interstate Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.061,
+        "T-Value": "(0.065)",
+        "Significance": "Not Significant",
+        "County": 30111,
+        "Zipcode": "59044",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.241,
+        "T-Value": "(0.136)",
+        "Significance": "Not Significant",
+        "County": 30111,
+        "Zipcode": "59044",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.333,
+        "T-Value": "(0.142)",
+        "Significance": "**",
+        "County": 30111,
+        "Zipcode": "59044",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

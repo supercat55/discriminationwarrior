@@ -1,0 +1,162 @@
+[
+    {
+        "arid_id": 180,
+        "arid": 38663,
+        "Coefficient": -0.002,
+        "T-Value": "(0.141)",
+        "Significance": "Not Significant",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Firstbank"
+    },
+    {
+        "arid_id": 1636,
+        "arid": 9146672,
+        "Coefficient": -0.25,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 1642,
+        "arid": 9233031,
+        "Coefficient": -0.077,
+        "T-Value": "(0.386)",
+        "Significance": "Not Significant",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.03,
+        "T-Value": "(0.157)",
+        "Significance": "Not Significant",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1661,
+        "arid": 9504713,
+        "Coefficient": -0.282,
+        "T-Value": "(0.050)",
+        "Significance": "***",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": 0.046,
+        "T-Value": "(0.093)",
+        "Significance": "Not Significant",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -0.069,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1723,
+        "arid": 23635533,
+        "Coefficient": -0.557,
+        "T-Value": "(0.075)",
+        "Significance": "***",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Franklin Synergy Bank"
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": 0.598,
+        "T-Value": "(0.029)",
+        "Significance": "***",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1940,
+        "arid": 7232470039,
+        "Coefficient": -0.955,
+        "T-Value": "(0.148)",
+        "Significance": "***",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Cardinal Financial Company, Limited Partnership"
+    },
+    {
+        "arid_id": 1948,
+        "arid": 7260362771,
+        "Coefficient": -0.257,
+        "T-Value": "(0.099)",
+        "Significance": "**",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Planet Home Lending, LLC"
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": -0.048,
+        "T-Value": "(0.073)",
+        "Significance": "Not Significant",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": -0.339,
+        "T-Value": "(0.124)",
+        "Significance": "**",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2174,
+        "arid": 7742508160,
+        "Coefficient": 0.157,
+        "T-Value": "(0.129)",
+        "Significance": "Not Significant",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Swbc Mortgage Corporation"
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": -0.08,
+        "T-Value": "(0.076)",
+        "Significance": "Not Significant",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2370,
+        "arid": 77527300003,
+        "Coefficient": 0.371,
+        "T-Value": "(0.081)",
+        "Significance": "***",
+        "County": 47149,
+        "Zipcode": "37153",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

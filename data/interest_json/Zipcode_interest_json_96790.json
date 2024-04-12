@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 825,
+        "arid": 332489,
+        "Coefficient": 0.154,
+        "T-Value": "(0.496)",
+        "Significance": "Not Significant",
+        "County": 15009,
+        "Zipcode": "96790",
+        "Bank_Name": "Homestreet Bank"
+    },
+    {
+        "arid_id": 1456,
+        "arid": 1708384,
+        "Coefficient": -0.191,
+        "T-Value": "(0.429)",
+        "Significance": "Not Significant",
+        "County": 15009,
+        "Zipcode": "96790",
+        "Bank_Name": "American Savings Bank, FSB"
+    },
+    {
+        "arid_id": 1950,
+        "arid": 7260455770,
+        "Coefficient": 0.318,
+        "T-Value": "(0.150)",
+        "Significance": "*",
+        "County": 15009,
+        "Zipcode": "96790",
+        "Bank_Name": "Axia Financial, LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": -0.295,
+        "T-Value": "(0.207)",
+        "Significance": "Not Significant",
+        "County": 15009,
+        "Zipcode": "96790",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    }
+]

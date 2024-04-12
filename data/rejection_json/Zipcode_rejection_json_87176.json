@@ -1,0 +1,262 @@
+[
+    {
+        "arid_id": 194,
+        "arid": 5948,
+        "Coefficient": 0.061,
+        "T-Value": "(0.026)",
+        "Significance": "**",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Nusenda"
+    },
+    {
+        "arid_id": 1200,
+        "arid": 55851,
+        "Coefficient": -0.001,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Sandia Laboratory"
+    },
+    {
+        "arid_id": 2480,
+        "arid": 315219,
+        "Coefficient": -0.375,
+        "T-Value": "(0.262)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Dubuque Bank And Trust Company"
+    },
+    {
+        "arid_id": 4466,
+        "arid": 512199,
+        "Coefficient": -0.333,
+        "T-Value": "(0.203)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Kirtland Federal Credit Union"
+    },
+    {
+        "arid_id": 6238,
+        "arid": 1706809,
+        "Coefficient": 0.333,
+        "T-Value": "(0.255)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Colonial Savings, F.a."
+    },
+    {
+        "arid_id": 6901,
+        "arid": 9339858,
+        "Coefficient": 0.087,
+        "T-Value": "(0.023)",
+        "Significance": "***",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Bokf, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.037,
+        "T-Value": "(0.026)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.155,
+        "T-Value": "(0.151)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.04,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.671,
+        "T-Value": "(0.229)",
+        "Significance": "**",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": -0.2,
+        "T-Value": "(0.250)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 6949,
+        "arid": 9697633,
+        "Coefficient": 0.055,
+        "T-Value": "(0.093)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Bbva USA"
+    },
+    {
+        "arid_id": 6957,
+        "arid": 9804963,
+        "Coefficient": -0.019,
+        "T-Value": "(0.094)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Bank of the West"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.085,
+        "T-Value": "(0.140)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": -0.333,
+        "T-Value": "(0.298)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7753,
+        "arid": 7223039688,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 7775,
+        "arid": 7232769131,
+        "Coefficient": -0.154,
+        "T-Value": "(0.256)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.124,
+        "T-Value": "(0.047)",
+        "Significance": "**",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7864,
+        "arid": 7270019832,
+        "Coefficient": 0.009,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Legacy Mortgage LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.125,
+        "T-Value": "(0.164)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.025,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.195,
+        "T-Value": "(0.073)",
+        "Significance": "**",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.102,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.5,
+        "T-Value": "(0.244)",
+        "Significance": "*",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.133,
+        "T-Value": "(0.055)",
+        "Significance": "**",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8910,
+        "arid": 77257500009,
+        "Coefficient": -0.09,
+        "T-Value": "(0.092)",
+        "Significance": "Not Significant",
+        "County": 35001,
+        "Zipcode": "87176",
+        "Bank_Name": "Academy Mortgage Corporation"
+    }
+]

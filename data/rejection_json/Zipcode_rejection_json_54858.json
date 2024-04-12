@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 5488,
+        "arid": 566742,
+        "Coefficient": 0.364,
+        "T-Value": "(0.085)",
+        "Significance": "***",
+        "County": 55095,
+        "Zipcode": "54858",
+        "Bank_Name": "Westconsin Credit Union"
+    },
+    {
+        "arid_id": 5502,
+        "arid": 566834,
+        "Coefficient": 0.224,
+        "T-Value": "(0.073)",
+        "Significance": "**",
+        "County": 55095,
+        "Zipcode": "54858",
+        "Bank_Name": "Royal Credit Union"
+    }
+]

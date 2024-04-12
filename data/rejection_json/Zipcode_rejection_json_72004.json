@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5069,
+        "Zipcode": "72004",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5069,
+        "Zipcode": "72004",
+        "Bank_Name": "Bank of America, National Association"
+    }
+]

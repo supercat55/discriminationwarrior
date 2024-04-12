@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 281,
+        "arid": 14975,
+        "Coefficient": 0.41,
+        "T-Value": "(0.139)",
+        "Significance": "**",
+        "County": 55071,
+        "Zipcode": "54227",
+        "Bank_Name": "Bank First, N.A."
+    },
+    {
+        "arid_id": 5472,
+        "arid": 566642,
+        "Coefficient": 0.667,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 55071,
+        "Zipcode": "54227",
+        "Bank_Name": "Community First Credit Union"
+    },
+    {
+        "arid_id": 5551,
+        "arid": 567248,
+        "Coefficient": 0.137,
+        "T-Value": "(0.092)",
+        "Significance": "Not Significant",
+        "County": 55071,
+        "Zipcode": "54227",
+        "Bank_Name": "Unitedone Credit Union"
+    },
+    {
+        "arid_id": 5968,
+        "arid": 975633,
+        "Coefficient": 0.333,
+        "T-Value": "(0.081)",
+        "Significance": "***",
+        "County": 55071,
+        "Zipcode": "54227",
+        "Bank_Name": "Bmo Harris Bank National Association"
+    },
+    {
+        "arid_id": 6967,
+        "arid": 9917742,
+        "Coefficient": 0.192,
+        "T-Value": "(0.028)",
+        "Significance": "***",
+        "County": 55071,
+        "Zipcode": "54227",
+        "Bank_Name": "Associated Bank, National Association"
+    }
+]

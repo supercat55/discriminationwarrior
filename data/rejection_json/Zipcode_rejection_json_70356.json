@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 3730,
+        "arid": 334978,
+        "Coefficient": -0.5,
+        "T-Value": "(0.175)",
+        "Significance": "**",
+        "County": 22109,
+        "Zipcode": "70356",
+        "Bank_Name": "Synergy Bank"
+    },
+    {
+        "arid_id": 6882,
+        "arid": 9112837,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 22109,
+        "Zipcode": "70356",
+        "Bank_Name": "Capital One, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.5,
+        "T-Value": "(0.249)",
+        "Significance": "*",
+        "County": 22109,
+        "Zipcode": "70356",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.019,
+        "T-Value": "(0.114)",
+        "Significance": "Not Significant",
+        "County": 22109,
+        "Zipcode": "70356",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7390,
+        "arid": 3161686740,
+        "Coefficient": 0.021,
+        "T-Value": "(0.023)",
+        "Significance": "Not Significant",
+        "County": 22109,
+        "Zipcode": "70356",
+        "Bank_Name": "Crescent Mortgage Company"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.429,
+        "T-Value": "(0.077)",
+        "Significance": "***",
+        "County": 22109,
+        "Zipcode": "70356",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 22109,
+        "Zipcode": "70356",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8263,
+        "arid": 7621532940,
+        "Coefficient": 0.474,
+        "T-Value": "(0.261)",
+        "Significance": "Not Significant",
+        "County": 22109,
+        "Zipcode": "70356",
+        "Bank_Name": "Franklin American Mortgage CO."
+    }
+]

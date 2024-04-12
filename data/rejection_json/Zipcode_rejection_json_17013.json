@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 1249,
+        "arid": 56694,
+        "Coefficient": 0.129,
+        "T-Value": "(0.066)",
+        "Significance": "*",
+        "County": 42041,
+        "Zipcode": "17013",
+        "Bank_Name": "Members 1st Federal Credit Union"
+    },
+    {
+        "arid_id": 1966,
+        "arid": 124891,
+        "Coefficient": 0.061,
+        "T-Value": "(0.025)",
+        "Significance": "**",
+        "County": 42041,
+        "Zipcode": "17013",
+        "Bank_Name": "Fulton Bank, National Association"
+    },
+    {
+        "arid_id": 6535,
+        "arid": 2342410,
+        "Coefficient": 0.505,
+        "T-Value": "(0.256)",
+        "Significance": "*",
+        "County": 42041,
+        "Zipcode": "17013",
+        "Bank_Name": "Orrstown Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.118,
+        "T-Value": "(0.068)",
+        "Significance": "Not Significant",
+        "County": 42041,
+        "Zipcode": "17013",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6951,
+        "arid": 9722777,
+        "Coefficient": -0.5,
+        "T-Value": "(0.328)",
+        "Significance": "Not Significant",
+        "County": 42041,
+        "Zipcode": "17013",
+        "Bank_Name": "Santander Bank, N.A."
+    }
+]

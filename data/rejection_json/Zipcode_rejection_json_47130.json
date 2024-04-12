@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 5722,
+        "arid": 568287,
+        "Coefficient": 0.377,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18019,
+        "Zipcode": "47130",
+        "Bank_Name": "Centra Credit Union"
+    },
+    {
+        "arid_id": 6777,
+        "arid": 2785473,
+        "Coefficient": -0.888,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18019,
+        "Zipcode": "47130",
+        "Bank_Name": "First Savings Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.207,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18019,
+        "Zipcode": "47130",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.11,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18019,
+        "Zipcode": "47130",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.333,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18019,
+        "Zipcode": "47130",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.25,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18019,
+        "Zipcode": "47130",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.064,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18019,
+        "Zipcode": "47130",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18019,
+        "Zipcode": "47130",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

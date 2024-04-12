@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 1267,
+        "arid": 57000,
+        "Coefficient": 0.479,
+        "T-Value": "(0.014)",
+        "Significance": "***",
+        "County": 21093,
+        "Zipcode": "40177",
+        "Bank_Name": "Abound Federal Credit Union"
+    },
+    {
+        "arid_id": 3120,
+        "arid": 323627,
+        "Coefficient": 0.5,
+        "T-Value": "(0.258)",
+        "Significance": "*",
+        "County": 21093,
+        "Zipcode": "40177",
+        "Bank_Name": "Republic Bank & Trust Company"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.5,
+        "T-Value": "(0.138)",
+        "Significance": "***",
+        "County": 21093,
+        "Zipcode": "40177",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 25,
+        "arid": 551,
+        "Coefficient": 0.5,
+        "T-Value": "(0.119)",
+        "Significance": "***",
+        "County": 36091,
+        "Zipcode": "12828",
+        "Bank_Name": "State Employees Federal Credit Union"
+    },
+    {
+        "arid_id": 990,
+        "arid": 51884,
+        "Coefficient": -0.152,
+        "T-Value": "(0.155)",
+        "Significance": "Not Significant",
+        "County": 36091,
+        "Zipcode": "12828",
+        "Bank_Name": "Sunmark Federal Credit Union"
+    },
+    {
+        "arid_id": 1775,
+        "arid": 121530,
+        "Coefficient": 0.048,
+        "T-Value": "(0.048)",
+        "Significance": "Not Significant",
+        "County": 36091,
+        "Zipcode": "12828",
+        "Bank_Name": "Saratoga National Bank And Trust Company"
+    },
+    {
+        "arid_id": 6254,
+        "arid": 1707635,
+        "Coefficient": 0.075,
+        "T-Value": "(0.056)",
+        "Significance": "Not Significant",
+        "County": 36091,
+        "Zipcode": "12828",
+        "Bank_Name": "Trustco Bank"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 36091,
+        "Zipcode": "12828",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.123,
+        "T-Value": "(0.131)",
+        "Significance": "Not Significant",
+        "County": 36091,
+        "Zipcode": "12828",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7236,
+        "arid": 510940996,
+        "Coefficient": 0.058,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 36091,
+        "Zipcode": "12828",
+        "Bank_Name": "Sefcu Services, LLC"
+    },
+    {
+        "arid_id": 7563,
+        "arid": 5271365466,
+        "Coefficient": -0.011,
+        "T-Value": "(0.038)",
+        "Significance": "Not Significant",
+        "County": 36091,
+        "Zipcode": "12828",
+        "Bank_Name": "Ccfcu Funding, LLC"
+    },
+    {
+        "arid_id": 7622,
+        "arid": 7141770243,
+        "Coefficient": 0.003,
+        "T-Value": "(0.006)",
+        "Significance": "Not Significant",
+        "County": 36091,
+        "Zipcode": "12828",
+        "Bank_Name": "Homestead Funding CORP."
+    }
+]

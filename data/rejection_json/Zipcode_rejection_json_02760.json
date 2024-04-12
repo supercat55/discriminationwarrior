@@ -1,0 +1,182 @@
+[
+    {
+        "arid_id": 1872,
+        "arid": 124131,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Leader Bank, National Association"
+    },
+    {
+        "arid_id": 3118,
+        "arid": 323622,
+        "Coefficient": 0.005,
+        "T-Value": "(0.007)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Bristol County Savings Bank"
+    },
+    {
+        "arid_id": 4315,
+        "arid": 359070,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Harborone Bank"
+    },
+    {
+        "arid_id": 4333,
+        "arid": 390196,
+        "Coefficient": -0.075,
+        "T-Value": "(0.045)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Baycoast Bank"
+    },
+    {
+        "arid_id": 4350,
+        "arid": 390270,
+        "Coefficient": -0.448,
+        "T-Value": "(0.344)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Envision Bank"
+    },
+    {
+        "arid_id": 5558,
+        "arid": 567278,
+        "Coefficient": -0.101,
+        "T-Value": "(0.082)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Pawtucket"
+    },
+    {
+        "arid_id": 5607,
+        "arid": 567605,
+        "Coefficient": 0.085,
+        "T-Value": "(0.120)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "St. Anne's Credit Union of Fall River, Mass."
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": -0.333,
+        "T-Value": "(0.209)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.008,
+        "T-Value": "(0.109)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.179,
+        "T-Value": "(0.128)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6951,
+        "arid": 9722777,
+        "Coefficient": 0.198,
+        "T-Value": "(0.148)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 6953,
+        "arid": 9761806,
+        "Coefficient": -0.265,
+        "T-Value": "(0.066)",
+        "Significance": "***",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Webster Bank, National Association"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": 0.145,
+        "T-Value": "(0.128)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7239,
+        "arid": 710464609,
+        "Coefficient": -0.023,
+        "T-Value": "(0.046)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Residential Mortgage Services, INC."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.352,
+        "T-Value": "(0.092)",
+        "Significance": "***",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.103,
+        "T-Value": "(0.206)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02760",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

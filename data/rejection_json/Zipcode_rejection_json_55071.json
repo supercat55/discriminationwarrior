@@ -1,0 +1,182 @@
+[
+    {
+        "arid_id": 2911,
+        "arid": 319581,
+        "Coefficient": 0.006,
+        "T-Value": "(0.011)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Bell Bank"
+    },
+    {
+        "arid_id": 4838,
+        "arid": 524362,
+        "Coefficient": -0.353,
+        "T-Value": "(0.199)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Affinity Plus"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.029,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.09,
+        "T-Value": "(0.097)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.114,
+        "T-Value": "(0.054)",
+        "Significance": "*",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.161,
+        "T-Value": "(0.083)",
+        "Significance": "*",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6967,
+        "arid": 9917742,
+        "Coefficient": 0.437,
+        "T-Value": "(0.080)",
+        "Significance": "***",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Associated Bank, National Association"
+    },
+    {
+        "arid_id": 7431,
+        "arid": 3392001010,
+        "Coefficient": 0.5,
+        "T-Value": "(0.360)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Waterstone Mortgage Corporation"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.667,
+        "T-Value": "(0.200)",
+        "Significance": "**",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8040,
+        "arid": 7411592297,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Servion, INC."
+    },
+    {
+        "arid_id": 8042,
+        "arid": 7411726353,
+        "Coefficient": 0.5,
+        "T-Value": "(0.423)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Summit Mortgage Corporation"
+    },
+    {
+        "arid_id": 8047,
+        "arid": 7411925607,
+        "Coefficient": -0.001,
+        "T-Value": "(0.003)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Tradition Mortgage, LLC"
+    },
+    {
+        "arid_id": 8048,
+        "arid": 7411941324,
+        "Coefficient": 0.146,
+        "T-Value": "(0.050)",
+        "Significance": "**",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "American Mortgage & Equity Consultants, INC."
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": -0.023,
+        "T-Value": "(0.094)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.077,
+        "T-Value": "(0.074)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.143,
+        "T-Value": "(0.414)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.01,
+        "T-Value": "(0.015)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.155,
+        "T-Value": "(0.260)",
+        "Significance": "Not Significant",
+        "County": 27163,
+        "Zipcode": "55071",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

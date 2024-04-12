@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 661,
+        "arid": 35969,
+        "Coefficient": -0.571,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 39171,
+        "Zipcode": "43518",
+        "Bank_Name": "The Farmers & Merchants State Bank"
+    },
+    {
+        "arid_id": 6140,
+        "arid": 1704192,
+        "Coefficient": -0.109,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 39171,
+        "Zipcode": "43518",
+        "Bank_Name": "First Federal Bank of the Midwest"
+    },
+    {
+        "arid_id": 6666,
+        "arid": 2614313,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39171,
+        "Zipcode": "43518",
+        "Bank_Name": "The State Bank And Trust Company"
+    }
+]

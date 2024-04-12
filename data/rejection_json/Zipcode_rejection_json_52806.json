@@ -1,0 +1,102 @@
+[
+    {
+        "arid_id": 1899,
+        "arid": 124369,
+        "Coefficient": 0.015,
+        "T-Value": "(0.009)",
+        "Significance": "Not Significant",
+        "County": 19163,
+        "Zipcode": "52806",
+        "Bank_Name": "American Bank And Trust Company, National Association"
+    },
+    {
+        "arid_id": 4979,
+        "arid": 560269,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 19163,
+        "Zipcode": "52806",
+        "Bank_Name": "Greenstate Credit Union"
+    },
+    {
+        "arid_id": 4983,
+        "arid": 560337,
+        "Coefficient": 0.128,
+        "T-Value": "(0.045)",
+        "Significance": "**",
+        "County": 19163,
+        "Zipcode": "52806",
+        "Bank_Name": "I. H. Mississippi Valley Credit Union"
+    },
+    {
+        "arid_id": 5076,
+        "arid": 561093,
+        "Coefficient": 0.178,
+        "T-Value": "(0.062)",
+        "Significance": "**",
+        "County": 19163,
+        "Zipcode": "52806",
+        "Bank_Name": "Vibrant Credit Union"
+    },
+    {
+        "arid_id": 5273,
+        "arid": 563268,
+        "Coefficient": 0.004,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 19163,
+        "Zipcode": "52806",
+        "Bank_Name": "Ascentra"
+    },
+    {
+        "arid_id": 5867,
+        "arid": 568598,
+        "Coefficient": 0.05,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 19163,
+        "Zipcode": "52806",
+        "Bank_Name": "Deere Employees Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.142,
+        "T-Value": "(0.014)",
+        "Significance": "***",
+        "County": 19163,
+        "Zipcode": "52806",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.497,
+        "T-Value": "(0.049)",
+        "Significance": "***",
+        "County": 19163,
+        "Zipcode": "52806",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 7985,
+        "arid": 7363987946,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 19163,
+        "Zipcode": "52806",
+        "Bank_Name": "Perl Mortgage"
+    },
+    {
+        "arid_id": 8443,
+        "arid": 7800801750,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 19163,
+        "Zipcode": "52806",
+        "Bank_Name": "Ruhl Mortgage, LLC"
+    }
+]

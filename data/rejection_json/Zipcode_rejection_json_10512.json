@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.023,
+        "T-Value": "(0.028)",
+        "Significance": "Not Significant",
+        "County": 36079,
+        "Zipcode": "10512",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.333,
+        "T-Value": "(0.192)",
+        "Significance": "Not Significant",
+        "County": 36079,
+        "Zipcode": "10512",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.3,
+        "T-Value": "(0.139)",
+        "Significance": "*",
+        "County": 36079,
+        "Zipcode": "10512",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

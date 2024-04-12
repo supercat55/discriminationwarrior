@@ -1,0 +1,422 @@
+[
+    {
+        "arid_id": 187,
+        "arid": 5861,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Mcgraw Hill Federal Credit Union"
+    },
+    {
+        "arid_id": 2562,
+        "arid": 315912,
+        "Coefficient": 0.032,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Savings Bank of Danbury"
+    },
+    {
+        "arid_id": 2575,
+        "arid": 316026,
+        "Coefficient": -0.149,
+        "T-Value": "(0.130)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Ridgewood Savings Bank"
+    },
+    {
+        "arid_id": 2782,
+        "arid": 317943,
+        "Coefficient": 0.014,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Liberty Bank"
+    },
+    {
+        "arid_id": 2808,
+        "arid": 318190,
+        "Coefficient": -0.013,
+        "T-Value": "(0.011)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Union Savings Bank"
+    },
+    {
+        "arid_id": 2811,
+        "arid": 318199,
+        "Coefficient": -0.035,
+        "T-Value": "(0.019)",
+        "Significance": "*",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Newtown Savings Bank"
+    },
+    {
+        "arid_id": 2813,
+        "arid": 318203,
+        "Coefficient": 0.004,
+        "T-Value": "(0.032)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "United Bank"
+    },
+    {
+        "arid_id": 2814,
+        "arid": 318204,
+        "Coefficient": 0.09,
+        "T-Value": "(0.098)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "First County Bank"
+    },
+    {
+        "arid_id": 2816,
+        "arid": 318213,
+        "Coefficient": -0.13,
+        "T-Value": "(0.072)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Fairfield County Bank"
+    },
+    {
+        "arid_id": 5795,
+        "arid": 568453,
+        "Coefficient": 0.5,
+        "T-Value": "(0.352)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Sikorsky Financial"
+    },
+    {
+        "arid_id": 6909,
+        "arid": 9413208,
+        "Coefficient": -0.151,
+        "T-Value": "(0.170)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Hsbc Bank USA, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.007,
+        "T-Value": "(0.017)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.018,
+        "T-Value": "(0.032)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.023,
+        "T-Value": "(0.038)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": 0.014,
+        "T-Value": "(0.104)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6920,
+        "arid": 9501105,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Manufacturers And Traders Trust Company"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.163,
+        "T-Value": "(0.088)",
+        "Significance": "*",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6937,
+        "arid": 9613307,
+        "Coefficient": 0.058,
+        "T-Value": "(0.023)",
+        "Significance": "**",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "People's United Bank, National Association"
+    },
+    {
+        "arid_id": 6951,
+        "arid": 9722777,
+        "Coefficient": -0.247,
+        "T-Value": "(0.178)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 6953,
+        "arid": 9761806,
+        "Coefficient": -0.105,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Webster Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.17,
+        "T-Value": "(0.275)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.016,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": 0.014,
+        "T-Value": "(0.028)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7203,
+        "arid": 92489805,
+        "Coefficient": 0.091,
+        "T-Value": "(0.143)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Morgan Stanley Private Bank, National Association"
+    },
+    {
+        "arid_id": 7208,
+        "arid": 92735146,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 7219,
+        "arid": 93212149,
+        "Coefficient": 0.018,
+        "T-Value": "(0.029)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Ubs Bank USA"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": 0.1,
+        "T-Value": "(0.152)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7228,
+        "arid": 94114567,
+        "Coefficient": 0.014,
+        "T-Value": "(0.037)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "First Republic Bank"
+    },
+    {
+        "arid_id": 7288,
+        "arid": 761297784,
+        "Coefficient": 0.036,
+        "T-Value": "(0.049)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "William Raveis Mortgage, LLC"
+    },
+    {
+        "arid_id": 7290,
+        "arid": 761484285,
+        "Coefficient": 0.018,
+        "T-Value": "(0.040)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Total Mortgage Services, LLC"
+    },
+    {
+        "arid_id": 7612,
+        "arid": 7133670961,
+        "Coefficient": 0.048,
+        "T-Value": "(0.142)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Guardhill Financial CORP."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.039,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.103,
+        "T-Value": "(0.141)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8046,
+        "arid": 7411914032,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Homeservices Lending, LLC"
+    },
+    {
+        "arid_id": 8263,
+        "arid": 7621532940,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.357,
+        "T-Value": "(0.128)",
+        "Significance": "**",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8577,
+        "arid": 9133222578,
+        "Coefficient": 0.19,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Citimortgage, INC."
+    },
+    {
+        "arid_id": 8757,
+        "arid": 71099800006,
+        "Coefficient": 0.079,
+        "T-Value": "(0.095)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Luxury Mortgage CORP."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.06,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8914,
+        "arid": 77275700004,
+        "Coefficient": 0.102,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "TBI Mortgage Company"
+    },
+    {
+        "arid_id": 8966,
+        "arid": 77810600004,
+        "Coefficient": 0.821,
+        "T-Value": "(0.177)",
+        "Significance": "***",
+        "County": 9001,
+        "Zipcode": "06804",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 945,
+        "arid": 51303,
+        "Coefficient": 0.81,
+        "T-Value": "(0.073)",
+        "Significance": "***",
+        "County": 12113,
+        "Zipcode": "32561",
+        "Bank_Name": "Pen Air Federal Credit Union"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.426,
+        "T-Value": "(0.195)",
+        "Significance": "*",
+        "County": 12113,
+        "Zipcode": "32561",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.078,
+        "T-Value": "(0.061)",
+        "Significance": "Not Significant",
+        "County": 12113,
+        "Zipcode": "32561",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6938,
+        "arid": 9617677,
+        "Coefficient": 0.232,
+        "T-Value": "(0.306)",
+        "Significance": "Not Significant",
+        "County": 12113,
+        "Zipcode": "32561",
+        "Bank_Name": "Navy Federal Credit Union"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": 0.5,
+        "T-Value": "(0.258)",
+        "Significance": "*",
+        "County": 12113,
+        "Zipcode": "32561",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.571,
+        "T-Value": "(0.150)",
+        "Significance": "***",
+        "County": 12113,
+        "Zipcode": "32561",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.885,
+        "T-Value": "(0.013)",
+        "Significance": "***",
+        "County": 12113,
+        "Zipcode": "32561",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 12113,
+        "Zipcode": "32561",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 2.0,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 12113,
+        "Zipcode": "32561",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

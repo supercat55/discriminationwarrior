@@ -1,0 +1,552 @@
+[
+    {
+        "arid_id": 3337,
+        "arid": 328489,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Banner Bank"
+    },
+    {
+        "arid_id": 3516,
+        "arid": 332489,
+        "Coefficient": 0.008,
+        "T-Value": "(0.012)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Homestreet Bank"
+    },
+    {
+        "arid_id": 3740,
+        "arid": 335014,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Nbkc Bank"
+    },
+    {
+        "arid_id": 3963,
+        "arid": 357633,
+        "Coefficient": 0.018,
+        "T-Value": "(0.037)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "1st Security Bank of Washington"
+    },
+    {
+        "arid_id": 4709,
+        "arid": 519976,
+        "Coefficient": 0.01,
+        "T-Value": "(0.014)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "First Technology"
+    },
+    {
+        "arid_id": 6885,
+        "arid": 9143662,
+        "Coefficient": -0.022,
+        "T-Value": "(0.095)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Umpqua Bank"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": 0.013,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6891,
+        "arid": 9212465,
+        "Coefficient": 0.014,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Mufg Union Bank, National Association"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": 0.072,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 6909,
+        "arid": 9413208,
+        "Coefficient": 1.905,
+        "T-Value": "(0.389)",
+        "Significance": "***",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Hsbc Bank USA, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.028,
+        "T-Value": "(0.010)",
+        "Significance": "**",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.324,
+        "T-Value": "(0.123)",
+        "Significance": "**",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.029,
+        "T-Value": "(0.013)",
+        "Significance": "*",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.122,
+        "T-Value": "(0.015)",
+        "Significance": "***",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6940,
+        "arid": 9656377,
+        "Coefficient": 0.07,
+        "T-Value": "(0.046)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Washington Federal Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": -0.099,
+        "T-Value": "(0.206)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.032,
+        "T-Value": "(0.014)",
+        "Significance": "*",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6966,
+        "arid": 9915878,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Third Federal Savings And Loan Association of Cleveland"
+    },
+    {
+        "arid_id": 6974,
+        "arid": 9972590,
+        "Coefficient": 0.057,
+        "T-Value": "(0.015)",
+        "Significance": "***",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Boeing Employees Credit Union"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": 0.5,
+        "T-Value": "(0.344)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7203,
+        "arid": 92489805,
+        "Coefficient": 0.002,
+        "T-Value": "(0.144)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Morgan Stanley Private Bank, National Association"
+    },
+    {
+        "arid_id": 7208,
+        "arid": 92735146,
+        "Coefficient": 0.034,
+        "T-Value": "(0.099)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 7219,
+        "arid": 93212149,
+        "Coefficient": 0.553,
+        "T-Value": "(0.365)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Ubs Bank USA"
+    },
+    {
+        "arid_id": 7247,
+        "arid": 720486480,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Lendus, LLC"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": 0.021,
+        "T-Value": "(0.014)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7775,
+        "arid": 7232769131,
+        "Coefficient": 0.315,
+        "T-Value": "(0.155)",
+        "Significance": "*",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    },
+    {
+        "arid_id": 7791,
+        "arid": 7260360466,
+        "Coefficient": 0.088,
+        "T-Value": "(0.084)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Bay Equity LLC"
+    },
+    {
+        "arid_id": 7796,
+        "arid": 7260455770,
+        "Coefficient": 0.435,
+        "T-Value": "(0.089)",
+        "Significance": "***",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Axia Financial, LLC"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": -0.019,
+        "T-Value": "(0.042)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.009,
+        "T-Value": "(0.027)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": -0.007,
+        "T-Value": "(0.061)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.119,
+        "T-Value": "(0.031)",
+        "Significance": "***",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": -0.5,
+        "T-Value": "(0.242)",
+        "Significance": "*",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": -0.056,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8134,
+        "arid": 7470873092,
+        "Coefficient": -0.2,
+        "T-Value": "(0.180)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Network Capital Funding Corporation"
+    },
+    {
+        "arid_id": 8136,
+        "arid": 7470912342,
+        "Coefficient": -0.5,
+        "T-Value": "(0.147)",
+        "Significance": "***",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Loanpal, LLC"
+    },
+    {
+        "arid_id": 8137,
+        "arid": 7470933090,
+        "Coefficient": 0.032,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Penrith Home Loans LLC"
+    },
+    {
+        "arid_id": 8139,
+        "arid": 7471809999,
+        "Coefficient": 0.019,
+        "T-Value": "(0.024)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Guild Mortgage Company"
+    },
+    {
+        "arid_id": 8165,
+        "arid": 7510517525,
+        "Coefficient": 0.15,
+        "T-Value": "(0.104)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "On Q Financial, INC."
+    },
+    {
+        "arid_id": 8198,
+        "arid": 7542070914,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Emm Loans LLC"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.14,
+        "T-Value": "(0.087)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8216,
+        "arid": 7562237729,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Wyndham Capital Mortgage, INC."
+    },
+    {
+        "arid_id": 8263,
+        "arid": 7621532940,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.126,
+        "T-Value": "(0.074)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8407,
+        "arid": 7760236067,
+        "Coefficient": -0.008,
+        "T-Value": "(0.018)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Cornerstone Home Lending, INC."
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 0.002,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8516,
+        "arid": 7911374387,
+        "Coefficient": 0.011,
+        "T-Value": "(0.022)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Evergreen Moneysource Mortgage Company"
+    },
+    {
+        "arid_id": 8519,
+        "arid": 7911465333,
+        "Coefficient": 0.07,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Westwood Mortgage, INC."
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.07,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": -0.002,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.063,
+        "T-Value": "(0.032)",
+        "Significance": "*",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8910,
+        "arid": 77257500009,
+        "Coefficient": -0.088,
+        "T-Value": "(0.086)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Academy Mortgage Corporation"
+    },
+    {
+        "arid_id": 8914,
+        "arid": 77275700004,
+        "Coefficient": 0.02,
+        "T-Value": "(0.049)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "TBI Mortgage Company"
+    },
+    {
+        "arid_id": 8966,
+        "arid": 77810600004,
+        "Coefficient": 0.035,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    },
+    {
+        "arid_id": 8987,
+        "arid": 77992700007,
+        "Coefficient": 0.042,
+        "T-Value": "(0.034)",
+        "Significance": "Not Significant",
+        "County": 53033,
+        "Zipcode": "98010",
+        "Bank_Name": "American Pacific Mortgage Corporation"
+    }
+]

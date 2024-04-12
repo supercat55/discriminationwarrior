@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1994,
+        "arid": 212946,
+        "Coefficient": 0.667,
+        "T-Value": "(0.198)",
+        "Significance": "***",
+        "County": 5057,
+        "Zipcode": "71801",
+        "Bank_Name": "Farmers Bank & Trust Company"
+    },
+    {
+        "arid_id": 6936,
+        "arid": 9606046,
+        "Coefficient": 0.0,
+        "T-Value": "(0.096)",
+        "Significance": "Not Significant",
+        "County": 5057,
+        "Zipcode": "71801",
+        "Bank_Name": "Bancorpsouth Bank"
+    }
+]

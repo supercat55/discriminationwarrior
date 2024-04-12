@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 1152,
+        "arid": 55029,
+        "Coefficient": 0.706,
+        "T-Value": "(0.032)",
+        "Significance": "***",
+        "County": 48037,
+        "Zipcode": "75559",
+        "Bank_Name": "Red River Employees"
+    },
+    {
+        "arid_id": 1974,
+        "arid": 125053,
+        "Coefficient": 0.468,
+        "T-Value": "(0.206)",
+        "Significance": "*",
+        "County": 48037,
+        "Zipcode": "75559",
+        "Bank_Name": "Guaranty Bank & Trust, N.A."
+    },
+    {
+        "arid_id": 4881,
+        "arid": 524567,
+        "Coefficient": -0.14,
+        "T-Value": "(0.179)",
+        "Significance": "Not Significant",
+        "County": 48037,
+        "Zipcode": "75559",
+        "Bank_Name": "Texar"
+    },
+    {
+        "arid_id": 6882,
+        "arid": 9112837,
+        "Coefficient": 0.172,
+        "T-Value": "(0.233)",
+        "Significance": "Not Significant",
+        "County": 48037,
+        "Zipcode": "75559",
+        "Bank_Name": "Capital One, National Association"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.366,
+        "T-Value": "(0.192)",
+        "Significance": "*",
+        "County": 48037,
+        "Zipcode": "75559",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48037,
+        "Zipcode": "75559",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6936,
+        "arid": 9606046,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48037,
+        "Zipcode": "75559",
+        "Bank_Name": "Bancorpsouth Bank"
+    },
+    {
+        "arid_id": 7737,
+        "arid": 7208745846,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48037,
+        "Zipcode": "75559",
+        "Bank_Name": "Carrington Mortgage Services, LLC"
+    }
+]

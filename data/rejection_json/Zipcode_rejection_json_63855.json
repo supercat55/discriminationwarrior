@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 2714,
+        "arid": 317323,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 29069,
+        "Zipcode": "63855",
+        "Bank_Name": "First State Community Bank"
+    },
+    {
+        "arid_id": 6499,
+        "arid": 2272272,
+        "Coefficient": -0.414,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 29069,
+        "Zipcode": "63855",
+        "Bank_Name": "Southern Bank"
+    }
+]

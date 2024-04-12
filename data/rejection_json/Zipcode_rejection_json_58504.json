@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 3065,
+        "arid": 322559,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 38015,
+        "Zipcode": "58504",
+        "Bank_Name": "American Bank Center"
+    },
+    {
+        "arid_id": 3564,
+        "arid": 333758,
+        "Coefficient": 0.032,
+        "T-Value": "(0.023)",
+        "Significance": "Not Significant",
+        "County": 38015,
+        "Zipcode": "58504",
+        "Bank_Name": "Starion Bank"
+    },
+    {
+        "arid_id": 5122,
+        "arid": 561637,
+        "Coefficient": 0.036,
+        "T-Value": "(0.006)",
+        "Significance": "***",
+        "County": 38015,
+        "Zipcode": "58504",
+        "Bank_Name": "Capital Credit Union"
+    },
+    {
+        "arid_id": 5980,
+        "arid": 1700257,
+        "Coefficient": -0.01,
+        "T-Value": "(0.004)",
+        "Significance": "**",
+        "County": 38015,
+        "Zipcode": "58504",
+        "Bank_Name": "Gate City Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.008,
+        "T-Value": "(0.014)",
+        "Significance": "Not Significant",
+        "County": 38015,
+        "Zipcode": "58504",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

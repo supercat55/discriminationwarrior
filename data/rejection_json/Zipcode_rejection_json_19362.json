@@ -1,0 +1,192 @@
+[
+    {
+        "arid_id": 1005,
+        "arid": 52099,
+        "Coefficient": 0.018,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Citadel Federal Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.036,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.309,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.214,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": -0.055,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6951,
+        "arid": 9722777,
+        "Coefficient": 0.157,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.254,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.106,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7208,
+        "arid": 92735146,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": -0.08,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7642,
+        "arid": 7200378305,
+        "Coefficient": 0.04,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Trident Mortgage Company LP"
+    },
+    {
+        "arid_id": 7854,
+        "arid": 7264221599,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Mde Home Loans, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.05,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": -0.014,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8198,
+        "arid": 7542070914,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Emm Loans LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.048,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": -0.01,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42029,
+        "Zipcode": "19362",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

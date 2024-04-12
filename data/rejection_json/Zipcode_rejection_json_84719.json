@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 2786,
+        "arid": 317964,
+        "Coefficient": 0.392,
+        "T-Value": "(0.085)",
+        "Significance": "***",
+        "County": 49021,
+        "Zipcode": "84719",
+        "Bank_Name": "State Bank of Southern Utah"
+    },
+    {
+        "arid_id": 4898,
+        "arid": 524692,
+        "Coefficient": -0.054,
+        "T-Value": "(0.088)",
+        "Significance": "Not Significant",
+        "County": 49021,
+        "Zipcode": "84719",
+        "Bank_Name": "Mountain America"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.5,
+        "T-Value": "(0.101)",
+        "Significance": "***",
+        "County": 49021,
+        "Zipcode": "84719",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

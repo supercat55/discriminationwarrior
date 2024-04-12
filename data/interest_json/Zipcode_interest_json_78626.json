@@ -1,0 +1,272 @@
+[
+    {
+        "arid_id": 138,
+        "arid": 34239,
+        "Coefficient": -0.075,
+        "T-Value": "(0.042)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "First United Bank And Trust Company"
+    },
+    {
+        "arid_id": 1588,
+        "arid": 2667757,
+        "Coefficient": 0.477,
+        "T-Value": "(0.077)",
+        "Significance": "***",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Origin Bank"
+    },
+    {
+        "arid_id": 1648,
+        "arid": 9339858,
+        "Coefficient": 0.607,
+        "T-Value": "(0.069)",
+        "Significance": "***",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Bokf, National Association"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.022,
+        "T-Value": "(0.031)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1669,
+        "arid": 9606046,
+        "Coefficient": -0.519,
+        "T-Value": "(0.081)",
+        "Significance": "***",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Bancorpsouth Bank"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": 0.007,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.016,
+        "T-Value": "(0.019)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1713,
+        "arid": 22888798,
+        "Coefficient": -0.053,
+        "T-Value": "(0.029)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 1760,
+        "arid": 710726495,
+        "Coefficient": -0.297,
+        "T-Value": "(0.085)",
+        "Significance": "***",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Broker Solutions, INC."
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": 0.116,
+        "T-Value": "(0.052)",
+        "Significance": "*",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1906,
+        "arid": 7205113139,
+        "Coefficient": -0.488,
+        "T-Value": "(0.107)",
+        "Significance": "***",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Cornerstone Mortgage Partners of Texas, L.P."
+    },
+    {
+        "arid_id": 1929,
+        "arid": 7223039688,
+        "Coefficient": 0.054,
+        "T-Value": "(0.105)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": 0.141,
+        "T-Value": "(0.047)",
+        "Significance": "**",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2021,
+        "arid": 7330941669,
+        "Coefficient": -0.583,
+        "T-Value": "(0.112)",
+        "Significance": "***",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Plaza Home Mortgage, INC."
+    },
+    {
+        "arid_id": 2028,
+        "arid": 7341716542,
+        "Coefficient": -0.131,
+        "T-Value": "(0.075)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Mid America Mortgage, INC."
+    },
+    {
+        "arid_id": 2039,
+        "arid": 7364327855,
+        "Coefficient": 0.13,
+        "T-Value": "(0.045)",
+        "Significance": "**",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.069,
+        "T-Value": "(0.087)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2071,
+        "arid": 7421554181,
+        "Coefficient": -0.058,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 2160,
+        "arid": 7680309242,
+        "Coefficient": -0.177,
+        "T-Value": "(0.094)",
+        "Significance": "*",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Cmg Mortgage, INC."
+    },
+    {
+        "arid_id": 2172,
+        "arid": 7731577221,
+        "Coefficient": -0.166,
+        "T-Value": "(0.181)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Gateway First Bank"
+    },
+    {
+        "arid_id": 2187,
+        "arid": 7752921540,
+        "Coefficient": -0.189,
+        "T-Value": "(0.108)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 2189,
+        "arid": 7760236067,
+        "Coefficient": -0.098,
+        "T-Value": "(0.035)",
+        "Significance": "**",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Cornerstone Home Lending, INC."
+    },
+    {
+        "arid_id": 2192,
+        "arid": 7760503625,
+        "Coefficient": -0.097,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 2311,
+        "arid": 71635900004,
+        "Coefficient": -0.031,
+        "T-Value": "(0.129)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Envoy Mortgage, Ltd"
+    },
+    {
+        "arid_id": 2323,
+        "arid": 72149009991,
+        "Coefficient": -0.367,
+        "T-Value": "(0.064)",
+        "Significance": "***",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.037,
+        "T-Value": "(0.029)",
+        "Significance": "Not Significant",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2388,
+        "arid": 77810600004,
+        "Coefficient": -0.134,
+        "T-Value": "(0.025)",
+        "Significance": "***",
+        "County": 48491,
+        "Zipcode": "78626",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    }
+]

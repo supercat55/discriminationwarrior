@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 2765,
+        "arid": 317841,
+        "Coefficient": -0.176,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 22113,
+        "Zipcode": "70533",
+        "Bank_Name": "Vermilion Bank & Trust Company"
+    },
+    {
+        "arid_id": 2967,
+        "arid": 320353,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 22113,
+        "Zipcode": "70533",
+        "Bank_Name": "Gulf Coast Bank"
+    },
+    {
+        "arid_id": 3448,
+        "arid": 330332,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 22113,
+        "Zipcode": "70533",
+        "Bank_Name": "Abbeville Building & Loan (a State-chartered Savings Bank)"
+    }
+]

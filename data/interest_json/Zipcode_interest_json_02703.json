@@ -1,0 +1,212 @@
+[
+    {
+        "arid_id": 917,
+        "arid": 390270,
+        "Coefficient": 0.045,
+        "T-Value": "(0.122)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Envision Bank"
+    },
+    {
+        "arid_id": 1636,
+        "arid": 9146672,
+        "Coefficient": -0.476,
+        "T-Value": "(0.055)",
+        "Significance": "***",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.044,
+        "T-Value": "(0.043)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1680,
+        "arid": 9722777,
+        "Coefficient": 0.238,
+        "T-Value": "(0.160)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -0.007,
+        "T-Value": "(0.023)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1749,
+        "arid": 93303298,
+        "Coefficient": 0.247,
+        "T-Value": "(0.105)",
+        "Significance": "**",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 1755,
+        "arid": 342802284,
+        "Coefficient": 0.057,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Harborone Mortgage, LLC"
+    },
+    {
+        "arid_id": 1758,
+        "arid": 710464609,
+        "Coefficient": 0.15,
+        "T-Value": "(0.032)",
+        "Significance": "***",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Residential Mortgage Services, INC."
+    },
+    {
+        "arid_id": 1775,
+        "arid": 750402708,
+        "Coefficient": -0.083,
+        "T-Value": "(0.048)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Embrace Home Loans, INC."
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": -0.213,
+        "T-Value": "(0.034)",
+        "Significance": "***",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": -0.155,
+        "T-Value": "(0.068)",
+        "Significance": "*",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2039,
+        "arid": 7364327855,
+        "Coefficient": 0.219,
+        "T-Value": "(0.212)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.088,
+        "T-Value": "(0.019)",
+        "Significance": "***",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": -0.498,
+        "T-Value": "(0.187)",
+        "Significance": "**",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2192,
+        "arid": 7760503625,
+        "Coefficient": -0.189,
+        "T-Value": "(0.192)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 2311,
+        "arid": 71635900004,
+        "Coefficient": 0.24,
+        "T-Value": "(0.241)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Envoy Mortgage, Ltd"
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.049,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2365,
+        "arid": 77442300004,
+        "Coefficient": 0.141,
+        "T-Value": "(0.051)",
+        "Significance": "**",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "First Home Mortgage Corporation"
+    },
+    {
+        "arid_id": 2367,
+        "arid": 77505400005,
+        "Coefficient": 0.196,
+        "T-Value": "(0.149)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Stearns Lending, LLC"
+    },
+    {
+        "arid_id": 2388,
+        "arid": 77810600004,
+        "Coefficient": 0.027,
+        "T-Value": "(0.099)",
+        "Significance": "Not Significant",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    },
+    {
+        "arid_id": 2389,
+        "arid": 77811300008,
+        "Coefficient": -0.335,
+        "T-Value": "(0.047)",
+        "Significance": "***",
+        "County": 25005,
+        "Zipcode": "02703",
+        "Bank_Name": "Homebridge Financial Services, INC."
+    }
+]

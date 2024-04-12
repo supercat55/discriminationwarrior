@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.069,
+        "T-Value": "(0.017)",
+        "Significance": "***",
+        "County": 37109,
+        "Zipcode": "28037",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": -0.4,
+        "T-Value": "(0.149)",
+        "Significance": "**",
+        "County": 37109,
+        "Zipcode": "28037",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.571,
+        "T-Value": "(0.150)",
+        "Significance": "***",
+        "County": 37109,
+        "Zipcode": "28037",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37109,
+        "Zipcode": "28037",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37109,
+        "Zipcode": "28037",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    }
+]

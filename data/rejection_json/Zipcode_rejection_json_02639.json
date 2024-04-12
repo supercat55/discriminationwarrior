@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 889,
+        "arid": 39712,
+        "Coefficient": -0.03,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 25001,
+        "Zipcode": "02639",
+        "Bank_Name": "Rockland Trust Company"
+    },
+    {
+        "arid_id": 3102,
+        "arid": 323287,
+        "Coefficient": 0.037,
+        "T-Value": "(0.021)",
+        "Significance": "Not Significant",
+        "County": 25001,
+        "Zipcode": "02639",
+        "Bank_Name": "The Cape Cod Five Cents Savings Bank"
+    },
+    {
+        "arid_id": 3194,
+        "arid": 326517,
+        "Coefficient": 0.021,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 25001,
+        "Zipcode": "02639",
+        "Bank_Name": "Cape Cod Co-operative Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.271,
+        "T-Value": "(0.060)",
+        "Significance": "***",
+        "County": 25001,
+        "Zipcode": "02639",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": -0.219,
+        "T-Value": "(0.064)",
+        "Significance": "***",
+        "County": 25001,
+        "Zipcode": "02639",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.511,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 25001,
+        "Zipcode": "02639",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 25001,
+        "Zipcode": "02639",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.486,
+        "T-Value": "(0.089)",
+        "Significance": "***",
+        "County": 25001,
+        "Zipcode": "02639",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

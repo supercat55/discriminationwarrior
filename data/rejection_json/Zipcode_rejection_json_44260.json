@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.063,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 39133,
+        "Zipcode": "44260",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 39133,
+        "Zipcode": "44260",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39133,
+        "Zipcode": "44260",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 1.002,
+        "T-Value": "(0.040)",
+        "Significance": "***",
+        "County": 39133,
+        "Zipcode": "44260",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6966,
+        "arid": 9915878,
+        "Coefficient": -0.2,
+        "T-Value": "(0.058)",
+        "Significance": "***",
+        "County": 39133,
+        "Zipcode": "44260",
+        "Bank_Name": "Third Federal Savings And Loan Association of Cleveland"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39133,
+        "Zipcode": "44260",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8984,
+        "arid": 77929000008,
+        "Coefficient": -0.028,
+        "T-Value": "(0.048)",
+        "Significance": "Not Significant",
+        "County": 39133,
+        "Zipcode": "44260",
+        "Bank_Name": "Home Mortgage Assured Corporation"
+    }
+]

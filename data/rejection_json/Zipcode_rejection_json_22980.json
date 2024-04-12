@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 5200,
+        "arid": 562474,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51820,
+        "Zipcode": "22980",
+        "Bank_Name": "Dupont Community"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51820,
+        "Zipcode": "22980",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 198,
+        "arid": 11027,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36117,
+        "Zipcode": "14522",
+        "Bank_Name": "The Lyons National Bank"
+    },
+    {
+        "arid_id": 4718,
+        "arid": 520258,
+        "Coefficient": 0.163,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 36117,
+        "Zipcode": "14522",
+        "Bank_Name": "Reliant Community Federal Credit Union"
+    },
+    {
+        "arid_id": 4879,
+        "arid": 524563,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36117,
+        "Zipcode": "14522",
+        "Bank_Name": "Esl Federal Credit Union"
+    }
+]

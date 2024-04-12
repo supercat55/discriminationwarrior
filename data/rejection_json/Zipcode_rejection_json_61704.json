@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 1469,
+        "arid": 111443,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17113,
+        "Zipcode": "61704",
+        "Bank_Name": "Inb, National Association"
+    },
+    {
+        "arid_id": 2624,
+        "arid": 316450,
+        "Coefficient": 0.117,
+        "T-Value": "(0.028)",
+        "Significance": "***",
+        "County": 17113,
+        "Zipcode": "61704",
+        "Bank_Name": "Busey Bank"
+    },
+    {
+        "arid_id": 2963,
+        "arid": 320250,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17113,
+        "Zipcode": "61704",
+        "Bank_Name": "Marine Bank"
+    },
+    {
+        "arid_id": 2969,
+        "arid": 320369,
+        "Coefficient": 0.098,
+        "T-Value": "(0.052)",
+        "Significance": "*",
+        "County": 17113,
+        "Zipcode": "61704",
+        "Bank_Name": "Heartland Bank And Trust Company"
+    },
+    {
+        "arid_id": 5791,
+        "arid": 568448,
+        "Coefficient": -0.601,
+        "T-Value": "(0.065)",
+        "Significance": "***",
+        "County": 17113,
+        "Zipcode": "61704",
+        "Bank_Name": "Citizens Equity First"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.072,
+        "T-Value": "(0.035)",
+        "Significance": "*",
+        "County": 17113,
+        "Zipcode": "61704",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.137,
+        "T-Value": "(0.058)",
+        "Significance": "**",
+        "County": 17113,
+        "Zipcode": "61704",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 7205,
+        "arid": 92590037,
+        "Coefficient": 0.123,
+        "T-Value": "(0.046)",
+        "Significance": "**",
+        "County": 17113,
+        "Zipcode": "61704",
+        "Bank_Name": "State Farm Bank, F.S.B."
+    },
+    {
+        "arid_id": 7433,
+        "arid": 3412181683,
+        "Coefficient": 0.008,
+        "T-Value": "(0.012)",
+        "Significance": "Not Significant",
+        "County": 17113,
+        "Zipcode": "61704",
+        "Bank_Name": "First State Mortgage Services, LLC"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 138,
+        "arid": 34239,
+        "Coefficient": 0.42,
+        "T-Value": "(0.220)",
+        "Significance": "Not Significant",
+        "County": 48367,
+        "Zipcode": "76066",
+        "Bank_Name": "First United Bank And Trust Company"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.427,
+        "T-Value": "(0.055)",
+        "Significance": "***",
+        "County": 48367,
+        "Zipcode": "76066",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1713,
+        "arid": 22888798,
+        "Coefficient": 0.112,
+        "T-Value": "(0.106)",
+        "Significance": "Not Significant",
+        "County": 48367,
+        "Zipcode": "76066",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    }
+]

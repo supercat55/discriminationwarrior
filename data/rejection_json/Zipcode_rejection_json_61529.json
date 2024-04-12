@@ -1,0 +1,102 @@
+[
+    {
+        "arid_id": 496,
+        "arid": 31808,
+        "Coefficient": 0.124,
+        "T-Value": "(0.048)",
+        "Significance": "**",
+        "County": 17143,
+        "Zipcode": "61529",
+        "Bank_Name": "Better Banks"
+    },
+    {
+        "arid_id": 881,
+        "arid": 39632,
+        "Coefficient": 0.234,
+        "T-Value": "(0.068)",
+        "Significance": "***",
+        "County": 17143,
+        "Zipcode": "61529",
+        "Bank_Name": "Fortress Bank"
+    },
+    {
+        "arid_id": 1469,
+        "arid": 111443,
+        "Coefficient": 0.083,
+        "T-Value": "(0.043)",
+        "Significance": "*",
+        "County": 17143,
+        "Zipcode": "61529",
+        "Bank_Name": "Inb, National Association"
+    },
+    {
+        "arid_id": 2624,
+        "arid": 316450,
+        "Coefficient": 0.148,
+        "T-Value": "(0.132)",
+        "Significance": "Not Significant",
+        "County": 17143,
+        "Zipcode": "61529",
+        "Bank_Name": "Busey Bank"
+    },
+    {
+        "arid_id": 5791,
+        "arid": 568448,
+        "Coefficient": -0.027,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 17143,
+        "Zipcode": "61529",
+        "Bank_Name": "Citizens Equity First"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.071,
+        "T-Value": "(0.120)",
+        "Significance": "Not Significant",
+        "County": 17143,
+        "Zipcode": "61529",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.333,
+        "T-Value": "(0.312)",
+        "Significance": "Not Significant",
+        "County": 17143,
+        "Zipcode": "61529",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.271,
+        "T-Value": "(0.046)",
+        "Significance": "***",
+        "County": 17143,
+        "Zipcode": "61529",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6967,
+        "arid": 9917742,
+        "Coefficient": 0.018,
+        "T-Value": "(0.065)",
+        "Significance": "Not Significant",
+        "County": 17143,
+        "Zipcode": "61529",
+        "Bank_Name": "Associated Bank, National Association"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": -0.238,
+        "T-Value": "(0.075)",
+        "Significance": "**",
+        "County": 17143,
+        "Zipcode": "61529",
+        "Bank_Name": "Caliber Home Loans, INC."
+    }
+]

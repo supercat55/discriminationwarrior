@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.371,
+        "T-Value": "(0.055)",
+        "Significance": "***",
+        "County": 47109,
+        "Zipcode": "38315",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6936,
+        "arid": 9606046,
+        "Coefficient": 0.324,
+        "T-Value": "(0.078)",
+        "Significance": "***",
+        "County": 47109,
+        "Zipcode": "38315",
+        "Bank_Name": "Bancorpsouth Bank"
+    }
+]

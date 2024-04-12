@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 612,
+        "arid": 316889,
+        "Coefficient": -0.729,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47011,
+        "Zipcode": "37312",
+        "Bank_Name": "United Community Bank"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": -2.25,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47011,
+        "Zipcode": "37312",
+        "Bank_Name": "Franklin American Mortgage CO."
+    }
+]

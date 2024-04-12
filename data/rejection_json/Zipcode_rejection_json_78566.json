@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 4415,
+        "arid": 511065,
+        "Coefficient": 0.8,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48061,
+        "Zipcode": "78566",
+        "Bank_Name": "Security Service"
+    },
+    {
+        "arid_id": 6882,
+        "arid": 9112837,
+        "Coefficient": 0.422,
+        "T-Value": "(0.019)",
+        "Significance": "***",
+        "County": 48061,
+        "Zipcode": "78566",
+        "Bank_Name": "Capital One, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.176,
+        "T-Value": "(0.056)",
+        "Significance": "**",
+        "County": 48061,
+        "Zipcode": "78566",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.478,
+        "T-Value": "(0.172)",
+        "Significance": "**",
+        "County": 48061,
+        "Zipcode": "78566",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6949,
+        "arid": 9697633,
+        "Coefficient": -0.046,
+        "T-Value": "(0.161)",
+        "Significance": "Not Significant",
+        "County": 48061,
+        "Zipcode": "78566",
+        "Bank_Name": "Bbva USA"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.5,
+        "T-Value": "(0.227)",
+        "Significance": "*",
+        "County": 48061,
+        "Zipcode": "78566",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.3,
+        "T-Value": "(0.046)",
+        "Significance": "***",
+        "County": 48061,
+        "Zipcode": "78566",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

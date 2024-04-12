@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 673,
+        "arid": 36158,
+        "Coefficient": 0.115,
+        "T-Value": "(0.055)",
+        "Significance": "*",
+        "County": 53057,
+        "Zipcode": "98273",
+        "Bank_Name": "Peoples Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.153,
+        "T-Value": "(0.030)",
+        "Significance": "***",
+        "County": 53057,
+        "Zipcode": "98273",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53057,
+        "Zipcode": "98273",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": -0.118,
+        "T-Value": "(0.022)",
+        "Significance": "***",
+        "County": 53057,
+        "Zipcode": "98273",
+        "Bank_Name": "Caliber Home Loans, INC."
+    }
+]

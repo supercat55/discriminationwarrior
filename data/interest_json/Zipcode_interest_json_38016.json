@@ -1,0 +1,202 @@
+[
+    {
+        "arid_id": 1642,
+        "arid": 9233031,
+        "Coefficient": -0.253,
+        "T-Value": "(0.093)",
+        "Significance": "**",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.053,
+        "T-Value": "(0.027)",
+        "Significance": "*",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1655,
+        "arid": 9480228,
+        "Coefficient": -0.255,
+        "T-Value": "(0.117)",
+        "Significance": "*",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 1657,
+        "arid": 9485559,
+        "Coefficient": -0.17,
+        "T-Value": "(0.069)",
+        "Significance": "**",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "First Horizon Bank"
+    },
+    {
+        "arid_id": 1669,
+        "arid": 9606046,
+        "Coefficient": -0.047,
+        "T-Value": "(0.062)",
+        "Significance": "Not Significant",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Bancorpsouth Bank"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": 0.154,
+        "T-Value": "(0.087)",
+        "Significance": "Not Significant",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 1674,
+        "arid": 9675332,
+        "Coefficient": 0.246,
+        "T-Value": "(0.066)",
+        "Significance": "***",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 1686,
+        "arid": 9808176,
+        "Coefficient": 0.227,
+        "T-Value": "(0.120)",
+        "Significance": "*",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Iberiabank"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.077,
+        "T-Value": "(0.032)",
+        "Significance": "**",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1713,
+        "arid": 22888798,
+        "Coefficient": 0.006,
+        "T-Value": "(0.029)",
+        "Significance": "Not Significant",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 1749,
+        "arid": 93303298,
+        "Coefficient": 0.1,
+        "T-Value": "(0.052)",
+        "Significance": "*",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 1897,
+        "arid": 7202928975,
+        "Coefficient": -0.055,
+        "T-Value": "(0.109)",
+        "Significance": "Not Significant",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Castle & Cooke Mortgage, LLC"
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": 0.255,
+        "T-Value": "(0.084)",
+        "Significance": "**",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.134,
+        "T-Value": "(0.045)",
+        "Significance": "**",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2096,
+        "arid": 7471809999,
+        "Coefficient": 0.267,
+        "T-Value": "(0.151)",
+        "Significance": "Not Significant",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Guild Mortgage Company"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": -0.07,
+        "T-Value": "(0.031)",
+        "Significance": "*",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2187,
+        "arid": 7752921540,
+        "Coefficient": 0.122,
+        "T-Value": "(0.116)",
+        "Significance": "Not Significant",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 2278,
+        "arid": 9540259290,
+        "Coefficient": -0.145,
+        "T-Value": "(0.031)",
+        "Significance": "***",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 2348,
+        "arid": 77056000000,
+        "Coefficient": -0.11,
+        "T-Value": "(0.074)",
+        "Significance": "Not Significant",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Sierra Pacific Mortgage Company, INC."
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.116,
+        "T-Value": "(0.062)",
+        "Significance": "*",
+        "County": 47157,
+        "Zipcode": "38016",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

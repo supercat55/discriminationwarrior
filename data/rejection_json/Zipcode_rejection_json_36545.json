@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 2856,
+        "arid": 318637,
+        "Coefficient": 0.097,
+        "T-Value": "(0.068)",
+        "Significance": "Not Significant",
+        "County": 1025,
+        "Zipcode": "36545",
+        "Bank_Name": "Merchants Bank"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.2,
+        "T-Value": "(0.082)",
+        "Significance": "**",
+        "County": 1025,
+        "Zipcode": "36545",
+        "Bank_Name": "Regions Bank"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 375,
+        "arid": 18531,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36069,
+        "Zipcode": "14471",
+        "Bank_Name": "Community Bank, National Association"
+    },
+    {
+        "arid_id": 7299,
+        "arid": 1161237621,
+        "Coefficient": -0.073,
+        "T-Value": "(0.007)",
+        "Significance": "***",
+        "County": 36069,
+        "Zipcode": "14471",
+        "Bank_Name": "Home Town Funding, INC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.5,
+        "T-Value": "(0.137)",
+        "Significance": "***",
+        "County": 36069,
+        "Zipcode": "14471",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.121,
+        "T-Value": "(0.073)",
+        "Significance": "Not Significant",
+        "County": 36069,
+        "Zipcode": "14471",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

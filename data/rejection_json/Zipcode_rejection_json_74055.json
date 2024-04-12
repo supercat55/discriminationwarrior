@@ -1,0 +1,152 @@
+[
+    {
+        "arid_id": 587,
+        "arid": 34239,
+        "Coefficient": -0.098,
+        "T-Value": "(0.155)",
+        "Significance": "Not Significant",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "First United Bank And Trust Company"
+    },
+    {
+        "arid_id": 4944,
+        "arid": 524887,
+        "Coefficient": 0.029,
+        "T-Value": "(0.121)",
+        "Significance": "Not Significant",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Ttcu Federal Credit Union"
+    },
+    {
+        "arid_id": 5186,
+        "arid": 562322,
+        "Coefficient": -0.333,
+        "T-Value": "(0.228)",
+        "Significance": "Not Significant",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Oklahoma Central Credit Union"
+    },
+    {
+        "arid_id": 6900,
+        "arid": 9311845,
+        "Coefficient": 0.084,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Arvest Bank"
+    },
+    {
+        "arid_id": 6901,
+        "arid": 9339858,
+        "Coefficient": 0.106,
+        "T-Value": "(0.027)",
+        "Significance": "***",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Bokf, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.154,
+        "T-Value": "(0.060)",
+        "Significance": "**",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.2,
+        "T-Value": "(0.139)",
+        "Significance": "Not Significant",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.059,
+        "T-Value": "(0.087)",
+        "Significance": "Not Significant",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.011,
+        "T-Value": "(0.016)",
+        "Significance": "Not Significant",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8394,
+        "arid": 7752695327,
+        "Coefficient": 0.13,
+        "T-Value": "(0.082)",
+        "Significance": "Not Significant",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Everett Financial, INC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.5,
+        "T-Value": "(0.167)",
+        "Significance": "**",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8577,
+        "arid": 9133222578,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Citimortgage, INC."
+    },
+    {
+        "arid_id": 8746,
+        "arid": 71006400007,
+        "Coefficient": -0.009,
+        "T-Value": "(0.011)",
+        "Significance": "Not Significant",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Associated Mortgage Corporation"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.162,
+        "T-Value": "(0.140)",
+        "Significance": "Not Significant",
+        "County": 40143,
+        "Zipcode": "74055",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

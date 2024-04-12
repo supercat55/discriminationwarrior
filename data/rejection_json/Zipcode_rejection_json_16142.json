@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 689,
+        "arid": 37468,
+        "Coefficient": -0.143,
+        "T-Value": "(0.067)",
+        "Significance": "*",
+        "County": 42073,
+        "Zipcode": "16142",
+        "Bank_Name": "First Commonwealth Bank"
+    },
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.332,
+        "T-Value": "(0.027)",
+        "Significance": "***",
+        "County": 42073,
+        "Zipcode": "16142",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 6907,
+        "arid": 9379920,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42073,
+        "Zipcode": "16142",
+        "Bank_Name": "First National Bank of Pennsylvania"
+    }
+]

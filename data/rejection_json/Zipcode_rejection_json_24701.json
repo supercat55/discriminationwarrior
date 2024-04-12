@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.5,
+        "T-Value": "(0.190)",
+        "Significance": "**",
+        "County": 54055,
+        "Zipcode": "24701",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7026,
+        "arid": 22353595,
+        "Coefficient": 0.5,
+        "T-Value": "(0.190)",
+        "Significance": "**",
+        "County": 54055,
+        "Zipcode": "24701",
+        "Bank_Name": "First Community Bank"
+    }
+]

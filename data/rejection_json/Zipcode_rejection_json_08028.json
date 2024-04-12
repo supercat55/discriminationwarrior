@@ -1,0 +1,112 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.003,
+        "T-Value": "(0.037)",
+        "Significance": "Not Significant",
+        "County": 34015,
+        "Zipcode": "08028",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.267,
+        "T-Value": "(0.207)",
+        "Significance": "Not Significant",
+        "County": 34015,
+        "Zipcode": "08028",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.5,
+        "T-Value": "(0.216)",
+        "Significance": "**",
+        "County": 34015,
+        "Zipcode": "08028",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": 0.248,
+        "T-Value": "(0.105)",
+        "Significance": "**",
+        "County": 34015,
+        "Zipcode": "08028",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": -0.231,
+        "T-Value": "(0.184)",
+        "Significance": "Not Significant",
+        "County": 34015,
+        "Zipcode": "08028",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.364,
+        "T-Value": "(0.141)",
+        "Significance": "**",
+        "County": 34015,
+        "Zipcode": "08028",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7642,
+        "arid": 7200378305,
+        "Coefficient": -0.5,
+        "T-Value": "(0.264)",
+        "Significance": "*",
+        "County": 34015,
+        "Zipcode": "08028",
+        "Bank_Name": "Trident Mortgage Company LP"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.286,
+        "T-Value": "(0.110)",
+        "Significance": "**",
+        "County": 34015,
+        "Zipcode": "08028",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 34015,
+        "Zipcode": "08028",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 34015,
+        "Zipcode": "08028",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.442,
+        "T-Value": "(0.062)",
+        "Significance": "***",
+        "County": 34015,
+        "Zipcode": "08028",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

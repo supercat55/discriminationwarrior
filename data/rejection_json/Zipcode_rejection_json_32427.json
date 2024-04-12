@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 4396,
+        "arid": 510754,
+        "Coefficient": 0.5,
+        "T-Value": "(0.174)",
+        "Significance": "**",
+        "County": 12133,
+        "Zipcode": "32427",
+        "Bank_Name": "Tyndall Federal Credit Union"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.089,
+        "T-Value": "(0.091)",
+        "Significance": "Not Significant",
+        "County": 12133,
+        "Zipcode": "32427",
+        "Bank_Name": "Regions Bank"
+    }
+]

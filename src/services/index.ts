@@ -13,7 +13,7 @@ export const queryConnectionZipCodeState = async(): Promise<Rule[]> => {
  * @returns 
  */
 export const queryInterestCountryByZipCode = async(zipCode: string): Promise<Option[]> => {
-  return request(`/data/county_id_json/County_interest_json_${zipCode}.json`, {
+  return request(`/data/interest_json/Zipcode_interest_json_${zipCode}.json`, {
     skipErrorHandler: true
   });
 }
@@ -23,7 +23,7 @@ export const queryInterestCountryByZipCode = async(zipCode: string): Promise<Opt
  * @returns 
  */
 export const queryRejectionCountryByZipCode = async(zipCode: string): Promise<Option[]> => {
-  return request(`/data/rejection_county_json/County_rejection_json_${zipCode}.json`);
+  return request(`/data/rejection_json/Zipcode_rejection_json_${zipCode}.json`);
 }
 
 

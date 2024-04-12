@@ -1,0 +1,262 @@
+[
+    {
+        "arid_id": 3332,
+        "arid": 328453,
+        "Coefficient": -0.031,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Timberland Bank"
+    },
+    {
+        "arid_id": 3516,
+        "arid": 332489,
+        "Coefficient": 0.024,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Homestreet Bank"
+    },
+    {
+        "arid_id": 6885,
+        "arid": 9143662,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Umpqua Bank"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": 0.387,
+        "T-Value": "(0.134)",
+        "Significance": "**",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.005,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.018,
+        "T-Value": "(0.072)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.069,
+        "T-Value": "(0.094)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.082,
+        "T-Value": "(0.048)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6974,
+        "arid": 9972590,
+        "Coefficient": 0.082,
+        "T-Value": "(0.050)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Boeing Employees Credit Union"
+    },
+    {
+        "arid_id": 7242,
+        "arid": 710726495,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Broker Solutions, INC."
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": 0.077,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7753,
+        "arid": 7223039688,
+        "Coefficient": 0.5,
+        "T-Value": "(0.327)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 7791,
+        "arid": 7260360466,
+        "Coefficient": 0.346,
+        "T-Value": "(0.373)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Bay Equity LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.09,
+        "T-Value": "(0.038)",
+        "Significance": "**",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8134,
+        "arid": 7470873092,
+        "Coefficient": -0.333,
+        "T-Value": "(0.311)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Network Capital Funding Corporation"
+    },
+    {
+        "arid_id": 8136,
+        "arid": 7470912342,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Loanpal, LLC"
+    },
+    {
+        "arid_id": 8139,
+        "arid": 7471809999,
+        "Coefficient": -0.014,
+        "T-Value": "(0.010)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Guild Mortgage Company"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.063,
+        "T-Value": "(0.062)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.5,
+        "T-Value": "(0.331)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 0.016,
+        "T-Value": "(0.014)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8516,
+        "arid": 7911374387,
+        "Coefficient": -0.019,
+        "T-Value": "(0.092)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Evergreen Moneysource Mortgage Company"
+    },
+    {
+        "arid_id": 8518,
+        "arid": 7911441009,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Mortgage Master Service Corporation"
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.069,
+        "T-Value": "(0.061)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.013,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8987,
+        "arid": 77992700007,
+        "Coefficient": 0.333,
+        "T-Value": "(0.289)",
+        "Significance": "Not Significant",
+        "County": 53053,
+        "Zipcode": "98409",
+        "Bank_Name": "American Pacific Mortgage Corporation"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 588,
+        "arid": 34360,
+        "Coefficient": -0.015,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 18091,
+        "Zipcode": "46382",
+        "Bank_Name": "Horizon Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.297,
+        "T-Value": "(0.167)",
+        "Significance": "Not Significant",
+        "County": 18091,
+        "Zipcode": "46382",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.095,
+        "T-Value": "(0.151)",
+        "Significance": "Not Significant",
+        "County": 18091,
+        "Zipcode": "46382",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.333,
+        "T-Value": "(0.290)",
+        "Significance": "Not Significant",
+        "County": 18091,
+        "Zipcode": "46382",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.714,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 18091,
+        "Zipcode": "46382",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "arid_id": 1299,
+        "arid": 57569,
+        "Coefficient": 0.077,
+        "T-Value": "(0.056)",
+        "Significance": "Not Significant",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "Dort Financial Credit Union"
+    },
+    {
+        "arid_id": 5142,
+        "arid": 561797,
+        "Coefficient": 0.272,
+        "T-Value": "(0.132)",
+        "Significance": "*",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "Elga Credit Union"
+    },
+    {
+        "arid_id": 5205,
+        "arid": 562514,
+        "Coefficient": -0.368,
+        "T-Value": "(0.288)",
+        "Significance": "Not Significant",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "Lake Michigan Credit Union"
+    },
+    {
+        "arid_id": 5902,
+        "arid": 568646,
+        "Coefficient": -0.077,
+        "T-Value": "(0.154)",
+        "Significance": "Not Significant",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "Financial Plus Credit Union"
+    },
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.364,
+        "T-Value": "(0.219)",
+        "Significance": "Not Significant",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.067,
+        "T-Value": "(0.681)",
+        "Significance": "Not Significant",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.076,
+        "T-Value": "(0.097)",
+        "Significance": "Not Significant",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7216,
+        "arid": 93072606,
+        "Coefficient": -41.595,
+        "T-Value": "(1.468)",
+        "Significance": "***",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "Fifth Third Mortgage-mi, LLC"
+    },
+    {
+        "arid_id": 8020,
+        "arid": 7383434023,
+        "Coefficient": 0.017,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "J. Virgil, INC."
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.5,
+        "T-Value": "(0.326)",
+        "Significance": "Not Significant",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.308,
+        "T-Value": "(0.262)",
+        "Significance": "Not Significant",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.031,
+        "T-Value": "(0.089)",
+        "Significance": "Not Significant",
+        "County": 26049,
+        "Zipcode": "48529",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

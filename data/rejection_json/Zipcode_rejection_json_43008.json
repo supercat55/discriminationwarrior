@@ -1,0 +1,102 @@
+[
+    {
+        "arid_id": 395,
+        "arid": 19179,
+        "Coefficient": -0.101,
+        "T-Value": "(0.066)",
+        "Significance": "Not Significant",
+        "County": 39089,
+        "Zipcode": "43008",
+        "Bank_Name": "The Park National Bank"
+    },
+    {
+        "arid_id": 1106,
+        "arid": 54024,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39089,
+        "Zipcode": "43008",
+        "Bank_Name": "Truecore Federal Credit Union"
+    },
+    {
+        "arid_id": 3508,
+        "arid": 332296,
+        "Coefficient": 0.184,
+        "T-Value": "(0.136)",
+        "Significance": "Not Significant",
+        "County": 39089,
+        "Zipcode": "43008",
+        "Bank_Name": "Union Savings Bank"
+    },
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.004,
+        "T-Value": "(0.090)",
+        "Significance": "Not Significant",
+        "County": 39089,
+        "Zipcode": "43008",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 6079,
+        "arid": 1702893,
+        "Coefficient": -0.391,
+        "T-Value": "(0.154)",
+        "Significance": "**",
+        "County": 39089,
+        "Zipcode": "43008",
+        "Bank_Name": "First Federal Savings And Loan Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.133,
+        "T-Value": "(0.116)",
+        "Significance": "Not Significant",
+        "County": 39089,
+        "Zipcode": "43008",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.235,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 39089,
+        "Zipcode": "43008",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.5,
+        "T-Value": "(0.139)",
+        "Significance": "***",
+        "County": 39089,
+        "Zipcode": "43008",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.5,
+        "T-Value": "(0.047)",
+        "Significance": "***",
+        "County": 39089,
+        "Zipcode": "43008",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.057,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 39089,
+        "Zipcode": "43008",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

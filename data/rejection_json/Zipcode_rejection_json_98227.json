@@ -1,0 +1,122 @@
+[
+    {
+        "arid_id": 673,
+        "arid": 36158,
+        "Coefficient": 0.15,
+        "T-Value": "(0.070)",
+        "Significance": "*",
+        "County": 53073,
+        "Zipcode": "98227",
+        "Bank_Name": "Peoples Bank"
+    },
+    {
+        "arid_id": 3089,
+        "arid": 323041,
+        "Coefficient": -0.018,
+        "T-Value": "(0.228)",
+        "Significance": "Not Significant",
+        "County": 53073,
+        "Zipcode": "98227",
+        "Bank_Name": "Bank of the Pacific"
+    },
+    {
+        "arid_id": 3337,
+        "arid": 328489,
+        "Coefficient": -0.082,
+        "T-Value": "(0.106)",
+        "Significance": "Not Significant",
+        "County": 53073,
+        "Zipcode": "98227",
+        "Bank_Name": "Banner Bank"
+    },
+    {
+        "arid_id": 5445,
+        "arid": 566373,
+        "Coefficient": -0.01,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 53073,
+        "Zipcode": "98227",
+        "Bank_Name": "Whatcom Educational Credit Union"
+    },
+    {
+        "arid_id": 6885,
+        "arid": 9143662,
+        "Coefficient": -0.058,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 53073,
+        "Zipcode": "98227",
+        "Bank_Name": "Umpqua Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.249,
+        "T-Value": "(0.051)",
+        "Significance": "***",
+        "County": 53073,
+        "Zipcode": "98227",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.471,
+        "T-Value": "(0.087)",
+        "Significance": "***",
+        "County": 53073,
+        "Zipcode": "98227",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6940,
+        "arid": 9656377,
+        "Coefficient": 0.282,
+        "T-Value": "(0.188)",
+        "Significance": "Not Significant",
+        "County": 53073,
+        "Zipcode": "98227",
+        "Bank_Name": "Washington Federal Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.255,
+        "T-Value": "(0.144)",
+        "Significance": "Not Significant",
+        "County": 53073,
+        "Zipcode": "98227",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": -0.027,
+        "T-Value": "(0.024)",
+        "Significance": "Not Significant",
+        "County": 53073,
+        "Zipcode": "98227",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.286,
+        "T-Value": "(0.053)",
+        "Significance": "***",
+        "County": 53073,
+        "Zipcode": "98227",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 1.174,
+        "T-Value": "(0.088)",
+        "Significance": "***",
+        "County": 53073,
+        "Zipcode": "98227",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    }
+]

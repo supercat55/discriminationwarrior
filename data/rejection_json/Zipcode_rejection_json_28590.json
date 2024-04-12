@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 4795,
+        "arid": 524003,
+        "Coefficient": 0.125,
+        "T-Value": "(0.052)",
+        "Significance": "**",
+        "County": 37147,
+        "Zipcode": "28590",
+        "Bank_Name": "Local Government Federal Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.223,
+        "T-Value": "(0.045)",
+        "Significance": "***",
+        "County": 37147,
+        "Zipcode": "28590",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37147,
+        "Zipcode": "28590",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6918,
+        "arid": 9491224,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37147,
+        "Zipcode": "28590",
+        "Bank_Name": "First-citizens Bank & Trust Company"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37147,
+        "Zipcode": "28590",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.6,
+        "T-Value": "(0.108)",
+        "Significance": "***",
+        "County": 37147,
+        "Zipcode": "28590",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.086,
+        "T-Value": "(0.029)",
+        "Significance": "**",
+        "County": 37147,
+        "Zipcode": "28590",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.055,
+        "T-Value": "(0.021)",
+        "Significance": "**",
+        "County": 37147,
+        "Zipcode": "28590",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.111,
+        "T-Value": "(0.064)",
+        "Significance": "Not Significant",
+        "County": 37147,
+        "Zipcode": "28590",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

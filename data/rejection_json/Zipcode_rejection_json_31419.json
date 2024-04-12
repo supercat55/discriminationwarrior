@@ -1,0 +1,102 @@
+[
+    {
+        "arid_id": 2359,
+        "arid": 313425,
+        "Coefficient": -0.5,
+        "T-Value": "(0.311)",
+        "Significance": "Not Significant",
+        "County": 13051,
+        "Zipcode": "31419",
+        "Bank_Name": "South State Bank"
+    },
+    {
+        "arid_id": 6561,
+        "arid": 2395238,
+        "Coefficient": 0.006,
+        "T-Value": "(0.023)",
+        "Significance": "Not Significant",
+        "County": 13051,
+        "Zipcode": "31419",
+        "Bank_Name": "Synovus Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.125,
+        "T-Value": "(0.030)",
+        "Significance": "***",
+        "County": 13051,
+        "Zipcode": "31419",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.221,
+        "T-Value": "(0.094)",
+        "Significance": "**",
+        "County": 13051,
+        "Zipcode": "31419",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6938,
+        "arid": 9617677,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 13051,
+        "Zipcode": "31419",
+        "Bank_Name": "Navy Federal Credit Union"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": -0.24,
+        "T-Value": "(0.033)",
+        "Significance": "***",
+        "County": 13051,
+        "Zipcode": "31419",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.078,
+        "T-Value": "(0.111)",
+        "Significance": "Not Significant",
+        "County": 13051,
+        "Zipcode": "31419",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8399,
+        "arid": 7752857425,
+        "Coefficient": 0.007,
+        "T-Value": "(0.027)",
+        "Significance": "Not Significant",
+        "County": 13051,
+        "Zipcode": "31419",
+        "Bank_Name": "Certainty Home Loans, LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.024,
+        "T-Value": "(0.154)",
+        "Significance": "Not Significant",
+        "County": 13051,
+        "Zipcode": "31419",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13051,
+        "Zipcode": "31419",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

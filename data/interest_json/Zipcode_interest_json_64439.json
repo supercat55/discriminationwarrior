@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.319,
+        "T-Value": "(0.097)",
+        "Significance": "**",
+        "County": 29165,
+        "Zipcode": "64439",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1661,
+        "arid": 9504713,
+        "Coefficient": 0.524,
+        "T-Value": "(0.193)",
+        "Significance": "**",
+        "County": 29165,
+        "Zipcode": "64439",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.403,
+        "T-Value": "(0.218)",
+        "Significance": "Not Significant",
+        "County": 29165,
+        "Zipcode": "64439",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    }
+]

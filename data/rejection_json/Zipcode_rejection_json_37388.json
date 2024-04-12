@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1289,
+        "arid": 57397,
+        "Coefficient": -0.02,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 47031,
+        "Zipcode": "37388",
+        "Bank_Name": "Ascend Federal Credit Union"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.667,
+        "T-Value": "(0.062)",
+        "Significance": "***",
+        "County": 47031,
+        "Zipcode": "37388",
+        "Bank_Name": "U.S. Bank National Association"
+    }
+]

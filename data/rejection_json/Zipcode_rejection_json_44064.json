@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": -0.747,
+        "T-Value": "(0.004)",
+        "Significance": "***",
+        "County": 39055,
+        "Zipcode": "44064",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 6966,
+        "arid": 9915878,
+        "Coefficient": 0.0,
+        "T-Value": "(0.003)",
+        "Significance": "Not Significant",
+        "County": 39055,
+        "Zipcode": "44064",
+        "Bank_Name": "Third Federal Savings And Loan Association of Cleveland"
+    },
+    {
+        "arid_id": 8984,
+        "arid": 77929000008,
+        "Coefficient": 0.0,
+        "T-Value": "(0.003)",
+        "Significance": "Not Significant",
+        "County": 39055,
+        "Zipcode": "44064",
+        "Bank_Name": "Home Mortgage Assured Corporation"
+    }
+]

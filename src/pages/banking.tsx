@@ -197,7 +197,7 @@ const BankingPage = () => {
               </h2>
               <div className={cls.subTitle}>
                 We arrange the results in descending order based on the size of the coefficients, by default
-              S</div>
+              </div>
             </div>
           )}
           dataSource={dataSource}

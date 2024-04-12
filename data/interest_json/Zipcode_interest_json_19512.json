@@ -1,0 +1,142 @@
+[
+    {
+        "arid_id": 167,
+        "arid": 37714,
+        "Coefficient": 0.085,
+        "T-Value": "(0.036)",
+        "Significance": "**",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "Qnb Bank"
+    },
+    {
+        "arid_id": 438,
+        "arid": 124891,
+        "Coefficient": 0.06,
+        "T-Value": "(0.090)",
+        "Significance": "Not Significant",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "Fulton Bank, National Association"
+    },
+    {
+        "arid_id": 857,
+        "arid": 334953,
+        "Coefficient": 0.023,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "Northpointe Bank"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.097,
+        "T-Value": "(0.046)",
+        "Significance": "*",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1680,
+        "arid": 9722777,
+        "Coefficient": -0.206,
+        "T-Value": "(0.041)",
+        "Significance": "***",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.583,
+        "T-Value": "(0.091)",
+        "Significance": "***",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1808,
+        "arid": 3271190043,
+        "Coefficient": 0.119,
+        "T-Value": "(0.102)",
+        "Significance": "Not Significant",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "First Choice Loan Services INC."
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": -0.129,
+        "T-Value": "(0.156)",
+        "Significance": "Not Significant",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1921,
+        "arid": 7208921389,
+        "Coefficient": 0.289,
+        "T-Value": "(0.070)",
+        "Significance": "***",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "Home Point Financial Corporation"
+    },
+    {
+        "arid_id": 1945,
+        "arid": 7260021318,
+        "Coefficient": -0.023,
+        "T-Value": "(0.118)",
+        "Significance": "Not Significant",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "Amerisave Mortgage Corporation"
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": 0.32,
+        "T-Value": "(0.138)",
+        "Significance": "**",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": -0.026,
+        "T-Value": "(0.171)",
+        "Significance": "Not Significant",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": -0.264,
+        "T-Value": "(0.338)",
+        "Significance": "Not Significant",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2192,
+        "arid": 7760503625,
+        "Coefficient": -0.19,
+        "T-Value": "(0.110)",
+        "Significance": "Not Significant",
+        "County": 42011,
+        "Zipcode": "19512",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    }
+]

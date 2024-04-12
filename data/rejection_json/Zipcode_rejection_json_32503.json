@@ -1,0 +1,112 @@
+[
+    {
+        "arid_id": 945,
+        "arid": 51303,
+        "Coefficient": 0.333,
+        "T-Value": "(0.164)",
+        "Significance": "*",
+        "County": 12033,
+        "Zipcode": "32503",
+        "Bank_Name": "Pen Air Federal Credit Union"
+    },
+    {
+        "arid_id": 4902,
+        "arid": 524702,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12033,
+        "Zipcode": "32503",
+        "Bank_Name": "Gulf Winds Credit Union"
+    },
+    {
+        "arid_id": 5197,
+        "arid": 562417,
+        "Coefficient": 0.333,
+        "T-Value": "(0.207)",
+        "Significance": "Not Significant",
+        "County": 12033,
+        "Zipcode": "32503",
+        "Bank_Name": "Central Credit Union of Florida"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": -0.011,
+        "T-Value": "(0.096)",
+        "Significance": "Not Significant",
+        "County": 12033,
+        "Zipcode": "32503",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.028,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 12033,
+        "Zipcode": "32503",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.214,
+        "T-Value": "(0.177)",
+        "Significance": "Not Significant",
+        "County": 12033,
+        "Zipcode": "32503",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.5,
+        "T-Value": "(0.223)",
+        "Significance": "*",
+        "County": 12033,
+        "Zipcode": "32503",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6938,
+        "arid": 9617677,
+        "Coefficient": 0.118,
+        "T-Value": "(0.051)",
+        "Significance": "**",
+        "County": 12033,
+        "Zipcode": "32503",
+        "Bank_Name": "Navy Federal Credit Union"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.25,
+        "T-Value": "(0.113)",
+        "Significance": "*",
+        "County": 12033,
+        "Zipcode": "32503",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 12033,
+        "Zipcode": "32503",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.0,
+        "T-Value": "(0.223)",
+        "Significance": "Not Significant",
+        "County": 12033,
+        "Zipcode": "32503",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 456,
+        "arid": 258243,
+        "Coefficient": 0.143,
+        "T-Value": "(0.095)",
+        "Significance": "Not Significant",
+        "County": 55117,
+        "Zipcode": "53093",
+        "Bank_Name": "Johnson Bank"
+    },
+    {
+        "arid_id": 1636,
+        "arid": 9146672,
+        "Coefficient": -0.366,
+        "T-Value": "(0.109)",
+        "Significance": "**",
+        "County": 55117,
+        "Zipcode": "53093",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 1661,
+        "arid": 9504713,
+        "Coefficient": -0.274,
+        "T-Value": "(0.017)",
+        "Significance": "***",
+        "County": 55117,
+        "Zipcode": "53093",
+        "Bank_Name": "U.S. Bank National Association"
+    }
+]

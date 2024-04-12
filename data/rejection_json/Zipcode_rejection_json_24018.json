@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 4419,
+        "arid": 511111,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51161,
+        "Zipcode": "24018",
+        "Bank_Name": "Freedom First"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.333,
+        "T-Value": "(0.060)",
+        "Significance": "***",
+        "County": 51161,
+        "Zipcode": "24018",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.006,
+        "T-Value": "(0.061)",
+        "Significance": "Not Significant",
+        "County": 51161,
+        "Zipcode": "24018",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51161,
+        "Zipcode": "24018",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8190,
+        "arid": 7541822116,
+        "Coefficient": 0.0,
+        "T-Value": "(0.002)",
+        "Significance": "Not Significant",
+        "County": 51161,
+        "Zipcode": "24018",
+        "Bank_Name": "Atlantic Bay Mortgage Group, L.L.C."
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.159,
+        "T-Value": "(0.051)",
+        "Significance": "**",
+        "County": 51161,
+        "Zipcode": "24018",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51161,
+        "Zipcode": "24018",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 4487,
+        "arid": 512697,
+        "Coefficient": -0.243,
+        "T-Value": "(0.080)",
+        "Significance": "**",
+        "County": 48135,
+        "Zipcode": "79758",
+        "Bank_Name": "Complex Community Federal Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.006,
+        "T-Value": "(0.050)",
+        "Significance": "Not Significant",
+        "County": 48135,
+        "Zipcode": "79758",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.333,
+        "T-Value": "(0.250)",
+        "Significance": "Not Significant",
+        "County": 48135,
+        "Zipcode": "79758",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": 0.006,
+        "T-Value": "(0.008)",
+        "Significance": "Not Significant",
+        "County": 48135,
+        "Zipcode": "79758",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": -0.073,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 48135,
+        "Zipcode": "79758",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48135,
+        "Zipcode": "79758",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "arid_id": 416,
+        "arid": 31039,
+        "Coefficient": -0.067,
+        "T-Value": "(0.045)",
+        "Significance": "Not Significant",
+        "County": 17163,
+        "Zipcode": "62269",
+        "Bank_Name": "The Bank of Edwardsville"
+    },
+    {
+        "arid_id": 3534,
+        "arid": 333005,
+        "Coefficient": 0.14,
+        "T-Value": "(0.122)",
+        "Significance": "Not Significant",
+        "County": 17163,
+        "Zipcode": "62269",
+        "Bank_Name": "Fcb Banks"
+    },
+    {
+        "arid_id": 5444,
+        "arid": 566370,
+        "Coefficient": -0.117,
+        "T-Value": "(0.207)",
+        "Significance": "Not Significant",
+        "County": 17163,
+        "Zipcode": "62269",
+        "Bank_Name": "Scott Credit Union"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.05,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 17163,
+        "Zipcode": "62269",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.193,
+        "T-Value": "(0.100)",
+        "Significance": "*",
+        "County": 17163,
+        "Zipcode": "62269",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17163,
+        "Zipcode": "62269",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.096,
+        "T-Value": "(0.111)",
+        "Significance": "Not Significant",
+        "County": 17163,
+        "Zipcode": "62269",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6935,
+        "arid": 9601050,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17163,
+        "Zipcode": "62269",
+        "Bank_Name": "Commerce Bank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17163,
+        "Zipcode": "62269",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6967,
+        "arid": 9917742,
+        "Coefficient": 0.027,
+        "T-Value": "(0.155)",
+        "Significance": "Not Significant",
+        "County": 17163,
+        "Zipcode": "62269",
+        "Bank_Name": "Associated Bank, National Association"
+    },
+    {
+        "arid_id": 8387,
+        "arid": 7752269700,
+        "Coefficient": 0.333,
+        "T-Value": "(0.271)",
+        "Significance": "Not Significant",
+        "County": 17163,
+        "Zipcode": "62269",
+        "Bank_Name": "Highlands Residential Mortgage, LTD."
+    }
+]

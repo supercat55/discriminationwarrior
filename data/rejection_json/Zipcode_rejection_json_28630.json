@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.667,
+        "T-Value": "(0.157)",
+        "Significance": "***",
+        "County": 37027,
+        "Zipcode": "28630",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.187,
+        "T-Value": "(0.128)",
+        "Significance": "Not Significant",
+        "County": 37027,
+        "Zipcode": "28630",
+        "Bank_Name": "State Employees'"
+    }
+]

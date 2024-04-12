@@ -1,0 +1,202 @@
+[
+    {
+        "arid_id": 438,
+        "arid": 124891,
+        "Coefficient": 0.213,
+        "T-Value": "(0.116)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Fulton Bank, National Association"
+    },
+    {
+        "arid_id": 1202,
+        "arid": 566836,
+        "Coefficient": -0.108,
+        "T-Value": "(0.111)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Virginia Credit Union, INC."
+    },
+    {
+        "arid_id": 1632,
+        "arid": 9112837,
+        "Coefficient": 0.46,
+        "T-Value": "(0.062)",
+        "Significance": "***",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Capital One, National Association"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.113,
+        "T-Value": "(0.048)",
+        "Significance": "**",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1661,
+        "arid": 9504713,
+        "Coefficient": -0.279,
+        "T-Value": "(0.108)",
+        "Significance": "**",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": -0.196,
+        "T-Value": "(0.071)",
+        "Significance": "**",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 1674,
+        "arid": 9675332,
+        "Coefficient": -0.057,
+        "T-Value": "(0.089)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.044,
+        "T-Value": "(0.082)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1713,
+        "arid": 22888798,
+        "Coefficient": -0.155,
+        "T-Value": "(0.072)",
+        "Significance": "*",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 1749,
+        "arid": 93303298,
+        "Coefficient": 0.395,
+        "T-Value": "(0.098)",
+        "Significance": "***",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": 0.721,
+        "T-Value": "(0.056)",
+        "Significance": "***",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1907,
+        "arid": 7205216358,
+        "Coefficient": 0.091,
+        "T-Value": "(0.037)",
+        "Significance": "**",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Prosperity Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 1952,
+        "arid": 7260595342,
+        "Coefficient": -0.24,
+        "T-Value": "(0.100)",
+        "Significance": "**",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": -0.228,
+        "T-Value": "(0.151)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": 0.793,
+        "T-Value": "(0.083)",
+        "Significance": "***",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2278,
+        "arid": 9540259290,
+        "Coefficient": -0.123,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.428,
+        "T-Value": "(0.065)",
+        "Significance": "***",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2365,
+        "arid": 77442300004,
+        "Coefficient": 0.52,
+        "T-Value": "(0.072)",
+        "Significance": "***",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "First Home Mortgage Corporation"
+    },
+    {
+        "arid_id": 2367,
+        "arid": 77505400005,
+        "Coefficient": -0.03,
+        "T-Value": "(0.061)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Stearns Lending, LLC"
+    },
+    {
+        "arid_id": 2370,
+        "arid": 77527300003,
+        "Coefficient": 0.118,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 51041,
+        "Zipcode": "23297",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

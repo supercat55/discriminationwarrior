@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 1327,
+        "arid": 58111,
+        "Coefficient": 0.124,
+        "T-Value": "(0.024)",
+        "Significance": "***",
+        "County": 48187,
+        "Zipcode": "78124",
+        "Bank_Name": "Randolph-brooks"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.012,
+        "T-Value": "(0.040)",
+        "Significance": "Not Significant",
+        "County": 48187,
+        "Zipcode": "78124",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": -0.333,
+        "T-Value": "(0.067)",
+        "Significance": "***",
+        "County": 48187,
+        "Zipcode": "78124",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.364,
+        "T-Value": "(0.073)",
+        "Significance": "***",
+        "County": 48187,
+        "Zipcode": "78124",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.22,
+        "T-Value": "(0.082)",
+        "Significance": "**",
+        "County": 48187,
+        "Zipcode": "78124",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48187,
+        "Zipcode": "78124",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.061,
+        "T-Value": "(0.050)",
+        "Significance": "Not Significant",
+        "County": 48187,
+        "Zipcode": "78124",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.308,
+        "T-Value": "(0.129)",
+        "Significance": "**",
+        "County": 48187,
+        "Zipcode": "78124",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    }
+]

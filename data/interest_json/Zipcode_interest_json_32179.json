@@ -1,0 +1,132 @@
+[
+    {
+        "arid_id": 857,
+        "arid": 334953,
+        "Coefficient": 0.094,
+        "T-Value": "(0.149)",
+        "Significance": "Not Significant",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "Northpointe Bank"
+    },
+    {
+        "arid_id": 1434,
+        "arid": 1706707,
+        "Coefficient": -0.117,
+        "T-Value": "(0.056)",
+        "Significance": "*",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "First Federal Bank"
+    },
+    {
+        "arid_id": 1642,
+        "arid": 9233031,
+        "Coefficient": 0.854,
+        "T-Value": "(0.171)",
+        "Significance": "***",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.236,
+        "T-Value": "(0.066)",
+        "Significance": "***",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": 0.403,
+        "T-Value": "(0.056)",
+        "Significance": "***",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 1674,
+        "arid": 9675332,
+        "Coefficient": -0.435,
+        "T-Value": "(0.057)",
+        "Significance": "***",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -0.166,
+        "T-Value": "(0.075)",
+        "Significance": "*",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1713,
+        "arid": 22888798,
+        "Coefficient": -0.289,
+        "T-Value": "(0.037)",
+        "Significance": "***",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.797,
+        "T-Value": "(0.195)",
+        "Significance": "***",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2071,
+        "arid": 7421554181,
+        "Coefficient": 0.485,
+        "T-Value": "(0.090)",
+        "Significance": "***",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 2338,
+        "arid": 73827009995,
+        "Coefficient": -0.07,
+        "T-Value": "(0.068)",
+        "Significance": "Not Significant",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "Union Home Mortgage CORP."
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": -0.235,
+        "T-Value": "(0.063)",
+        "Significance": "***",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2367,
+        "arid": 77505400005,
+        "Coefficient": 0.26,
+        "T-Value": "(0.289)",
+        "Significance": "Not Significant",
+        "County": 12083,
+        "Zipcode": "32179",
+        "Bank_Name": "Stearns Lending, LLC"
+    }
+]

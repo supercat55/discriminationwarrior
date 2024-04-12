@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.16,
+        "T-Value": "(0.061)",
+        "Significance": "**",
+        "County": 45077,
+        "Zipcode": "29671",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.2,
+        "T-Value": "(0.114)",
+        "Significance": "Not Significant",
+        "County": 45077,
+        "Zipcode": "29671",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

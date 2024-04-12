@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 301,
+        "arid": 15581,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48183,
+        "Zipcode": "75603",
+        "Bank_Name": "Austin Bank, Texas National Association"
+    },
+    {
+        "arid_id": 2766,
+        "arid": 317842,
+        "Coefficient": -0.431,
+        "T-Value": "(0.131)",
+        "Significance": "**",
+        "County": 48183,
+        "Zipcode": "75603",
+        "Bank_Name": "Texas Bank And Trust Company"
+    },
+    {
+        "arid_id": 5634,
+        "arid": 567761,
+        "Coefficient": 0.239,
+        "T-Value": "(0.084)",
+        "Significance": "**",
+        "County": 48183,
+        "Zipcode": "75603",
+        "Bank_Name": "East Texas Professional Credit Union"
+    },
+    {
+        "arid_id": 5681,
+        "arid": 568095,
+        "Coefficient": -0.063,
+        "T-Value": "(0.008)",
+        "Significance": "***",
+        "County": 48183,
+        "Zipcode": "75603",
+        "Bank_Name": "Eastman"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.414,
+        "T-Value": "(0.177)",
+        "Significance": "**",
+        "County": 48183,
+        "Zipcode": "75603",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48183,
+        "Zipcode": "75603",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48183,
+        "Zipcode": "75603",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

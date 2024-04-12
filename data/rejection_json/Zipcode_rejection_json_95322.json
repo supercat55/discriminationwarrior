@@ -1,0 +1,152 @@
+[
+    {
+        "arid_id": 1381,
+        "arid": 59119,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Merced School Employees Federal Credit Union"
+    },
+    {
+        "arid_id": 5778,
+        "arid": 568429,
+        "Coefficient": -0.6,
+        "T-Value": "(0.142)",
+        "Significance": "***",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Travis Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.05,
+        "T-Value": "(0.037)",
+        "Significance": "Not Significant",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.2,
+        "T-Value": "(0.100)",
+        "Significance": "*",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.062,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.024,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": 0.5,
+        "T-Value": "(0.339)",
+        "Significance": "Not Significant",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.021,
+        "T-Value": "(0.043)",
+        "Significance": "Not Significant",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7872,
+        "arid": 7270746986,
+        "Coefficient": -0.187,
+        "T-Value": "(0.100)",
+        "Significance": "*",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Scenic Oaks Funding, INC."
+    },
+    {
+        "arid_id": 7934,
+        "arid": 7330419992,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Mountain West Financial, INC."
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.033,
+        "T-Value": "(0.021)",
+        "Significance": "Not Significant",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8136,
+        "arid": 7470912342,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Loanpal, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.166,
+        "T-Value": "(0.127)",
+        "Significance": "Not Significant",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.156,
+        "T-Value": "(0.105)",
+        "Significance": "Not Significant",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8932,
+        "arid": 77505400005,
+        "Coefficient": -0.194,
+        "T-Value": "(0.216)",
+        "Significance": "Not Significant",
+        "County": 6047,
+        "Zipcode": "95322",
+        "Bank_Name": "Stearns Lending, LLC"
+    }
+]

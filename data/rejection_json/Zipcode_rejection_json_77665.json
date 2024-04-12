@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 5670,
+        "arid": 568021,
+        "Coefficient": -0.433,
+        "T-Value": "(0.087)",
+        "Significance": "***",
+        "County": 48071,
+        "Zipcode": "77665",
+        "Bank_Name": "Community Resource Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.038,
+        "T-Value": "(0.004)",
+        "Significance": "***",
+        "County": 48071,
+        "Zipcode": "77665",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.2,
+        "T-Value": "(0.110)",
+        "Significance": "Not Significant",
+        "County": 48071,
+        "Zipcode": "77665",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.161,
+        "T-Value": "(0.050)",
+        "Significance": "**",
+        "County": 48071,
+        "Zipcode": "77665",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.286,
+        "T-Value": "(0.107)",
+        "Significance": "**",
+        "County": 48071,
+        "Zipcode": "77665",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8845,
+        "arid": 73000809992,
+        "Coefficient": -0.014,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 48071,
+        "Zipcode": "77665",
+        "Bank_Name": "K. Hovnanian American Mortgage, L.L.C."
+    }
+]

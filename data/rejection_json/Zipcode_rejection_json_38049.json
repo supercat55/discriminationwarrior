@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 5679,
+        "arid": 568084,
+        "Coefficient": -0.286,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47167,
+        "Zipcode": "38049",
+        "Bank_Name": "First South Financial"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.6,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47167,
+        "Zipcode": "38049",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 47167,
+        "Zipcode": "38049",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47167,
+        "Zipcode": "38049",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.073,
+        "T-Value": "(0.032)",
+        "Significance": "*",
+        "County": 39173,
+        "Zipcode": "43462",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 6140,
+        "arid": 1704192,
+        "Coefficient": 0.007,
+        "T-Value": "(0.085)",
+        "Significance": "Not Significant",
+        "County": 39173,
+        "Zipcode": "43462",
+        "Bank_Name": "First Federal Bank of the Midwest"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.333,
+        "T-Value": "(0.246)",
+        "Significance": "Not Significant",
+        "County": 39173,
+        "Zipcode": "43462",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": -0.148,
+        "T-Value": "(0.183)",
+        "Significance": "Not Significant",
+        "County": 39173,
+        "Zipcode": "43462",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "arid_id": 380,
+        "arid": 18709,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "1st National Bank"
+    },
+    {
+        "arid_id": 3456,
+        "arid": 330439,
+        "Coefficient": 0.016,
+        "T-Value": "(0.092)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Eagle Savings Bank"
+    },
+    {
+        "arid_id": 3508,
+        "arid": 332296,
+        "Coefficient": 0.087,
+        "T-Value": "(0.042)",
+        "Significance": "*",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Union Savings Bank"
+    },
+    {
+        "arid_id": 3761,
+        "arid": 335117,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Centerbank"
+    },
+    {
+        "arid_id": 5144,
+        "arid": 561810,
+        "Coefficient": -0.172,
+        "T-Value": "(0.148)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Kemba Credit Union, INC."
+    },
+    {
+        "arid_id": 5849,
+        "arid": 568574,
+        "Coefficient": 0.003,
+        "T-Value": "(0.012)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "General Electric Credit Union"
+    },
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.108,
+        "T-Value": "(0.075)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 5998,
+        "arid": 1700709,
+        "Coefficient": 0.145,
+        "T-Value": "(0.043)",
+        "Significance": "***",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Guardian Savings Bank, A Federal Savings Bank"
+    },
+    {
+        "arid_id": 6018,
+        "arid": 1701409,
+        "Coefficient": -0.095,
+        "T-Value": "(0.089)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Cincinnati Federal"
+    },
+    {
+        "arid_id": 6449,
+        "arid": 2165628,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "First Financial Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.159,
+        "T-Value": "(0.049)",
+        "Significance": "**",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.258,
+        "T-Value": "(0.127)",
+        "Significance": "*",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.216,
+        "T-Value": "(0.168)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.105,
+        "T-Value": "(0.038)",
+        "Significance": "**",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.184,
+        "T-Value": "(0.054)",
+        "Significance": "***",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": -0.22,
+        "T-Value": "(0.072)",
+        "Significance": "**",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.063,
+        "T-Value": "(0.142)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6966,
+        "arid": 9915878,
+        "Coefficient": -0.039,
+        "T-Value": "(0.167)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Third Federal Savings And Loan Association of Cleveland"
+    },
+    {
+        "arid_id": 7207,
+        "arid": 92712969,
+        "Coefficient": 0.067,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Fifth Third Mortgage Company"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.162,
+        "T-Value": "(0.042)",
+        "Significance": "***",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.061,
+        "T-Value": "(0.025)",
+        "Significance": "**",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": -0.5,
+        "T-Value": "(0.264)",
+        "Significance": "*",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.333,
+        "T-Value": "(0.370)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8896,
+        "arid": 77140500002,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Sibcy Cline Mortgage Services, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.077,
+        "T-Value": "(0.265)",
+        "Significance": "Not Significant",
+        "County": 39061,
+        "Zipcode": "45202",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

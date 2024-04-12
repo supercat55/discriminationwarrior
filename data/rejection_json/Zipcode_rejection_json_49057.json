@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 5178,
+        "arid": 562172,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 26159,
+        "Zipcode": "49057",
+        "Bank_Name": "Consumers"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.07,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 26159,
+        "Zipcode": "49057",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    }
+]

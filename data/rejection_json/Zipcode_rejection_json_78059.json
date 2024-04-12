@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 4415,
+        "arid": 511065,
+        "Coefficient": 0.435,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48325,
+        "Zipcode": "78059",
+        "Bank_Name": "Security Service"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48325,
+        "Zipcode": "78059",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": -0.364,
+        "T-Value": "(0.150)",
+        "Significance": "**",
+        "County": 5007,
+        "Zipcode": "72761",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6900,
+        "arid": 9311845,
+        "Coefficient": 0.019,
+        "T-Value": "(0.022)",
+        "Significance": "Not Significant",
+        "County": 5007,
+        "Zipcode": "72761",
+        "Bank_Name": "Arvest Bank"
+    },
+    {
+        "arid_id": 6901,
+        "arid": 9339858,
+        "Coefficient": -0.284,
+        "T-Value": "(0.043)",
+        "Significance": "***",
+        "County": 5007,
+        "Zipcode": "72761",
+        "Bank_Name": "Bokf, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.001,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 5007,
+        "Zipcode": "72761",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.571,
+        "T-Value": "(0.178)",
+        "Significance": "**",
+        "County": 5007,
+        "Zipcode": "72761",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6958,
+        "arid": 9808176,
+        "Coefficient": -0.004,
+        "T-Value": "(0.010)",
+        "Significance": "Not Significant",
+        "County": 5007,
+        "Zipcode": "72761",
+        "Bank_Name": "Iberiabank"
+    },
+    {
+        "arid_id": 7013,
+        "arid": 22219664,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 5007,
+        "Zipcode": "72761",
+        "Bank_Name": "First Western Mortgage, INC."
+    },
+    {
+        "arid_id": 8374,
+        "arid": 7731577221,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 5007,
+        "Zipcode": "72761",
+        "Bank_Name": "Gateway First Bank"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.189,
+        "T-Value": "(0.080)",
+        "Significance": "**",
+        "County": 5007,
+        "Zipcode": "72761",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

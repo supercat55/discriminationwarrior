@@ -1,0 +1,102 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.213,
+        "T-Value": "(0.051)",
+        "Significance": "***",
+        "County": 51177,
+        "Zipcode": "22553",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.333,
+        "T-Value": "(0.240)",
+        "Significance": "Not Significant",
+        "County": 51177,
+        "Zipcode": "22553",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.333,
+        "T-Value": "(0.323)",
+        "Significance": "Not Significant",
+        "County": 51177,
+        "Zipcode": "22553",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": -0.077,
+        "T-Value": "(0.074)",
+        "Significance": "Not Significant",
+        "County": 51177,
+        "Zipcode": "22553",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7166,
+        "arid": 23688623,
+        "Coefficient": -0.667,
+        "T-Value": "(0.117)",
+        "Significance": "***",
+        "County": 51177,
+        "Zipcode": "22553",
+        "Bank_Name": "Virginia Partners Bank"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51177,
+        "Zipcode": "22553",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.215,
+        "T-Value": "(0.165)",
+        "Significance": "Not Significant",
+        "County": 51177,
+        "Zipcode": "22553",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51177,
+        "Zipcode": "22553",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.148,
+        "T-Value": "(0.048)",
+        "Significance": "**",
+        "County": 51177,
+        "Zipcode": "22553",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": -0.194,
+        "T-Value": "(0.085)",
+        "Significance": "*",
+        "County": 51177,
+        "Zipcode": "22553",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

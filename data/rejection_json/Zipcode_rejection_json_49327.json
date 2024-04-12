@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 1258,
+        "arid": 56832,
+        "Coefficient": -0.286,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 26123,
+        "Zipcode": "49327",
+        "Bank_Name": "Gerber Federal Credit Union"
+    },
+    {
+        "arid_id": 6525,
+        "arid": 2324340,
+        "Coefficient": -0.158,
+        "T-Value": "(0.100)",
+        "Significance": "Not Significant",
+        "County": 26123,
+        "Zipcode": "49327",
+        "Bank_Name": "Choiceone Bank"
+    },
+    {
+        "arid_id": 6678,
+        "arid": 2636771,
+        "Coefficient": -0.429,
+        "T-Value": "(0.174)",
+        "Significance": "**",
+        "County": 26123,
+        "Zipcode": "49327",
+        "Bank_Name": "Independent Bank"
+    }
+]

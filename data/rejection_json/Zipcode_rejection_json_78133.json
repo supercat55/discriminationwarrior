@@ -1,0 +1,152 @@
+[
+    {
+        "arid_id": 1327,
+        "arid": 58111,
+        "Coefficient": 0.05,
+        "T-Value": "(0.042)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Randolph-brooks"
+    },
+    {
+        "arid_id": 2626,
+        "arid": 316470,
+        "Coefficient": 0.25,
+        "T-Value": "(0.162)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Jefferson Bank"
+    },
+    {
+        "arid_id": 6897,
+        "arid": 9276579,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Zions Bancorporation, N.A."
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.03,
+        "T-Value": "(0.034)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.011,
+        "T-Value": "(0.062)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7300,
+        "arid": 1202749403,
+        "Coefficient": 0.066,
+        "T-Value": "(0.058)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Gardner Financial Services, LTD."
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": -0.001,
+        "T-Value": "(0.003)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7721,
+        "arid": 7205913596,
+        "Coefficient": 0.1,
+        "T-Value": "(0.270)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Clm Mortgage, Inc"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.327,
+        "T-Value": "(0.186)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7920,
+        "arid": 7320016270,
+        "Coefficient": 0.5,
+        "T-Value": "(0.285)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Amcap Mortgage, LTD."
+    },
+    {
+        "arid_id": 8407,
+        "arid": 7760236067,
+        "Coefficient": -0.25,
+        "T-Value": "(0.082)",
+        "Significance": "**",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Cornerstone Home Lending, INC."
+    },
+    {
+        "arid_id": 8455,
+        "arid": 7813798202,
+        "Coefficient": -0.143,
+        "T-Value": "(0.115)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Kbhs Home Loans, LLC"
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.025,
+        "T-Value": "(0.079)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.04,
+        "T-Value": "(0.138)",
+        "Significance": "Not Significant",
+        "County": 48091,
+        "Zipcode": "78133",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

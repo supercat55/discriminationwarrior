@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 3080,
+        "arid": 322876,
+        "Coefficient": 0.429,
+        "T-Value": "(0.080)",
+        "Significance": "***",
+        "County": 29145,
+        "Zipcode": "64804",
+        "Bank_Name": "Southwest Missouri Bank"
+    },
+    {
+        "arid_id": 6861,
+        "arid": 2957757,
+        "Coefficient": -0.3,
+        "T-Value": "(0.097)",
+        "Significance": "**",
+        "County": 29145,
+        "Zipcode": "64804",
+        "Bank_Name": "Community Bank And Trust"
+    },
+    {
+        "arid_id": 6900,
+        "arid": 9311845,
+        "Coefficient": -0.144,
+        "T-Value": "(0.067)",
+        "Significance": "*",
+        "County": 29145,
+        "Zipcode": "64804",
+        "Bank_Name": "Arvest Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 29145,
+        "Zipcode": "64804",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7205,
+        "arid": 92590037,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 29145,
+        "Zipcode": "64804",
+        "Bank_Name": "State Farm Bank, F.S.B."
+    }
+]

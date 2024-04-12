@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.2,
+        "T-Value": "(0.107)",
+        "Significance": "*",
+        "County": 37157,
+        "Zipcode": "27326",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.5,
+        "T-Value": "(0.234)",
+        "Significance": "*",
+        "County": 37157,
+        "Zipcode": "27326",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.041,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 37157,
+        "Zipcode": "27326",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.143,
+        "T-Value": "(0.063)",
+        "Significance": "*",
+        "County": 37157,
+        "Zipcode": "27326",
+        "Bank_Name": "State Employees'"
+    }
+]

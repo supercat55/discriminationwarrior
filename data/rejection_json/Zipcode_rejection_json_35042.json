@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 2688,
+        "arid": 317077,
+        "Coefficient": -0.2,
+        "T-Value": "(0.065)",
+        "Significance": "**",
+        "County": 1007,
+        "Zipcode": "35042",
+        "Bank_Name": "First Us Bank"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.286,
+        "T-Value": "(0.071)",
+        "Significance": "***",
+        "County": 1007,
+        "Zipcode": "35042",
+        "Bank_Name": "Regions Bank"
+    }
+]

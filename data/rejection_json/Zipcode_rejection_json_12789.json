@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 685,
+        "arid": 37123,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36105,
+        "Zipcode": "12789",
+        "Bank_Name": "Jeff Bank"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 36105,
+        "Zipcode": "12789",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

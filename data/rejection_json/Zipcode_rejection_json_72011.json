@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 6700,
+        "arid": 2663245,
+        "Coefficient": 0.014,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 5125,
+        "Zipcode": "72011",
+        "Bank_Name": "Simmons Bank"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.2,
+        "T-Value": "(0.135)",
+        "Significance": "Not Significant",
+        "County": 5125,
+        "Zipcode": "72011",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6900,
+        "arid": 9311845,
+        "Coefficient": 0.003,
+        "T-Value": "(0.002)",
+        "Significance": "Not Significant",
+        "County": 5125,
+        "Zipcode": "72011",
+        "Bank_Name": "Arvest Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.066,
+        "T-Value": "(0.024)",
+        "Significance": "**",
+        "County": 5125,
+        "Zipcode": "72011",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6958,
+        "arid": 9808176,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 5125,
+        "Zipcode": "72011",
+        "Bank_Name": "Iberiabank"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.143,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5125,
+        "Zipcode": "72011",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

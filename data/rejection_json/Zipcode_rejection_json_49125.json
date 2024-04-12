@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 1232,
+        "arid": 56288,
+        "Coefficient": 0.008,
+        "T-Value": "(0.027)",
+        "Significance": "Not Significant",
+        "County": 26021,
+        "Zipcode": "49125",
+        "Bank_Name": "United"
+    },
+    {
+        "arid_id": 5256,
+        "arid": 563004,
+        "Coefficient": 0.3,
+        "T-Value": "(0.135)",
+        "Significance": "*",
+        "County": 26021,
+        "Zipcode": "49125",
+        "Bank_Name": "Honor Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 26021,
+        "Zipcode": "49125",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.294,
+        "T-Value": "(0.125)",
+        "Significance": "**",
+        "County": 26021,
+        "Zipcode": "49125",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.6,
+        "T-Value": "(0.318)",
+        "Significance": "*",
+        "County": 26021,
+        "Zipcode": "49125",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7971,
+        "arid": 7351616238,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 26021,
+        "Zipcode": "49125",
+        "Bank_Name": "Ruoff Mortgage Company, INC."
+    }
+]

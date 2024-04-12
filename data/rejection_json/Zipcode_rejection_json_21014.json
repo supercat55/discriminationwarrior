@@ -1,0 +1,132 @@
+[
+    {
+        "arid_id": 1030,
+        "arid": 52540,
+        "Coefficient": 0.181,
+        "T-Value": "(0.057)",
+        "Significance": "**",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "Aberdeen Proving Ground Federal Credit Union"
+    },
+    {
+        "arid_id": 3756,
+        "arid": 335095,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "Towne Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.111,
+        "T-Value": "(0.049)",
+        "Significance": "*",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.238,
+        "T-Value": "(0.112)",
+        "Significance": "*",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.15,
+        "T-Value": "(0.140)",
+        "Significance": "Not Significant",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.273,
+        "T-Value": "(0.094)",
+        "Significance": "**",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.5,
+        "T-Value": "(0.213)",
+        "Significance": "**",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.143,
+        "T-Value": "(0.066)",
+        "Significance": "*",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8914,
+        "arid": 77275700004,
+        "Coefficient": -0.182,
+        "T-Value": "(0.119)",
+        "Significance": "Not Significant",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "TBI Mortgage Company"
+    },
+    {
+        "arid_id": 8929,
+        "arid": 77442300004,
+        "Coefficient": -0.004,
+        "T-Value": "(0.014)",
+        "Significance": "Not Significant",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "First Home Mortgage Corporation"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": -0.044,
+        "T-Value": "(0.027)",
+        "Significance": "Not Significant",
+        "County": 24025,
+        "Zipcode": "21014",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

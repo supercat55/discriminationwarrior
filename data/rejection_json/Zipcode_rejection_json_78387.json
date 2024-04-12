@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 5881,
+        "arid": 568615,
+        "Coefficient": 0.0,
+        "T-Value": "(0.073)",
+        "Significance": "Not Significant",
+        "County": 48409,
+        "Zipcode": "78387",
+        "Bank_Name": "Navy Army Community Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48409,
+        "Zipcode": "78387",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": -0.333,
+        "T-Value": "(0.180)",
+        "Significance": "Not Significant",
+        "County": 48409,
+        "Zipcode": "78387",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48409,
+        "Zipcode": "78387",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

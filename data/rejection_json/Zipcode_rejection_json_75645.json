@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 289,
+        "arid": 15288,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48459,
+        "Zipcode": "75645",
+        "Bank_Name": "First National Bank of East Texas"
+    },
+    {
+        "arid_id": 309,
+        "arid": 15741,
+        "Coefficient": -0.13,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48459,
+        "Zipcode": "75645",
+        "Bank_Name": "Gilmer National Bank, Gilmer, Texas"
+    }
+]

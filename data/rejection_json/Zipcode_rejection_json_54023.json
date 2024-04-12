@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 1468,
+        "arid": 111412,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 55109,
+        "Zipcode": "54023",
+        "Bank_Name": "First National Community Bank"
+    },
+    {
+        "arid_id": 5488,
+        "arid": 566742,
+        "Coefficient": 0.153,
+        "T-Value": "(0.075)",
+        "Significance": "*",
+        "County": 55109,
+        "Zipcode": "54023",
+        "Bank_Name": "Westconsin Credit Union"
+    },
+    {
+        "arid_id": 5502,
+        "arid": 566834,
+        "Coefficient": 0.208,
+        "T-Value": "(0.224)",
+        "Significance": "Not Significant",
+        "County": 55109,
+        "Zipcode": "54023",
+        "Bank_Name": "Royal Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.406,
+        "T-Value": "(0.238)",
+        "Significance": "Not Significant",
+        "County": 55109,
+        "Zipcode": "54023",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 55109,
+        "Zipcode": "54023",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6967,
+        "arid": 9917742,
+        "Coefficient": -0.243,
+        "T-Value": "(0.169)",
+        "Significance": "Not Significant",
+        "County": 55109,
+        "Zipcode": "54023",
+        "Bank_Name": "Associated Bank, National Association"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "arid_id": 3675,
+        "arid": 334598,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Mercantile Bank of Michigan"
+    },
+    {
+        "arid_id": 3680,
+        "arid": 334618,
+        "Coefficient": -0.081,
+        "T-Value": "(0.075)",
+        "Significance": "Not Significant",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Macatawa Bank"
+    },
+    {
+        "arid_id": 5205,
+        "arid": 562514,
+        "Coefficient": 0.027,
+        "T-Value": "(0.013)",
+        "Significance": "*",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Lake Michigan Credit Union"
+    },
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.144,
+        "T-Value": "(0.040)",
+        "Significance": "***",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 6678,
+        "arid": 2636771,
+        "Coefficient": -0.043,
+        "T-Value": "(0.065)",
+        "Significance": "Not Significant",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Independent Bank"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": 0.406,
+        "T-Value": "(0.167)",
+        "Significance": "**",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6889,
+        "arid": 9208244,
+        "Coefficient": -0.007,
+        "T-Value": "(0.009)",
+        "Significance": "Not Significant",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Old National Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.042,
+        "T-Value": "(0.058)",
+        "Significance": "Not Significant",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.363,
+        "T-Value": "(0.145)",
+        "Significance": "**",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6927,
+        "arid": 9542649,
+        "Coefficient": 0.051,
+        "T-Value": "(0.164)",
+        "Significance": "Not Significant",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Chemical Bank"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": -0.039,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.081,
+        "T-Value": "(0.039)",
+        "Significance": "*",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7216,
+        "arid": 93072606,
+        "Coefficient": 0.099,
+        "T-Value": "(0.120)",
+        "Significance": "Not Significant",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Fifth Third Mortgage-mi, LLC"
+    },
+    {
+        "arid_id": 7670,
+        "arid": 7202408098,
+        "Coefficient": -0.104,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Neighborhood Loans, INC."
+    },
+    {
+        "arid_id": 8010,
+        "arid": 7382699549,
+        "Coefficient": 0.004,
+        "T-Value": "(0.009)",
+        "Significance": "Not Significant",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Amerifirst Financial Corporation"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.437,
+        "T-Value": "(0.181)",
+        "Significance": "**",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8398,
+        "arid": 7752838184,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Ark-la-tex Financial Services, LLC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.333,
+        "T-Value": "(0.136)",
+        "Significance": "**",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.124,
+        "T-Value": "(0.096)",
+        "Significance": "Not Significant",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8956,
+        "arid": 77687600009,
+        "Coefficient": 0.049,
+        "T-Value": "(0.037)",
+        "Significance": "Not Significant",
+        "County": 26081,
+        "Zipcode": "49544",
+        "Bank_Name": "Mortgage 1 Incorporated"
+    }
+]

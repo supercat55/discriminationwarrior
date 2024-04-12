@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 27067,
+        "Zipcode": "56273",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.8,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 27067,
+        "Zipcode": "56273",
+        "Bank_Name": "U.S. Bank National Association"
+    }
+]

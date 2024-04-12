@@ -1,0 +1,222 @@
+[
+    {
+        "arid_id": 949,
+        "arid": 51367,
+        "Coefficient": 0.151,
+        "T-Value": "(0.135)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "University Federal Credit Union"
+    },
+    {
+        "arid_id": 1327,
+        "arid": 58111,
+        "Coefficient": 0.118,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Randolph-brooks"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": -0.256,
+        "T-Value": "(0.155)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6897,
+        "arid": 9276579,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Zions Bancorporation, N.A."
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.068,
+        "T-Value": "(0.029)",
+        "Significance": "**",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.077,
+        "T-Value": "(0.184)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 6942,
+        "arid": 9664756,
+        "Coefficient": 0.25,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Prosperity Bank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.02,
+        "T-Value": "(0.034)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": -0.105,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.235,
+        "T-Value": "(0.040)",
+        "Significance": "***",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": 0.5,
+        "T-Value": "(0.386)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.007,
+        "T-Value": "(0.133)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8181,
+        "arid": 7522337558,
+        "Coefficient": -0.002,
+        "T-Value": "(0.005)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Taylor Morrison Home Funding, LLC"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.06,
+        "T-Value": "(0.093)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8394,
+        "arid": 7752695327,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Everett Financial, INC."
+    },
+    {
+        "arid_id": 8395,
+        "arid": 7752725402,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Ntfn, INC."
+    },
+    {
+        "arid_id": 8398,
+        "arid": 7752838184,
+        "Coefficient": 0.2,
+        "T-Value": "(0.132)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Ark-la-tex Financial Services, LLC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.132,
+        "T-Value": "(0.144)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8421,
+        "arid": 7760629353,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "First Continental Mortgage, LTD."
+    },
+    {
+        "arid_id": 8758,
+        "arid": 71100900005,
+        "Coefficient": -0.333,
+        "T-Value": "(0.193)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Sfmc, LP"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.026,
+        "T-Value": "(0.029)",
+        "Significance": "Not Significant",
+        "County": 48209,
+        "Zipcode": "78640",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

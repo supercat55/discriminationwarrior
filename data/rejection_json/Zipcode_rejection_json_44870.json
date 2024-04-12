@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6635,
+        "arid": 2542528,
+        "Coefficient": 0.274,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 39043,
+        "Zipcode": "44870",
+        "Bank_Name": "Civista Bank"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39043,
+        "Zipcode": "44870",
+        "Bank_Name": "Keybank National Association"
+    }
+]

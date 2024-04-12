@@ -1,0 +1,502 @@
+[
+    {
+        "arid_id": 787,
+        "arid": 329209,
+        "Coefficient": 0.023,
+        "T-Value": "(0.053)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Nexbank"
+    },
+    {
+        "arid_id": 1435,
+        "arid": 1706809,
+        "Coefficient": 0.224,
+        "T-Value": "(0.068)",
+        "Significance": "**",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Colonial Savings, F.a."
+    },
+    {
+        "arid_id": 1588,
+        "arid": 2667757,
+        "Coefficient": 0.028,
+        "T-Value": "(0.105)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Origin Bank"
+    },
+    {
+        "arid_id": 1636,
+        "arid": 9146672,
+        "Coefficient": -0.129,
+        "T-Value": "(0.158)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 1642,
+        "arid": 9233031,
+        "Coefficient": 0.257,
+        "T-Value": "(0.131)",
+        "Significance": "*",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 1648,
+        "arid": 9339858,
+        "Coefficient": -0.354,
+        "T-Value": "(0.148)",
+        "Significance": "**",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Bokf, National Association"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.002,
+        "T-Value": "(0.036)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1655,
+        "arid": 9480228,
+        "Coefficient": -0.035,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 1661,
+        "arid": 9504713,
+        "Coefficient": -0.137,
+        "T-Value": "(0.074)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": 0.024,
+        "T-Value": "(0.105)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "USAa Federal Savings Bank"
+    },
+    {
+        "arid_id": 1674,
+        "arid": 9675332,
+        "Coefficient": 0.274,
+        "T-Value": "(0.070)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 1688,
+        "arid": 9817824,
+        "Coefficient": 0.249,
+        "T-Value": "(0.083)",
+        "Significance": "**",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.045,
+        "T-Value": "(0.019)",
+        "Significance": "**",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1690,
+        "arid": 9852320,
+        "Coefficient": -0.441,
+        "T-Value": "(0.067)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 1713,
+        "arid": 22888798,
+        "Coefficient": -0.173,
+        "T-Value": "(0.051)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 1742,
+        "arid": 92618780,
+        "Coefficient": -0.042,
+        "T-Value": "(0.240)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Texas Capital Bank, National Association"
+    },
+    {
+        "arid_id": 1744,
+        "arid": 92735146,
+        "Coefficient": 0.094,
+        "T-Value": "(0.169)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 1749,
+        "arid": 93303298,
+        "Coefficient": 0.075,
+        "T-Value": "(0.048)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 1798,
+        "arid": 3204136310,
+        "Coefficient": 0.47,
+        "T-Value": "(0.104)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Uif Corporation"
+    },
+    {
+        "arid_id": 1808,
+        "arid": 3271190043,
+        "Coefficient": -0.417,
+        "T-Value": "(0.065)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "First Choice Loan Services INC."
+    },
+    {
+        "arid_id": 1867,
+        "arid": 7113073502,
+        "Coefficient": 0.232,
+        "T-Value": "(0.107)",
+        "Significance": "*",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "United Mortgage CORP."
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": 0.051,
+        "T-Value": "(0.048)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1929,
+        "arid": 7223039688,
+        "Coefficient": 0.272,
+        "T-Value": "(0.069)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 1940,
+        "arid": 7232470039,
+        "Coefficient": -0.085,
+        "T-Value": "(0.036)",
+        "Significance": "**",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Cardinal Financial Company, Limited Partnership"
+    },
+    {
+        "arid_id": 1952,
+        "arid": 7260595342,
+        "Coefficient": -0.057,
+        "T-Value": "(0.077)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": -0.152,
+        "T-Value": "(0.074)",
+        "Significance": "*",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2028,
+        "arid": 7341716542,
+        "Coefficient": -0.217,
+        "T-Value": "(0.258)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Mid America Mortgage, INC."
+    },
+    {
+        "arid_id": 2039,
+        "arid": 7364327855,
+        "Coefficient": -0.017,
+        "T-Value": "(0.142)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 2046,
+        "arid": 7371542226,
+        "Coefficient": 0.026,
+        "T-Value": "(0.089)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.066,
+        "T-Value": "(0.045)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2063,
+        "arid": 7411795868,
+        "Coefficient": 0.736,
+        "T-Value": "(0.078)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 2071,
+        "arid": 7421554181,
+        "Coefficient": 0.12,
+        "T-Value": "(0.091)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 2094,
+        "arid": 7470912342,
+        "Coefficient": -0.747,
+        "T-Value": "(0.046)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Loanpal, LLC"
+    },
+    {
+        "arid_id": 2096,
+        "arid": 7471809999,
+        "Coefficient": 0.125,
+        "T-Value": "(0.103)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Guild Mortgage Company"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": -0.008,
+        "T-Value": "(0.084)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2172,
+        "arid": 7731577221,
+        "Coefficient": 0.018,
+        "T-Value": "(0.022)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Gateway First Bank"
+    },
+    {
+        "arid_id": 2174,
+        "arid": 7742508160,
+        "Coefficient": -0.121,
+        "T-Value": "(0.175)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Swbc Mortgage Corporation"
+    },
+    {
+        "arid_id": 2182,
+        "arid": 7752695327,
+        "Coefficient": 0.052,
+        "T-Value": "(0.058)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Everett Financial, INC."
+    },
+    {
+        "arid_id": 2187,
+        "arid": 7752921540,
+        "Coefficient": -0.05,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 2189,
+        "arid": 7760236067,
+        "Coefficient": 0.104,
+        "T-Value": "(0.028)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Cornerstone Home Lending, INC."
+    },
+    {
+        "arid_id": 2192,
+        "arid": 7760503625,
+        "Coefficient": 0.143,
+        "T-Value": "(0.056)",
+        "Significance": "**",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 2210,
+        "arid": 7815294275,
+        "Coefficient": -0.361,
+        "T-Value": "(0.079)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Guaranteed Rate Affinity, LLC"
+    },
+    {
+        "arid_id": 2266,
+        "arid": 9133222578,
+        "Coefficient": 0.088,
+        "T-Value": "(0.043)",
+        "Significance": "*",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Citimortgage, INC."
+    },
+    {
+        "arid_id": 2332,
+        "arid": 73027509990,
+        "Coefficient": -0.472,
+        "T-Value": "(0.082)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Phh Mortgage Corporation"
+    },
+    {
+        "arid_id": 2338,
+        "arid": 73827009995,
+        "Coefficient": -0.554,
+        "T-Value": "(0.091)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Union Home Mortgage CORP."
+    },
+    {
+        "arid_id": 2347,
+        "arid": 76443809990,
+        "Coefficient": -1.405,
+        "T-Value": "(0.076)",
+        "Significance": "***",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Sun West Mortgage Company, INC."
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.1,
+        "T-Value": "(0.038)",
+        "Significance": "**",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2359,
+        "arid": 77257500009,
+        "Coefficient": 0.131,
+        "T-Value": "(0.129)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Academy Mortgage Corporation"
+    },
+    {
+        "arid_id": 2388,
+        "arid": 77810600004,
+        "Coefficient": -0.024,
+        "T-Value": "(0.133)",
+        "Significance": "Not Significant",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    },
+    {
+        "arid_id": 2389,
+        "arid": 77811300008,
+        "Coefficient": -0.112,
+        "T-Value": "(0.042)",
+        "Significance": "**",
+        "County": 48439,
+        "Zipcode": "76020",
+        "Bank_Name": "Homebridge Financial Services, INC."
+    }
+]

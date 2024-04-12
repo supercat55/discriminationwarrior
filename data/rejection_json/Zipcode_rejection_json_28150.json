@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 1316,
+        "arid": 57840,
+        "Coefficient": 0.4,
+        "T-Value": "(0.139)",
+        "Significance": "**",
+        "County": 37045,
+        "Zipcode": "28150",
+        "Bank_Name": "Truliant Federal Credit Union"
+    },
+    {
+        "arid_id": 4767,
+        "arid": 522458,
+        "Coefficient": 0.333,
+        "T-Value": "(0.110)",
+        "Significance": "**",
+        "County": 37045,
+        "Zipcode": "28150",
+        "Bank_Name": "Sharonview Federal Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37045,
+        "Zipcode": "28150",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37045,
+        "Zipcode": "28150",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37045,
+        "Zipcode": "28150",
+        "Bank_Name": "State Employees'"
+    }
+]

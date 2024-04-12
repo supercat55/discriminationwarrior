@@ -1,0 +1,152 @@
+[
+    {
+        "arid_id": 4795,
+        "arid": 524003,
+        "Coefficient": 0.5,
+        "T-Value": "(0.338)",
+        "Significance": "Not Significant",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Local Government Federal Credit Union"
+    },
+    {
+        "arid_id": 5290,
+        "arid": 563545,
+        "Coefficient": -0.5,
+        "T-Value": "(0.233)",
+        "Significance": "*",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Telco Community Credit Union"
+    },
+    {
+        "arid_id": 6469,
+        "arid": 2212577,
+        "Coefficient": 0.265,
+        "T-Value": "(0.250)",
+        "Significance": "Not Significant",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Hometrust Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.026,
+        "T-Value": "(0.093)",
+        "Significance": "Not Significant",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.02,
+        "T-Value": "(0.150)",
+        "Significance": "Not Significant",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6918,
+        "arid": 9491224,
+        "Coefficient": 0.022,
+        "T-Value": "(0.016)",
+        "Significance": "Not Significant",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "First-citizens Bank & Trust Company"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.129,
+        "T-Value": "(0.082)",
+        "Significance": "Not Significant",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.542,
+        "T-Value": "(0.303)",
+        "Significance": "Not Significant",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.066,
+        "T-Value": "(0.026)",
+        "Significance": "**",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": -0.132,
+        "T-Value": "(0.057)",
+        "Significance": "**",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.143,
+        "T-Value": "(0.136)",
+        "Significance": "Not Significant",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8134,
+        "arid": 7470873092,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Network Capital Funding Corporation"
+    },
+    {
+        "arid_id": 8190,
+        "arid": 7541822116,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Atlantic Bay Mortgage Group, L.L.C."
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.22,
+        "T-Value": "(0.107)",
+        "Significance": "*",
+        "County": 37021,
+        "Zipcode": "28801",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

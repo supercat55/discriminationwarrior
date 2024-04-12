@@ -1,0 +1,242 @@
+[
+    {
+        "arid_id": 2782,
+        "arid": 317943,
+        "Coefficient": 0.203,
+        "T-Value": "(0.159)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Liberty Bank"
+    },
+    {
+        "arid_id": 2813,
+        "arid": 318203,
+        "Coefficient": -0.012,
+        "T-Value": "(0.062)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "United Bank"
+    },
+    {
+        "arid_id": 2815,
+        "arid": 318208,
+        "Coefficient": 0.045,
+        "T-Value": "(0.084)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Farmington Bank"
+    },
+    {
+        "arid_id": 3585,
+        "arid": 333999,
+        "Coefficient": 0.012,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "The Simsbury Bank & Trust Company"
+    },
+    {
+        "arid_id": 5404,
+        "arid": 565728,
+        "Coefficient": -0.333,
+        "T-Value": "(0.328)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Connecticut State Employees"
+    },
+    {
+        "arid_id": 5911,
+        "arid": 568659,
+        "Coefficient": 0.031,
+        "T-Value": "(0.085)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "American Eagle Financial Credit Union"
+    },
+    {
+        "arid_id": 6116,
+        "arid": 1703781,
+        "Coefficient": 0.074,
+        "T-Value": "(0.101)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Windosr Federal Savings & Loan Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.022,
+        "T-Value": "(0.050)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.3,
+        "T-Value": "(0.290)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.092,
+        "T-Value": "(0.105)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": 0.083,
+        "T-Value": "(0.155)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6937,
+        "arid": 9613307,
+        "Coefficient": 0.219,
+        "T-Value": "(0.181)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "People's United Bank, National Association"
+    },
+    {
+        "arid_id": 6951,
+        "arid": 9722777,
+        "Coefficient": 0.104,
+        "T-Value": "(0.403)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 6953,
+        "arid": 9761806,
+        "Coefficient": 0.133,
+        "T-Value": "(0.030)",
+        "Significance": "***",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Webster Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.064,
+        "T-Value": "(0.132)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7239,
+        "arid": 710464609,
+        "Coefficient": -0.286,
+        "T-Value": "(0.306)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Residential Mortgage Services, INC."
+    },
+    {
+        "arid_id": 7288,
+        "arid": 761297784,
+        "Coefficient": -0.141,
+        "T-Value": "(0.169)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "William Raveis Mortgage, LLC"
+    },
+    {
+        "arid_id": 7750,
+        "arid": 7222894356,
+        "Coefficient": 0.212,
+        "T-Value": "(0.174)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Norwich Commercial Group, INC."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.137,
+        "T-Value": "(0.078)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.068,
+        "T-Value": "(0.059)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8263,
+        "arid": 7621532940,
+        "Coefficient": -0.5,
+        "T-Value": "(0.393)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.462,
+        "T-Value": "(0.228)",
+        "Significance": "*",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.043,
+        "T-Value": "(0.112)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8966,
+        "arid": 77810600004,
+        "Coefficient": -0.217,
+        "T-Value": "(0.252)",
+        "Significance": "Not Significant",
+        "County": 9003,
+        "Zipcode": "06033",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    }
+]

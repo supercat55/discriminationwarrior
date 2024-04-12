@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 4396,
+        "arid": 510754,
+        "Coefficient": 0.0,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 12005,
+        "Zipcode": "32405",
+        "Bank_Name": "Tyndall Federal Credit Union"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.139,
+        "T-Value": "(0.061)",
+        "Significance": "*",
+        "County": 12005,
+        "Zipcode": "32405",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12005,
+        "Zipcode": "32405",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]
