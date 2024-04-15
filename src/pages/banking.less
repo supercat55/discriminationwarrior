@@ -79,7 +79,7 @@
 
 .divider {
   width: 100%;
-  margin: 50px 0;
+  margin: 40px 0;
   height: 1px;
   background-color: #d8d9da;
 }
@@ -143,7 +143,9 @@
 @media screen and (max-width: 700px) {
   .header {
     h1 {
-      font-size: 28px;
+      font-size: 20px;
+      letter-spacing: 0;
+      margin-bottom: 4px;
     }
 
     .condition {
@@ -152,7 +154,7 @@
           height: 38px;
         }
         .ant-select-selector {
-          width: 140px;
+          min-width: 140px;
           height: 38px;
         }
         .ant-select-selection-item {
@@ -164,6 +166,7 @@
       input {
         width: 90px;
         font-size: 28px;
+        height: 38px;
       }
       .tip {
         left: -10px;
@@ -188,9 +191,6 @@
     font-size: 18px;
   }
 
-  .subTitle {
-    margin: 0 10px;
-  }
   .card {
     flex-wrap: wrap;
     justify-content: space-evenly;
