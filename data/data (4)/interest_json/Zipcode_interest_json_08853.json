@@ -1,0 +1,182 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.119,
+        "T-Value": "(0.058)",
+        "Significance": "*",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1655,
+        "arid": 9480228,
+        "Coefficient": 0.054,
+        "T-Value": "(0.129)",
+        "Significance": "Not Significant",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 1680,
+        "arid": 9722777,
+        "Coefficient": -0.23,
+        "T-Value": "(0.089)",
+        "Significance": "**",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 1688,
+        "arid": 9817824,
+        "Coefficient": -0.003,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.254,
+        "T-Value": "(0.056)",
+        "Significance": "***",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1775,
+        "arid": 750402708,
+        "Coefficient": 0.001,
+        "T-Value": "(0.124)",
+        "Significance": "Not Significant",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Embrace Home Loans, INC."
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": 0.161,
+        "T-Value": "(0.042)",
+        "Significance": "***",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1921,
+        "arid": 7208921389,
+        "Coefficient": -0.132,
+        "T-Value": "(0.031)",
+        "Significance": "***",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Home Point Financial Corporation"
+    },
+    {
+        "arid_id": 1952,
+        "arid": 7260595342,
+        "Coefficient": -0.154,
+        "T-Value": "(0.044)",
+        "Significance": "***",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": -0.098,
+        "T-Value": "(0.140)",
+        "Significance": "Not Significant",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.045,
+        "T-Value": "(0.059)",
+        "Significance": "Not Significant",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2172,
+        "arid": 7731577221,
+        "Coefficient": 0.053,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Gateway First Bank"
+    },
+    {
+        "arid_id": 2192,
+        "arid": 7760503625,
+        "Coefficient": 0.087,
+        "T-Value": "(0.099)",
+        "Significance": "Not Significant",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 2332,
+        "arid": 73027509990,
+        "Coefficient": -0.011,
+        "T-Value": "(0.105)",
+        "Significance": "Not Significant",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Phh Mortgage Corporation"
+    },
+    {
+        "arid_id": 2333,
+        "arid": 73028209994,
+        "Coefficient": 0.246,
+        "T-Value": "(0.155)",
+        "Significance": "Not Significant",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Mortgage Access CORP."
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.269,
+        "T-Value": "(0.079)",
+        "Significance": "***",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2388,
+        "arid": 77810600004,
+        "Coefficient": -0.106,
+        "T-Value": "(0.044)",
+        "Significance": "**",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    },
+    {
+        "arid_id": 2389,
+        "arid": 77811300008,
+        "Coefficient": 0.187,
+        "T-Value": "(0.086)",
+        "Significance": "*",
+        "County": 34035,
+        "Zipcode": "08853",
+        "Bank_Name": "Homebridge Financial Services, INC."
+    }
+]

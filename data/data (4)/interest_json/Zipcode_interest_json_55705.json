@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 1209,
+        "arid": 567173,
+        "Coefficient": -0.317,
+        "T-Value": "(0.029)",
+        "Significance": "***",
+        "County": 27137,
+        "Zipcode": "55705",
+        "Bank_Name": "Superior Choice"
+    },
+    {
+        "arid_id": 1504,
+        "arid": 2126553,
+        "Coefficient": -0.084,
+        "T-Value": "(0.051)",
+        "Significance": "Not Significant",
+        "County": 27137,
+        "Zipcode": "55705",
+        "Bank_Name": "North Shore Bank of Commerce"
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.078,
+        "T-Value": "(0.074)",
+        "Significance": "Not Significant",
+        "County": 27137,
+        "Zipcode": "55705",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

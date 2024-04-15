@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.285,
+        "T-Value": "(0.136)",
+        "Significance": "*",
+        "County": 34015,
+        "Zipcode": "08014",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.03,
+        "T-Value": "(0.149)",
+        "Significance": "Not Significant",
+        "County": 34015,
+        "Zipcode": "08014",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2333,
+        "arid": 73028209994,
+        "Coefficient": 0.736,
+        "T-Value": "(0.130)",
+        "Significance": "***",
+        "County": 34015,
+        "Zipcode": "08014",
+        "Bank_Name": "Mortgage Access CORP."
+    }
+]

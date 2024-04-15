@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": 0.156,
+        "T-Value": "(0.090)",
+        "Significance": "Not Significant",
+        "County": 44009,
+        "Zipcode": "02836",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2229,
+        "arid": 7860860478,
+        "Coefficient": -0.107,
+        "T-Value": "(0.106)",
+        "Significance": "Not Significant",
+        "County": 44009,
+        "Zipcode": "02836",
+        "Bank_Name": "Primary Residential Mortgage, INC."
+    },
+    {
+        "arid_id": 2367,
+        "arid": 77505400005,
+        "Coefficient": -0.625,
+        "T-Value": "(0.103)",
+        "Significance": "***",
+        "County": 44009,
+        "Zipcode": "02836",
+        "Bank_Name": "Stearns Lending, LLC"
+    }
+]

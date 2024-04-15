@@ -1,0 +1,38 @@
+[
+    {
+        "arid_id": 3103,
+        "County": 25015,
+        "T-Value": "(0.038)",
+        "Coefficient": 0.106,
+        "Significance": "**",
+        "arid": 323293,
+        "rssdid": 279105.0,
+        "Zipcode": "1038",
+        "State_id": 25.0,
+        "Bank_Name": "Florence Bank"
+    },
+    {
+        "arid_id": 4338,
+        "County": 25015,
+        "T-Value": "(0.041)",
+        "Coefficient": 0.146,
+        "Significance": "***",
+        "arid": 390213,
+        "rssdid": 613400.0,
+        "Zipcode": "1038",
+        "State_id": 25.0,
+        "Bank_Name": "Peoplesbank"
+    },
+    {
+        "arid_id": 6811,
+        "County": 25015,
+        "T-Value": "(0.029)",
+        "Coefficient": -0.038,
+        "Significance": "Not Significant",
+        "arid": 2859002,
+        "rssdid": 859002.0,
+        "Zipcode": "1038",
+        "State_id": 25.0,
+        "Bank_Name": "Easthampton Savings Bank"
+    }
+]

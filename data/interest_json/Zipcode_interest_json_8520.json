@@ -1,0 +1,102 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.029,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "8520",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1655,
+        "arid": 9480228,
+        "Coefficient": 0.115,
+        "T-Value": "(0.042)",
+        "Significance": "**",
+        "County": 34021,
+        "Zipcode": "8520",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 1688,
+        "arid": 9817824,
+        "Coefficient": 0.0,
+        "T-Value": "(0.140)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "8520",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.039,
+        "T-Value": "(0.122)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "8520",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1808,
+        "arid": 3271190043,
+        "Coefficient": -0.152,
+        "T-Value": "(0.093)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "8520",
+        "Bank_Name": "First Choice Loan Services INC."
+    },
+    {
+        "arid_id": 1942,
+        "arid": 7232769131,
+        "Coefficient": 0.051,
+        "T-Value": "(0.086)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "8520",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": 0.257,
+        "T-Value": "(0.194)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "8520",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": -0.058,
+        "T-Value": "(0.071)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "8520",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2333,
+        "arid": 73028209994,
+        "Coefficient": 0.062,
+        "T-Value": "(0.129)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "8520",
+        "Bank_Name": "Mortgage Access CORP."
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": -0.077,
+        "T-Value": "(0.084)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "8520",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

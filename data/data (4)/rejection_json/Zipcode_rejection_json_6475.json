@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 2782,
+        "County": 9007,
+        "T-Value": "(0.015)",
+        "Coefficient": 0.206,
+        "Significance": "***",
+        "arid": 317943,
+        "rssdid": 587800.0,
+        "Zipcode": "6475",
+        "State_id": 9.0,
+        "Bank_Name": "Liberty Bank"
+    },
+    {
+        "arid_id": 5911,
+        "County": 9007,
+        "T-Value": "(0.000)",
+        "Coefficient": 0.0,
+        "Significance": "Not Significant",
+        "arid": 568659,
+        "rssdid": 66873.0,
+        "Zipcode": "6475",
+        "State_id": 9.0,
+        "Bank_Name": "American Eagle Financial Credit Union"
+    },
+    {
+        "arid_id": 6937,
+        "County": 9007,
+        "T-Value": "(0.000)",
+        "Coefficient": 0.0,
+        "Significance": "Not Significant",
+        "arid": 9613307,
+        "rssdid": 613307.0,
+        "Zipcode": "6475",
+        "State_id": 9.0,
+        "Bank_Name": "People's United Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "County": 9007,
+        "T-Value": "(0.023)",
+        "Coefficient": -0.5,
+        "Significance": "***",
+        "arid": 7264599244,
+        "rssdid": 4438209.0,
+        "Zipcode": "6475",
+        "State_id": 9.0,
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "County": 9007,
+        "T-Value": "(0.000)",
+        "Coefficient": 0.0,
+        "Significance": "Not Significant",
+        "arid": 77197000003,
+        "rssdid": 3870679.0,
+        "Zipcode": "6475",
+        "State_id": 9.0,
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

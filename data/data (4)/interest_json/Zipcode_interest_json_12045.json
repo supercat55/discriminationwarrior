@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 1645,
+        "arid": 9280110,
+        "Coefficient": 0.443,
+        "T-Value": "(0.045)",
+        "Significance": "***",
+        "County": 36001,
+        "Zipcode": "12045",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.044,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 36001,
+        "Zipcode": "12045",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.101,
+        "T-Value": "(0.035)",
+        "Significance": "**",
+        "County": 36001,
+        "Zipcode": "12045",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1757,
+        "arid": 510940996,
+        "Coefficient": -0.049,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 36001,
+        "Zipcode": "12045",
+        "Bank_Name": "Sefcu Services, LLC"
+    },
+    {
+        "arid_id": 1852,
+        "arid": 5271365466,
+        "Coefficient": 0.01,
+        "T-Value": "(0.048)",
+        "Significance": "Not Significant",
+        "County": 36001,
+        "Zipcode": "12045",
+        "Bank_Name": "Ccfcu Funding, LLC"
+    },
+    {
+        "arid_id": 1877,
+        "arid": 7141770243,
+        "Coefficient": -0.042,
+        "T-Value": "(0.043)",
+        "Significance": "Not Significant",
+        "County": 36001,
+        "Zipcode": "12045",
+        "Bank_Name": "Homestead Funding CORP."
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": -0.71,
+        "T-Value": "(0.025)",
+        "Significance": "***",
+        "County": 36001,
+        "Zipcode": "12045",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": -0.506,
+        "T-Value": "(0.110)",
+        "Significance": "***",
+        "County": 36001,
+        "Zipcode": "12045",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

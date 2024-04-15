@@ -1,0 +1,110 @@
+[
+    {
+        "arid_id": 6911,
+        "County": 34001,
+        "T-Value": "(0.038)",
+        "Coefficient": 0.019,
+        "Significance": "Not Significant",
+        "arid": 9451965,
+        "rssdid": 451965.0,
+        "Zipcode": "8330",
+        "State_id": 34.0,
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "County": 34001,
+        "T-Value": "(0.067)",
+        "Coefficient": -0.018,
+        "Significance": "Not Significant",
+        "arid": 9480228,
+        "rssdid": 480228.0,
+        "Zipcode": "8330",
+        "State_id": 34.0,
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "County": 34001,
+        "T-Value": "(0.080)",
+        "Coefficient": 0.244,
+        "Significance": "**",
+        "arid": 9817824,
+        "rssdid": 817824.0,
+        "Zipcode": "8330",
+        "State_id": 34.0,
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "County": 34001,
+        "T-Value": "(0.159)",
+        "Coefficient": -0.409,
+        "Significance": "**",
+        "arid": 9852218,
+        "rssdid": 852218.0,
+        "Zipcode": "8330",
+        "State_id": 34.0,
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7619,
+        "County": 34001,
+        "T-Value": "(0.082)",
+        "Coefficient": -0.433,
+        "Significance": "***",
+        "arid": 7136131491,
+        "rssdid": 3871519.0,
+        "Zipcode": "8330",
+        "State_id": 34.0,
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7765,
+        "County": 34001,
+        "T-Value": "(0.000)",
+        "Coefficient": -0.5,
+        "Significance": "***",
+        "arid": 7223747694,
+        "rssdid": 3873317.0,
+        "Zipcode": "8330",
+        "State_id": 34.0,
+        "Bank_Name": "Mld Mortgage INC."
+    },
+    {
+        "arid_id": 7859,
+        "County": 34001,
+        "T-Value": "(0.048)",
+        "Coefficient": 0.118,
+        "Significance": "**",
+        "arid": 7264599244,
+        "rssdid": 4438209.0,
+        "Zipcode": "8330",
+        "State_id": 34.0,
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "County": 34001,
+        "T-Value": "(0.161)",
+        "Coefficient": -0.118,
+        "Significance": "Not Significant",
+        "arid": 7752921540,
+        "rssdid": 3845828.0,
+        "Zipcode": "8330",
+        "State_id": 34.0,
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "County": 34001,
+        "T-Value": "(0.185)",
+        "Coefficient": 0.667,
+        "Significance": "***",
+        "arid": 77197000003,
+        "rssdid": 3870679.0,
+        "Zipcode": "8330",
+        "State_id": 34.0,
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "arid_id": 3117,
+        "arid": 323621,
+        "Coefficient": -0.274,
+        "T-Value": "(0.198)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Berkshire Bank"
+    },
+    {
+        "arid_id": 4338,
+        "arid": 390213,
+        "Coefficient": -0.139,
+        "T-Value": "(0.091)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Peoplesbank"
+    },
+    {
+        "arid_id": 5470,
+        "arid": 566597,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Polish National"
+    },
+    {
+        "arid_id": 5499,
+        "arid": 566824,
+        "Coefficient": 0.185,
+        "T-Value": "(0.113)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Freedom Credit Union"
+    },
+    {
+        "arid_id": 5649,
+        "arid": 567875,
+        "Coefficient": -0.083,
+        "T-Value": "(0.090)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Holyoke"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.231,
+        "T-Value": "(0.229)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.194,
+        "T-Value": "(0.052)",
+        "Significance": "***",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7239,
+        "arid": 710464609,
+        "Coefficient": -0.333,
+        "T-Value": "(0.441)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Residential Mortgage Services, INC."
+    },
+    {
+        "arid_id": 7260,
+        "arid": 742992161,
+        "Coefficient": -0.493,
+        "T-Value": "(0.371)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Mortgage Network, INC."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.106,
+        "T-Value": "(0.196)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": -0.25,
+        "T-Value": "(0.371)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.204,
+        "T-Value": "(0.191)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8910,
+        "arid": 77257500009,
+        "Coefficient": -0.143,
+        "T-Value": "(0.161)",
+        "Significance": "Not Significant",
+        "County": 25013,
+        "Zipcode": "01010",
+        "Bank_Name": "Academy Mortgage Corporation"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.299,
+        "T-Value": "(0.178)",
+        "Significance": "Not Significant",
+        "County": 18105,
+        "Zipcode": "47404",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 2031,
+        "arid": 7351616238,
+        "Coefficient": 0.095,
+        "T-Value": "(0.056)",
+        "Significance": "Not Significant",
+        "County": 18105,
+        "Zipcode": "47404",
+        "Bank_Name": "Ruoff Mortgage Company, INC."
+    }
+]

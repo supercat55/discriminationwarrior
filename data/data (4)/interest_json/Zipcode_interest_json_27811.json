@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.55,
+        "T-Value": "(0.119)",
+        "Significance": "***",
+        "County": 37147,
+        "Zipcode": "27811",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1655,
+        "arid": 9480228,
+        "Coefficient": 0.328,
+        "T-Value": "(0.130)",
+        "Significance": "**",
+        "County": 37147,
+        "Zipcode": "27811",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 1688,
+        "arid": 9817824,
+        "Coefficient": 0.383,
+        "T-Value": "(0.096)",
+        "Significance": "***",
+        "County": 37147,
+        "Zipcode": "27811",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 1690,
+        "arid": 9852320,
+        "Coefficient": -0.351,
+        "T-Value": "(0.015)",
+        "Significance": "***",
+        "County": 37147,
+        "Zipcode": "27811",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 2115,
+        "arid": 7541822116,
+        "Coefficient": 0.337,
+        "T-Value": "(0.229)",
+        "Significance": "Not Significant",
+        "County": 37147,
+        "Zipcode": "27811",
+        "Bank_Name": "Atlantic Bay Mortgage Group, L.L.C."
+    }
+]

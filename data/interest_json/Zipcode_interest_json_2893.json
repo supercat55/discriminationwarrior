@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 857,
+        "arid": 334953,
+        "Coefficient": -0.374,
+        "T-Value": "(0.312)",
+        "Significance": "Not Significant",
+        "County": 44003,
+        "Zipcode": "2893",
+        "Bank_Name": "Northpointe Bank"
+    },
+    {
+        "arid_id": 1655,
+        "arid": 9480228,
+        "Coefficient": -0.548,
+        "T-Value": "(0.255)",
+        "Significance": "*",
+        "County": 44003,
+        "Zipcode": "2893",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -0.213,
+        "T-Value": "(0.170)",
+        "Significance": "Not Significant",
+        "County": 44003,
+        "Zipcode": "2893",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1758,
+        "arid": 710464609,
+        "Coefficient": -0.05,
+        "T-Value": "(0.106)",
+        "Significance": "Not Significant",
+        "County": 44003,
+        "Zipcode": "2893",
+        "Bank_Name": "Residential Mortgage Services, INC."
+    }
+]

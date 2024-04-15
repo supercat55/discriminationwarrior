@@ -1,0 +1,74 @@
+[
+    {
+        "arid_id": 1073,
+        "County": 9011,
+        "T-Value": "(0.047)",
+        "Coefficient": 0.178,
+        "Significance": "***",
+        "arid": 53413,
+        "rssdid": 595579.0,
+        "Zipcode": "6382",
+        "State_id": 9.0,
+        "Bank_Name": "Charter Oak Federal Credit Union"
+    },
+    {
+        "arid_id": 2812,
+        "County": 9011,
+        "T-Value": "(0.027)",
+        "Coefficient": 0.614,
+        "Significance": "***",
+        "arid": 318200,
+        "rssdid": 311603.0,
+        "Zipcode": "6382",
+        "State_id": 9.0,
+        "Bank_Name": "Dime Bank"
+    },
+    {
+        "arid_id": 2821,
+        "County": 9011,
+        "T-Value": "(0.039)",
+        "Coefficient": 0.017,
+        "Significance": "Not Significant",
+        "arid": 318238,
+        "rssdid": 345309.0,
+        "Zipcode": "6382",
+        "State_id": 9.0,
+        "Bank_Name": "Chelsea Groton Bank"
+    },
+    {
+        "arid_id": 6911,
+        "County": 9011,
+        "T-Value": "(0.185)",
+        "Coefficient": 0.729,
+        "Significance": "***",
+        "arid": 9451965,
+        "rssdid": 451965.0,
+        "Zipcode": "6382",
+        "State_id": 9.0,
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6938,
+        "County": 9011,
+        "T-Value": "(0.357)",
+        "Coefficient": 0.5,
+        "Significance": "Not Significant",
+        "arid": 9617677,
+        "rssdid": 617677.0,
+        "Zipcode": "6382",
+        "State_id": 9.0,
+        "Bank_Name": "Navy Federal Credit Union"
+    },
+    {
+        "arid_id": 8903,
+        "County": 9011,
+        "T-Value": "(0.000)",
+        "Coefficient": 0.0,
+        "Significance": "Not Significant",
+        "arid": 77197000003,
+        "rssdid": 3870679.0,
+        "Zipcode": "6382",
+        "State_id": 9.0,
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

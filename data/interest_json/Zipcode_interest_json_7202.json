@@ -1,0 +1,202 @@
+[
+    {
+        "arid_id": 1636,
+        "arid": 9146672,
+        "Coefficient": 0.341,
+        "T-Value": "(0.063)",
+        "Significance": "***",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.21,
+        "T-Value": "(0.037)",
+        "Significance": "***",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1655,
+        "arid": 9480228,
+        "Coefficient": 0.029,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 1680,
+        "arid": 9722777,
+        "Coefficient": 0.103,
+        "T-Value": "(0.161)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.05,
+        "T-Value": "(0.025)",
+        "Significance": "*",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1749,
+        "arid": 93303298,
+        "Coefficient": 0.21,
+        "T-Value": "(0.093)",
+        "Significance": "*",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 1775,
+        "arid": 750402708,
+        "Coefficient": 0.833,
+        "T-Value": "(0.118)",
+        "Significance": "***",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Embrace Home Loans, INC."
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": 0.018,
+        "T-Value": "(0.051)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1921,
+        "arid": 7208921389,
+        "Coefficient": -0.107,
+        "T-Value": "(0.114)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Home Point Financial Corporation"
+    },
+    {
+        "arid_id": 1929,
+        "arid": 7223039688,
+        "Coefficient": -0.539,
+        "T-Value": "(0.092)",
+        "Significance": "***",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": -0.028,
+        "T-Value": "(0.044)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2039,
+        "arid": 7364327855,
+        "Coefficient": 0.195,
+        "T-Value": "(0.060)",
+        "Significance": "**",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 2046,
+        "arid": 7371542226,
+        "Coefficient": -0.35,
+        "T-Value": "(0.110)",
+        "Significance": "**",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.156,
+        "T-Value": "(0.053)",
+        "Significance": "**",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2172,
+        "arid": 7731577221,
+        "Coefficient": 0.884,
+        "T-Value": "(0.085)",
+        "Significance": "***",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Gateway First Bank"
+    },
+    {
+        "arid_id": 2192,
+        "arid": 7760503625,
+        "Coefficient": 0.077,
+        "T-Value": "(0.071)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 2210,
+        "arid": 7815294275,
+        "Coefficient": -0.157,
+        "T-Value": "(0.063)",
+        "Significance": "**",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Guaranteed Rate Affinity, LLC"
+    },
+    {
+        "arid_id": 2333,
+        "arid": 73028209994,
+        "Coefficient": 0.087,
+        "T-Value": "(0.157)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Mortgage Access CORP."
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": -0.026,
+        "T-Value": "(0.071)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2389,
+        "arid": 77811300008,
+        "Coefficient": 0.393,
+        "T-Value": "(0.084)",
+        "Significance": "***",
+        "County": 34039,
+        "Zipcode": "7202",
+        "Bank_Name": "Homebridge Financial Services, INC."
+    }
+]

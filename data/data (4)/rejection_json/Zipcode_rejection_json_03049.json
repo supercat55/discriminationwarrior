@@ -1,0 +1,132 @@
+[
+    {
+        "arid_id": 4789,
+        "arid": 523521,
+        "Coefficient": -0.162,
+        "T-Value": "(0.156)",
+        "Significance": "Not Significant",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "Digital Federal Credit Union"
+    },
+    {
+        "arid_id": 5309,
+        "arid": 563829,
+        "Coefficient": 0.203,
+        "T-Value": "(0.146)",
+        "Significance": "Not Significant",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "St. Mary's Bank"
+    },
+    {
+        "arid_id": 5695,
+        "arid": 568210,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "Triangle Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.05,
+        "T-Value": "(0.062)",
+        "Significance": "Not Significant",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.1,
+        "T-Value": "(0.335)",
+        "Significance": "Not Significant",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": 0.724,
+        "T-Value": "(0.220)",
+        "Significance": "**",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.233,
+        "T-Value": "(0.166)",
+        "Significance": "Not Significant",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": 0.042,
+        "T-Value": "(0.136)",
+        "Significance": "Not Significant",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7231,
+        "arid": 342802284,
+        "Coefficient": -0.04,
+        "T-Value": "(0.047)",
+        "Significance": "Not Significant",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "Harborone Mortgage, LLC"
+    },
+    {
+        "arid_id": 7239,
+        "arid": 710464609,
+        "Coefficient": -0.025,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "Residential Mortgage Services, INC."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.232,
+        "T-Value": "(0.087)",
+        "Significance": "**",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.007,
+        "T-Value": "(0.013)",
+        "Significance": "Not Significant",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.221,
+        "T-Value": "(0.152)",
+        "Significance": "Not Significant",
+        "County": 33011,
+        "Zipcode": "03049",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

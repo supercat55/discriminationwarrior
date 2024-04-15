@@ -1,0 +1,26 @@
+[
+    {
+        "arid_id": 5309,
+        "County": 33013,
+        "T-Value": "(0.000)",
+        "Coefficient": 0.0,
+        "Significance": "Not Significant",
+        "arid": 563829,
+        "rssdid": 832694.0,
+        "Zipcode": "3263",
+        "State_id": 33.0,
+        "Bank_Name": "St. Mary's Bank"
+    },
+    {
+        "arid_id": 7247,
+        "County": 33013,
+        "T-Value": "(0.000)",
+        "Coefficient": 0.007,
+        "Significance": "***",
+        "arid": 720486480,
+        "rssdid": 3868797.0,
+        "Zipcode": "3263",
+        "State_id": 33.0,
+        "Bank_Name": "Lendus, LLC"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": -0.218,
+        "T-Value": "(0.279)",
+        "Significance": "Not Significant",
+        "County": 46103,
+        "Zipcode": "57701",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2160,
+        "arid": 7680309242,
+        "Coefficient": 0.017,
+        "T-Value": "(0.204)",
+        "Significance": "Not Significant",
+        "County": 46103,
+        "Zipcode": "57701",
+        "Bank_Name": "Cmg Mortgage, INC."
+    },
+    {
+        "arid_id": 2172,
+        "arid": 7731577221,
+        "Coefficient": 0.105,
+        "T-Value": "(0.068)",
+        "Significance": "Not Significant",
+        "County": 46103,
+        "Zipcode": "57701",
+        "Bank_Name": "Gateway First Bank"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1642,
+        "arid": 9233031,
+        "Coefficient": 0.079,
+        "T-Value": "(0.090)",
+        "Significance": "Not Significant",
+        "County": 22073,
+        "Zipcode": "71212",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 2167,
+        "arid": 7720593959,
+        "Coefficient": -0.298,
+        "T-Value": "(0.126)",
+        "Significance": "**",
+        "County": 22073,
+        "Zipcode": "71212",
+        "Bank_Name": "Standard Mortgage Corporation"
+    }
+]

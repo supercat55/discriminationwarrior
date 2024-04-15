@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 1650,
+        "arid": 9379920,
+        "Coefficient": -0.844,
+        "T-Value": "(4,195.502)",
+        "Significance": "Not Significant",
+        "County": 42079,
+        "Zipcode": "18634",
+        "Bank_Name": "First National Bank of Pennsylvania"
+    },
+    {
+        "arid_id": 1688,
+        "arid": 9817824,
+        "Coefficient": 0.271,
+        "T-Value": "(0.120)",
+        "Significance": "*",
+        "County": 42079,
+        "Zipcode": "18634",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 1758,
+        "arid": 710464609,
+        "Coefficient": -1.198,
+        "T-Value": "(4,195.546)",
+        "Significance": "Not Significant",
+        "County": 42079,
+        "Zipcode": "18634",
+        "Bank_Name": "Residential Mortgage Services, INC."
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": -0.424,
+        "T-Value": "(0.096)",
+        "Significance": "***",
+        "County": 42079,
+        "Zipcode": "18634",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1942,
+        "arid": 7232769131,
+        "Coefficient": -0.135,
+        "T-Value": "(0.122)",
+        "Significance": "Not Significant",
+        "County": 42079,
+        "Zipcode": "18634",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": -0.051,
+        "T-Value": "(0.179)",
+        "Significance": "Not Significant",
+        "County": 42079,
+        "Zipcode": "18634",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.148,
+        "T-Value": "(0.182)",
+        "Significance": "Not Significant",
+        "County": 42079,
+        "Zipcode": "18634",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2367,
+        "arid": 77505400005,
+        "Coefficient": -0.031,
+        "T-Value": "(0.057)",
+        "Significance": "Not Significant",
+        "County": 42079,
+        "Zipcode": "18634",
+        "Bank_Name": "Stearns Lending, LLC"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "arid_id": 6911,
+        "County": 34041,
+        "T-Value": "(0.025)",
+        "Coefficient": 0.108,
+        "Significance": "***",
+        "arid": 9451965,
+        "rssdid": 451965.0,
+        "Zipcode": "7832",
+        "State_id": 34.0,
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "County": 34041,
+        "T-Value": "(0.223)",
+        "Coefficient": -0.429,
+        "Significance": "*",
+        "arid": 9817824,
+        "rssdid": 817824.0,
+        "Zipcode": "7832",
+        "State_id": 34.0,
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "County": 34041,
+        "T-Value": "(0.068)",
+        "Coefficient": 0.176,
+        "Significance": "**",
+        "arid": 9852218,
+        "rssdid": 852218.0,
+        "Zipcode": "7832",
+        "State_id": 34.0,
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 8903,
+        "County": 34041,
+        "T-Value": "(0.185)",
+        "Coefficient": 0.333,
+        "Significance": "Not Significant",
+        "arid": 77197000003,
+        "rssdid": 3870679.0,
+        "Zipcode": "7832",
+        "State_id": 34.0,
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

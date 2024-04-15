@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 1282,
+        "arid": 568433,
+        "Coefficient": 0.006,
+        "T-Value": "(0.153)",
+        "Significance": "Not Significant",
+        "County": 36065,
+        "Zipcode": "13341",
+        "Bank_Name": "Americu Credit Union"
+    },
+    {
+        "arid_id": 1501,
+        "arid": 2101671,
+        "Coefficient": -0.228,
+        "T-Value": "(0.113)",
+        "Significance": "*",
+        "County": 36065,
+        "Zipcode": "13341",
+        "Bank_Name": "Adirondack Bank"
+    },
+    {
+        "arid_id": 1645,
+        "arid": 9280110,
+        "Coefficient": 0.103,
+        "T-Value": "(0.111)",
+        "Significance": "Not Significant",
+        "County": 36065,
+        "Zipcode": "13341",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 1852,
+        "arid": 5271365466,
+        "Coefficient": -0.591,
+        "T-Value": "(0.149)",
+        "Significance": "***",
+        "County": 36065,
+        "Zipcode": "13341",
+        "Bank_Name": "Ccfcu Funding, LLC"
+    }
+]

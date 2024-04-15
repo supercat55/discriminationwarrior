@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1119,
+        "arid": 562514,
+        "Coefficient": 0.346,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 26121,
+        "Zipcode": "49318",
+        "Bank_Name": "Lake Michigan Credit Union"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.115,
+        "T-Value": "(0.198)",
+        "Significance": "Not Significant",
+        "County": 26121,
+        "Zipcode": "49318",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

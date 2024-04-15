@@ -1,0 +1,302 @@
+[
+    {
+        "arid_id": 1010,
+        "arid": 523521,
+        "Coefficient": -0.204,
+        "T-Value": "(0.043)",
+        "Significance": "***",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Digital Federal Credit Union"
+    },
+    {
+        "arid_id": 1370,
+        "arid": 1702454,
+        "Coefficient": -0.276,
+        "T-Value": "(0.097)",
+        "Significance": "**",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Columbia Bank"
+    },
+    {
+        "arid_id": 1636,
+        "arid": 9146672,
+        "Coefficient": -0.299,
+        "T-Value": "(0.270)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.013,
+        "T-Value": "(0.031)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1655,
+        "arid": 9480228,
+        "Coefficient": 0.085,
+        "T-Value": "(0.077)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 1661,
+        "arid": 9504713,
+        "Coefficient": -0.067,
+        "T-Value": "(0.281)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": 0.029,
+        "T-Value": "(0.088)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 1673,
+        "arid": 9656733,
+        "Coefficient": -0.173,
+        "T-Value": "(0.085)",
+        "Significance": "*",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Mb Financial Bank, National Association"
+    },
+    {
+        "arid_id": 1680,
+        "arid": 9722777,
+        "Coefficient": -0.064,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 1688,
+        "arid": 9817824,
+        "Coefficient": -0.018,
+        "T-Value": "(0.050)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -0.15,
+        "T-Value": "(0.041)",
+        "Significance": "***",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1713,
+        "arid": 22888798,
+        "Coefficient": 0.254,
+        "T-Value": "(0.071)",
+        "Significance": "***",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 1749,
+        "arid": 93303298,
+        "Coefficient": -0.034,
+        "T-Value": "(0.068)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": 0.085,
+        "T-Value": "(0.083)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1921,
+        "arid": 7208921389,
+        "Coefficient": -0.409,
+        "T-Value": "(0.058)",
+        "Significance": "***",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Home Point Financial Corporation"
+    },
+    {
+        "arid_id": 1940,
+        "arid": 7232470039,
+        "Coefficient": -0.212,
+        "T-Value": "(0.132)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Cardinal Financial Company, Limited Partnership"
+    },
+    {
+        "arid_id": 1942,
+        "arid": 7232769131,
+        "Coefficient": -0.364,
+        "T-Value": "(0.111)",
+        "Significance": "**",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    },
+    {
+        "arid_id": 1952,
+        "arid": 7260595342,
+        "Coefficient": 0.196,
+        "T-Value": "(0.198)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": 0.045,
+        "T-Value": "(0.045)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2039,
+        "arid": 7364327855,
+        "Coefficient": 0.52,
+        "T-Value": "(0.084)",
+        "Significance": "***",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.042,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2071,
+        "arid": 7421554181,
+        "Coefficient": -0.503,
+        "T-Value": "(0.064)",
+        "Significance": "***",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": 0.277,
+        "T-Value": "(0.068)",
+        "Significance": "***",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2160,
+        "arid": 7680309242,
+        "Coefficient": -0.071,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Cmg Mortgage, INC."
+    },
+    {
+        "arid_id": 2172,
+        "arid": 7731577221,
+        "Coefficient": 0.212,
+        "T-Value": "(0.127)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Gateway First Bank"
+    },
+    {
+        "arid_id": 2210,
+        "arid": 7815294275,
+        "Coefficient": 0.31,
+        "T-Value": "(0.066)",
+        "Significance": "***",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Guaranteed Rate Affinity, LLC"
+    },
+    {
+        "arid_id": 2333,
+        "arid": 73028209994,
+        "Coefficient": 0.18,
+        "T-Value": "(0.099)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Mortgage Access CORP."
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.039,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2388,
+        "arid": 77810600004,
+        "Coefficient": -0.012,
+        "T-Value": "(0.085)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    },
+    {
+        "arid_id": 2389,
+        "arid": 77811300008,
+        "Coefficient": 0.128,
+        "T-Value": "(0.231)",
+        "Significance": "Not Significant",
+        "County": 34023,
+        "Zipcode": "8817",
+        "Bank_Name": "Homebridge Financial Services, INC."
+    }
+]

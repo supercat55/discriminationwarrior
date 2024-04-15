@@ -1,0 +1,26 @@
+[
+    {
+        "arid_id": 3102,
+        "County": 25007,
+        "T-Value": "(0.000)",
+        "Coefficient": 0.0,
+        "Significance": "Not Significant",
+        "arid": 323287,
+        "rssdid": 664206.0,
+        "Zipcode": "2539",
+        "State_id": 25.0,
+        "Bank_Name": "The Cape Cod Five Cents Savings Bank"
+    },
+    {
+        "arid_id": 6951,
+        "County": 25007,
+        "T-Value": "(0.014)",
+        "Coefficient": -0.004,
+        "Significance": "Not Significant",
+        "arid": 9722777,
+        "rssdid": 722777.0,
+        "Zipcode": "2539",
+        "State_id": 25.0,
+        "Bank_Name": "Santander Bank, N.A."
+    }
+]

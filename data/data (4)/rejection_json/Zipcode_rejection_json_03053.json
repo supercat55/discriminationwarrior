@@ -1,0 +1,162 @@
+[
+    {
+        "arid_id": 5309,
+        "arid": 563829,
+        "Coefficient": -0.207,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "St. Mary's Bank"
+    },
+    {
+        "arid_id": 5755,
+        "arid": 568375,
+        "Coefficient": 0.541,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Service Federal Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.08,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.28,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": 0.354,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.317,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": -0.127,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7231,
+        "arid": 342802284,
+        "Coefficient": -0.067,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Harborone Mortgage, LLC"
+    },
+    {
+        "arid_id": 7239,
+        "arid": 710464609,
+        "Coefficient": 0.036,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Residential Mortgage Services, INC."
+    },
+    {
+        "arid_id": 7247,
+        "arid": 720486480,
+        "Coefficient": -0.101,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Lendus, LLC"
+    },
+    {
+        "arid_id": 7690,
+        "arid": 7203702275,
+        "Coefficient": -0.009,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Fbc Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.182,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.357,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.25,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.146,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 33015,
+        "Zipcode": "03053",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]
