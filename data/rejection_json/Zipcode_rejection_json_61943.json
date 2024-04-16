@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 1437,
-        "County": 17029,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.161,
-        "Significance": "***",
         "arid": 110045,
-        "rssdid": 762447.0,
+        "Coefficient": 0.161,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17029,
         "Zipcode": "61943",
-        "State_id": 17.0,
         "Bank_Name": "First Mid Bank & Trust, National Association"
     },
     {
         "arid_id": 3265,
-        "County": 17029,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 327362,
-        "rssdid": 1222948.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17029,
         "Zipcode": "61943",
-        "State_id": 17.0,
         "Bank_Name": "Prairie State Bank And Trust"
     }
 ]

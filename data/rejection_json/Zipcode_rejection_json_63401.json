@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 331,
-        "County": 29127,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 16635,
-        "rssdid": 908553.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 29127,
         "Zipcode": "63401",
-        "State_id": 29.0,
         "Bank_Name": "Hnb National Bank"
     }
 ]

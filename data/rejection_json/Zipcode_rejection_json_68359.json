@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 2104,
-        "County": 31151,
-        "T-Value": "(0.131)",
-        "Coefficient": 0.074,
-        "Significance": "Not Significant",
         "arid": 310634,
-        "rssdid": 913856.0,
+        "Coefficient": 0.074,
+        "T-Value": "(0.131)",
+        "Significance": "Not Significant",
+        "County": 31151,
         "Zipcode": "68359",
-        "State_id": 31.0,
         "Bank_Name": "Pinnacle Bank"
     },
     {
         "arid_id": 2358,
-        "County": 31151,
-        "T-Value": "(0.151)",
-        "Coefficient": -0.5,
-        "Significance": "**",
         "arid": 313421,
-        "rssdid": 450856.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.151)",
+        "Significance": "**",
+        "County": 31151,
         "Zipcode": "68359",
-        "State_id": 31.0,
         "Bank_Name": "Union Bank And Trust Company"
     }
 ]

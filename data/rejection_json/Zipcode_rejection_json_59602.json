@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6714,
-        "County": 30049,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 2685676,
-        "rssdid": 685676.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 30049,
         "Zipcode": "59602",
-        "State_id": 30.0,
         "Bank_Name": "Opportunity Bank of Montana"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6921,
-        "County": 39015,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.286,
-        "Significance": "***",
         "arid": 9504713,
-        "rssdid": 504713.0,
+        "Coefficient": 0.286,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 39015,
         "Zipcode": "45118",
-        "State_id": 39.0,
         "Bank_Name": "U.S. Bank National Association"
     }
 ]

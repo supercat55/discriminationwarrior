@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 3519,
-        "County": 19187,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.043,
-        "Significance": "***",
         "arid": 332647,
-        "rssdid": 1387605.0,
+        "Coefficient": -0.043,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 19187,
         "Zipcode": "50532",
-        "State_id": 19.0,
         "Bank_Name": "Northwest Bank"
     },
     {
         "arid_id": 6911,
-        "County": 19187,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 19187,
         "Zipcode": "50532",
-        "State_id": 19.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

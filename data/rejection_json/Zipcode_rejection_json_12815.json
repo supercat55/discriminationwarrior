@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 355,
-        "County": 36113,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.462,
-        "Significance": "***",
         "arid": 17699,
-        "rssdid": 866000.0,
+        "Coefficient": -0.462,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 36113,
         "Zipcode": "12815",
-        "State_id": 36.0,
         "Bank_Name": "Glens Falls National Bank And Trust Company"
     }
 ]

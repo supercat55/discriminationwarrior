@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5319,
-        "County": 17085,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.256,
-        "Significance": "***",
         "arid": 564049,
-        "rssdid": 305693.0,
+        "Coefficient": -0.256,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17085,
         "Zipcode": "61001",
-        "State_id": 17.0,
         "Bank_Name": "Dupaco Community"
     }
 ]

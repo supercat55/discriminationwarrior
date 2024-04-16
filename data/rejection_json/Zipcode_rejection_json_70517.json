@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 858,
-        "County": 22099,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.087,
-        "Significance": "***",
         "arid": 39327,
-        "rssdid": 653134.0,
+        "Coefficient": 0.087,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 22099,
         "Zipcode": "70517",
-        "State_id": 22.0,
         "Bank_Name": "Farmers-merchants Bank & Trust Company"
     },
     {
         "arid_id": 1743,
-        "County": 22099,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 118484,
-        "rssdid": 223331.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 22099,
         "Zipcode": "70517",
-        "State_id": 22.0,
         "Bank_Name": "Midsouth Bank, National Association"
     }
 ]

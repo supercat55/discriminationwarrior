@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 778,
-        "County": 47077,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.231,
-        "Significance": "***",
         "arid": 38663,
-        "rssdid": 436159.0,
+        "Coefficient": 0.231,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47077,
         "Zipcode": "38368",
-        "State_id": 47.0,
         "Bank_Name": "Firstbank"
     }
 ]

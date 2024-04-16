@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5689,
-        "County": 28011,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.25,
-        "Significance": "***",
         "arid": 568187,
-        "rssdid": 858975.0,
+        "Coefficient": -0.25,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 28011,
         "Zipcode": "38773",
-        "State_id": 28.0,
         "Bank_Name": "Baxter Credit Union"
     }
 ]

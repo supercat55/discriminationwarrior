@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 289,
-        "County": 48499,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 15288,
-        "rssdid": 445955.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48499,
         "Zipcode": "75783",
-        "State_id": 48.0,
         "Bank_Name": "First National Bank of East Texas"
     }
 ]

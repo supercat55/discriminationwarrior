@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2958,
-        "County": 26165,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.213,
-        "Significance": "***",
         "arid": 320179,
-        "rssdid": 254849.0,
+        "Coefficient": -0.213,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 26165,
         "Zipcode": "49668",
-        "State_id": 26.0,
         "Bank_Name": "First Independence Bank"
     }
 ]

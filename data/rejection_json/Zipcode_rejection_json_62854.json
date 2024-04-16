@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 3472,
-        "County": 17121,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.429,
-        "Significance": "***",
         "arid": 330819,
-        "rssdid": 441078.0,
+        "Coefficient": 0.429,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17121,
         "Zipcode": "62854",
-        "State_id": 17.0,
         "Bank_Name": "Community Partners Savings Bank"
     }
 ]

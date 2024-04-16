@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 5543,
-        "County": 55111,
-        "T-Value": "(0.009)",
-        "Coefficient": 0.115,
-        "Significance": "***",
         "arid": 567190,
-        "rssdid": 734499.0,
+        "Coefficient": 0.115,
+        "T-Value": "(0.009)",
+        "Significance": "***",
+        "County": 55111,
         "Zipcode": "53588",
-        "State_id": 55.0,
         "Bank_Name": "Summit Credit Union"
     },
     {
         "arid_id": 6911,
-        "County": 55111,
-        "T-Value": "(0.115)",
-        "Coefficient": -0.2,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": -0.2,
+        "T-Value": "(0.115)",
+        "Significance": "Not Significant",
+        "County": 55111,
         "Zipcode": "53588",
-        "State_id": 55.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

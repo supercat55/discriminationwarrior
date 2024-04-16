@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6911,
-        "County": 32019,
-        "T-Value": "(0.047)",
-        "Coefficient": 0.029,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.029,
+        "T-Value": "(0.047)",
+        "Significance": "Not Significant",
+        "County": 32019,
         "Zipcode": "89447",
-        "State_id": 32.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6921,
-        "County": 32019,
-        "T-Value": "(0.041)",
-        "Coefficient": 0.235,
-        "Significance": "***",
         "arid": 9504713,
-        "rssdid": 504713.0,
+        "Coefficient": 0.235,
+        "T-Value": "(0.041)",
+        "Significance": "***",
+        "County": 32019,
         "Zipcode": "89447",
-        "State_id": 32.0,
         "Bank_Name": "U.S. Bank National Association"
     },
     {
         "arid_id": 7859,
-        "County": 32019,
-        "T-Value": "(0.061)",
-        "Coefficient": 0.132,
-        "Significance": "*",
         "arid": 7264599244,
-        "rssdid": 4438209.0,
+        "Coefficient": 0.132,
+        "T-Value": "(0.061)",
+        "Significance": "*",
+        "County": 32019,
         "Zipcode": "89447",
-        "State_id": 32.0,
         "Bank_Name": "Loandepot.com, LLC"
     }
 ]

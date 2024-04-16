@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 1463,
-        "County": 40111,
-        "T-Value": "(0.069)",
-        "Coefficient": 0.368,
-        "Significance": "***",
         "arid": 111001,
-        "rssdid": 634955.0,
+        "Coefficient": 0.368,
+        "T-Value": "(0.069)",
+        "Significance": "***",
+        "County": 40111,
         "Zipcode": "74445",
-        "State_id": 40.0,
         "Bank_Name": "The First National Bank And Trust Company of Okmulgee"
     },
     {
         "arid_id": 8360,
-        "County": 40111,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 7720506617,
-        "rssdid": 3917499.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 40111,
         "Zipcode": "74445",
-        "State_id": 40.0,
         "Bank_Name": "United Built Homes, L.L.C."
     }
 ]

@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 5265,
-        "County": 16083,
-        "T-Value": "(0.007)",
-        "Coefficient": -0.047,
-        "Significance": "***",
         "arid": 563194,
-        "rssdid": 322793.0,
+        "Coefficient": -0.047,
+        "T-Value": "(0.007)",
+        "Significance": "***",
+        "County": 16083,
         "Zipcode": "83328",
-        "State_id": 16.0,
         "Bank_Name": "Idaho Central"
     },
     {
         "arid_id": 6911,
-        "County": 16083,
-        "T-Value": "(0.023)",
-        "Coefficient": 0.175,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.175,
+        "T-Value": "(0.023)",
+        "Significance": "***",
+        "County": 16083,
         "Zipcode": "83328",
-        "State_id": 16.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 8012,
-        "County": 16083,
-        "T-Value": "(0.082)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 7382750395,
-        "rssdid": 3870651.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.082)",
+        "Significance": "***",
+        "County": 16083,
         "Zipcode": "83328",
-        "State_id": 16.0,
         "Bank_Name": "United Wholesale Mortgage, LLC"
     }
 ]

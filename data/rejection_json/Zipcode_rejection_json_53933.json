@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2157,
-        "County": 55027,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 311236,
-        "rssdid": 528849.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 55027,
         "Zipcode": "53933",
-        "State_id": 55.0,
         "Bank_Name": "Horicon Bank"
     }
 ]

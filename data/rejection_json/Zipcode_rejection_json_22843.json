@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 5200,
-        "County": 51015,
-        "T-Value": "(0.011)",
-        "Coefficient": -0.01,
-        "Significance": "Not Significant",
         "arid": 562474,
-        "rssdid": 678098.0,
+        "Coefficient": -0.01,
+        "T-Value": "(0.011)",
+        "Significance": "Not Significant",
+        "County": 51015,
         "Zipcode": "22843",
-        "State_id": 51.0,
         "Bank_Name": "Dupont Community"
     },
     {
         "arid_id": 6963,
-        "County": 51015,
-        "T-Value": "(0.024)",
-        "Coefficient": -0.52,
-        "Significance": "***",
         "arid": 9852320,
-        "rssdid": 852320.0,
+        "Coefficient": -0.52,
+        "T-Value": "(0.024)",
+        "Significance": "***",
+        "County": 51015,
         "Zipcode": "22843",
-        "State_id": 51.0,
         "Bank_Name": "Truist Bank"
     }
 ]

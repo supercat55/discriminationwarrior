@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 689,
-        "County": 42033,
-        "T-Value": "(0.016)",
-        "Coefficient": 0.018,
-        "Significance": "Not Significant",
         "arid": 37468,
-        "rssdid": 42420.0,
+        "Coefficient": 0.018,
+        "T-Value": "(0.016)",
+        "Significance": "Not Significant",
+        "County": 42033,
         "Zipcode": "16858",
-        "State_id": 42.0,
         "Bank_Name": "First Commonwealth Bank"
     },
     {
         "arid_id": 2150,
-        "County": 42033,
-        "T-Value": "(0.016)",
-        "Coefficient": -0.103,
-        "Significance": "***",
         "arid": 311124,
-        "rssdid": 936426.0,
+        "Coefficient": -0.103,
+        "T-Value": "(0.016)",
+        "Significance": "***",
+        "County": 42033,
         "Zipcode": "16858",
-        "State_id": 42.0,
         "Bank_Name": "S&t Bank"
     },
     {
         "arid_id": 2376,
-        "County": 42033,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "***",
         "arid": 313876,
-        "rssdid": 399517.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 42033,
         "Zipcode": "16858",
-        "State_id": 42.0,
         "Bank_Name": "Cnb Bank"
     }
 ]

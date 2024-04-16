@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 1432,
-        "County": 45027,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 59988,
-        "rssdid": 67889.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 45027,
         "Zipcode": "29162",
-        "State_id": 45.0,
         "Bank_Name": "Safe Federal Credit Union"
     }
 ]

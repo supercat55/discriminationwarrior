@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 2306,
-        "County": 18023,
-        "T-Value": "(0.021)",
-        "Coefficient": -0.064,
-        "Significance": "**",
         "arid": 312828,
-        "rssdid": 423449.0,
+        "Coefficient": -0.064,
+        "T-Value": "(0.021)",
+        "Significance": "**",
+        "County": 18023,
         "Zipcode": "46041",
-        "State_id": 18.0,
         "Bank_Name": "The Farmers Bank, Frankfort, Indiana"
     },
     {
         "arid_id": 6894,
-        "County": 18023,
-        "T-Value": "(0.046)",
-        "Coefficient": 0.092,
-        "Significance": "*",
         "arid": 9233031,
-        "rssdid": 233031.0,
+        "Coefficient": 0.092,
+        "T-Value": "(0.046)",
+        "Significance": "*",
+        "County": 18023,
         "Zipcode": "46041",
-        "State_id": 18.0,
         "Bank_Name": "Regions Bank"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2492,
-        "County": 1059,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.3,
-        "Significance": "***",
         "arid": 315310,
-        "rssdid": 594433.0,
+        "Coefficient": -0.3,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 1059,
         "Zipcode": "35582",
-        "State_id": 1.0,
         "Bank_Name": "Cb&s Bank, INC."
     }
 ]

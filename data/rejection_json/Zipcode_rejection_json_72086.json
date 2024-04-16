@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6911,
-        "County": 5085,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.2,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.2,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5085,
         "Zipcode": "72086",
-        "State_id": 5.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6914,
-        "County": 5085,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 9476810,
-        "rssdid": 476810.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5085,
         "Zipcode": "72086",
-        "State_id": 5.0,
         "Bank_Name": "Citibank, National Association"
     }
 ]

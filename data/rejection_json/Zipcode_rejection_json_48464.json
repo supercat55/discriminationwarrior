@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6911,
-        "County": 26087,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 26087,
         "Zipcode": "48464",
-        "State_id": 26.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 4648,
-        "County": 36007,
-        "T-Value": "(0.015)",
-        "Coefficient": 0.024,
-        "Significance": "Not Significant",
         "arid": 517429,
-        "rssdid": 562786.0,
+        "Coefficient": 0.024,
+        "T-Value": "(0.015)",
+        "Significance": "Not Significant",
+        "County": 36007,
         "Zipcode": "13760",
-        "State_id": 36.0,
         "Bank_Name": "Visions"
     },
     {
         "arid_id": 6911,
-        "County": 36007,
-        "T-Value": "(0.055)",
-        "Coefficient": -0.081,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": -0.081,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 36007,
         "Zipcode": "13760",
-        "State_id": 36.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6920,
-        "County": 36007,
-        "T-Value": "(0.053)",
-        "Coefficient": -0.309,
-        "Significance": "***",
         "arid": 9501105,
-        "rssdid": 501105.0,
+        "Coefficient": -0.309,
+        "T-Value": "(0.053)",
+        "Significance": "***",
+        "County": 36007,
         "Zipcode": "13760",
-        "State_id": 36.0,
         "Bank_Name": "Manufacturers And Traders Trust Company"
     }
 ]

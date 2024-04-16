@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 7196,
-        "County": 37007,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.231,
-        "Significance": "***",
         "arid": 91189117,
-        "rssdid": 1189117.0,
+        "Coefficient": -0.231,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37007,
         "Zipcode": "28170",
-        "State_id": 37.0,
         "Bank_Name": "State Employees'"
     }
 ]

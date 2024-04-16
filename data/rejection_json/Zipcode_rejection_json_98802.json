@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 431,
-        "County": 53017,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.4,
-        "Significance": "***",
         "arid": 31265,
-        "rssdid": 574976.0,
+        "Coefficient": 0.4,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 53017,
         "Zipcode": "98802",
-        "State_id": 53.0,
         "Bank_Name": "Cashmere Valley Bank"
     },
     {
         "arid_id": 3337,
-        "County": 53017,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 328489,
-        "rssdid": 352772.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 53017,
         "Zipcode": "98802",
-        "State_id": 53.0,
         "Bank_Name": "Banner Bank"
     }
 ]

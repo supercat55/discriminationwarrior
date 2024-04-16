@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2104,
-        "County": 31037,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.205,
-        "Significance": "***",
         "arid": 310634,
-        "rssdid": 913856.0,
+        "Coefficient": 0.205,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 31037,
         "Zipcode": "68629",
-        "State_id": 31.0,
         "Bank_Name": "Pinnacle Bank"
     }
 ]

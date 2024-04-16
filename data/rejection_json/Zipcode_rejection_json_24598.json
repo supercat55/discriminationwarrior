@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 2028,
-        "County": 51083,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.667,
-        "Significance": "***",
         "arid": 294522,
-        "rssdid": 94522.0,
+        "Coefficient": 0.667,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51083,
         "Zipcode": "24598",
-        "State_id": 51.0,
         "Bank_Name": "Benchmark Community Bank"
     },
     {
         "arid_id": 6915,
-        "County": 51083,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 9480228,
-        "rssdid": 480228.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51083,
         "Zipcode": "24598",
-        "State_id": 51.0,
         "Bank_Name": "Bank of America, National Association"
     },
     {
         "arid_id": 6963,
-        "County": 51083,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.6,
-        "Significance": "***",
         "arid": 9852320,
-        "rssdid": 852320.0,
+        "Coefficient": 0.6,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51083,
         "Zipcode": "24598",
-        "State_id": 51.0,
         "Bank_Name": "Truist Bank"
     }
 ]

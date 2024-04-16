@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 268,
-        "County": 48093,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.167,
-        "Significance": "***",
         "arid": 14246,
-        "rssdid": 949556.0,
+        "Coefficient": -0.167,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48093,
         "Zipcode": "76444",
-        "State_id": 48.0,
         "Bank_Name": "Comanche National Bank"
     }
 ]

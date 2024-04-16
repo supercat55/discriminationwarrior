@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 2408,
-        "County": 29071,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 314334,
-        "rssdid": 562058.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 29071,
         "Zipcode": "63077",
-        "State_id": 29.0,
         "Bank_Name": "United Bank of Union"
     },
     {
         "arid_id": 3840,
-        "County": 29071,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 335543,
-        "rssdid": 2913702.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 29071,
         "Zipcode": "63077",
-        "State_id": 29.0,
         "Bank_Name": "Bank of Franklin County"
     }
 ]

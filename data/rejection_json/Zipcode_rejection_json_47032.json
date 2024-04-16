@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6151,
-        "County": 18029,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 1704354,
-        "rssdid": 738572.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18029,
         "Zipcode": "47032",
-        "State_id": 18.0,
         "Bank_Name": "Dearborn Savings Bank"
     }
 ]

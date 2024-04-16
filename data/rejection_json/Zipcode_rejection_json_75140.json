@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 8402,
-        "County": 48467,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 7752921540,
-        "rssdid": 3845828.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48467,
         "Zipcode": "75140",
-        "State_id": 48.0,
         "Bank_Name": "Nationstar Mortgage LLC"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2270,
-        "County": 17039,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.059,
-        "Significance": "***",
         "arid": 312396,
-        "rssdid": 490535.0,
+        "Coefficient": 0.059,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17039,
         "Zipcode": "61842",
-        "State_id": 17.0,
         "Bank_Name": "State Bank of Lincoln"
     }
 ]

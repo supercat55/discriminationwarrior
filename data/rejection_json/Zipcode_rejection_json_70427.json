@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 3446,
-        "County": 22117,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.158,
-        "Significance": "***",
         "arid": 330270,
-        "rssdid": 1014376.0,
+        "Coefficient": 0.158,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 22117,
         "Zipcode": "70427",
-        "State_id": 22.0,
         "Bank_Name": "Citizens Savings Bank"
     }
 ]

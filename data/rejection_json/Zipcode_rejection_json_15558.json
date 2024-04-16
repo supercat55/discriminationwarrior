@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2148,
-        "County": 42111,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.376,
-        "Significance": "***",
         "arid": 311112,
-        "rssdid": 212522.0,
+        "Coefficient": -0.376,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 42111,
         "Zipcode": "15558",
-        "State_id": 42.0,
         "Bank_Name": "Somerset Trust Company"
     }
 ]

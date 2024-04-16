@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 3939,
-        "County": 1009,
-        "T-Value": "(0.037)",
-        "Coefficient": -0.109,
-        "Significance": "**",
         "arid": 357540,
-        "rssdid": 3217331.0,
+        "Coefficient": -0.109,
+        "T-Value": "(0.037)",
+        "Significance": "**",
+        "County": 1009,
         "Zipcode": "35031",
-        "State_id": 1.0,
         "Bank_Name": "The Hometown Bank of Alabama"
     },
     {
         "arid_id": 6894,
-        "County": 1009,
-        "T-Value": "(0.081)",
-        "Coefficient": -0.424,
-        "Significance": "***",
         "arid": 9233031,
-        "rssdid": 233031.0,
+        "Coefficient": -0.424,
+        "T-Value": "(0.081)",
+        "Significance": "***",
+        "County": 1009,
         "Zipcode": "35031",
-        "State_id": 1.0,
         "Bank_Name": "Regions Bank"
     }
 ]

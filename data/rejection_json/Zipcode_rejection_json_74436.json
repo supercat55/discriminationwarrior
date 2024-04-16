@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6901,
-        "County": 40101,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.061,
-        "Significance": "***",
         "arid": 9339858,
-        "rssdid": 339858.0,
+        "Coefficient": -0.061,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 40101,
         "Zipcode": "74436",
-        "State_id": 40.0,
         "Bank_Name": "Bokf, National Association"
     }
 ]

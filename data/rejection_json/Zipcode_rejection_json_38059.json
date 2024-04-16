@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 286,
-        "County": 47045,
-        "T-Value": "(0.146)",
-        "Coefficient": 0.321,
-        "Significance": "*",
         "arid": 15263,
-        "rssdid": 133850.0,
+        "Coefficient": 0.321,
+        "T-Value": "(0.146)",
+        "Significance": "*",
+        "County": 47045,
         "Zipcode": "38059",
-        "State_id": 47.0,
         "Bank_Name": "First Citizens National Bank"
     },
     {
         "arid_id": 6894,
-        "County": 47045,
-        "T-Value": "(0.107)",
-        "Coefficient": -0.009,
-        "Significance": "Not Significant",
         "arid": 9233031,
-        "rssdid": 233031.0,
+        "Coefficient": -0.009,
+        "T-Value": "(0.107)",
+        "Significance": "Not Significant",
+        "County": 47045,
         "Zipcode": "38059",
-        "State_id": 47.0,
         "Bank_Name": "Regions Bank"
     }
 ]

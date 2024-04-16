@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 320,
-        "County": 48253,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.074,
-        "Significance": "***",
         "arid": 16091,
-        "rssdid": 366359.0,
+        "Coefficient": -0.074,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48253,
         "Zipcode": "79520",
-        "State_id": 48.0,
         "Bank_Name": "The First National Bank of Anson"
     }
 ]

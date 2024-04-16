@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2655,
-        "County": 48477,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.038,
-        "Significance": "***",
         "arid": 316753,
-        "rssdid": 261360.0,
+        "Coefficient": -0.038,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48477,
         "Zipcode": "77880",
-        "State_id": 48.0,
         "Bank_Name": "Citizens State Bank"
     }
 ]

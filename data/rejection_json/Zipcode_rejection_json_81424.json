@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6911,
-        "County": 8085,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.111,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.111,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 8085,
         "Zipcode": "81424",
-        "State_id": 8.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 8402,
-        "County": 8085,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 7752921540,
-        "rssdid": 3845828.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 8085,
         "Zipcode": "81424",
-        "State_id": 8.0,
         "Bank_Name": "Nationstar Mortgage LLC"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6894,
-        "County": 1019,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 9233031,
-        "rssdid": 233031.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 1019,
         "Zipcode": "35960",
-        "State_id": 1.0,
         "Bank_Name": "Regions Bank"
     }
 ]

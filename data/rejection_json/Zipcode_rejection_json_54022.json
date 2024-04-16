@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 343,
-        "County": 55093,
-        "T-Value": "(0.029)",
-        "Coefficient": -0.269,
-        "Significance": "***",
         "arid": 17087,
-        "rssdid": 956255.0,
+        "Coefficient": -0.269,
+        "T-Value": "(0.029)",
+        "Significance": "***",
+        "County": 55093,
         "Zipcode": "54022",
-        "State_id": 55.0,
         "Bank_Name": "The First National Bank of River Falls"
     },
     {
         "arid_id": 2665,
-        "County": 55093,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 316840,
-        "rssdid": 955753.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 55093,
         "Zipcode": "54022",
-        "State_id": 55.0,
         "Bank_Name": "River Falls State Bank"
     },
     {
         "arid_id": 5488,
-        "County": 55093,
-        "T-Value": "(0.012)",
-        "Coefficient": -0.109,
-        "Significance": "***",
         "arid": 566742,
-        "rssdid": 591599.0,
+        "Coefficient": -0.109,
+        "T-Value": "(0.012)",
+        "Significance": "***",
+        "County": 55093,
         "Zipcode": "54022",
-        "State_id": 55.0,
         "Bank_Name": "Westconsin Credit Union"
     }
 ]

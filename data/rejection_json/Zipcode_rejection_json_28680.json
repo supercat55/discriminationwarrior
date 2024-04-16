@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6911,
-        "County": 37023,
-        "T-Value": "(0.122)",
-        "Coefficient": 0.628,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.628,
+        "T-Value": "(0.122)",
+        "Significance": "***",
+        "County": 37023,
         "Zipcode": "28680",
-        "State_id": 37.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6963,
-        "County": 37023,
-        "T-Value": "(0.010)",
-        "Coefficient": 0.188,
-        "Significance": "***",
         "arid": 9852320,
-        "rssdid": 852320.0,
+        "Coefficient": 0.188,
+        "T-Value": "(0.010)",
+        "Significance": "***",
+        "County": 37023,
         "Zipcode": "28680",
-        "State_id": 37.0,
         "Bank_Name": "Truist Bank"
     },
     {
         "arid_id": 7196,
-        "County": 37023,
-        "T-Value": "(0.027)",
-        "Coefficient": 0.104,
-        "Significance": "***",
         "arid": 91189117,
-        "rssdid": 1189117.0,
+        "Coefficient": 0.104,
+        "T-Value": "(0.027)",
+        "Significance": "***",
+        "County": 37023,
         "Zipcode": "28680",
-        "State_id": 37.0,
         "Bank_Name": "State Employees'"
     }
 ]

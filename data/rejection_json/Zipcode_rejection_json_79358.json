@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 560,
-        "County": 48219,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 33304,
-        "rssdid": 1006951.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48219,
         "Zipcode": "79358",
-        "State_id": 48.0,
         "Bank_Name": "Aimbank"
     },
     {
         "arid_id": 6942,
-        "County": 48219,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 9664756,
-        "rssdid": 664756.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48219,
         "Zipcode": "79358",
-        "State_id": 48.0,
         "Bank_Name": "Prosperity Bank"
     }
 ]

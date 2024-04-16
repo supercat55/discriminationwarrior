@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 3519,
-        "County": 19041,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 332647,
-        "rssdid": 1387605.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 19041,
         "Zipcode": "51301",
-        "State_id": 19.0,
         "Bank_Name": "Northwest Bank"
     }
 ]

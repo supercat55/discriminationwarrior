@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 1289,
-        "County": 47003,
-        "T-Value": "(0.023)",
-        "Coefficient": 0.077,
-        "Significance": "**",
         "arid": 57397,
-        "rssdid": 290986.0,
+        "Coefficient": 0.077,
+        "T-Value": "(0.023)",
+        "Significance": "**",
+        "County": 47003,
         "Zipcode": "37183",
-        "State_id": 47.0,
         "Bank_Name": "Ascend Federal Credit Union"
     },
     {
         "arid_id": 5633,
-        "County": 47003,
-        "T-Value": "(0.016)",
-        "Coefficient": -0.091,
-        "Significance": "***",
         "arid": 567748,
-        "rssdid": 539498.0,
+        "Coefficient": -0.091,
+        "T-Value": "(0.016)",
+        "Significance": "***",
+        "County": 47003,
         "Zipcode": "37183",
-        "State_id": 47.0,
         "Bank_Name": "Heritage South Community Cu"
     },
     {
         "arid_id": 6894,
-        "County": 47003,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.571,
-        "Significance": "***",
         "arid": 9233031,
-        "rssdid": 233031.0,
+        "Coefficient": 0.571,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47003,
         "Zipcode": "37183",
-        "State_id": 47.0,
         "Bank_Name": "Regions Bank"
     }
 ]

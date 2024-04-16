@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 346,
-        "County": 28075,
-        "T-Value": "(0.074)",
-        "Coefficient": 0.233,
-        "Significance": "**",
         "arid": 17266,
-        "rssdid": 69333.0,
+        "Coefficient": 0.233,
+        "T-Value": "(0.074)",
+        "Significance": "**",
+        "County": 28075,
         "Zipcode": "39335",
-        "State_id": 28.0,
         "Bank_Name": "The Citizens National Bank of Meridian"
     },
     {
         "arid_id": 6894,
-        "County": 28075,
-        "T-Value": "(0.078)",
-        "Coefficient": 0.185,
-        "Significance": "**",
         "arid": 9233031,
-        "rssdid": 233031.0,
+        "Coefficient": 0.185,
+        "T-Value": "(0.078)",
+        "Significance": "**",
+        "County": 28075,
         "Zipcode": "39335",
-        "State_id": 28.0,
         "Bank_Name": "Regions Bank"
     }
 ]

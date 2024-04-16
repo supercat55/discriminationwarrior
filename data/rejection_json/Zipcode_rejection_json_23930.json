@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6875,
-        "County": 51135,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 2991621,
-        "rssdid": 991621.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51135,
         "Zipcode": "23930",
-        "State_id": 51.0,
         "Bank_Name": "Citizens Bank And Trust Company"
     }
 ]

@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 277,
-        "County": 20169,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.375,
-        "Significance": "***",
         "arid": 14742,
-        "rssdid": 474759.0,
+        "Coefficient": 0.375,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 20169,
         "Zipcode": "67416",
-        "State_id": 20.0,
         "Bank_Name": "Sunflower Bank, National Association"
     },
     {
         "arid_id": 2617,
-        "County": 20169,
-        "T-Value": "(0.140)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 316402,
-        "rssdid": 1016259.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.140)",
+        "Significance": "***",
+        "County": 20169,
         "Zipcode": "67416",
-        "State_id": 20.0,
         "Bank_Name": "The Bennington State Bank"
     },
     {
         "arid_id": 7182,
-        "County": 20169,
-        "T-Value": "(0.115)",
-        "Coefficient": 0.333,
-        "Significance": "**",
         "arid": 24210227,
-        "rssdid": 4210227.0,
+        "Coefficient": 0.333,
+        "T-Value": "(0.115)",
+        "Significance": "**",
+        "County": 20169,
         "Zipcode": "67416",
-        "State_id": 20.0,
         "Bank_Name": "Nbh Bank"
     }
 ]

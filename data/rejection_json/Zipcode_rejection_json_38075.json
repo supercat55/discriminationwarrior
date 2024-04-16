@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6894,
-        "County": 47069,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.143,
-        "Significance": "***",
         "arid": 9233031,
-        "rssdid": 233031.0,
+        "Coefficient": 0.143,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47069,
         "Zipcode": "38075",
-        "State_id": 47.0,
         "Bank_Name": "Regions Bank"
     },
     {
         "arid_id": 6911,
-        "County": 47069,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47069,
         "Zipcode": "38075",
-        "State_id": 47.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

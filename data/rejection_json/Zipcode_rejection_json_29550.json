@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5026,
-        "County": 45031,
-        "T-Value": "(0.039)",
-        "Coefficient": -0.333,
-        "Significance": "***",
         "arid": 560686,
-        "rssdid": 497990.0,
+        "Coefficient": -0.333,
+        "T-Value": "(0.039)",
+        "Significance": "***",
+        "County": 45031,
         "Zipcode": "29550",
-        "State_id": 45.0,
         "Bank_Name": "Spc Credit Union"
     }
 ]

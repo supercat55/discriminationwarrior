@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 5681,
-        "County": 47163,
-        "T-Value": "(0.023)",
-        "Coefficient": 0.148,
-        "Significance": "***",
         "arid": 568095,
-        "rssdid": 263391.0,
+        "Coefficient": 0.148,
+        "T-Value": "(0.023)",
+        "Significance": "***",
+        "County": 47163,
         "Zipcode": "37663",
-        "State_id": 47.0,
         "Bank_Name": "Eastman"
     },
     {
         "arid_id": 6894,
-        "County": 47163,
-        "T-Value": "(0.076)",
-        "Coefficient": -0.319,
-        "Significance": "***",
         "arid": 9233031,
-        "rssdid": 233031.0,
+        "Coefficient": -0.319,
+        "T-Value": "(0.076)",
+        "Significance": "***",
+        "County": 47163,
         "Zipcode": "37663",
-        "State_id": 47.0,
         "Bank_Name": "Regions Bank"
     },
     {
         "arid_id": 6963,
-        "County": 47163,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9852320,
-        "rssdid": 852320.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 47163,
         "Zipcode": "37663",
-        "State_id": 47.0,
         "Bank_Name": "Truist Bank"
     }
 ]

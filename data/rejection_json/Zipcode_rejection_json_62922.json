@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 399,
-        "County": 17199,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 19408,
-        "rssdid": 375043.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17199,
         "Zipcode": "62922",
-        "State_id": 17.0,
         "Bank_Name": "Peoples National Bank , N.A."
     },
     {
         "arid_id": 2160,
-        "County": 17199,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 311299,
-        "rssdid": 856346.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17199,
         "Zipcode": "62922",
-        "State_id": 17.0,
         "Bank_Name": "Farmers State Bank of Alto Pass"
     },
     {
         "arid_id": 6921,
-        "County": 17199,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 9504713,
-        "rssdid": 504713.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17199,
         "Zipcode": "62922",
-        "State_id": 17.0,
         "Bank_Name": "U.S. Bank National Association"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6960,
-        "County": 42051,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.014,
-        "Significance": "***",
         "arid": 9817824,
-        "rssdid": 817824.0,
+        "Coefficient": 0.014,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 42051,
         "Zipcode": "15468",
-        "State_id": 42.0,
         "Bank_Name": "Pnc Bank, National Association"
     }
 ]

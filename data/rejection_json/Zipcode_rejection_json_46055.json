@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 3508,
-        "County": 18059,
-        "T-Value": "(0.179)",
-        "Coefficient": 0.7,
-        "Significance": "***",
         "arid": 332296,
-        "rssdid": 911973.0,
+        "Coefficient": 0.7,
+        "T-Value": "(0.179)",
+        "Significance": "***",
+        "County": 18059,
         "Zipcode": "46055",
-        "State_id": 18.0,
         "Bank_Name": "Union Savings Bank"
     },
     {
         "arid_id": 6962,
-        "County": 18059,
-        "T-Value": "(0.365)",
-        "Coefficient": 0.5,
-        "Significance": "Not Significant",
         "arid": 9852218,
-        "rssdid": 852218.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.365)",
+        "Significance": "Not Significant",
+        "County": 18059,
         "Zipcode": "46055",
-        "State_id": 18.0,
         "Bank_Name": "Jpmorgan Chase Bank, National Association"
     },
     {
         "arid_id": 7859,
-        "County": 18059,
-        "T-Value": "(0.063)",
-        "Coefficient": 0.288,
-        "Significance": "***",
         "arid": 7264599244,
-        "rssdid": 4438209.0,
+        "Coefficient": 0.288,
+        "T-Value": "(0.063)",
+        "Significance": "***",
+        "County": 18059,
         "Zipcode": "46055",
-        "State_id": 18.0,
         "Bank_Name": "Loandepot.com, LLC"
     }
 ]

@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 3471,
-        "County": 16017,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 330788,
-        "rssdid": 2634191.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 16017,
         "Zipcode": "83822",
-        "State_id": 16.0,
         "Bank_Name": "Glacier Bank"
     },
     {
         "arid_id": 6911,
-        "County": 16017,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.509,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": -0.509,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 16017,
         "Zipcode": "83822",
-        "State_id": 16.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

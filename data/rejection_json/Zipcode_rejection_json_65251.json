@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6740,
-        "County": 29027,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.667,
-        "Significance": "***",
         "arid": 2719656,
-        "rssdid": 719656.0,
+        "Coefficient": 0.667,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 29027,
         "Zipcode": "65251",
-        "State_id": 29.0,
         "Bank_Name": "The Callaway Bank"
     }
 ]

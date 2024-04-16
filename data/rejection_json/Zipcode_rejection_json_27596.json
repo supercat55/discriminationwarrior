@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6911,
-        "County": 37069,
-        "T-Value": "(0.080)",
-        "Coefficient": 0.441,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.441,
+        "T-Value": "(0.080)",
+        "Significance": "***",
+        "County": 37069,
         "Zipcode": "27596",
-        "State_id": 37.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6915,
-        "County": 37069,
-        "T-Value": "(0.126)",
-        "Coefficient": -0.286,
-        "Significance": "*",
         "arid": 9480228,
-        "rssdid": 480228.0,
+        "Coefficient": -0.286,
+        "T-Value": "(0.126)",
+        "Significance": "*",
+        "County": 37069,
         "Zipcode": "27596",
-        "State_id": 37.0,
         "Bank_Name": "Bank of America, National Association"
     },
     {
         "arid_id": 7196,
-        "County": 37069,
-        "T-Value": "(0.023)",
-        "Coefficient": 0.076,
-        "Significance": "**",
         "arid": 91189117,
-        "rssdid": 1189117.0,
+        "Coefficient": 0.076,
+        "T-Value": "(0.023)",
+        "Significance": "**",
+        "County": 37069,
         "Zipcode": "27596",
-        "State_id": 37.0,
         "Bank_Name": "State Employees'"
     }
 ]

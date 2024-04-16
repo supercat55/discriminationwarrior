@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6911,
-        "County": 51143,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51143,
         "Zipcode": "24549",
-        "State_id": 51.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6918,
-        "County": 51143,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9491224,
-        "rssdid": 491224.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51143,
         "Zipcode": "24549",
-        "State_id": 51.0,
         "Bank_Name": "First-citizens Bank & Trust Company"
     },
     {
         "arid_id": 6963,
-        "County": 51143,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.332,
-        "Significance": "***",
         "arid": 9852320,
-        "rssdid": 852320.0,
+        "Coefficient": 0.332,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51143,
         "Zipcode": "24549",
-        "State_id": 51.0,
         "Bank_Name": "Truist Bank"
     }
 ]

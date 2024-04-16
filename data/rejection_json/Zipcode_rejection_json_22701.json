@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6911,
-        "County": 51047,
-        "T-Value": "(0.049)",
-        "Coefficient": 0.104,
-        "Significance": "*",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.104,
+        "T-Value": "(0.049)",
+        "Significance": "*",
+        "County": 51047,
         "Zipcode": "22701",
-        "State_id": 51.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 7283,
-        "County": 51047,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 750402708,
-        "rssdid": 3246939.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51047,
         "Zipcode": "22701",
-        "State_id": 51.0,
         "Bank_Name": "Embrace Home Loans, INC."
     },
     {
         "arid_id": 8903,
-        "County": 51047,
-        "T-Value": "(0.062)",
-        "Coefficient": -0.353,
-        "Significance": "***",
         "arid": 77197000003,
-        "rssdid": 3870679.0,
+        "Coefficient": -0.353,
+        "T-Value": "(0.062)",
+        "Significance": "***",
+        "County": 51047,
         "Zipcode": "22701",
-        "State_id": 51.0,
         "Bank_Name": "Quicken Loans, LLC"
     }
 ]

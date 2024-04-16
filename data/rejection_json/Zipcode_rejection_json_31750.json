@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 3045,
-        "County": 13017,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.107,
-        "Significance": "***",
         "arid": 322257,
-        "rssdid": 491934.0,
+        "Coefficient": 0.107,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 13017,
         "Zipcode": "31750",
-        "State_id": 13.0,
         "Bank_Name": "Colony Bank"
     }
 ]

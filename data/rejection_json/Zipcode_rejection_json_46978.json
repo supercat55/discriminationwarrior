@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 5968,
-        "County": 18017,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.8,
-        "Significance": "***",
         "arid": 975633,
-        "rssdid": 75633.0,
+        "Coefficient": 0.8,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 18017,
         "Zipcode": "46978",
-        "State_id": 18.0,
         "Bank_Name": "Bmo Harris Bank National Association"
     },
     {
         "arid_id": 6063,
-        "County": 18017,
-        "T-Value": "(0.097)",
-        "Coefficient": -0.102,
-        "Significance": "Not Significant",
         "arid": 1702578,
-        "rssdid": 32971.0,
+        "Coefficient": -0.102,
+        "T-Value": "(0.097)",
+        "Significance": "Not Significant",
+        "County": 18017,
         "Zipcode": "46978",
-        "State_id": 18.0,
         "Bank_Name": "Security Federal Savings Bank"
     },
     {
         "arid_id": 6960,
-        "County": 18017,
-        "T-Value": "(0.187)",
-        "Coefficient": -0.077,
-        "Significance": "Not Significant",
         "arid": 9817824,
-        "rssdid": 817824.0,
+        "Coefficient": -0.077,
+        "T-Value": "(0.187)",
+        "Significance": "Not Significant",
+        "County": 18017,
         "Zipcode": "46978",
-        "State_id": 18.0,
         "Bank_Name": "Pnc Bank, National Association"
     }
 ]

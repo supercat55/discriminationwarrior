@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 2067,
-        "County": 39147,
-        "T-Value": "(0.187)",
-        "Coefficient": 0.5,
-        "Significance": "**",
         "arid": 310255,
-        "rssdid": 564324.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.187)",
+        "Significance": "**",
+        "County": 39147,
         "Zipcode": "44807",
-        "State_id": 39.0,
         "Bank_Name": "The Old Fort Banking Company"
     },
     {
         "arid_id": 6952,
-        "County": 39147,
-        "T-Value": "(0.187)",
-        "Coefficient": -0.179,
-        "Significance": "Not Significant",
         "arid": 9723112,
-        "rssdid": 723112.0,
+        "Coefficient": -0.179,
+        "T-Value": "(0.187)",
+        "Significance": "Not Significant",
+        "County": 39147,
         "Zipcode": "44807",
-        "State_id": 39.0,
         "Bank_Name": "Fifth Third Bank, National Association"
     }
 ]

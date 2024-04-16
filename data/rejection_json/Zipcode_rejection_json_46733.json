@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 4632,
-        "County": 18001,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 517012,
-        "rssdid": 343284.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 18001,
         "Zipcode": "46733",
-        "State_id": 18.0,
         "Bank_Name": "Profed Federal Credit Union"
     },
     {
         "arid_id": 6520,
-        "County": 18001,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 2312244,
-        "rssdid": 312244.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18001,
         "Zipcode": "46733",
-        "State_id": 18.0,
         "Bank_Name": "First Bank of Berne"
     },
     {
         "arid_id": 6952,
-        "County": 18001,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 9723112,
-        "rssdid": 723112.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 18001,
         "Zipcode": "46733",
-        "State_id": 18.0,
         "Bank_Name": "Fifth Third Bank, National Association"
     }
 ]

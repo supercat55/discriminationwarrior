@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6967,
-        "County": 27049,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.833,
-        "Significance": "***",
         "arid": 9917742,
-        "rssdid": 917742.0,
+        "Coefficient": 0.833,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 27049,
         "Zipcode": "55992",
-        "State_id": 27.0,
         "Bank_Name": "Associated Bank, National Association"
     }
 ]

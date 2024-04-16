@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 3297,
-        "County": 18085,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 327744,
-        "rssdid": 810777.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18085,
         "Zipcode": "46538",
-        "State_id": 18.0,
         "Bank_Name": "Mutualbank"
     },
     {
         "arid_id": 6246,
-        "County": 18085,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.157,
-        "Significance": "***",
         "arid": 1707101,
-        "rssdid": 257578.0,
+        "Coefficient": 0.157,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 18085,
         "Zipcode": "46538",
-        "State_id": 18.0,
         "Bank_Name": "First Federal Savings Bank"
     },
     {
         "arid_id": 6819,
-        "County": 18085,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 2874845,
-        "rssdid": 874845.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18085,
         "Zipcode": "46538",
-        "State_id": 18.0,
         "Bank_Name": "Lake City Bank"
     }
 ]

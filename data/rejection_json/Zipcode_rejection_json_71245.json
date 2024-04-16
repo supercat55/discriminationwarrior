@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6704,
-        "County": 22061,
-        "T-Value": "(0.052)",
-        "Coefficient": 0.047,
-        "Significance": "Not Significant",
         "arid": 2667757,
-        "rssdid": 667757.0,
+        "Coefficient": 0.047,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 22061,
         "Zipcode": "71245",
-        "State_id": 22.0,
         "Bank_Name": "Origin Bank"
     },
     {
         "arid_id": 6911,
-        "County": 22061,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 22061,
         "Zipcode": "71245",
-        "State_id": 22.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

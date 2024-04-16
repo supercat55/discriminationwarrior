@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2137,
-        "County": 27115,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.712,
-        "Significance": "Not Significant",
         "arid": 310956,
-        "rssdid": 16551.0,
+        "Coefficient": 0.712,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 27115,
         "Zipcode": "55704",
-        "State_id": 27.0,
         "Bank_Name": "Northview Bank"
     }
 ]

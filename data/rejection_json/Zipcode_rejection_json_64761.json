@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 4990,
-        "County": 29101,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 560383,
-        "rssdid": 151199.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 29101,
         "Zipcode": "64761",
-        "State_id": 29.0,
         "Bank_Name": "Central Missouri Community Credit Union"
     }
 ]

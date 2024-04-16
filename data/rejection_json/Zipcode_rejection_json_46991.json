@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 3297,
-        "County": 18053,
-        "T-Value": "(0.163)",
-        "Coefficient": -0.5,
-        "Significance": "**",
         "arid": 327744,
-        "rssdid": 810777.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.163)",
+        "Significance": "**",
+        "County": 18053,
         "Zipcode": "46991",
-        "State_id": 18.0,
         "Bank_Name": "Mutualbank"
     },
     {
         "arid_id": 6894,
-        "County": 18053,
-        "T-Value": "(0.116)",
-        "Coefficient": -0.222,
-        "Significance": "*",
         "arid": 9233031,
-        "rssdid": 233031.0,
+        "Coefficient": -0.222,
+        "T-Value": "(0.116)",
+        "Significance": "*",
+        "County": 18053,
         "Zipcode": "46991",
-        "State_id": 18.0,
         "Bank_Name": "Regions Bank"
     },
     {
         "arid_id": 7753,
-        "County": 18053,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.667,
-        "Significance": "***",
         "arid": 7223039688,
-        "rssdid": 3966116.0,
+        "Coefficient": 0.667,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 18053,
         "Zipcode": "46991",
-        "State_id": 18.0,
         "Bank_Name": "Freedom Mortgage Corporation"
     }
 ]

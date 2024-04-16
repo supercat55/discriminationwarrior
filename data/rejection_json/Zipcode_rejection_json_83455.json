@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6697,
-        "County": 16081,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.588,
-        "Significance": "***",
         "arid": 2659855,
-        "rssdid": 659855.0,
+        "Coefficient": 0.588,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 16081,
         "Zipcode": "83455",
-        "State_id": 16.0,
         "Bank_Name": "First Interstate Bank"
     }
 ]

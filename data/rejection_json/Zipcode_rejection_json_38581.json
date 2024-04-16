@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 219,
-        "County": 47177,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.286,
-        "Significance": "***",
         "arid": 12221,
-        "rssdid": 87234.0,
+        "Coefficient": -0.286,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47177,
         "Zipcode": "38581",
-        "State_id": 47.0,
         "Bank_Name": "The First National Bank of Middle Tennessee"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6436,
-        "County": 47099,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.3,
-        "Significance": "***",
         "arid": 2150035,
-        "rssdid": 150035.0,
+        "Coefficient": -0.3,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47099,
         "Zipcode": "38468",
-        "State_id": 47.0,
         "Bank_Name": "First Farmers And Merchants Bank"
     }
 ]

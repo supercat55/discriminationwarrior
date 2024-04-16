@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2079,
-        "County": 55045,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "***",
         "arid": 310378,
-        "rssdid": 797140.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 55045,
         "Zipcode": "53508",
-        "State_id": 55.0,
         "Bank_Name": "The Bank of New Glarus"
     }
 ]

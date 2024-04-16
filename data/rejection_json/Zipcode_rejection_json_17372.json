@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 691,
-        "County": 42001,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.005,
-        "Significance": "Not Significant",
         "arid": 37506,
-        "rssdid": 5210.0,
+        "Coefficient": -0.005,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42001,
         "Zipcode": "17372",
-        "State_id": 42.0,
         "Bank_Name": "Acnb Bank"
     },
     {
         "arid_id": 6911,
-        "County": 42001,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.284,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": -0.284,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42001,
         "Zipcode": "17372",
-        "State_id": 42.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6960,
-        "County": 42001,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.011,
-        "Significance": "Not Significant",
         "arid": 9817824,
-        "rssdid": 817824.0,
+        "Coefficient": -0.011,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42001,
         "Zipcode": "17372",
-        "State_id": 42.0,
         "Bank_Name": "Pnc Bank, National Association"
     }
 ]

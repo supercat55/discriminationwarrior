@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6911,
-        "County": 37089,
-        "T-Value": "(0.050)",
-        "Coefficient": 0.052,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.052,
+        "T-Value": "(0.050)",
+        "Significance": "Not Significant",
+        "County": 37089,
         "Zipcode": "28792",
-        "State_id": 37.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 7196,
-        "County": 37089,
-        "T-Value": "(0.041)",
-        "Coefficient": -0.052,
-        "Significance": "Not Significant",
         "arid": 91189117,
-        "rssdid": 1189117.0,
+        "Coefficient": -0.052,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 37089,
         "Zipcode": "28792",
-        "State_id": 37.0,
         "Bank_Name": "State Employees'"
     }
 ]

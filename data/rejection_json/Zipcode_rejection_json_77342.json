@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 263,
-        "County": 48471,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 14166,
-        "rssdid": 470050.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48471,
         "Zipcode": "77342",
-        "State_id": 48.0,
         "Bank_Name": "First Financial Bank, National Association"
     }
 ]

@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6921,
-        "County": 41045,
-        "T-Value": "(0.109)",
-        "Coefficient": 0.063,
-        "Significance": "Not Significant",
         "arid": 9504713,
-        "rssdid": 504713.0,
+        "Coefficient": 0.063,
+        "T-Value": "(0.109)",
+        "Significance": "Not Significant",
+        "County": 41045,
         "Zipcode": "97918",
-        "State_id": 41.0,
         "Bank_Name": "U.S. Bank National Association"
     },
     {
         "arid_id": 8139,
-        "County": 41045,
-        "T-Value": "(0.266)",
-        "Coefficient": 0.5,
-        "Significance": "*",
         "arid": 7471809999,
-        "rssdid": 1569885.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.266)",
+        "Significance": "*",
+        "County": 41045,
         "Zipcode": "97918",
-        "State_id": 41.0,
         "Bank_Name": "Guild Mortgage Company"
     }
 ]

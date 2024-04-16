@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6911,
-        "County": 6045,
-        "T-Value": "(0.057)",
-        "Coefficient": -0.172,
-        "Significance": "**",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": -0.172,
+        "T-Value": "(0.057)",
+        "Significance": "**",
+        "County": 6045,
         "Zipcode": "95445",
-        "State_id": 6.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6915,
-        "County": 6045,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9480228,
-        "rssdid": 480228.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6045,
         "Zipcode": "95445",
-        "State_id": 6.0,
         "Bank_Name": "Bank of America, National Association"
     },
     {
         "arid_id": 6962,
-        "County": 6045,
-        "T-Value": "(0.101)",
-        "Coefficient": 0.429,
-        "Significance": "***",
         "arid": 9852218,
-        "rssdid": 852218.0,
+        "Coefficient": 0.429,
+        "T-Value": "(0.101)",
+        "Significance": "***",
+        "County": 6045,
         "Zipcode": "95445",
-        "State_id": 6.0,
         "Bank_Name": "Jpmorgan Chase Bank, National Association"
     }
 ]

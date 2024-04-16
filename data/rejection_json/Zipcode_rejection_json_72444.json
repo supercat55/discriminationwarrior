@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 1756,
-        "County": 5121,
-        "T-Value": "(0.151)",
-        "Coefficient": -0.4,
-        "Significance": "**",
         "arid": 120412,
-        "rssdid": 26242.0,
+        "Coefficient": -0.4,
+        "T-Value": "(0.151)",
+        "Significance": "**",
+        "County": 5121,
         "Zipcode": "72444",
-        "State_id": 5.0,
         "Bank_Name": "Integrity First Bank, National Association"
     },
     {
         "arid_id": 6958,
-        "County": 5121,
-        "T-Value": "(0.151)",
-        "Coefficient": -0.5,
-        "Significance": "**",
         "arid": 9808176,
-        "rssdid": 808176.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.151)",
+        "Significance": "**",
+        "County": 5121,
         "Zipcode": "72444",
-        "State_id": 5.0,
         "Bank_Name": "Iberiabank"
     }
 ]

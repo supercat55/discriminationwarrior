@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 3232,
-        "County": 1043,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.437,
-        "Significance": "***",
         "arid": 326799,
-        "rssdid": 498531.0,
+        "Coefficient": -0.437,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 1043,
         "Zipcode": "35033",
-        "State_id": 1.0,
         "Bank_Name": "Evabank"
     },
     {
         "arid_id": 3943,
-        "County": 1043,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 357554,
-        "rssdid": 3194692.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 1043,
         "Zipcode": "35033",
-        "State_id": 1.0,
         "Bank_Name": "Traditions Bank"
     }
 ]

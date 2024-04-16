@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 5961,
-        "County": 54061,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 912311,
-        "rssdid": 12311.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 54061,
         "Zipcode": "26501",
-        "State_id": 54.0,
         "Bank_Name": "The Huntington National Bank"
     },
     {
         "arid_id": 6830,
-        "County": 54061,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 2886624,
-        "rssdid": 886624.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 54061,
         "Zipcode": "26501",
-        "State_id": 54.0,
         "Bank_Name": "Clear Mountain Bank"
     }
 ]

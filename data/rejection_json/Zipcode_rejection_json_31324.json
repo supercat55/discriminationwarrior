@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6911,
-        "County": 13029,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13029,
         "Zipcode": "31324",
-        "State_id": 13.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6962,
-        "County": 13029,
-        "T-Value": "(0.324)",
-        "Coefficient": 0.5,
-        "Significance": "Not Significant",
         "arid": 9852218,
-        "rssdid": 852218.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.324)",
+        "Significance": "Not Significant",
+        "County": 13029,
         "Zipcode": "31324",
-        "State_id": 13.0,
         "Bank_Name": "Jpmorgan Chase Bank, National Association"
     },
     {
         "arid_id": 7859,
-        "County": 13029,
-        "T-Value": "(0.324)",
-        "Coefficient": -0.143,
-        "Significance": "Not Significant",
         "arid": 7264599244,
-        "rssdid": 4438209.0,
+        "Coefficient": -0.143,
+        "T-Value": "(0.324)",
+        "Significance": "Not Significant",
+        "County": 13029,
         "Zipcode": "31324",
-        "State_id": 13.0,
         "Bank_Name": "Loandepot.com, LLC"
     }
 ]

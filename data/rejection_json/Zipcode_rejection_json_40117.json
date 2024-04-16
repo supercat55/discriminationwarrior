@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 1267,
-        "County": 21163,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.327,
-        "Significance": "***",
         "arid": 57000,
-        "rssdid": 250186.0,
+        "Coefficient": -0.327,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 21163,
         "Zipcode": "40117",
-        "State_id": 21.0,
         "Bank_Name": "Abound Federal Credit Union"
     },
     {
         "arid_id": 3149,
-        "County": 21163,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 325173,
-        "rssdid": 776547.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 21163,
         "Zipcode": "40117",
-        "State_id": 21.0,
         "Bank_Name": "Meade County Bank"
     }
 ]

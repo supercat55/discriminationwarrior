@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5502,
-        "County": 55017,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.028,
-        "Significance": "***",
         "arid": 566834,
-        "rssdid": 961295.0,
+        "Coefficient": 0.028,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 55017,
         "Zipcode": "54757",
-        "State_id": 55.0,
         "Bank_Name": "Royal Credit Union"
     }
 ]

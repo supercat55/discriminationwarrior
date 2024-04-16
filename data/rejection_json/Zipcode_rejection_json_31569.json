@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6938,
-        "County": 13039,
-        "T-Value": "(0.016)",
-        "Coefficient": 0.07,
-        "Significance": "***",
         "arid": 9617677,
-        "rssdid": 617677.0,
+        "Coefficient": 0.07,
+        "T-Value": "(0.016)",
+        "Significance": "***",
+        "County": 13039,
         "Zipcode": "31569",
-        "State_id": 13.0,
         "Bank_Name": "Navy Federal Credit Union"
     },
     {
         "arid_id": 7859,
-        "County": 13039,
-        "T-Value": "(0.032)",
-        "Coefficient": 0.25,
-        "Significance": "***",
         "arid": 7264599244,
-        "rssdid": 4438209.0,
+        "Coefficient": 0.25,
+        "T-Value": "(0.032)",
+        "Significance": "***",
+        "County": 13039,
         "Zipcode": "31569",
-        "State_id": 13.0,
         "Bank_Name": "Loandepot.com, LLC"
     }
 ]

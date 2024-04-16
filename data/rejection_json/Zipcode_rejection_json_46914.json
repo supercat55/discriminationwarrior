@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6431,
-        "County": 18103,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.024,
-        "Significance": "***",
         "arid": 2139843,
-        "rssdid": 139843.0,
+        "Coefficient": 0.024,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 18103,
         "Zipcode": "46914",
-        "State_id": 18.0,
         "Bank_Name": "First Farmers Bank And Trust Company"
     }
 ]

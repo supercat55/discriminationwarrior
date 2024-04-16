@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6898,
-        "County": 16043,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 9280110,
-        "rssdid": 280110.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 16043,
         "Zipcode": "83445",
-        "State_id": 16.0,
         "Bank_Name": "Keybank National Association"
     }
 ]

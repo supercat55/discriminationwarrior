@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6911,
-        "County": 8039,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.25,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.25,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 8039,
         "Zipcode": "80106",
-        "State_id": 8.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6962,
-        "County": 8039,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 9852218,
-        "rssdid": 852218.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 8039,
         "Zipcode": "80106",
-        "State_id": 8.0,
         "Bank_Name": "Jpmorgan Chase Bank, National Association"
     },
     {
         "arid_id": 8476,
-        "County": 8039,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 7841594306,
-        "rssdid": 4731021.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 8039,
         "Zipcode": "80106",
-        "State_id": 8.0,
         "Bank_Name": "American Financing Corporation"
     }
 ]

@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6894,
-        "County": 5091,
-        "T-Value": "(0.053)",
-        "Coefficient": 0.044,
-        "Significance": "Not Significant",
         "arid": 9233031,
-        "rssdid": 233031.0,
+        "Coefficient": 0.044,
+        "T-Value": "(0.053)",
+        "Significance": "Not Significant",
+        "County": 5091,
         "Zipcode": "71837",
-        "State_id": 5.0,
         "Bank_Name": "Regions Bank"
     },
     {
         "arid_id": 8360,
-        "County": 5091,
-        "T-Value": "(0.155)",
-        "Coefficient": 0.5,
-        "Significance": "**",
         "arid": 7720506617,
-        "rssdid": 3917499.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.155)",
+        "Significance": "**",
+        "County": 5091,
         "Zipcode": "71837",
-        "State_id": 5.0,
         "Bank_Name": "United Built Homes, L.L.C."
     }
 ]

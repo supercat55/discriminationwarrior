@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 118,
-        "County": 18183,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 5159,
-        "rssdid": 899576.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18183,
         "Zipcode": "46725",
-        "State_id": 18.0,
         "Bank_Name": "Three Rivers Federal Credit Union"
     },
     {
         "arid_id": 3254,
-        "County": 18183,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.143,
-        "Significance": "***",
         "arid": 327235,
-        "rssdid": 547840.0,
+        "Coefficient": 0.143,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 18183,
         "Zipcode": "46725",
-        "State_id": 18.0,
         "Bank_Name": "Star Financial Bank"
     },
     {
         "arid_id": 7971,
-        "County": 18183,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 7351616238,
-        "rssdid": 4183741.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18183,
         "Zipcode": "46725",
-        "State_id": 18.0,
         "Bank_Name": "Ruoff Mortgage Company, INC."
     }
 ]

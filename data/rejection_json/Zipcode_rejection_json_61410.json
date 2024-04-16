@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6754,
-        "County": 17095,
-        "T-Value": "(0.082)",
-        "Coefficient": 0.341,
-        "Significance": "***",
         "arid": 2744238,
-        "rssdid": 744238.0,
+        "Coefficient": 0.341,
+        "T-Value": "(0.082)",
+        "Significance": "***",
+        "County": 17095,
         "Zipcode": "61410",
-        "State_id": 17.0,
         "Bank_Name": "Farmers & Mechanics Bank"
     },
     {
         "arid_id": 6911,
-        "County": 17095,
-        "T-Value": "(0.044)",
-        "Coefficient": 0.333,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.333,
+        "T-Value": "(0.044)",
+        "Significance": "***",
+        "County": 17095,
         "Zipcode": "61410",
-        "State_id": 17.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

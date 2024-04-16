@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6894,
-        "County": 47143,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 9233031,
-        "rssdid": 233031.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47143,
         "Zipcode": "37321",
-        "State_id": 47.0,
         "Bank_Name": "Regions Bank"
     }
 ]

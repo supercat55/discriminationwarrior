@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6963,
-        "County": 37197,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.333,
-        "Significance": "***",
         "arid": 9852320,
-        "rssdid": 852320.0,
+        "Coefficient": -0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37197,
         "Zipcode": "27018",
-        "State_id": 37.0,
         "Bank_Name": "Truist Bank"
     },
     {
         "arid_id": 7196,
-        "County": 37197,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 91189117,
-        "rssdid": 1189117.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37197,
         "Zipcode": "27018",
-        "State_id": 37.0,
         "Bank_Name": "State Employees'"
     }
 ]

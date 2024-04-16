@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 822,
-        "County": 55043,
-        "T-Value": "(0.053)",
-        "Coefficient": 0.111,
-        "Significance": "*",
         "arid": 39037,
-        "rssdid": 259442.0,
+        "Coefficient": 0.111,
+        "T-Value": "(0.053)",
+        "Significance": "*",
+        "County": 55043,
         "Zipcode": "53813",
-        "State_id": 55.0,
         "Bank_Name": "Mound City Bank"
     },
     {
         "arid_id": 5319,
-        "County": 55043,
-        "T-Value": "(0.119)",
-        "Coefficient": -0.292,
-        "Significance": "**",
         "arid": 564049,
-        "rssdid": 305693.0,
+        "Coefficient": -0.292,
+        "T-Value": "(0.119)",
+        "Significance": "**",
+        "County": 55043,
         "Zipcode": "53813",
-        "State_id": 55.0,
         "Bank_Name": "Dupaco Community"
     }
 ]

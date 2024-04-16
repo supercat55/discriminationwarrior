@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 793,
-        "County": 22009,
-        "T-Value": "(0.002)",
-        "Coefficient": 0.052,
-        "Significance": "***",
         "arid": 38798,
-        "rssdid": 473930.0,
+        "Coefficient": 0.052,
+        "T-Value": "(0.002)",
+        "Significance": "***",
+        "County": 22009,
         "Zipcode": "71355",
-        "State_id": 22.0,
         "Bank_Name": "The Cottonport Bank"
     },
     {
         "arid_id": 794,
-        "County": 22009,
-        "T-Value": "(0.081)",
-        "Coefficient": 0.143,
-        "Significance": "Not Significant",
         "arid": 38800,
-        "rssdid": 144436.0,
+        "Coefficient": 0.143,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 22009,
         "Zipcode": "71355",
-        "State_id": 22.0,
         "Bank_Name": "The Union Bank"
     },
     {
         "arid_id": 6882,
-        "County": 22009,
-        "T-Value": "(0.117)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 9112837,
-        "rssdid": 112837.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.117)",
+        "Significance": "***",
+        "County": 22009,
         "Zipcode": "71355",
-        "State_id": 22.0,
         "Bank_Name": "Capital One, National Association"
     }
 ]

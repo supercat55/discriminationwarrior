@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 1059,
-        "County": 36075,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.035,
-        "Significance": "***",
         "arid": 53025,
-        "rssdid": 793076.0,
+        "Coefficient": 0.035,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 36075,
         "Zipcode": "13142",
-        "State_id": 36.0,
         "Bank_Name": "Empower Federal Credit Union"
     }
 ]

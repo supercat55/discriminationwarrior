@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 970,
-        "County": 18051,
-        "T-Value": "(0.246)",
-        "Coefficient": 0.137,
-        "Significance": "Not Significant",
         "arid": 51682,
-        "rssdid": 428079.0,
+        "Coefficient": 0.137,
+        "T-Value": "(0.246)",
+        "Significance": "Not Significant",
+        "County": 18051,
         "Zipcode": "47670",
-        "State_id": 18.0,
         "Bank_Name": "Evansville Teachers"
     },
     {
         "arid_id": 6952,
-        "County": 18051,
-        "T-Value": "(0.348)",
-        "Coefficient": -0.011,
-        "Significance": "Not Significant",
         "arid": 9723112,
-        "rssdid": 723112.0,
+        "Coefficient": -0.011,
+        "T-Value": "(0.348)",
+        "Significance": "Not Significant",
+        "County": 18051,
         "Zipcode": "47670",
-        "State_id": 18.0,
         "Bank_Name": "Fifth Third Bank, National Association"
     }
 ]

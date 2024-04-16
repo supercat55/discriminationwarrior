@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2459,
-        "County": 42087,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.196,
-        "Significance": "***",
         "arid": 314969,
-        "rssdid": 600419.0,
+        "Coefficient": -0.196,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 42087,
         "Zipcode": "17051",
-        "State_id": 42.0,
         "Bank_Name": "Kish Bank"
     }
 ]

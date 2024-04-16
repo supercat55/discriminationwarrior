@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2610,
-        "County": 17147,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 316332,
-        "rssdid": 899642.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17147,
         "Zipcode": "61818",
-        "State_id": 17.0,
         "Bank_Name": "First State Bank"
     }
 ]

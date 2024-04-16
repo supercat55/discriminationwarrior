@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 1546,
-        "County": 38035,
-        "T-Value": "(0.049)",
-        "Coefficient": -0.187,
-        "Significance": "***",
         "arid": 113790,
-        "rssdid": 933256.0,
+        "Coefficient": -0.187,
+        "T-Value": "(0.049)",
+        "Significance": "***",
+        "County": 38035,
         "Zipcode": "58203",
-        "State_id": 38.0,
         "Bank_Name": "Alerus Financial, National Association"
     },
     {
         "arid_id": 5980,
-        "County": 38035,
-        "T-Value": "(0.006)",
-        "Coefficient": -0.004,
-        "Significance": "Not Significant",
         "arid": 1700257,
-        "rssdid": 657271.0,
+        "Coefficient": -0.004,
+        "T-Value": "(0.006)",
+        "Significance": "Not Significant",
+        "County": 38035,
         "Zipcode": "58203",
-        "State_id": 38.0,
         "Bank_Name": "Gate City Bank"
     },
     {
         "arid_id": 6911,
-        "County": 38035,
-        "T-Value": "(0.028)",
-        "Coefficient": -0.011,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": -0.011,
+        "T-Value": "(0.028)",
+        "Significance": "Not Significant",
+        "County": 38035,
         "Zipcode": "58203",
-        "State_id": 38.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

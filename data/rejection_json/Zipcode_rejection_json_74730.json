@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 587,
-        "County": 40013,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.078,
-        "Significance": "***",
         "arid": 34239,
-        "rssdid": 509950.0,
+        "Coefficient": -0.078,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 40013,
         "Zipcode": "74730",
-        "State_id": 40.0,
         "Bank_Name": "First United Bank And Trust Company"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5681,
-        "County": 51169,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.667,
-        "Significance": "***",
         "arid": 568095,
-        "rssdid": 263391.0,
+        "Coefficient": -0.667,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51169,
         "Zipcode": "24244",
-        "State_id": 51.0,
         "Bank_Name": "Eastman"
     }
 ]

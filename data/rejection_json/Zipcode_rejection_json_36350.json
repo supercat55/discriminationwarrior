@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 4653,
-        "County": 1045,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.143,
-        "Significance": "***",
         "arid": 517642,
-        "rssdid": 35785.0,
+        "Coefficient": 0.143,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 1045,
         "Zipcode": "36350",
-        "State_id": 1.0,
         "Bank_Name": "All In"
     }
 ]

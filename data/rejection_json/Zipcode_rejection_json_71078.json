@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6882,
-        "County": 22031,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.75,
-        "Significance": "***",
         "arid": 9112837,
-        "rssdid": 112837.0,
+        "Coefficient": 0.75,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 22031,
         "Zipcode": "71078",
-        "State_id": 22.0,
         "Bank_Name": "Capital One, National Association"
     }
 ]

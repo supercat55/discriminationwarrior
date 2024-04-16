@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 1567,
-        "County": 20181,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "Not Significant",
         "arid": 114163,
-        "rssdid": 805250.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 20181,
         "Zipcode": "67735",
-        "State_id": 20.0,
         "Bank_Name": "First National Bank"
     }
 ]

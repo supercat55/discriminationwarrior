@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 451,
-        "County": 29133,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.333,
-        "Significance": "Not Significant",
         "arid": 31426,
-        "rssdid": 498148.0,
+        "Coefficient": 0.333,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 29133,
         "Zipcode": "63823",
-        "State_id": 29.0,
         "Bank_Name": "Focus Bank"
     }
 ]

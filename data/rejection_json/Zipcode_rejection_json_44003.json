@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 2001,
-        "County": 39007,
-        "T-Value": "(0.044)",
-        "Coefficient": 0.131,
-        "Significance": "**",
         "arid": 227614,
-        "rssdid": 27614.0,
+        "Coefficient": 0.131,
+        "T-Value": "(0.044)",
+        "Significance": "**",
+        "County": 39007,
         "Zipcode": "44003",
-        "State_id": 39.0,
         "Bank_Name": "The Andover Bank"
     },
     {
         "arid_id": 5961,
-        "County": 39007,
-        "T-Value": "(0.041)",
-        "Coefficient": 0.301,
-        "Significance": "***",
         "arid": 912311,
-        "rssdid": 12311.0,
+        "Coefficient": 0.301,
+        "T-Value": "(0.041)",
+        "Significance": "***",
+        "County": 39007,
         "Zipcode": "44003",
-        "State_id": 39.0,
         "Bank_Name": "The Huntington National Bank"
     },
     {
         "arid_id": 6966,
-        "County": 39007,
-        "T-Value": "(0.264)",
-        "Coefficient": -0.5,
-        "Significance": "*",
         "arid": 9915878,
-        "rssdid": 915878.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.264)",
+        "Significance": "*",
+        "County": 39007,
         "Zipcode": "44003",
-        "State_id": 39.0,
         "Bank_Name": "Third Federal Savings And Loan Association of Cleveland"
     }
 ]

@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 5985,
-        "County": 35015,
-        "T-Value": "(0.162)",
-        "Coefficient": -0.243,
-        "Significance": "Not Significant",
         "arid": 1700450,
-        "rssdid": 606176.0,
+        "Coefficient": -0.243,
+        "T-Value": "(0.162)",
+        "Significance": "Not Significant",
+        "County": 35015,
         "Zipcode": "88210",
-        "State_id": 35.0,
         "Bank_Name": "Pioneer Bank"
     },
     {
         "arid_id": 6911,
-        "County": 35015,
-        "T-Value": "(0.040)",
-        "Coefficient": 0.228,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.228,
+        "T-Value": "(0.040)",
+        "Significance": "***",
+        "County": 35015,
         "Zipcode": "88210",
-        "State_id": 35.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 8903,
-        "County": 35015,
-        "T-Value": "(0.103)",
-        "Coefficient": -0.273,
-        "Significance": "**",
         "arid": 77197000003,
-        "rssdid": 3870679.0,
+        "Coefficient": -0.273,
+        "T-Value": "(0.103)",
+        "Significance": "**",
+        "County": 35015,
         "Zipcode": "88210",
-        "State_id": 35.0,
         "Bank_Name": "Quicken Loans, LLC"
     }
 ]

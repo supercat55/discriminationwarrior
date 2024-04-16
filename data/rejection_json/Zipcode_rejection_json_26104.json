@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6651,
-        "County": 54107,
-        "T-Value": "(0.007)",
-        "Coefficient": 0.053,
-        "Significance": "***",
         "arid": 2577128,
-        "rssdid": 577128.0,
+        "Coefficient": 0.053,
+        "T-Value": "(0.007)",
+        "Significance": "***",
+        "County": 54107,
         "Zipcode": "26104",
-        "State_id": 54.0,
         "Bank_Name": "Peoples Bank"
     }
 ]

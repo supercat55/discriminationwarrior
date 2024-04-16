@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6911,
-        "County": 51095,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.2,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.2,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51095,
         "Zipcode": "23188",
-        "State_id": 51.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6938,
-        "County": 51095,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 9617677,
-        "rssdid": 617677.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51095,
         "Zipcode": "23188",
-        "State_id": 51.0,
         "Bank_Name": "Navy Federal Credit Union"
     },
     {
         "arid_id": 8834,
-        "County": 51095,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 72149009991,
-        "rssdid": 3966143.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51095,
         "Zipcode": "23188",
-        "State_id": 51.0,
         "Bank_Name": "Eagle Home Mortgage, LLC"
     }
 ]

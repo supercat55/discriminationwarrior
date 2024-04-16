@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 5175,
-        "County": 26025,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 562160,
-        "rssdid": 892894.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 26025,
         "Zipcode": "49037",
-        "State_id": 26.0,
         "Bank_Name": "Marshall Community Credit Union"
     },
     {
         "arid_id": 5927,
-        "County": 26025,
-        "T-Value": "(0.021)",
-        "Coefficient": -0.023,
-        "Significance": "Not Significant",
         "arid": 568678,
-        "rssdid": 667579.0,
+        "Coefficient": -0.023,
+        "T-Value": "(0.021)",
+        "Significance": "Not Significant",
+        "County": 26025,
         "Zipcode": "49037",
-        "State_id": 26.0,
         "Bank_Name": "Kellogg Community Credit Union"
     },
     {
         "arid_id": 8010,
-        "County": 26025,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 7382699549,
-        "rssdid": 3870606.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 26025,
         "Zipcode": "49037",
-        "State_id": 26.0,
         "Bank_Name": "Amerifirst Financial Corporation"
     }
 ]

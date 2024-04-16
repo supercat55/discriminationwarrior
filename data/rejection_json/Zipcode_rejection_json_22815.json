@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6737,
-        "County": 51165,
-        "T-Value": "(0.003)",
-        "Coefficient": 0.025,
-        "Significance": "***",
         "arid": 2713926,
-        "rssdid": 713926.0,
+        "Coefficient": 0.025,
+        "T-Value": "(0.003)",
+        "Significance": "***",
+        "County": 51165,
         "Zipcode": "22815",
-        "State_id": 51.0,
         "Bank_Name": "F & M Bank CORP."
     },
     {
         "arid_id": 6911,
-        "County": 51165,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.25,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.25,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51165,
         "Zipcode": "22815",
-        "State_id": 51.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6963,
-        "County": 51165,
-        "T-Value": "(0.003)",
-        "Coefficient": 0.37,
-        "Significance": "***",
         "arid": 9852320,
-        "rssdid": 852320.0,
+        "Coefficient": 0.37,
+        "T-Value": "(0.003)",
+        "Significance": "***",
+        "County": 51165,
         "Zipcode": "22815",
-        "State_id": 51.0,
         "Bank_Name": "Truist Bank"
     }
 ]

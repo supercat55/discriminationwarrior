@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6963,
-        "County": 51117,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.176,
-        "Significance": "***",
         "arid": 9852320,
-        "rssdid": 852320.0,
+        "Coefficient": 0.176,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51117,
         "Zipcode": "23917",
-        "State_id": 51.0,
         "Bank_Name": "Truist Bank"
     }
 ]

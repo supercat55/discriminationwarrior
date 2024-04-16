@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 3495,
-        "County": 48063,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.2,
-        "Significance": "***",
         "arid": 331905,
-        "rssdid": 729178.0,
+        "Coefficient": 0.2,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48063,
         "Zipcode": "75686",
-        "State_id": 48.0,
         "Bank_Name": "Cypress Bank, SSB"
     }
 ]

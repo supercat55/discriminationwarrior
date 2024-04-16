@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 656,
-        "County": 28163,
-        "T-Value": "(0.041)",
-        "Coefficient": 0.029,
-        "Significance": "Not Significant",
         "arid": 35903,
-        "rssdid": 121642.0,
+        "Coefficient": 0.029,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 28163,
         "Zipcode": "39040",
-        "State_id": 28.0,
         "Bank_Name": "Bankplus"
     },
     {
         "arid_id": 2174,
-        "County": 28163,
-        "T-Value": "(0.024)",
-        "Coefficient": -0.25,
-        "Significance": "***",
         "arid": 311431,
-        "rssdid": 118736.0,
+        "Coefficient": -0.25,
+        "T-Value": "(0.024)",
+        "Significance": "***",
+        "County": 28163,
         "Zipcode": "39040",
-        "State_id": 28.0,
         "Bank_Name": "Bank of Yazoo City"
     }
 ]

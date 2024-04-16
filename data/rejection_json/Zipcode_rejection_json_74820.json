@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 1501,
-        "County": 40123,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.316,
-        "Significance": "***",
         "arid": 112591,
-        "rssdid": 241157.0,
+        "Coefficient": 0.316,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 40123,
         "Zipcode": "74820",
-        "State_id": 40.0,
         "Bank_Name": "Vision Bank, National Association"
     }
 ]

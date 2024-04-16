@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6494,
-        "County": 21045,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 2266945,
-        "rssdid": 266945.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 21045,
         "Zipcode": "40437",
-        "State_id": 21.0,
         "Bank_Name": "The Monticello Banking Company"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 4513,
-        "County": 24001,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.017,
-        "Significance": "***",
         "arid": 513345,
-        "rssdid": 778587.0,
+        "Coefficient": -0.017,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 24001,
         "Zipcode": "21530",
-        "State_id": 24.0,
         "Bank_Name": "First Peoples Community Federal Credit Union"
     }
 ]

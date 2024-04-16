@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 2209,
-        "County": 17203,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "***",
         "arid": 311699,
-        "rssdid": 936837.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17203,
         "Zipcode": "61760",
-        "State_id": 17.0,
         "Bank_Name": "Goodfield State Bank"
     },
     {
         "arid_id": 2969,
-        "County": 17203,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 320369,
-        "rssdid": 426534.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17203,
         "Zipcode": "61760",
-        "State_id": 17.0,
         "Bank_Name": "Heartland Bank And Trust Company"
     }
 ]

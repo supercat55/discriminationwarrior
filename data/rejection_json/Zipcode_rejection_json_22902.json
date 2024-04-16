@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 8903,
-        "County": 51540,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.8,
-        "Significance": "***",
         "arid": 77197000003,
-        "rssdid": 3870679.0,
+        "Coefficient": 0.8,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51540,
         "Zipcode": "22902",
-        "State_id": 51.0,
         "Bank_Name": "Quicken Loans, LLC"
     }
 ]

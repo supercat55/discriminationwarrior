@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 375,
-        "County": 36009,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.051,
-        "Significance": "***",
         "arid": 18531,
-        "rssdid": 202907.0,
+        "Coefficient": -0.051,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 36009,
         "Zipcode": "14042",
-        "State_id": 36.0,
         "Bank_Name": "Community Bank, National Association"
     }
 ]

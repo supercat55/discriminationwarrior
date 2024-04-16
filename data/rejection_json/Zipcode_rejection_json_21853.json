@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 7205,
-        "County": 24039,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "Not Significant",
         "arid": 92590037,
-        "rssdid": 2590037.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 24039,
         "Zipcode": "21853",
-        "State_id": 24.0,
         "Bank_Name": "State Farm Bank, F.S.B."
     }
 ]

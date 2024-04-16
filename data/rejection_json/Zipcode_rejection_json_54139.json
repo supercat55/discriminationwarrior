@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5530,
-        "County": 55083,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 567017,
-        "rssdid": 943796.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 55083,
         "Zipcode": "54139",
-        "State_id": 55.0,
         "Bank_Name": "N.e.w. Credit Union"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 4958,
-        "County": 20009,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 560062,
-        "rssdid": 365192.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 20009,
         "Zipcode": "67567",
-        "State_id": 20.0,
         "Bank_Name": "Credit Union of America"
     }
 ]

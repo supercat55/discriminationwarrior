@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 5822,
-        "County": 19179,
-        "T-Value": "(0.014)",
-        "Coefficient": -0.08,
-        "Significance": "***",
         "arid": 568510,
-        "rssdid": 512875.0,
+        "Coefficient": -0.08,
+        "T-Value": "(0.014)",
+        "Significance": "***",
+        "County": 19179,
         "Zipcode": "52501",
-        "State_id": 19.0,
         "Bank_Name": "Community 1st Credit Union"
     },
     {
         "arid_id": 6921,
-        "County": 19179,
-        "T-Value": "(0.033)",
-        "Coefficient": -0.094,
-        "Significance": "**",
         "arid": 9504713,
-        "rssdid": 504713.0,
+        "Coefficient": -0.094,
+        "T-Value": "(0.033)",
+        "Significance": "**",
+        "County": 19179,
         "Zipcode": "52501",
-        "State_id": 19.0,
         "Bank_Name": "U.S. Bank National Association"
     }
 ]

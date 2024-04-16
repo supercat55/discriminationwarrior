@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 3486,
-        "County": 47025,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.286,
-        "Significance": "***",
         "arid": 331236,
-        "rssdid": 902672.0,
+        "Coefficient": 0.286,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47025,
         "Zipcode": "37870",
-        "State_id": 47.0,
         "Bank_Name": "Home Federal Bank Corporation"
     }
 ]

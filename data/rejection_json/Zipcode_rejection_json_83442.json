@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 5265,
-        "County": 16051,
-        "T-Value": "(0.147)",
-        "Coefficient": 0.2,
-        "Significance": "Not Significant",
         "arid": 563194,
-        "rssdid": 322793.0,
+        "Coefficient": 0.2,
+        "T-Value": "(0.147)",
+        "Significance": "Not Significant",
+        "County": 16051,
         "Zipcode": "83442",
-        "State_id": 16.0,
         "Bank_Name": "Idaho Central"
     },
     {
         "arid_id": 6911,
-        "County": 16051,
-        "T-Value": "(0.232)",
-        "Coefficient": 0.5,
-        "Significance": "*",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.232)",
+        "Significance": "*",
+        "County": 16051,
         "Zipcode": "83442",
-        "State_id": 16.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

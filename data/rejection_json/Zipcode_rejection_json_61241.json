@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 1587,
-        "County": 17073,
-        "T-Value": "(0.056)",
-        "Coefficient": -0.636,
-        "Significance": "***",
         "arid": 114418,
-        "rssdid": 823133.0,
+        "Coefficient": -0.636,
+        "T-Value": "(0.056)",
+        "Significance": "***",
+        "County": 17073,
         "Zipcode": "61241",
-        "State_id": 17.0,
         "Bank_Name": "Peoples National Bank of Kewanee"
     },
     {
         "arid_id": 4983,
-        "County": 17073,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 560337,
-        "rssdid": 131892.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17073,
         "Zipcode": "61241",
-        "State_id": 17.0,
         "Bank_Name": "I. H. Mississippi Valley Credit Union"
     },
     {
         "arid_id": 5979,
-        "County": 17073,
-        "T-Value": "(0.040)",
-        "Coefficient": 0.2,
-        "Significance": "***",
         "arid": 1700244,
-        "rssdid": 656779.0,
+        "Coefficient": 0.2,
+        "T-Value": "(0.040)",
+        "Significance": "***",
+        "County": 17073,
         "Zipcode": "61241",
-        "State_id": 17.0,
         "Bank_Name": "Union Federal Savings And Loan Association"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2002,
-        "County": 5109,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.25,
-        "Significance": "***",
         "arid": 227847,
-        "rssdid": 27847.0,
+        "Coefficient": 0.25,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5109,
         "Zipcode": "71958",
-        "State_id": 5.0,
         "Bank_Name": "Diamond Bank"
     }
 ]

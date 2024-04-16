@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6911,
-        "County": 6109,
-        "T-Value": "(0.001)",
-        "Coefficient": -0.069,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": -0.069,
+        "T-Value": "(0.001)",
+        "Significance": "***",
+        "County": 6109,
         "Zipcode": "95372",
-        "State_id": 6.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6915,
-        "County": 6109,
-        "T-Value": "(0.001)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9480228,
-        "rssdid": 480228.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.001)",
+        "Significance": "Not Significant",
+        "County": 6109,
         "Zipcode": "95372",
-        "State_id": 6.0,
         "Bank_Name": "Bank of America, National Association"
     },
     {
         "arid_id": 8903,
-        "County": 6109,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 77197000003,
-        "rssdid": 3870679.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6109,
         "Zipcode": "95372",
-        "State_id": 6.0,
         "Bank_Name": "Quicken Loans, LLC"
     }
 ]

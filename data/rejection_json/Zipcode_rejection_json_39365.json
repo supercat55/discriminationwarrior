@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 656,
-        "County": 28101,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.18,
-        "Significance": "***",
         "arid": 35903,
-        "rssdid": 121642.0,
+        "Coefficient": -0.18,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 28101,
         "Zipcode": "39365",
-        "State_id": 28.0,
         "Bank_Name": "Bankplus"
     },
     {
         "arid_id": 6894,
-        "County": 28101,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.333,
-        "Significance": "***",
         "arid": 9233031,
-        "rssdid": 233031.0,
+        "Coefficient": -0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 28101,
         "Zipcode": "39365",
-        "State_id": 28.0,
         "Bank_Name": "Regions Bank"
     }
 ]

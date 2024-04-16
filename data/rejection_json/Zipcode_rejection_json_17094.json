@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6907,
-        "County": 42067,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.529,
-        "Significance": "***",
         "arid": 9379920,
-        "rssdid": 379920.0,
+        "Coefficient": -0.529,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 42067,
         "Zipcode": "17094",
-        "State_id": 42.0,
         "Bank_Name": "First National Bank of Pennsylvania"
     }
 ]

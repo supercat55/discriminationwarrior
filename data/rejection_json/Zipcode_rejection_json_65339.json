@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 418,
-        "County": 29195,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.085,
-        "Significance": "***",
         "arid": 31060,
-        "rssdid": 671558.0,
+        "Coefficient": 0.085,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 29195,
         "Zipcode": "65339",
-        "State_id": 29.0,
         "Bank_Name": "Wood & Huston Bank"
     }
 ]

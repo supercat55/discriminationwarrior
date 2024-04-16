@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6146,
-        "County": 18109,
-        "T-Value": "(0.149)",
-        "Coefficient": 0.066,
-        "Significance": "Not Significant",
         "arid": 1704255,
-        "rssdid": 1015270.0,
+        "Coefficient": 0.066,
+        "T-Value": "(0.149)",
+        "Significance": "Not Significant",
+        "County": 18109,
         "Zipcode": "46113",
-        "State_id": 18.0,
         "Bank_Name": "Home Bank SB"
     },
     {
         "arid_id": 6911,
-        "County": 18109,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18109,
         "Zipcode": "46113",
-        "State_id": 18.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6962,
-        "County": 18109,
-        "T-Value": "(0.105)",
-        "Coefficient": 0.143,
-        "Significance": "Not Significant",
         "arid": 9852218,
-        "rssdid": 852218.0,
+        "Coefficient": 0.143,
+        "T-Value": "(0.105)",
+        "Significance": "Not Significant",
+        "County": 18109,
         "Zipcode": "46113",
-        "State_id": 18.0,
         "Bank_Name": "Jpmorgan Chase Bank, National Association"
     }
 ]

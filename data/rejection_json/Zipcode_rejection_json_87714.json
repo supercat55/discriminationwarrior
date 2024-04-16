@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2186,
-        "County": 35007,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.147,
-        "Significance": "***",
         "arid": 311492,
-        "rssdid": 209858.0,
+        "Coefficient": 0.147,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 35007,
         "Zipcode": "87714",
-        "State_id": 35.0,
         "Bank_Name": "International Bank"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5961,
-        "County": 26117,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 912311,
-        "rssdid": 12311.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 26117,
         "Zipcode": "48811",
-        "State_id": 26.0,
         "Bank_Name": "The Huntington National Bank"
     }
 ]

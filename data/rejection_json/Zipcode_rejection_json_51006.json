@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 111,
-        "County": 19093,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.548,
-        "Significance": "***",
         "arid": 3958,
-        "rssdid": 738040.0,
+        "Coefficient": 0.548,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 19093,
         "Zipcode": "51006",
-        "State_id": 19.0,
         "Bank_Name": "United Bank of Iowa"
     }
 ]

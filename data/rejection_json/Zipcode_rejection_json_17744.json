@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 2410,
-        "County": 42081,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.008,
-        "Significance": "***",
         "arid": 314359,
-        "rssdid": 732918.0,
+        "Coefficient": -0.008,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 42081,
         "Zipcode": "17744",
-        "State_id": 42.0,
         "Bank_Name": "Jersey Shore State Bank"
     },
     {
         "arid_id": 6907,
-        "County": 42081,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9379920,
-        "rssdid": 379920.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42081,
         "Zipcode": "17744",
-        "State_id": 42.0,
         "Bank_Name": "First National Bank of Pennsylvania"
     }
 ]

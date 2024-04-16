@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 536,
-        "County": 21173,
-        "T-Value": "(0.182)",
-        "Coefficient": 0.294,
-        "Significance": "Not Significant",
         "arid": 32711,
-        "rssdid": 786210.0,
+        "Coefficient": 0.294,
+        "T-Value": "(0.182)",
+        "Significance": "Not Significant",
+        "County": 21173,
         "Zipcode": "40337",
-        "State_id": 21.0,
         "Bank_Name": "Traditional Bank, INC."
     },
     {
         "arid_id": 6619,
-        "County": 21173,
-        "T-Value": "(0.129)",
-        "Coefficient": -0.222,
-        "Significance": "Not Significant",
         "arid": 2509811,
-        "rssdid": 509811.0,
+        "Coefficient": -0.222,
+        "T-Value": "(0.129)",
+        "Significance": "Not Significant",
+        "County": 21173,
         "Zipcode": "40337",
-        "State_id": 21.0,
         "Bank_Name": "Community Trust Bank, INC."
     }
 ]

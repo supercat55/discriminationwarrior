@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 1344,
-        "County": 16077,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.066,
-        "Significance": "***",
         "arid": 58428,
-        "rssdid": 593687.0,
+        "Coefficient": 0.066,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 16077,
         "Zipcode": "83211",
-        "State_id": 16.0,
         "Bank_Name": "Advantage Plus"
     }
 ]

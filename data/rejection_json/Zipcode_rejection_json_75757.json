@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 301,
-        "County": 48073,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.08,
-        "Significance": "***",
         "arid": 15581,
-        "rssdid": 548351.0,
+        "Coefficient": -0.08,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48073,
         "Zipcode": "75757",
-        "State_id": 48.0,
         "Bank_Name": "Austin Bank, Texas National Association"
     }
 ]

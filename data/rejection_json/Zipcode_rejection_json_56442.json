@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 4838,
-        "County": 27035,
-        "T-Value": "(0.000)",
-        "Coefficient": -1.5,
-        "Significance": "Not Significant",
         "arid": 524362,
-        "rssdid": 131490.0,
+        "Coefficient": -1.5,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 27035,
         "Zipcode": "56442",
-        "State_id": 27.0,
         "Bank_Name": "Affinity Plus"
     },
     {
         "arid_id": 6921,
-        "County": 27035,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.718,
-        "Significance": "Not Significant",
         "arid": 9504713,
-        "rssdid": 504713.0,
+        "Coefficient": 0.718,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 27035,
         "Zipcode": "56442",
-        "State_id": 27.0,
         "Bank_Name": "U.S. Bank National Association"
     }
 ]

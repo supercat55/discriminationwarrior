@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 735,
-        "County": 28093,
-        "T-Value": "(0.028)",
-        "Coefficient": 0.235,
-        "Significance": "***",
         "arid": 38232,
-        "rssdid": 835743.0,
+        "Coefficient": 0.235,
+        "T-Value": "(0.028)",
+        "Significance": "***",
+        "County": 28093,
         "Zipcode": "38635",
-        "State_id": 28.0,
         "Bank_Name": "The Bank of Holly Springs"
     },
     {
         "arid_id": 2175,
-        "County": 28093,
-        "T-Value": "(0.035)",
-        "Coefficient": -0.048,
-        "Significance": "Not Significant",
         "arid": 311432,
-        "rssdid": 209447.0,
+        "Coefficient": -0.048,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 28093,
         "Zipcode": "38635",
-        "State_id": 28.0,
         "Bank_Name": "Citizens Bank"
     }
 ]

@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6911,
-        "County": 54037,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 54037,
         "Zipcode": "25430",
-        "State_id": 54.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6963,
-        "County": 54037,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9852320,
-        "rssdid": 852320.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 54037,
         "Zipcode": "25430",
-        "State_id": 54.0,
         "Bank_Name": "Truist Bank"
     },
     {
         "arid_id": 8903,
-        "County": 54037,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 77197000003,
-        "rssdid": 3870679.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 54037,
         "Zipcode": "25430",
-        "State_id": 54.0,
         "Bank_Name": "Quicken Loans, LLC"
     }
 ]

@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 1592,
-        "County": 27111,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.046,
-        "Significance": "***",
         "arid": 114488,
-        "rssdid": 779351.0,
+        "Coefficient": 0.046,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 27111,
         "Zipcode": "56573",
-        "State_id": 27.0,
         "Bank_Name": "Merchants Bank, National Association"
     },
     {
         "arid_id": 4838,
-        "County": 27111,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 524362,
-        "rssdid": 131490.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 27111,
         "Zipcode": "56573",
-        "State_id": 27.0,
         "Bank_Name": "Affinity Plus"
     }
 ]

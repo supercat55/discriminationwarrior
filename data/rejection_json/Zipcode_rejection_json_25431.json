@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6741,
-        "County": 54027,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.429,
-        "Significance": "***",
         "arid": 2722432,
-        "rssdid": 722432.0,
+        "Coefficient": 0.429,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 54027,
         "Zipcode": "25431",
-        "State_id": 54.0,
         "Bank_Name": "Bank of Romney"
     }
 ]

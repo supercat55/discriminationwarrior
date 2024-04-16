@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 395,
-        "County": 39119,
-        "T-Value": "(0.084)",
-        "Coefficient": 0.37,
-        "Significance": "***",
         "arid": 19179,
-        "rssdid": 489623.0,
+        "Coefficient": 0.37,
+        "T-Value": "(0.084)",
+        "Significance": "***",
+        "County": 39119,
         "Zipcode": "43821",
-        "State_id": 39.0,
         "Bank_Name": "The Park National Bank"
     },
     {
         "arid_id": 5961,
-        "County": 39119,
-        "T-Value": "(0.115)",
-        "Coefficient": -0.147,
-        "Significance": "Not Significant",
         "arid": 912311,
-        "rssdid": 12311.0,
+        "Coefficient": -0.147,
+        "T-Value": "(0.115)",
+        "Significance": "Not Significant",
+        "County": 39119,
         "Zipcode": "43821",
-        "State_id": 39.0,
         "Bank_Name": "The Huntington National Bank"
     },
     {
         "arid_id": 6960,
-        "County": 39119,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9817824,
-        "rssdid": 817824.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39119,
         "Zipcode": "43821",
-        "State_id": 39.0,
         "Bank_Name": "Pnc Bank, National Association"
     }
 ]

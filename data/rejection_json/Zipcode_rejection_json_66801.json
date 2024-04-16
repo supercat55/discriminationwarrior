@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 1774,
-        "County": 20111,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.7,
-        "Significance": "***",
         "arid": 121389,
-        "rssdid": 923752.0,
+        "Coefficient": 0.7,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 20111,
         "Zipcode": "66801",
-        "State_id": 20.0,
         "Bank_Name": "Community National Bank & Trust"
     },
     {
         "arid_id": 2640,
-        "County": 20111,
-        "T-Value": "(0.102)",
-        "Coefficient": 0.158,
-        "Significance": "Not Significant",
         "arid": 316629,
-        "rssdid": 918954.0,
+        "Coefficient": 0.158,
+        "T-Value": "(0.102)",
+        "Significance": "Not Significant",
+        "County": 20111,
         "Zipcode": "66801",
-        "State_id": 20.0,
         "Bank_Name": "Esb Financial"
     },
     {
         "arid_id": 2797,
-        "County": 20111,
-        "T-Value": "(0.047)",
-        "Coefficient": -0.571,
-        "Significance": "***",
         "arid": 318100,
-        "rssdid": 361055.0,
+        "Coefficient": -0.571,
+        "T-Value": "(0.047)",
+        "Significance": "***",
+        "County": 20111,
         "Zipcode": "66801",
-        "State_id": 20.0,
         "Bank_Name": "Corefirst Bank & Trust"
     }
 ]

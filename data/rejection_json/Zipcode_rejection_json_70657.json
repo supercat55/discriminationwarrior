@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2093,
-        "County": 22011,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "*",
         "arid": 310534,
-        "rssdid": 541035.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "*",
+        "County": 22011,
         "Zipcode": "70657",
-        "State_id": 22.0,
         "Bank_Name": "City Savings Bank & Trust Company"
     }
 ]

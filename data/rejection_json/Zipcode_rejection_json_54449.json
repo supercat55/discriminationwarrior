@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6967,
-        "County": 55141,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 9917742,
-        "rssdid": 917742.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 55141,
         "Zipcode": "54449",
-        "State_id": 55.0,
         "Bank_Name": "Associated Bank, National Association"
     }
 ]

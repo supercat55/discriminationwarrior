@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 5961,
-        "County": 39039,
-        "T-Value": "(0.070)",
-        "Coefficient": -0.288,
-        "Significance": "***",
         "arid": 912311,
-        "rssdid": 12311.0,
+        "Coefficient": -0.288,
+        "T-Value": "(0.070)",
+        "Significance": "***",
+        "County": 39039,
         "Zipcode": "43526",
-        "State_id": 39.0,
         "Bank_Name": "The Huntington National Bank"
     },
     {
         "arid_id": 6140,
-        "County": 39039,
-        "T-Value": "(0.049)",
-        "Coefficient": 0.082,
-        "Significance": "Not Significant",
         "arid": 1704192,
-        "rssdid": 981275.0,
+        "Coefficient": 0.082,
+        "T-Value": "(0.049)",
+        "Significance": "Not Significant",
+        "County": 39039,
         "Zipcode": "43526",
-        "State_id": 39.0,
         "Bank_Name": "First Federal Bank of the Midwest"
     }
 ]

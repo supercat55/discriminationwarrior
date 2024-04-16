@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6921,
-        "County": 21195,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.571,
-        "Significance": "***",
         "arid": 9504713,
-        "rssdid": 504713.0,
+        "Coefficient": 0.571,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 21195,
         "Zipcode": "41501",
-        "State_id": 21.0,
         "Bank_Name": "U.S. Bank National Association"
     }
 ]

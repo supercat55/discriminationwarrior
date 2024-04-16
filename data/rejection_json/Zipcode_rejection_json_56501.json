@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 892,
-        "County": 27005,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 39737,
-        "rssdid": 806958.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 27005,
         "Zipcode": "56501",
-        "State_id": 27.0,
         "Bank_Name": "Midwest Bank"
     },
     {
         "arid_id": 6911,
-        "County": 27005,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 27005,
         "Zipcode": "56501",
-        "State_id": 27.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

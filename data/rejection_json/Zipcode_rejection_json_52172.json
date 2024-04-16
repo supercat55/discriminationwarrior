@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 66,
-        "County": 19005,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 3253,
-        "rssdid": 674849.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 19005,
         "Zipcode": "52172",
-        "State_id": 19.0,
         "Bank_Name": "Luana Savings Bank"
     }
 ]

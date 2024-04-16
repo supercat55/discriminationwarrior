@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2439,
-        "County": 8063,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 314730,
-        "rssdid": 191355.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 8063,
         "Zipcode": "80807",
-        "State_id": 8.0,
         "Bank_Name": "Frontier Bank"
     }
 ]

@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6209,
-        "County": 1017,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.379,
-        "Significance": "***",
         "arid": 1705798,
-        "rssdid": 551070.0,
+        "Coefficient": 0.379,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 1017,
         "Zipcode": "36863",
-        "State_id": 1.0,
         "Bank_Name": "Charterbank"
     },
     {
         "arid_id": 6911,
-        "County": 1017,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 1017,
         "Zipcode": "36863",
-        "State_id": 1.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2988,
-        "County": 47061,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.053,
-        "Significance": "***",
         "arid": 320818,
-        "rssdid": 162337.0,
+        "Coefficient": -0.053,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47061,
         "Zipcode": "37301",
-        "State_id": 47.0,
         "Bank_Name": "Citizens Tri-county Bank"
     }
 ]

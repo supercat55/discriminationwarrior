@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 8398,
-        "County": 8119,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.4,
-        "Significance": "***",
         "arid": 7752838184,
-        "rssdid": 3844465.0,
+        "Coefficient": -0.4,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 8119,
         "Zipcode": "80863",
-        "State_id": 8.0,
         "Bank_Name": "Ark-la-tex Financial Services, LLC."
     }
 ]

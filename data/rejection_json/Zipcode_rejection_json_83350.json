@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5265,
-        "County": 16067,
-        "T-Value": "(0.010)",
-        "Coefficient": 0.01,
-        "Significance": "Not Significant",
         "arid": 563194,
-        "rssdid": 322793.0,
+        "Coefficient": 0.01,
+        "T-Value": "(0.010)",
+        "Significance": "Not Significant",
+        "County": 16067,
         "Zipcode": "83350",
-        "State_id": 16.0,
         "Bank_Name": "Idaho Central"
     }
 ]

@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 5634,
-        "County": 48203,
-        "T-Value": "(0.081)",
-        "Coefficient": 0.349,
-        "Significance": "***",
         "arid": 567761,
-        "rssdid": 693895.0,
+        "Coefficient": 0.349,
+        "T-Value": "(0.081)",
+        "Significance": "***",
+        "County": 48203,
         "Zipcode": "75670",
-        "State_id": 48.0,
         "Bank_Name": "East Texas Professional Credit Union"
     },
     {
         "arid_id": 5681,
-        "County": 48203,
-        "T-Value": "(0.170)",
-        "Coefficient": 0.333,
-        "Significance": "*",
         "arid": 568095,
-        "rssdid": 263391.0,
+        "Coefficient": 0.333,
+        "T-Value": "(0.170)",
+        "Significance": "*",
+        "County": 48203,
         "Zipcode": "75670",
-        "State_id": 48.0,
         "Bank_Name": "Eastman"
     },
     {
         "arid_id": 6936,
-        "County": 48203,
-        "T-Value": "(0.052)",
-        "Coefficient": 0.6,
-        "Significance": "***",
         "arid": 9606046,
-        "rssdid": 606046.0,
+        "Coefficient": 0.6,
+        "T-Value": "(0.052)",
+        "Significance": "***",
+        "County": 48203,
         "Zipcode": "75670",
-        "State_id": 48.0,
         "Bank_Name": "Bancorpsouth Bank"
     }
 ]

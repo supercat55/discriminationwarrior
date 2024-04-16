@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 5004,
-        "County": 12023,
-        "T-Value": "(0.017)",
-        "Coefficient": 0.035,
-        "Significance": "*",
         "arid": 560497,
-        "rssdid": 577799.0,
+        "Coefficient": 0.035,
+        "T-Value": "(0.017)",
+        "Significance": "*",
+        "County": 12023,
         "Zipcode": "32024",
-        "State_id": 12.0,
         "Bank_Name": "Florida"
     },
     {
         "arid_id": 5812,
-        "County": 12023,
-        "T-Value": "(0.082)",
-        "Coefficient": -0.429,
-        "Significance": "***",
         "arid": 568490,
-        "rssdid": 99189.0,
+        "Coefficient": -0.429,
+        "T-Value": "(0.082)",
+        "Significance": "***",
+        "County": 12023,
         "Zipcode": "32024",
-        "State_id": 12.0,
         "Bank_Name": "Vystar"
     }
 ]

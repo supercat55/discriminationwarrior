@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5484,
-        "County": 55135,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.429,
-        "Significance": "***",
         "arid": 566731,
-        "rssdid": 941699.0,
+        "Coefficient": 0.429,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 55135,
         "Zipcode": "54983",
-        "State_id": 55.0,
         "Bank_Name": "Fox Communities"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5190,
-        "County": 26133,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.364,
-        "Significance": "***",
         "arid": 562347,
-        "rssdid": 226499.0,
+        "Coefficient": 0.364,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 26133,
         "Zipcode": "49677",
-        "State_id": 26.0,
         "Bank_Name": "West Michigan Credit Union"
     }
 ]

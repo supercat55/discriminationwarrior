@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 90,
-        "County": 36109,
-        "T-Value": "(0.025)",
-        "Coefficient": -0.047,
-        "Significance": "*",
         "arid": 3609,
-        "rssdid": 433608.0,
+        "Coefficient": -0.047,
+        "T-Value": "(0.025)",
+        "Significance": "*",
+        "County": 36109,
         "Zipcode": "13068",
-        "State_id": 36.0,
         "Bank_Name": "Tompkins Trust Company"
     },
     {
         "arid_id": 5737,
-        "County": 36109,
-        "T-Value": "(0.031)",
-        "Coefficient": 0.135,
-        "Significance": "***",
         "arid": 568322,
-        "rssdid": 272281.0,
+        "Coefficient": 0.135,
+        "T-Value": "(0.031)",
+        "Significance": "***",
+        "County": 36109,
         "Zipcode": "13068",
-        "State_id": 36.0,
         "Bank_Name": "Cfcu Community Credit Union"
     }
 ]

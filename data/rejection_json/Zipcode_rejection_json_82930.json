@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 3471,
-        "County": 56041,
-        "T-Value": "(0.135)",
-        "Coefficient": 0.333,
-        "Significance": "**",
         "arid": 330788,
-        "rssdid": 2634191.0,
+        "Coefficient": 0.333,
+        "T-Value": "(0.135)",
+        "Significance": "**",
+        "County": 56041,
         "Zipcode": "82930",
-        "State_id": 56.0,
         "Bank_Name": "Glacier Bank"
     },
     {
         "arid_id": 6911,
-        "County": 56041,
-        "T-Value": "(0.117)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.117)",
+        "Significance": "***",
+        "County": 56041,
         "Zipcode": "82930",
-        "State_id": 56.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

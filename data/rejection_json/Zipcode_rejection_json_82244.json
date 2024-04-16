@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 516,
-        "County": 56015,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 32232,
-        "rssdid": 561659.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 56015,
         "Zipcode": "82244",
-        "State_id": 56.0,
         "Bank_Name": "Pinnacle Bank - Wyoming"
     }
 ]

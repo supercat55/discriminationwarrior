@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 5961,
-        "County": 39157,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.781,
-        "Significance": "***",
         "arid": 912311,
-        "rssdid": 12311.0,
+        "Coefficient": 0.781,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 39157,
         "Zipcode": "43832",
-        "State_id": 39.0,
         "Bank_Name": "The Huntington National Bank"
     },
     {
         "arid_id": 6962,
-        "County": 39157,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9852218,
-        "rssdid": 852218.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39157,
         "Zipcode": "43832",
-        "State_id": 39.0,
         "Bank_Name": "Jpmorgan Chase Bank, National Association"
     }
 ]

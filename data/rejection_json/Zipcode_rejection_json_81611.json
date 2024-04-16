@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 3092,
-        "County": 8097,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 323091,
-        "rssdid": 260055.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 8097,
         "Zipcode": "81611",
-        "State_id": 8.0,
         "Bank_Name": "Alpine Bank"
     },
     {
         "arid_id": 6911,
-        "County": 8097,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.035,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": -0.035,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 8097,
         "Zipcode": "81611",
-        "State_id": 8.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6697,
-        "County": 56013,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.113,
-        "Significance": "***",
         "arid": 2659855,
-        "rssdid": 659855.0,
+        "Coefficient": -0.113,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 56013,
         "Zipcode": "82513",
-        "State_id": 56.0,
         "Bank_Name": "First Interstate Bank"
     },
     {
         "arid_id": 6911,
-        "County": 56013,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 56013,
         "Zipcode": "82513",
-        "State_id": 56.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

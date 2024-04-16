@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6942,
-        "County": 48395,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 9664756,
-        "rssdid": 664756.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48395,
         "Zipcode": "76629",
-        "State_id": 48.0,
         "Bank_Name": "Prosperity Bank"
     }
 ]

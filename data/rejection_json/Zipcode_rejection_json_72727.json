@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6900,
-        "County": 5087,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.333,
-        "Significance": "***",
         "arid": 9311845,
-        "rssdid": 311845.0,
+        "Coefficient": 0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 5087,
         "Zipcode": "72727",
-        "State_id": 5.0,
         "Bank_Name": "Arvest Bank"
     }
 ]

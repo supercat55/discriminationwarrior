@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 4898,
-        "County": 49013,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.231,
-        "Significance": "***",
         "arid": 524692,
-        "rssdid": 611198.0,
+        "Coefficient": 0.231,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 49013,
         "Zipcode": "84021",
-        "State_id": 49.0,
         "Bank_Name": "Mountain America"
     }
 ]

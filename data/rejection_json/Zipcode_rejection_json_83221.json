@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 5265,
-        "County": 16011,
-        "T-Value": "(0.031)",
-        "Coefficient": 0.158,
-        "Significance": "***",
         "arid": 563194,
-        "rssdid": 322793.0,
+        "Coefficient": 0.158,
+        "T-Value": "(0.031)",
+        "Significance": "***",
+        "County": 16011,
         "Zipcode": "83221",
-        "State_id": 16.0,
         "Bank_Name": "Idaho Central"
     },
     {
         "arid_id": 5743,
-        "County": 16011,
-        "T-Value": "(0.107)",
-        "Coefficient": 0.031,
-        "Significance": "Not Significant",
         "arid": 568353,
-        "rssdid": 478494.0,
+        "Coefficient": 0.031,
+        "T-Value": "(0.107)",
+        "Significance": "Not Significant",
+        "County": 16011,
         "Zipcode": "83221",
-        "State_id": 16.0,
         "Bank_Name": "Westmark Credit Union"
     },
     {
         "arid_id": 6921,
-        "County": 16011,
-        "T-Value": "(0.088)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 9504713,
-        "rssdid": 504713.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.088)",
+        "Significance": "***",
+        "County": 16011,
         "Zipcode": "83221",
-        "State_id": 16.0,
         "Bank_Name": "U.S. Bank National Association"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5812,
-        "County": 12007,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.714,
-        "Significance": "***",
         "arid": 568490,
-        "rssdid": 99189.0,
+        "Coefficient": 0.714,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 12007,
         "Zipcode": "32091",
-        "State_id": 12.0,
         "Bank_Name": "Vystar"
     }
 ]

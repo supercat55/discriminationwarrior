@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 4653,
-        "County": 1031,
-        "T-Value": "(0.063)",
-        "Coefficient": 0.034,
-        "Significance": "Not Significant",
         "arid": 517642,
-        "rssdid": 35785.0,
+        "Coefficient": 0.034,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 1031,
         "Zipcode": "36330",
-        "State_id": 1.0,
         "Bank_Name": "All In"
     },
     {
         "arid_id": 6939,
-        "County": 1031,
-        "T-Value": "(0.142)",
-        "Coefficient": 0.286,
-        "Significance": "*",
         "arid": 9619877,
-        "rssdid": 619877.0,
+        "Coefficient": 0.286,
+        "T-Value": "(0.142)",
+        "Significance": "*",
+        "County": 1031,
         "Zipcode": "36330",
-        "State_id": 1.0,
         "Bank_Name": "USAA Federal Savings Bank"
     }
 ]

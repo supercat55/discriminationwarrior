@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 8023,
-        "County": 26143,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 7383616059,
-        "rssdid": 3870428.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 26143,
         "Zipcode": "48656",
-        "State_id": 26.0,
         "Bank_Name": "Member First Mortgage, LLC"
     }
 ]

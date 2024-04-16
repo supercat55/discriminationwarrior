@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 2498,
-        "County": 39069,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 315384,
-        "rssdid": 896427.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 39069,
         "Zipcode": "43516",
-        "State_id": 39.0,
         "Bank_Name": "The Henry County Bank"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 1570,
-        "County": 48233,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.52,
-        "Significance": "***",
         "arid": 114206,
-        "rssdid": 353555.0,
+        "Coefficient": 0.52,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48233,
         "Zipcode": "79007",
-        "State_id": 48.0,
         "Bank_Name": "Amarillo National Bank"
     }
 ]

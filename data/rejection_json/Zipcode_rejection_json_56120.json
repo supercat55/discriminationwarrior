@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 729,
-        "County": 27165,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 38200,
-        "rssdid": 874050.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 27165,
         "Zipcode": "56120",
-        "State_id": 27.0,
         "Bank_Name": "Citizens Bank Minnesota"
     },
     {
         "arid_id": 6846,
-        "County": 27165,
-        "T-Value": "(0.089)",
-        "Coefficient": -0.032,
-        "Significance": "Not Significant",
         "arid": 2920854,
-        "rssdid": 920854.0,
+        "Coefficient": -0.032,
+        "T-Value": "(0.089)",
+        "Significance": "Not Significant",
+        "County": 27165,
         "Zipcode": "56120",
-        "State_id": 27.0,
         "Bank_Name": "Pioneer Bank"
     }
 ]

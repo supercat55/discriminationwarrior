@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 6911,
-        "County": 51683,
-        "T-Value": "(0.056)",
-        "Coefficient": 0.444,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.444,
+        "T-Value": "(0.056)",
+        "Significance": "***",
+        "County": 51683,
         "Zipcode": "20110",
-        "State_id": 51.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     },
     {
         "arid_id": 6915,
-        "County": 51683,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 9480228,
-        "rssdid": 480228.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51683,
         "Zipcode": "20110",
-        "State_id": 51.0,
         "Bank_Name": "Bank of America, National Association"
     },
     {
         "arid_id": 7859,
-        "County": 51683,
-        "T-Value": "(0.125)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 7264599244,
-        "rssdid": 4438209.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.125)",
+        "Significance": "***",
+        "County": 51683,
         "Zipcode": "20110",
-        "State_id": 51.0,
         "Bank_Name": "Loandepot.com, LLC"
     }
 ]

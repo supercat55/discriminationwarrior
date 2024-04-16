@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 5872,
-        "County": 27097,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.5,
-        "Significance": "***",
         "arid": 568604,
-        "rssdid": 737696.0,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 27097,
         "Zipcode": "56314",
-        "State_id": 27.0,
         "Bank_Name": "Central Minnesota Credit Union"
     },
     {
         "arid_id": 6921,
-        "County": 27097,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.181,
-        "Significance": "***",
         "arid": 9504713,
-        "rssdid": 504713.0,
+        "Coefficient": 0.181,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 27097,
         "Zipcode": "56314",
-        "State_id": 27.0,
         "Bank_Name": "U.S. Bank National Association"
     }
 ]

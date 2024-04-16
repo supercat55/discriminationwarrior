@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 514,
-        "County": 13159,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.136,
-        "Significance": "***",
         "arid": 32145,
-        "rssdid": 805335.0,
+        "Coefficient": -0.136,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 13159,
         "Zipcode": "31064",
-        "State_id": 13.0,
         "Bank_Name": "Bank of Monticello"
     },
     {
         "arid_id": 3994,
-        "County": 13159,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 357810,
-        "rssdid": 3294583.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 13159,
         "Zipcode": "31064",
-        "State_id": 13.0,
         "Bank_Name": "Hamilton State Bank"
     }
 ]

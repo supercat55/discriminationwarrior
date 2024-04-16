@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 5163,
-        "County": 20155,
-        "T-Value": "(0.030)",
-        "Coefficient": 0.053,
-        "Significance": "Not Significant",
         "arid": 562031,
-        "rssdid": 177498.0,
+        "Coefficient": 0.053,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 20155,
         "Zipcode": "67522",
-        "State_id": 20.0,
         "Bank_Name": "Heartland Credit Union"
     },
     {
         "arid_id": 8493,
-        "County": 20155,
-        "T-Value": "(0.175)",
-        "Coefficient": 0.533,
-        "Significance": "**",
         "arid": 7860860478,
-        "rssdid": 3877575.0,
+        "Coefficient": 0.533,
+        "T-Value": "(0.175)",
+        "Significance": "**",
+        "County": 20155,
         "Zipcode": "67522",
-        "State_id": 20.0,
         "Bank_Name": "Primary Residential Mortgage, INC."
     }
 ]

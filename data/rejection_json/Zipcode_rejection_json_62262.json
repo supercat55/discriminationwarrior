@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 405,
-        "County": 17005,
-        "T-Value": "(0.000)",
-        "Coefficient": -0.8,
-        "Significance": "***",
         "arid": 19734,
-        "rssdid": 720746.0,
+        "Coefficient": -0.8,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17005,
         "Zipcode": "62262",
-        "State_id": 17.0,
         "Bank_Name": "The Bradford National Bank of Greenville"
     }
 ]

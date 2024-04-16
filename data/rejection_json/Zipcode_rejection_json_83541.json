@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 1043,
-        "County": 16069,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.198,
-        "Significance": "Not Significant",
         "arid": 52734,
-        "rssdid": 702975.0,
+        "Coefficient": 0.198,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 16069,
         "Zipcode": "83541",
-        "State_id": 16.0,
         "Bank_Name": "Potlatch No. 1 Financial Credit Union"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 402,
-        "County": 17049,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 19582,
-        "rssdid": 771140.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17049,
         "Zipcode": "62401",
-        "State_id": 17.0,
         "Bank_Name": "Dieterich Bank"
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6073,
-        "County": 54029,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.323,
-        "Significance": "***",
         "arid": 1702808,
-        "rssdid": 888271.0,
+        "Coefficient": 0.323,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 54029,
         "Zipcode": "26062",
-        "State_id": 54.0,
         "Bank_Name": "Hancock County Savings Bank, FSB, INC."
     }
 ]

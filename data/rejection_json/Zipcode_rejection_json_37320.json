@@ -1,38 +1,32 @@
 [
     {
         "arid_id": 286,
-        "County": 47011,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 15263,
-        "rssdid": 133850.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 47011,
         "Zipcode": "37320",
-        "State_id": 47.0,
         "Bank_Name": "First Citizens National Bank"
     },
     {
         "arid_id": 963,
-        "County": 47011,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 51520,
-        "rssdid": 426374.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 47011,
         "Zipcode": "37320",
-        "State_id": 47.0,
         "Bank_Name": "Tennessee Valley"
     },
     {
         "arid_id": 6962,
-        "County": 47011,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.333,
-        "Significance": "Not Significant",
         "arid": 9852218,
-        "rssdid": 852218.0,
+        "Coefficient": 0.333,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 47011,
         "Zipcode": "37320",
-        "State_id": 47.0,
         "Bank_Name": "Jpmorgan Chase Bank, National Association"
     }
 ]

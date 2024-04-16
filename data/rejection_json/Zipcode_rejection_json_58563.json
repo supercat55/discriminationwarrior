@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5980,
-        "County": 38059,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 1700257,
-        "rssdid": 657271.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 38059,
         "Zipcode": "58563",
-        "State_id": 38.0,
         "Bank_Name": "Gate City Bank"
     }
 ]

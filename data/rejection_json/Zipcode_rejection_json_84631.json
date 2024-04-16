@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6897,
-        "County": 49027,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.667,
-        "Significance": "***",
         "arid": 9276579,
-        "rssdid": 276579.0,
+        "Coefficient": 0.667,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 49027,
         "Zipcode": "84631",
-        "State_id": 49.0,
         "Bank_Name": "Zions Bancorporation, N.A."
     }
 ]

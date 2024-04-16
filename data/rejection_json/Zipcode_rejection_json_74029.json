@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 1062,
-        "County": 40147,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.062,
-        "Significance": "***",
         "arid": 53130,
-        "rssdid": 518774.0,
+        "Coefficient": 0.062,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 40147,
         "Zipcode": "74029",
-        "State_id": 40.0,
         "Bank_Name": "Truity Federal Credit Union"
     },
     {
         "arid_id": 6901,
-        "County": 40147,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 9339858,
-        "rssdid": 339858.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 40147,
         "Zipcode": "74029",
-        "State_id": 40.0,
         "Bank_Name": "Bokf, National Association"
     }
 ]

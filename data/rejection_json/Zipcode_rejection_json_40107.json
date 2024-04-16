@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 2542,
-        "County": 21179,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.143,
-        "Significance": "***",
         "arid": 315703,
-        "rssdid": 692946.0,
+        "Coefficient": 0.143,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 21179,
         "Zipcode": "40107",
-        "State_id": 21.0,
         "Bank_Name": "Town & Country Bank And Trust Company"
     },
     {
         "arid_id": 6911,
-        "County": 21179,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.5,
-        "Significance": "***",
         "arid": 9451965,
-        "rssdid": 451965.0,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 21179,
         "Zipcode": "40107",
-        "State_id": 21.0,
         "Bank_Name": "Wells Fargo Bank, National Association"
     }
 ]

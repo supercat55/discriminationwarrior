@@ -1,26 +1,22 @@
 [
     {
         "arid_id": 6963,
-        "County": 51067,
-        "T-Value": "(0.094)",
-        "Coefficient": 0.152,
-        "Significance": "Not Significant",
         "arid": 9852320,
-        "rssdid": 852320.0,
+        "Coefficient": 0.152,
+        "T-Value": "(0.094)",
+        "Significance": "Not Significant",
+        "County": 51067,
         "Zipcode": "24184",
-        "State_id": 51.0,
         "Bank_Name": "Truist Bank"
     },
     {
         "arid_id": 8692,
-        "County": 51067,
-        "T-Value": "(0.094)",
-        "Coefficient": 0.444,
-        "Significance": "***",
         "arid": 9540259290,
-        "rssdid": 1072246.0,
+        "Coefficient": 0.444,
+        "T-Value": "(0.094)",
+        "Significance": "***",
+        "County": 51067,
         "Zipcode": "24184",
-        "State_id": 51.0,
         "Bank_Name": "Suntrust Mortgage, INC."
     }
 ]

@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 5313,
-        "County": 17083,
-        "T-Value": "(0.000)",
-        "Coefficient": 0.0,
-        "Significance": "Not Significant",
         "arid": 563932,
-        "rssdid": 864293.0,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17083,
         "Zipcode": "62022",
-        "State_id": 17.0,
         "Bank_Name": "1st Midamerica"
     }
 ]

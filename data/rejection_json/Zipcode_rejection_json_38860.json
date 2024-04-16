@@ -1,14 +1,12 @@
 [
     {
         "arid_id": 6936,
-        "County": 28017,
-        "T-Value": "(0.035)",
-        "Coefficient": 0.057,
-        "Significance": "Not Significant",
         "arid": 9606046,
-        "rssdid": 606046.0,
+        "Coefficient": 0.057,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 28017,
         "Zipcode": "38860",
-        "State_id": 28.0,
         "Bank_Name": "Bancorpsouth Bank"
     }
 ]
