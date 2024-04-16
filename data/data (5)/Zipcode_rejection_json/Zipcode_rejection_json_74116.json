@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.571,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 40131,
+        "Zipcode": "74116",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7205,
+        "arid": 92590037,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 40131,
+        "Zipcode": "74116",
+        "Bank_Name": "State Farm Bank, F.S.B."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 4499,
+        "arid": 512977,
+        "Coefficient": 0.0,
+        "T-Value": "(0.206)",
+        "Significance": "Not Significant",
+        "County": 37133,
+        "Zipcode": "28460",
+        "Bank_Name": "Marine Federal Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.211,
+        "T-Value": "(0.068)",
+        "Significance": "**",
+        "County": 37133,
+        "Zipcode": "28460",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6938,
+        "arid": 9617677,
+        "Coefficient": 0.33,
+        "T-Value": "(0.050)",
+        "Significance": "***",
+        "County": 37133,
+        "Zipcode": "28460",
+        "Bank_Name": "Navy Federal Credit Union"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.5,
+        "T-Value": "(0.248)",
+        "Significance": "*",
+        "County": 37133,
+        "Zipcode": "28460",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": -0.359,
+        "T-Value": "(0.116)",
+        "Significance": "**",
+        "County": 37133,
+        "Zipcode": "28460",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37133,
+        "Zipcode": "28460",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": -0.5,
+        "T-Value": "(0.252)",
+        "Significance": "*",
+        "County": 37133,
+        "Zipcode": "28460",
+        "Bank_Name": "Ditech Financial LLC"
+    }
+]

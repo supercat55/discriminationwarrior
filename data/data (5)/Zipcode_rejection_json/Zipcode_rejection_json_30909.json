@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 323,
+        "arid": 16207,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13245,
+        "Zipcode": "30909",
+        "Bank_Name": "Queensborough National Bank & Trust Company"
+    },
+    {
+        "arid_id": 2359,
+        "arid": 313425,
+        "Coefficient": 0.2,
+        "T-Value": "(0.009)",
+        "Significance": "***",
+        "County": 13245,
+        "Zipcode": "30909",
+        "Bank_Name": "South State Bank"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": -0.181,
+        "T-Value": "(0.118)",
+        "Significance": "Not Significant",
+        "County": 13245,
+        "Zipcode": "30909",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.027,
+        "T-Value": "(0.034)",
+        "Significance": "Not Significant",
+        "County": 13245,
+        "Zipcode": "30909",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13245,
+        "Zipcode": "30909",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": -0.421,
+        "T-Value": "(0.073)",
+        "Significance": "***",
+        "County": 13245,
+        "Zipcode": "30909",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.5,
+        "T-Value": "(0.139)",
+        "Significance": "***",
+        "County": 13245,
+        "Zipcode": "30909",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13245,
+        "Zipcode": "30909",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.407,
+        "T-Value": "(0.085)",
+        "Significance": "***",
+        "County": 13245,
+        "Zipcode": "30909",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    }
+]

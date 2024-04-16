@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 250,
+        "arid": 13656,
+        "Coefficient": 0.079,
+        "T-Value": "(0.018)",
+        "Significance": "***",
+        "County": 1125,
+        "Zipcode": "35404",
+        "Bank_Name": "Cadence Bank, N.A."
+    },
+    {
+        "arid_id": 5864,
+        "arid": 568595,
+        "Coefficient": 0.152,
+        "T-Value": "(0.032)",
+        "Significance": "***",
+        "County": 1125,
+        "Zipcode": "35404",
+        "Bank_Name": "Alabama One Credit Union"
+    },
+    {
+        "arid_id": 6231,
+        "arid": 1706432,
+        "Coefficient": 0.075,
+        "T-Value": "(0.026)",
+        "Significance": "**",
+        "County": 1125,
+        "Zipcode": "35404",
+        "Bank_Name": "First Federal Bank, A FSB"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": -0.259,
+        "T-Value": "(0.041)",
+        "Significance": "***",
+        "County": 1125,
+        "Zipcode": "35404",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.027,
+        "T-Value": "(0.040)",
+        "Significance": "Not Significant",
+        "County": 1125,
+        "Zipcode": "35404",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6949,
+        "arid": 9697633,
+        "Coefficient": 0.182,
+        "T-Value": "(0.063)",
+        "Significance": "**",
+        "County": 1125,
+        "Zipcode": "35404",
+        "Bank_Name": "Bbva USA"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.002,
+        "T-Value": "(0.001)",
+        "Significance": "Not Significant",
+        "County": 1125,
+        "Zipcode": "35404",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.5,
+        "T-Value": "(0.084)",
+        "Significance": "***",
+        "County": 1125,
+        "Zipcode": "35404",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    }
+]

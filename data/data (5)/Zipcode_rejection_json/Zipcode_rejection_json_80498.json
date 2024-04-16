@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6899,
+        "arid": 9288853,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 8117,
+        "Zipcode": "80498",
+        "Bank_Name": "Firstbank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.2,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 8117,
+        "Zipcode": "80498",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

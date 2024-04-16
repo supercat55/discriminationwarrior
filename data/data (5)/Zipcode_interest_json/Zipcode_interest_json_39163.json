@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1642,
+        "arid": 9233031,
+        "Coefficient": -1.479,
+        "T-Value": "(0.096)",
+        "Significance": "***",
+        "County": 28089,
+        "Zipcode": "39163",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": -0.496,
+        "T-Value": "(0.033)",
+        "Significance": "***",
+        "County": 28089,
+        "Zipcode": "39163",
+        "Bank_Name": "USAA Federal Savings Bank"
+    }
+]

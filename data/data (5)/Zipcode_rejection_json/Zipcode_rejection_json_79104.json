@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 1570,
+        "arid": 114206,
+        "Coefficient": 0.105,
+        "T-Value": "(0.049)",
+        "Significance": "*",
+        "County": 48375,
+        "Zipcode": "79104",
+        "Bank_Name": "Amarillo National Bank"
+    },
+    {
+        "arid_id": 5587,
+        "arid": 567494,
+        "Coefficient": 0.2,
+        "T-Value": "(0.127)",
+        "Significance": "Not Significant",
+        "County": 48375,
+        "Zipcode": "79104",
+        "Bank_Name": "Education Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.429,
+        "T-Value": "(0.237)",
+        "Significance": "Not Significant",
+        "County": 48375,
+        "Zipcode": "79104",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 8746,
+        "arid": 71006400007,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48375,
+        "Zipcode": "79104",
+        "Bank_Name": "Associated Mortgage Corporation"
+    }
+]

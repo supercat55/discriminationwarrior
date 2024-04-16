@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 653,
+        "arid": 35885,
+        "Coefficient": -0.5,
+        "T-Value": "(0.259)",
+        "Significance": "*",
+        "County": 24045,
+        "Zipcode": "21837",
+        "Bank_Name": "The Farmers Bank of Willards"
+    },
+    {
+        "arid_id": 5428,
+        "arid": 566330,
+        "Coefficient": 0.227,
+        "T-Value": "(0.033)",
+        "Significance": "***",
+        "County": 24045,
+        "Zipcode": "21837",
+        "Bank_Name": "State Employees Credit Union of Maryland, Incorporated"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.227,
+        "T-Value": "(0.122)",
+        "Significance": "*",
+        "County": 24045,
+        "Zipcode": "21837",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.077,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 24045,
+        "Zipcode": "21837",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 2100,
+        "arid": 310619,
+        "Coefficient": -0.142,
+        "T-Value": "(0.039)",
+        "Significance": "***",
+        "County": 29135,
+        "Zipcode": "65018",
+        "Bank_Name": "Hawthorn Bank"
+    },
+    {
+        "arid_id": 6806,
+        "arid": 2853952,
+        "Coefficient": -0.207,
+        "T-Value": "(0.298)",
+        "Significance": "Not Significant",
+        "County": 29135,
+        "Zipcode": "65018",
+        "Bank_Name": "The Central Trust Bank"
+    }
+]

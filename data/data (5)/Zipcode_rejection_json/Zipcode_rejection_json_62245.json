@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 1575,
+        "arid": 114268,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17027,
+        "Zipcode": "62245",
+        "Bank_Name": "The First National Bank In Carlyle"
+    },
+    {
+        "arid_id": 3534,
+        "arid": 333005,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 17027,
+        "Zipcode": "62245",
+        "Bank_Name": "Fcb Banks"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.667,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17027,
+        "Zipcode": "62245",
+        "Bank_Name": "U.S. Bank National Association"
+    }
+]

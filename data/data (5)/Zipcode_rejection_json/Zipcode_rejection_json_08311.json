@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 34011,
+        "Zipcode": "08311",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 7775,
+        "arid": 7232769131,
+        "Coefficient": -0.16,
+        "T-Value": "(0.066)",
+        "Significance": "**",
+        "County": 34011,
+        "Zipcode": "08311",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    }
+]

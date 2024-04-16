@@ -1,0 +1,142 @@
+[
+    {
+        "arid_id": 4466,
+        "arid": 512199,
+        "Coefficient": 0.5,
+        "T-Value": "(0.419)",
+        "Significance": "Not Significant",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Kirtland Federal Credit Union"
+    },
+    {
+        "arid_id": 6238,
+        "arid": 1706809,
+        "Coefficient": 0.333,
+        "T-Value": "(0.204)",
+        "Significance": "Not Significant",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Colonial Savings, F.a."
+    },
+    {
+        "arid_id": 6901,
+        "arid": 9339858,
+        "Coefficient": 0.009,
+        "T-Value": "(0.056)",
+        "Significance": "Not Significant",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Bokf, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.032,
+        "T-Value": "(0.045)",
+        "Significance": "Not Significant",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.3,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.191,
+        "T-Value": "(0.085)",
+        "Significance": "*",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6949,
+        "arid": 9697633,
+        "Coefficient": -0.667,
+        "T-Value": "(0.234)",
+        "Significance": "**",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Bbva USA"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.213,
+        "T-Value": "(0.187)",
+        "Significance": "Not Significant",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.156,
+        "T-Value": "(0.099)",
+        "Significance": "Not Significant",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.009,
+        "T-Value": "(0.103)",
+        "Significance": "Not Significant",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.129,
+        "T-Value": "(0.078)",
+        "Significance": "Not Significant",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.1,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.26,
+        "T-Value": "(0.149)",
+        "Significance": "Not Significant",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8910,
+        "arid": 77257500009,
+        "Coefficient": -0.611,
+        "T-Value": "(0.117)",
+        "Significance": "***",
+        "County": 35043,
+        "Zipcode": "87013",
+        "Bank_Name": "Academy Mortgage Corporation"
+    }
+]

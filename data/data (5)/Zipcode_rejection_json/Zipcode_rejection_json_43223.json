@@ -1,0 +1,322 @@
+[
+    {
+        "arid_id": 3508,
+        "arid": 332296,
+        "Coefficient": 0.097,
+        "T-Value": "(0.050)",
+        "Significance": "*",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Union Savings Bank"
+    },
+    {
+        "arid_id": 5119,
+        "arid": 561623,
+        "Coefficient": 0.136,
+        "T-Value": "(0.126)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Kemba Financial"
+    },
+    {
+        "arid_id": 5241,
+        "arid": 562848,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Telhio"
+    },
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.09,
+        "T-Value": "(0.018)",
+        "Significance": "***",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 6101,
+        "arid": 1703536,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "First Federal Savings And Loan Association of Lakewood"
+    },
+    {
+        "arid_id": 6449,
+        "arid": 2165628,
+        "Coefficient": 0.109,
+        "T-Value": "(0.180)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "First Financial Bank"
+    },
+    {
+        "arid_id": 6666,
+        "arid": 2614313,
+        "Coefficient": 0.025,
+        "T-Value": "(0.034)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "The State Bank And Trust Company"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": -0.074,
+        "T-Value": "(0.138)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.056,
+        "T-Value": "(0.032)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.052,
+        "T-Value": "(0.130)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.032,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.127,
+        "T-Value": "(0.039)",
+        "Significance": "**",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": 0.5,
+        "T-Value": "(0.397)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.232,
+        "T-Value": "(0.092)",
+        "Significance": "**",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.034,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.06,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6966,
+        "arid": 9915878,
+        "Coefficient": -0.039,
+        "T-Value": "(0.045)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Third Federal Savings And Loan Association of Cleveland"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": 0.023,
+        "T-Value": "(0.037)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7207,
+        "arid": 92712969,
+        "Coefficient": 0.098,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Fifth Third Mortgage Company"
+    },
+    {
+        "arid_id": 7735,
+        "arid": 7208549934,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Hallmark Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.139,
+        "T-Value": "(0.079)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.333,
+        "T-Value": "(0.169)",
+        "Significance": "*",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": -0.021,
+        "T-Value": "(0.098)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8122,
+        "arid": 7463689142,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Homeside Financial, LLC"
+    },
+    {
+        "arid_id": 8174,
+        "arid": 7522102740,
+        "Coefficient": -0.012,
+        "T-Value": "(0.008)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Nfm, INC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.29,
+        "T-Value": "(0.124)",
+        "Significance": "**",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 0.079,
+        "T-Value": "(0.078)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8785,
+        "arid": 71411700003,
+        "Coefficient": -0.033,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "The Equitable Mortgage Corporation"
+    },
+    {
+        "arid_id": 8798,
+        "arid": 71611300007,
+        "Coefficient": -0.5,
+        "T-Value": "(0.271)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Equity Resources, INC."
+    },
+    {
+        "arid_id": 8859,
+        "arid": 73827009995,
+        "Coefficient": -0.169,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Union Home Mortgage CORP."
+    },
+    {
+        "arid_id": 8865,
+        "arid": 73840409990,
+        "Coefficient": -0.084,
+        "T-Value": "(0.120)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Priority Mortgage CORP."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.036,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 39049,
+        "Zipcode": "43223",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

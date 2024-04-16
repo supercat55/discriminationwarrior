@@ -1,0 +1,222 @@
+[
+    {
+        "arid_id": 3516,
+        "arid": 332489,
+        "Coefficient": 0.057,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Homestreet Bank"
+    },
+    {
+        "arid_id": 5229,
+        "arid": 562745,
+        "Coefficient": 0.035,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Onpoint Community Credit Union"
+    },
+    {
+        "arid_id": 6885,
+        "arid": 9143662,
+        "Coefficient": 0.048,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Umpqua Bank"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": 0.44,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.002,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.129,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.043,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.029,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7229,
+        "arid": 94186591,
+        "Coefficient": 0.231,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Pennymac Loan Services, LLC"
+    },
+    {
+        "arid_id": 7609,
+        "arid": 7113714032,
+        "Coefficient": 0.112,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Pacific Residential Mortgage, LLC"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": -0.355,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7775,
+        "arid": 7232769131,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.232,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.208,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8134,
+        "arid": 7470873092,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Network Capital Funding Corporation"
+    },
+    {
+        "arid_id": 8136,
+        "arid": 7470912342,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Loanpal, LLC"
+    },
+    {
+        "arid_id": 8139,
+        "arid": 7471809999,
+        "Coefficient": -0.013,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Guild Mortgage Company"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.202,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": -0.003,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8534,
+        "arid": 7931248952,
+        "Coefficient": -0.064,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Directors Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.016,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8910,
+        "arid": 77257500009,
+        "Coefficient": -0.138,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 41005,
+        "Zipcode": "97028",
+        "Bank_Name": "Academy Mortgage Corporation"
+    }
+]

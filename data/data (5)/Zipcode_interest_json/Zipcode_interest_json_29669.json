@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": 0.87,
+        "T-Value": "(0.284)",
+        "Significance": "**",
+        "County": 45007,
+        "Zipcode": "29669",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 1713,
+        "arid": 22888798,
+        "Coefficient": 0.334,
+        "T-Value": "(0.024)",
+        "Significance": "***",
+        "County": 45007,
+        "Zipcode": "29669",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 1956,
+        "arid": 7261193089,
+        "Coefficient": -1.298,
+        "T-Value": "(0.079)",
+        "Significance": "***",
+        "County": 45007,
+        "Zipcode": "29669",
+        "Bank_Name": "Roundpoint Advance Issuer Trust"
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": -0.672,
+        "T-Value": "(0.131)",
+        "Significance": "***",
+        "County": 45007,
+        "Zipcode": "29669",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": -0.824,
+        "T-Value": "(0.281)",
+        "Significance": "**",
+        "County": 45007,
+        "Zipcode": "29669",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    }
+]

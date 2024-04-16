@@ -1,0 +1,282 @@
+[
+    {
+        "arid_id": 889,
+        "arid": 39712,
+        "Coefficient": 0.027,
+        "T-Value": "(0.077)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Rockland Trust Company"
+    },
+    {
+        "arid_id": 1872,
+        "arid": 124131,
+        "Coefficient": -0.144,
+        "T-Value": "(0.187)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Leader Bank, National Association"
+    },
+    {
+        "arid_id": 3526,
+        "arid": 332773,
+        "Coefficient": -0.004,
+        "T-Value": "(0.014)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Eastern Bank"
+    },
+    {
+        "arid_id": 4315,
+        "arid": 359070,
+        "Coefficient": 0.127,
+        "T-Value": "(0.086)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Harborone Bank"
+    },
+    {
+        "arid_id": 4323,
+        "arid": 390160,
+        "Coefficient": 0.333,
+        "T-Value": "(0.352)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Blue Hills Bank"
+    },
+    {
+        "arid_id": 4326,
+        "arid": 390175,
+        "Coefficient": -0.109,
+        "T-Value": "(0.219)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "The Bank of Canton"
+    },
+    {
+        "arid_id": 4350,
+        "arid": 390270,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Envision Bank"
+    },
+    {
+        "arid_id": 4816,
+        "arid": 524224,
+        "Coefficient": 0.012,
+        "T-Value": "(0.058)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Rockland"
+    },
+    {
+        "arid_id": 6721,
+        "arid": 2699105,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Bridgewater Savings Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.053,
+        "T-Value": "(0.049)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.277,
+        "T-Value": "(0.160)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6937,
+        "arid": 9613307,
+        "Coefficient": -0.103,
+        "T-Value": "(0.117)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "People's United Bank, National Association"
+    },
+    {
+        "arid_id": 6951,
+        "arid": 9722777,
+        "Coefficient": 0.312,
+        "T-Value": "(0.123)",
+        "Significance": "**",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.159,
+        "T-Value": "(0.058)",
+        "Significance": "**",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": 0.213,
+        "T-Value": "(0.192)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7231,
+        "arid": 342802284,
+        "Coefficient": 0.452,
+        "T-Value": "(0.386)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Harborone Mortgage, LLC"
+    },
+    {
+        "arid_id": 7232,
+        "arid": 342876549,
+        "Coefficient": -0.012,
+        "T-Value": "(0.097)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Salem Five Mortgage Company, LLC"
+    },
+    {
+        "arid_id": 7239,
+        "arid": 710464609,
+        "Coefficient": 0.127,
+        "T-Value": "(0.112)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Residential Mortgage Services, INC."
+    },
+    {
+        "arid_id": 7288,
+        "arid": 761297784,
+        "Coefficient": 0.955,
+        "T-Value": "(0.114)",
+        "Significance": "***",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "William Raveis Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.029,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.073,
+        "T-Value": "(0.058)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": -0.5,
+        "T-Value": "(0.266)",
+        "Significance": "*",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 0.054,
+        "T-Value": "(0.057)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8793,
+        "arid": 71517600004,
+        "Coefficient": 0.039,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Radius Financial Group INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.089,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8967,
+        "arid": 77811300008,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 25023,
+        "Zipcode": "02360",
+        "Bank_Name": "Homebridge Financial Services, INC."
+    }
+]

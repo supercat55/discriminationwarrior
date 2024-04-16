@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 5333,
+        "arid": 564203,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 19169,
+        "Zipcode": "50248",
+        "Bank_Name": "Greater Iowa Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.008,
+        "T-Value": "(0.012)",
+        "Significance": "Not Significant",
+        "County": 19169,
+        "Zipcode": "50248",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.636,
+        "T-Value": "(0.083)",
+        "Significance": "***",
+        "County": 19169,
+        "Zipcode": "50248",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 8056,
+        "arid": 7421130287,
+        "Coefficient": -0.025,
+        "T-Value": "(0.047)",
+        "Significance": "Not Significant",
+        "County": 19169,
+        "Zipcode": "50248",
+        "Bank_Name": "Iowa Bankers Mortgage Corporation"
+    }
+]

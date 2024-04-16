@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": -0.5,
+        "T-Value": "(0.145)",
+        "Significance": "***",
+        "County": 13177,
+        "Zipcode": "31787",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.429,
+        "T-Value": "(0.181)",
+        "Significance": "**",
+        "County": 13177,
+        "Zipcode": "31787",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

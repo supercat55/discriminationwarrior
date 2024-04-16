@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 1180,
+        "arid": 55561,
+        "Coefficient": -0.042,
+        "T-Value": "(0.047)",
+        "Significance": "Not Significant",
+        "County": 28059,
+        "Zipcode": "39553",
+        "Bank_Name": "Keesler"
+    },
+    {
+        "arid_id": 4832,
+        "arid": 524326,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 28059,
+        "Zipcode": "39553",
+        "Bank_Name": "Chevron"
+    },
+    {
+        "arid_id": 5297,
+        "arid": 563637,
+        "Coefficient": 0.25,
+        "T-Value": "(0.127)",
+        "Significance": "*",
+        "County": 28059,
+        "Zipcode": "39553",
+        "Bank_Name": "Navigator Cu"
+    },
+    {
+        "arid_id": 6215,
+        "arid": 1705957,
+        "Coefficient": -0.135,
+        "T-Value": "(0.036)",
+        "Significance": "***",
+        "County": 28059,
+        "Zipcode": "39553",
+        "Bank_Name": "First Federal Savings And Loan Association"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.667,
+        "T-Value": "(0.158)",
+        "Significance": "***",
+        "County": 28059,
+        "Zipcode": "39553",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 28059,
+        "Zipcode": "39553",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.153,
+        "T-Value": "(0.001)",
+        "Significance": "***",
+        "County": 13157,
+        "Zipcode": "30517",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 13157,
+        "Zipcode": "30517",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 8382,
+        "arid": 7743038404,
+        "Coefficient": 0.0,
+        "T-Value": "(0.001)",
+        "Significance": "Not Significant",
+        "County": 13157,
+        "Zipcode": "30517",
+        "Bank_Name": "Homestar Financial Corporation"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.3,
+        "T-Value": "(0.042)",
+        "Significance": "**",
+        "County": 45013,
+        "Zipcode": "29931",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1770,
+        "arid": 742992161,
+        "Coefficient": 0.077,
+        "T-Value": "(0.085)",
+        "Significance": "Not Significant",
+        "County": 45013,
+        "Zipcode": "29931",
+        "Bank_Name": "Mortgage Network, INC."
+    },
+    {
+        "arid_id": 2071,
+        "arid": 7421554181,
+        "Coefficient": 0.5,
+        "T-Value": "(0.042)",
+        "Significance": "***",
+        "County": 45013,
+        "Zipcode": "29931",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": -0.711,
+        "T-Value": "(0.068)",
+        "Significance": "***",
+        "County": 45013,
+        "Zipcode": "29931",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

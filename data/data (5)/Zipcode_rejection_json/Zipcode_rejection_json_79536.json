@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 263,
+        "arid": 14166,
+        "Coefficient": 0.068,
+        "T-Value": "(0.026)",
+        "Significance": "**",
+        "County": 48441,
+        "Zipcode": "79536",
+        "Bank_Name": "First Financial Bank, National Association"
+    },
+    {
+        "arid_id": 1252,
+        "arid": 56743,
+        "Coefficient": 0.279,
+        "T-Value": "(0.038)",
+        "Significance": "***",
+        "County": 48441,
+        "Zipcode": "79536",
+        "Bank_Name": "Abilene Teachers Federal Credit Union"
+    },
+    {
+        "arid_id": 3146,
+        "arid": 325103,
+        "Coefficient": 0.125,
+        "T-Value": "(0.025)",
+        "Significance": "***",
+        "County": 48441,
+        "Zipcode": "79536",
+        "Bank_Name": "City Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.2,
+        "T-Value": "(0.083)",
+        "Significance": "**",
+        "County": 48441,
+        "Zipcode": "79536",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6942,
+        "arid": 9664756,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48441,
+        "Zipcode": "79536",
+        "Bank_Name": "Prosperity Bank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.2,
+        "T-Value": "(0.103)",
+        "Significance": "*",
+        "County": 48441,
+        "Zipcode": "79536",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

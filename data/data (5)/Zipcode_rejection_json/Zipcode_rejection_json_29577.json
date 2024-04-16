@@ -1,0 +1,152 @@
+[
+    {
+        "arid_id": 1453,
+        "arid": 110536,
+        "Coefficient": 0.333,
+        "T-Value": "(0.237)",
+        "Significance": "Not Significant",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "The Conway National Bank"
+    },
+    {
+        "arid_id": 2359,
+        "arid": 313425,
+        "Coefficient": -0.141,
+        "T-Value": "(0.108)",
+        "Significance": "Not Significant",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "South State Bank"
+    },
+    {
+        "arid_id": 3875,
+        "arid": 357135,
+        "Coefficient": 0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "Crescom Bank"
+    },
+    {
+        "arid_id": 4259,
+        "arid": 358689,
+        "Coefficient": 0.535,
+        "T-Value": "(0.094)",
+        "Significance": "***",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "South Atlantic Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.058,
+        "T-Value": "(0.043)",
+        "Significance": "Not Significant",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.123,
+        "T-Value": "(0.100)",
+        "Significance": "Not Significant",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.046,
+        "T-Value": "(0.082)",
+        "Significance": "Not Significant",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": -0.204,
+        "T-Value": "(0.106)",
+        "Significance": "*",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.136,
+        "T-Value": "(0.087)",
+        "Significance": "Not Significant",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": -0.4,
+        "T-Value": "(0.295)",
+        "Significance": "Not Significant",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8139,
+        "arid": 7471809999,
+        "Coefficient": 0.467,
+        "T-Value": "(0.140)",
+        "Significance": "**",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "Guild Mortgage Company"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": -0.023,
+        "T-Value": "(0.046)",
+        "Significance": "Not Significant",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.015,
+        "T-Value": "(0.094)",
+        "Significance": "Not Significant",
+        "County": 45051,
+        "Zipcode": "29577",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

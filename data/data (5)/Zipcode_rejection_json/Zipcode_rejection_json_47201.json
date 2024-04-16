@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 3508,
+        "arid": 332296,
+        "Coefficient": 0.13,
+        "T-Value": "(0.031)",
+        "Significance": "***",
+        "County": 18005,
+        "Zipcode": "47201",
+        "Bank_Name": "Union Savings Bank"
+    },
+    {
+        "arid_id": 5722,
+        "arid": 568287,
+        "Coefficient": -0.01,
+        "T-Value": "(0.026)",
+        "Significance": "Not Significant",
+        "County": 18005,
+        "Zipcode": "47201",
+        "Bank_Name": "Centra Credit Union"
+    },
+    {
+        "arid_id": 6449,
+        "arid": 2165628,
+        "Coefficient": 0.13,
+        "T-Value": "(0.087)",
+        "Significance": "Not Significant",
+        "County": 18005,
+        "Zipcode": "47201",
+        "Bank_Name": "First Financial Bank"
+    },
+    {
+        "arid_id": 6889,
+        "arid": 9208244,
+        "Coefficient": 0.231,
+        "T-Value": "(0.139)",
+        "Significance": "Not Significant",
+        "County": 18005,
+        "Zipcode": "47201",
+        "Bank_Name": "Old National Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.025,
+        "T-Value": "(0.026)",
+        "Significance": "Not Significant",
+        "County": 18005,
+        "Zipcode": "47201",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.667,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 18005,
+        "Zipcode": "47201",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7971,
+        "arid": 7351616238,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18005,
+        "Zipcode": "47201",
+        "Bank_Name": "Ruoff Mortgage Company, INC."
+    }
+]

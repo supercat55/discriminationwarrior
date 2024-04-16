@@ -1,0 +1,102 @@
+[
+    {
+        "arid_id": 416,
+        "arid": 31039,
+        "Coefficient": 0.023,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 17119,
+        "Zipcode": "62002",
+        "Bank_Name": "The Bank of Edwardsville"
+    },
+    {
+        "arid_id": 3534,
+        "arid": 333005,
+        "Coefficient": 0.172,
+        "T-Value": "(0.069)",
+        "Significance": "**",
+        "County": 17119,
+        "Zipcode": "62002",
+        "Bank_Name": "Fcb Banks"
+    },
+    {
+        "arid_id": 5313,
+        "arid": 563932,
+        "Coefficient": 0.106,
+        "T-Value": "(0.145)",
+        "Significance": "Not Significant",
+        "County": 17119,
+        "Zipcode": "62002",
+        "Bank_Name": "1st Midamerica"
+    },
+    {
+        "arid_id": 5444,
+        "arid": 566370,
+        "Coefficient": 0.415,
+        "T-Value": "(0.228)",
+        "Significance": "Not Significant",
+        "County": 17119,
+        "Zipcode": "62002",
+        "Bank_Name": "Scott Credit Union"
+    },
+    {
+        "arid_id": 5888,
+        "arid": 568623,
+        "Coefficient": -0.556,
+        "T-Value": "(0.127)",
+        "Significance": "***",
+        "County": 17119,
+        "Zipcode": "62002",
+        "Bank_Name": "Gcs"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.368,
+        "T-Value": "(0.151)",
+        "Significance": "**",
+        "County": 17119,
+        "Zipcode": "62002",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.046,
+        "T-Value": "(0.084)",
+        "Significance": "Not Significant",
+        "County": 17119,
+        "Zipcode": "62002",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.149,
+        "T-Value": "(0.129)",
+        "Significance": "Not Significant",
+        "County": 17119,
+        "Zipcode": "62002",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.077,
+        "T-Value": "(0.271)",
+        "Significance": "Not Significant",
+        "County": 17119,
+        "Zipcode": "62002",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7242,
+        "arid": 710726495,
+        "Coefficient": -0.029,
+        "T-Value": "(0.031)",
+        "Significance": "Not Significant",
+        "County": 17119,
+        "Zipcode": "62002",
+        "Bank_Name": "Broker Solutions, INC."
+    }
+]

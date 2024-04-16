@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 238,
+        "arid": 13124,
+        "Coefficient": 0.156,
+        "T-Value": "(0.097)",
+        "Significance": "Not Significant",
+        "County": 19193,
+        "Zipcode": "51054",
+        "Bank_Name": "The Security National Bank of Sioux City, Iowa"
+    },
+    {
+        "arid_id": 748,
+        "arid": 38354,
+        "Coefficient": -0.195,
+        "T-Value": "(0.147)",
+        "Significance": "Not Significant",
+        "County": 19193,
+        "Zipcode": "51054",
+        "Bank_Name": "Iowa-nebraska State Bank"
+    },
+    {
+        "arid_id": 3519,
+        "arid": 332647,
+        "Coefficient": -0.059,
+        "T-Value": "(0.083)",
+        "Significance": "Not Significant",
+        "County": 19193,
+        "Zipcode": "51054",
+        "Bank_Name": "Northwest Bank"
+    },
+    {
+        "arid_id": 4833,
+        "arid": 524327,
+        "Coefficient": 0.567,
+        "T-Value": "(0.113)",
+        "Significance": "***",
+        "County": 19193,
+        "Zipcode": "51054",
+        "Bank_Name": "Siouxland Federal Credit Union"
+    },
+    {
+        "arid_id": 6639,
+        "arid": 2546544,
+        "Coefficient": 0.045,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 19193,
+        "Zipcode": "51054",
+        "Bank_Name": "Central Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.01,
+        "T-Value": "(0.029)",
+        "Significance": "Not Significant",
+        "County": 19193,
+        "Zipcode": "51054",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.187,
+        "T-Value": "(0.123)",
+        "Significance": "Not Significant",
+        "County": 19193,
+        "Zipcode": "51054",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.0,
+        "T-Value": "(0.565)",
+        "Significance": "Not Significant",
+        "County": 19193,
+        "Zipcode": "51054",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8056,
+        "arid": 7421130287,
+        "Coefficient": 0.278,
+        "T-Value": "(0.089)",
+        "Significance": "**",
+        "County": 19193,
+        "Zipcode": "51054",
+        "Bank_Name": "Iowa Bankers Mortgage Corporation"
+    }
+]

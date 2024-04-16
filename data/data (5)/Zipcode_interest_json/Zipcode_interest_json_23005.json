@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.663,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51085,
+        "Zipcode": "23005",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.393,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51085,
+        "Zipcode": "23005",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": -0.303,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51085,
+        "Zipcode": "23005",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

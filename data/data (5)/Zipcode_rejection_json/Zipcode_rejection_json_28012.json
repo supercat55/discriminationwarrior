@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.279,
+        "T-Value": "(0.035)",
+        "Significance": "***",
+        "County": 37071,
+        "Zipcode": "28012",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37071,
+        "Zipcode": "28012",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.204,
+        "T-Value": "(0.036)",
+        "Significance": "***",
+        "County": 37071,
+        "Zipcode": "28012",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.238,
+        "T-Value": "(0.085)",
+        "Significance": "**",
+        "County": 37071,
+        "Zipcode": "28012",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37071,
+        "Zipcode": "28012",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.214,
+        "T-Value": "(0.145)",
+        "Significance": "Not Significant",
+        "County": 37071,
+        "Zipcode": "28012",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.188,
+        "T-Value": "(0.131)",
+        "Significance": "Not Significant",
+        "County": 37071,
+        "Zipcode": "28012",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    }
+]

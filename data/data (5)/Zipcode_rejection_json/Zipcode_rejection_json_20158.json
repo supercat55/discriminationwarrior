@@ -1,0 +1,492 @@
+[
+    {
+        "arid_id": 1175,
+        "arid": 55500,
+        "Coefficient": -0.048,
+        "T-Value": "(0.043)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Northwest Federal Credit Union"
+    },
+    {
+        "arid_id": 1184,
+        "arid": 55588,
+        "Coefficient": 0.143,
+        "T-Value": "(0.489)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "United Nations Federal Credit Union"
+    },
+    {
+        "arid_id": 6882,
+        "arid": 9112837,
+        "Coefficient": 0.78,
+        "T-Value": "(0.131)",
+        "Significance": "***",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Capital One, National Association"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6907,
+        "arid": 9379920,
+        "Coefficient": -0.429,
+        "T-Value": "(0.470)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "First National Bank of Pennsylvania"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.041,
+        "T-Value": "(0.020)",
+        "Significance": "*",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.041,
+        "T-Value": "(0.051)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.161,
+        "T-Value": "(0.210)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6928,
+        "arid": 9546571,
+        "Coefficient": -0.063,
+        "T-Value": "(0.068)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Pentagon Federal Credit Union"
+    },
+    {
+        "arid_id": 6938,
+        "arid": 9617677,
+        "Coefficient": 0.156,
+        "T-Value": "(0.045)",
+        "Significance": "***",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Navy Federal Credit Union"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 6944,
+        "arid": 9675332,
+        "Coefficient": 0.016,
+        "T-Value": "(0.001)",
+        "Significance": "***",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.095,
+        "T-Value": "(0.094)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.031,
+        "T-Value": "(0.073)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": -0.351,
+        "T-Value": "(0.196)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": -0.13,
+        "T-Value": "(0.150)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7208,
+        "arid": 92735146,
+        "Coefficient": 0.174,
+        "T-Value": "(0.149)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 7229,
+        "arid": 94186591,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Pennymac Loan Services, LLC"
+    },
+    {
+        "arid_id": 7385,
+        "arid": 2542024584,
+        "Coefficient": 0.013,
+        "T-Value": "(0.043)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "George Mason Mortgage, LLC"
+    },
+    {
+        "arid_id": 7409,
+        "arid": 3264030355,
+        "Coefficient": 0.096,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Potomac Mortgage Group, INC."
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": 0.003,
+        "T-Value": "(0.219)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7707,
+        "arid": 7205216358,
+        "Coefficient": -0.044,
+        "T-Value": "(0.031)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Prosperity Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 7788,
+        "arid": 7260021318,
+        "Coefficient": 0.275,
+        "T-Value": "(0.157)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Amerisave Mortgage Corporation"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": -0.25,
+        "T-Value": "(0.124)",
+        "Significance": "*",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.04,
+        "T-Value": "(0.057)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7911,
+        "arid": 7311060110,
+        "Coefficient": -0.286,
+        "T-Value": "(0.247)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "First Equity Mortgage Incorporated"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": -0.002,
+        "T-Value": "(0.017)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8053,
+        "arid": 7412259092,
+        "Coefficient": 0.023,
+        "T-Value": "(0.019)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Mclean Mortgage Corporation"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.017,
+        "T-Value": "(0.048)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8134,
+        "arid": 7470873092,
+        "Coefficient": 0.168,
+        "T-Value": "(0.129)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Network Capital Funding Corporation"
+    },
+    {
+        "arid_id": 8191,
+        "arid": 7541822464,
+        "Coefficient": -0.002,
+        "T-Value": "(0.002)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "First Heritage Mortgage, LLC"
+    },
+    {
+        "arid_id": 8197,
+        "arid": 7541994393,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "J.g. Wentworth Home Lending, LLC"
+    },
+    {
+        "arid_id": 8216,
+        "arid": 7562237729,
+        "Coefficient": 0.551,
+        "T-Value": "(0.176)",
+        "Significance": "**",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Wyndham Capital Mortgage, INC."
+    },
+    {
+        "arid_id": 8259,
+        "arid": 7611645461,
+        "Coefficient": -0.01,
+        "T-Value": "(0.011)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Atlantic Coast Mortgage, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.053,
+        "T-Value": "(0.058)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": -0.222,
+        "T-Value": "(0.193)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8468,
+        "arid": 7840927358,
+        "Coefficient": 0.158,
+        "T-Value": "(0.129)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Homeamerican Mortgage Corporation"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.024,
+        "T-Value": "(0.056)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8824,
+        "arid": 71961000006,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Jams-01, INC."
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.029,
+        "T-Value": "(0.132)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8845,
+        "arid": 73000809992,
+        "Coefficient": 0.087,
+        "T-Value": "(0.117)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "K. Hovnanian American Mortgage, L.L.C."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.002,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8910,
+        "arid": 77257500009,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Academy Mortgage Corporation"
+    },
+    {
+        "arid_id": 8914,
+        "arid": 77275700004,
+        "Coefficient": -0.018,
+        "T-Value": "(0.031)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "TBI Mortgage Company"
+    },
+    {
+        "arid_id": 8926,
+        "arid": 77416700009,
+        "Coefficient": 0.007,
+        "T-Value": "(0.010)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Intercoastal Mortgage Company"
+    },
+    {
+        "arid_id": 8929,
+        "arid": 77442300004,
+        "Coefficient": -0.013,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "First Home Mortgage Corporation"
+    },
+    {
+        "arid_id": 8932,
+        "arid": 77505400005,
+        "Coefficient": 0.1,
+        "T-Value": "(0.418)",
+        "Significance": "Not Significant",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Stearns Lending, LLC"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.058,
+        "T-Value": "(0.027)",
+        "Significance": "*",
+        "County": 51107,
+        "Zipcode": "20158",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

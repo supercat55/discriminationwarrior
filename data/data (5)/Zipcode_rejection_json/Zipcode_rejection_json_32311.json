@@ -1,0 +1,162 @@
+[
+    {
+        "arid_id": 3008,
+        "arid": 321440,
+        "Coefficient": -0.565,
+        "T-Value": "(0.169)",
+        "Significance": "**",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Fidelity Bank"
+    },
+    {
+        "arid_id": 5565,
+        "arid": 567329,
+        "Coefficient": -0.102,
+        "T-Value": "(0.139)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Envision Credit Union"
+    },
+    {
+        "arid_id": 6589,
+        "arid": 2456045,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Centennial Bank"
+    },
+    {
+        "arid_id": 6820,
+        "arid": 2876634,
+        "Coefficient": -0.005,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Capital City Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.094,
+        "T-Value": "(0.046)",
+        "Significance": "*",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6913,
+        "arid": 9463735,
+        "Coefficient": -0.2,
+        "T-Value": "(0.088)",
+        "Significance": "*",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Hancock Whitney Bank"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.065,
+        "T-Value": "(0.163)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.06,
+        "T-Value": "(0.163)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.045,
+        "T-Value": "(0.028)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": -0.056,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7406,
+        "arid": 3261717830,
+        "Coefficient": 0.027,
+        "T-Value": "(0.023)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "University Lending Group, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.211,
+        "T-Value": "(0.139)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8134,
+        "arid": 7470873092,
+        "Coefficient": -0.286,
+        "T-Value": "(0.171)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Network Capital Funding Corporation"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.071,
+        "T-Value": "(0.039)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.089,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.08,
+        "T-Value": "(0.202)",
+        "Significance": "Not Significant",
+        "County": 12073,
+        "Zipcode": "32311",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

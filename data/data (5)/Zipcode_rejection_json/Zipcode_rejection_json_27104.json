@@ -1,0 +1,172 @@
+[
+    {
+        "arid_id": 1316,
+        "arid": 57840,
+        "Coefficient": 0.133,
+        "T-Value": "(0.097)",
+        "Significance": "Not Significant",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Truliant Federal Credit Union"
+    },
+    {
+        "arid_id": 4795,
+        "arid": 524003,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Local Government Federal Credit Union"
+    },
+    {
+        "arid_id": 4848,
+        "arid": 524438,
+        "Coefficient": 0.1,
+        "T-Value": "(0.071)",
+        "Significance": "Not Significant",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Allegacy Federal Credit Union"
+    },
+    {
+        "arid_id": 5421,
+        "arid": 566258,
+        "Coefficient": 0.667,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Self-help Credit Union"
+    },
+    {
+        "arid_id": 5970,
+        "arid": 1700007,
+        "Coefficient": -0.084,
+        "T-Value": "(0.148)",
+        "Significance": "Not Significant",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Piedmont Federal Savings Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.094,
+        "T-Value": "(0.025)",
+        "Significance": "***",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.25,
+        "T-Value": "(0.080)",
+        "Significance": "**",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6918,
+        "arid": 9491224,
+        "Coefficient": -0.049,
+        "T-Value": "(0.051)",
+        "Significance": "Not Significant",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "First-citizens Bank & Trust Company"
+    },
+    {
+        "arid_id": 6944,
+        "arid": 9675332,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.283,
+        "T-Value": "(0.143)",
+        "Significance": "*",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.142,
+        "T-Value": "(0.067)",
+        "Significance": "*",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.014,
+        "T-Value": "(0.038)",
+        "Significance": "Not Significant",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.054,
+        "T-Value": "(0.099)",
+        "Significance": "Not Significant",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": -0.028,
+        "T-Value": "(0.018)",
+        "Significance": "Not Significant",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.106,
+        "T-Value": "(0.057)",
+        "Significance": "*",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.07,
+        "T-Value": "(0.075)",
+        "Significance": "Not Significant",
+        "County": 37067,
+        "Zipcode": "27104",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

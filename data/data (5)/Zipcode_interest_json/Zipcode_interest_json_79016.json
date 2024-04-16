@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.238,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48381,
+        "Zipcode": "79016",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.983,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48381,
+        "Zipcode": "79016",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

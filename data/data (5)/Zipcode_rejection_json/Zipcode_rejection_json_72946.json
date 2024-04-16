@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 6465,
+        "arid": 2192147,
+        "Coefficient": 0.325,
+        "T-Value": "(0.173)",
+        "Significance": "*",
+        "County": 5033,
+        "Zipcode": "72946",
+        "Bank_Name": "Citizens' Bank & Trust CO."
+    },
+    {
+        "arid_id": 6900,
+        "arid": 9311845,
+        "Coefficient": -0.157,
+        "T-Value": "(0.094)",
+        "Significance": "Not Significant",
+        "County": 5033,
+        "Zipcode": "72946",
+        "Bank_Name": "Arvest Bank"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.44,
+        "T-Value": "(0.078)",
+        "Significance": "***",
+        "County": 5033,
+        "Zipcode": "72946",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6936,
+        "arid": 9606046,
+        "Coefficient": 0.391,
+        "T-Value": "(0.128)",
+        "Significance": "**",
+        "County": 5033,
+        "Zipcode": "72946",
+        "Bank_Name": "Bancorpsouth Bank"
+    }
+]

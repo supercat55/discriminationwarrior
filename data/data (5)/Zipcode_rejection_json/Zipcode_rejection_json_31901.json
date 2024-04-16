@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.041,
+        "T-Value": "(0.025)",
+        "Significance": "Not Significant",
+        "County": 13215,
+        "Zipcode": "31901",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": 0.667,
+        "T-Value": "(0.159)",
+        "Significance": "***",
+        "County": 13215,
+        "Zipcode": "31901",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.21,
+        "T-Value": "(0.026)",
+        "Significance": "***",
+        "County": 13215,
+        "Zipcode": "31901",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.164,
+        "T-Value": "(0.092)",
+        "Significance": "Not Significant",
+        "County": 13215,
+        "Zipcode": "31901",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": -0.455,
+        "T-Value": "(0.306)",
+        "Significance": "Not Significant",
+        "County": 13215,
+        "Zipcode": "31901",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.429,
+        "T-Value": "(0.341)",
+        "Significance": "Not Significant",
+        "County": 13215,
+        "Zipcode": "31901",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.286,
+        "T-Value": "(0.167)",
+        "Significance": "Not Significant",
+        "County": 13215,
+        "Zipcode": "31901",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

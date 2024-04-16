@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 311,
+        "arid": 15753,
+        "Coefficient": 0.375,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 40031,
+        "Zipcode": "73503",
+        "Bank_Name": "The City National Bank And Trust Company of Lawton"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 40031,
+        "Zipcode": "73503",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

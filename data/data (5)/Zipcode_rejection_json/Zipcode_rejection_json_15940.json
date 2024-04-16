@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 689,
+        "arid": 37468,
+        "Coefficient": 0.254,
+        "T-Value": "(0.116)",
+        "Significance": "*",
+        "County": 42021,
+        "Zipcode": "15940",
+        "Bank_Name": "First Commonwealth Bank"
+    },
+    {
+        "arid_id": 754,
+        "arid": 38426,
+        "Coefficient": -0.452,
+        "T-Value": "(0.032)",
+        "Significance": "***",
+        "County": 42021,
+        "Zipcode": "15940",
+        "Bank_Name": "1st Summit Bank"
+    },
+    {
+        "arid_id": 6848,
+        "arid": 2928618,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 42021,
+        "Zipcode": "15940",
+        "Bank_Name": "Ameriserv Financial Bank"
+    },
+    {
+        "arid_id": 6907,
+        "arid": 9379920,
+        "Coefficient": -0.413,
+        "T-Value": "(0.100)",
+        "Significance": "***",
+        "County": 42021,
+        "Zipcode": "15940",
+        "Bank_Name": "First National Bank of Pennsylvania"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.304,
+        "T-Value": "(0.207)",
+        "Significance": "Not Significant",
+        "County": 42021,
+        "Zipcode": "15940",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

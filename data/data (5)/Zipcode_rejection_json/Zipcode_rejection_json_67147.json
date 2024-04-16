@@ -1,0 +1,172 @@
+[
+    {
+        "arid_id": 234,
+        "arid": 12782,
+        "Coefficient": 0.188,
+        "T-Value": "(0.168)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Intrust Bank, National Association"
+    },
+    {
+        "arid_id": 603,
+        "arid": 34789,
+        "Coefficient": 0.154,
+        "T-Value": "(0.313)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Emprise Bank"
+    },
+    {
+        "arid_id": 4958,
+        "arid": 560062,
+        "Coefficient": 0.063,
+        "T-Value": "(0.047)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Credit Union of America"
+    },
+    {
+        "arid_id": 5275,
+        "arid": 563283,
+        "Coefficient": -0.08,
+        "T-Value": "(0.094)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Meritrust Federal Credit Union"
+    },
+    {
+        "arid_id": 5277,
+        "arid": 563300,
+        "Coefficient": 0.429,
+        "T-Value": "(0.554)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Skyward"
+    },
+    {
+        "arid_id": 5390,
+        "arid": 565378,
+        "Coefficient": 0.0,
+        "T-Value": "(0.370)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Mid American"
+    },
+    {
+        "arid_id": 5995,
+        "arid": 1700670,
+        "Coefficient": 0.02,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Capitol Federal Savings Bank"
+    },
+    {
+        "arid_id": 6221,
+        "arid": 1706081,
+        "Coefficient": -0.009,
+        "T-Value": "(0.009)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Fidelity Bank, National Association"
+    },
+    {
+        "arid_id": 6901,
+        "arid": 9339858,
+        "Coefficient": 0.333,
+        "T-Value": "(0.289)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Bokf, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.062,
+        "T-Value": "(0.078)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.265,
+        "T-Value": "(0.094)",
+        "Significance": "**",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": 0.5,
+        "T-Value": "(0.594)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.336,
+        "T-Value": "(0.238)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.073,
+        "T-Value": "(0.009)",
+        "Significance": "***",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.0,
+        "T-Value": "(0.437)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.5,
+        "T-Value": "(0.497)",
+        "Significance": "Not Significant",
+        "County": 20173,
+        "Zipcode": "67147",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    }
+]

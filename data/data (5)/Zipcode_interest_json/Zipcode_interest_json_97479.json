@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1635,
+        "arid": 9143662,
+        "Coefficient": -0.44,
+        "T-Value": "(0.080)",
+        "Significance": "**",
+        "County": 41019,
+        "Zipcode": "97479",
+        "Bank_Name": "Umpqua Bank"
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": -0.092,
+        "T-Value": "(0.169)",
+        "Significance": "Not Significant",
+        "County": 41019,
+        "Zipcode": "97479",
+        "Bank_Name": "Caliber Home Loans, INC."
+    }
+]

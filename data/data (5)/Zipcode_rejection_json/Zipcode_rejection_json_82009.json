@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 1287,
+        "arid": 57361,
+        "Coefficient": -0.667,
+        "T-Value": "(0.249)",
+        "Significance": "**",
+        "County": 56021,
+        "Zipcode": "82009",
+        "Bank_Name": "Blue Federal Credit Union"
+    },
+    {
+        "arid_id": 2021,
+        "arid": 264150,
+        "Coefficient": 0.073,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 56021,
+        "Zipcode": "82009",
+        "Bank_Name": "Wyoming Bank & Trust"
+    },
+    {
+        "arid_id": 6697,
+        "arid": 2659855,
+        "Coefficient": 0.023,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 56021,
+        "Zipcode": "82009",
+        "Bank_Name": "First Interstate Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.034,
+        "T-Value": "(0.108)",
+        "Significance": "Not Significant",
+        "County": 56021,
+        "Zipcode": "82009",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7137,
+        "arid": 23412417,
+        "Coefficient": -0.001,
+        "T-Value": "(0.044)",
+        "Significance": "Not Significant",
+        "County": 56021,
+        "Zipcode": "82009",
+        "Bank_Name": "Jonah Bank of Wyoming"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.261,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 56021,
+        "Zipcode": "82009",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8462,
+        "arid": 7830171636,
+        "Coefficient": -0.01,
+        "T-Value": "(0.015)",
+        "Significance": "Not Significant",
+        "County": 56021,
+        "Zipcode": "82009",
+        "Bank_Name": "Wallick & Volk, INC."
+    },
+    {
+        "arid_id": 8474,
+        "arid": 7841553724,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 56021,
+        "Zipcode": "82009",
+        "Bank_Name": "Centennial Lending, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.667,
+        "T-Value": "(0.160)",
+        "Significance": "***",
+        "County": 56021,
+        "Zipcode": "82009",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

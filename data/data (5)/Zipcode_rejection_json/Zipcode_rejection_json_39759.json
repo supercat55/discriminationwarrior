@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6843,
+        "arid": 2914648,
+        "Coefficient": -0.144,
+        "T-Value": "(0.056)",
+        "Significance": "**",
+        "County": 28105,
+        "Zipcode": "39759",
+        "Bank_Name": "Bankfirst Financial Services"
+    },
+    {
+        "arid_id": 6936,
+        "arid": 9606046,
+        "Coefficient": 0.154,
+        "T-Value": "(0.028)",
+        "Significance": "***",
+        "County": 28105,
+        "Zipcode": "39759",
+        "Bank_Name": "Bancorpsouth Bank"
+    }
+]

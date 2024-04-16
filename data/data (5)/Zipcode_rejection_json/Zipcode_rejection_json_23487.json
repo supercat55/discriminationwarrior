@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.193,
+        "T-Value": "(0.102)",
+        "Significance": "*",
+        "County": 51093,
+        "Zipcode": "23487",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.16,
+        "T-Value": "(0.125)",
+        "Significance": "Not Significant",
+        "County": 51093,
+        "Zipcode": "23487",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    }
+]

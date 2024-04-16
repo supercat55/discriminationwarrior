@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1738,
+        "arid": 118394,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "*",
+        "County": 20131,
+        "Zipcode": "66538",
+        "Bank_Name": "Community National Bank"
+    },
+    {
+        "arid_id": 6872,
+        "arid": 2990352,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 20131,
+        "Zipcode": "66538",
+        "Bank_Name": "United Bank & Trust"
+    }
+]

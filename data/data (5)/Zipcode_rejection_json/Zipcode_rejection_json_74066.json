@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6519,
+        "arid": 2311050,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 40037,
+        "Zipcode": "74066",
+        "Bank_Name": "American Heritage Bank"
+    },
+    {
+        "arid_id": 6901,
+        "arid": 9339858,
+        "Coefficient": 0.289,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 40037,
+        "Zipcode": "74066",
+        "Bank_Name": "Bokf, National Association"
+    }
+]

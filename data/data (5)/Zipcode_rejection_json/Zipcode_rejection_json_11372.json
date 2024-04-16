@@ -1,0 +1,172 @@
+[
+    {
+        "arid_id": 1184,
+        "arid": 55588,
+        "Coefficient": -0.25,
+        "T-Value": "(0.139)",
+        "Significance": "Not Significant",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "United Nations Federal Credit Union"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": 0.4,
+        "T-Value": "(0.088)",
+        "Significance": "***",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6909,
+        "arid": 9413208,
+        "Coefficient": 0.125,
+        "T-Value": "(0.169)",
+        "Significance": "Not Significant",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Hsbc Bank USA, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.073,
+        "T-Value": "(0.018)",
+        "Significance": "***",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.009,
+        "T-Value": "(0.022)",
+        "Significance": "Not Significant",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.116,
+        "T-Value": "(0.116)",
+        "Significance": "Not Significant",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": 0.232,
+        "T-Value": "(0.201)",
+        "Significance": "Not Significant",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6951,
+        "arid": 9722777,
+        "Coefficient": -0.222,
+        "T-Value": "(0.187)",
+        "Significance": "Not Significant",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.054,
+        "T-Value": "(0.009)",
+        "Significance": "***",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7248,
+        "arid": 720594137,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Fm Home Loans, LLC"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7753,
+        "arid": 7223039688,
+        "Coefficient": -0.25,
+        "T-Value": "(0.105)",
+        "Significance": "**",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": -0.103,
+        "T-Value": "(0.086)",
+        "Significance": "Not Significant",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.125,
+        "T-Value": "(0.059)",
+        "Significance": "*",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.028,
+        "T-Value": "(0.076)",
+        "Significance": "Not Significant",
+        "County": 36081,
+        "Zipcode": "11372",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

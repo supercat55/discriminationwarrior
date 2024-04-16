@@ -1,0 +1,142 @@
+[
+    {
+        "arid_id": 5964,
+        "arid": 935570,
+        "Coefficient": 0.005,
+        "T-Value": "(0.005)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Investors Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.08,
+        "T-Value": "(0.044)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.375,
+        "T-Value": "(0.190)",
+        "Significance": "*",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.183,
+        "T-Value": "(0.072)",
+        "Significance": "**",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": 0.375,
+        "T-Value": "(0.136)",
+        "Significance": "**",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6951,
+        "arid": 9722777,
+        "Coefficient": -0.4,
+        "T-Value": "(0.170)",
+        "Significance": "**",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.028,
+        "T-Value": "(0.088)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.231,
+        "T-Value": "(0.095)",
+        "Significance": "**",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7775,
+        "arid": 7232769131,
+        "Coefficient": -0.065,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.551,
+        "T-Value": "(0.117)",
+        "Significance": "***",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.571,
+        "T-Value": "(0.221)",
+        "Significance": "**",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.5,
+        "T-Value": "(0.209)",
+        "Significance": "**",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.195,
+        "T-Value": "(0.037)",
+        "Significance": "***",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8966,
+        "arid": 77810600004,
+        "Coefficient": 0.143,
+        "T-Value": "(0.551)",
+        "Significance": "Not Significant",
+        "County": 34021,
+        "Zipcode": "08520",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    }
+]

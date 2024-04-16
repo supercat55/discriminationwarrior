@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 2428,
+        "arid": 314650,
+        "Coefficient": 0.061,
+        "T-Value": "(0.004)",
+        "Significance": "***",
+        "County": 19103,
+        "Zipcode": "52246",
+        "Bank_Name": "Hills Bank And Trust Company"
+    },
+    {
+        "arid_id": 2448,
+        "arid": 314843,
+        "Coefficient": -0.008,
+        "T-Value": "(0.008)",
+        "Significance": "Not Significant",
+        "County": 19103,
+        "Zipcode": "52246",
+        "Bank_Name": "Midwestone Bank"
+    },
+    {
+        "arid_id": 4979,
+        "arid": 560269,
+        "Coefficient": 0.002,
+        "T-Value": "(0.005)",
+        "Significance": "Not Significant",
+        "County": 19103,
+        "Zipcode": "52246",
+        "Bank_Name": "Greenstate Credit Union"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.253,
+        "T-Value": "(0.109)",
+        "Significance": "**",
+        "County": 19103,
+        "Zipcode": "52246",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.333,
+        "T-Value": "(0.191)",
+        "Significance": "Not Significant",
+        "County": 19103,
+        "Zipcode": "52246",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

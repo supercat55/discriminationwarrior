@@ -1,0 +1,142 @@
+[
+    {
+        "arid_id": 588,
+        "arid": 34360,
+        "Coefficient": -0.003,
+        "T-Value": "(0.318)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "Horizon Bank"
+    },
+    {
+        "arid_id": 786,
+        "arid": 38745,
+        "Coefficient": 0.164,
+        "T-Value": "(0.127)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "First State Bank of Middlebury"
+    },
+    {
+        "arid_id": 1148,
+        "arid": 54968,
+        "Coefficient": 0.107,
+        "T-Value": "(0.093)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "Inova Federal Credit Union"
+    },
+    {
+        "arid_id": 4957,
+        "arid": 560060,
+        "Coefficient": 0.008,
+        "T-Value": "(0.096)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "Teachers Credit Union"
+    },
+    {
+        "arid_id": 5937,
+        "arid": 582794,
+        "Coefficient": 0.06,
+        "T-Value": "(0.049)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "Interra Credit Union"
+    },
+    {
+        "arid_id": 6246,
+        "arid": 1707101,
+        "Coefficient": 0.044,
+        "T-Value": "(0.076)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "First Federal Savings Bank"
+    },
+    {
+        "arid_id": 6819,
+        "arid": 2874845,
+        "Coefficient": 0.14,
+        "T-Value": "(0.224)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "Lake City Bank"
+    },
+    {
+        "arid_id": 6874,
+        "arid": 2991340,
+        "Coefficient": 0.691,
+        "T-Value": "(0.064)",
+        "Significance": "***",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "1st Source Bank"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": 0.218,
+        "T-Value": "(0.173)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.008,
+        "T-Value": "(0.006)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.5,
+        "T-Value": "(0.392)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.027,
+        "T-Value": "(0.086)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7971,
+        "arid": 7351616238,
+        "Coefficient": -0.02,
+        "T-Value": "(0.051)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "Ruoff Mortgage Company, INC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.143,
+        "T-Value": "(0.169)",
+        "Significance": "Not Significant",
+        "County": 18039,
+        "Zipcode": "46516",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    }
+]

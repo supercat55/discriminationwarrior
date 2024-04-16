@@ -1,0 +1,132 @@
+[
+    {
+        "arid_id": 5439,
+        "arid": 566357,
+        "Coefficient": 0.313,
+        "T-Value": "(0.087)",
+        "Significance": "***",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Delta Community Credit Union"
+    },
+    {
+        "arid_id": 5875,
+        "arid": 568607,
+        "Coefficient": -0.5,
+        "T-Value": "(0.253)",
+        "Significance": "*",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Georgia United"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.043,
+        "T-Value": "(0.032)",
+        "Significance": "Not Significant",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.04,
+        "T-Value": "(0.175)",
+        "Significance": "Not Significant",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.046,
+        "T-Value": "(0.113)",
+        "Significance": "Not Significant",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.032,
+        "T-Value": "(0.062)",
+        "Significance": "Not Significant",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7242,
+        "arid": 710726495,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Broker Solutions, INC."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.006,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8382,
+        "arid": 7743038404,
+        "Coefficient": -0.5,
+        "T-Value": "(0.171)",
+        "Significance": "**",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Homestar Financial Corporation"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.203,
+        "T-Value": "(0.089)",
+        "Significance": "*",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.2,
+        "T-Value": "(0.161)",
+        "Significance": "Not Significant",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.16,
+        "T-Value": "(0.062)",
+        "Significance": "**",
+        "County": 13151,
+        "Zipcode": "30248",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

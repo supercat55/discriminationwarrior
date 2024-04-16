@@ -1,0 +1,382 @@
+[
+    {
+        "arid_id": 136,
+        "arid": 33657,
+        "Coefficient": -0.119,
+        "T-Value": "(0.040)",
+        "Significance": "**",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "First American Bank"
+    },
+    {
+        "arid_id": 409,
+        "arid": 123216,
+        "Coefficient": -0.077,
+        "T-Value": "(0.057)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Barrington Bank & Trust Company, N.A."
+    },
+    {
+        "arid_id": 605,
+        "arid": 316450,
+        "Coefficient": 0.176,
+        "T-Value": "(0.084)",
+        "Significance": "*",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Busey Bank"
+    },
+    {
+        "arid_id": 1339,
+        "arid": 912311,
+        "Coefficient": 0.141,
+        "T-Value": "(0.107)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 1341,
+        "arid": 975633,
+        "Coefficient": -0.088,
+        "T-Value": "(0.077)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Bmo Harris Bank National Association"
+    },
+    {
+        "arid_id": 1636,
+        "arid": 9146672,
+        "Coefficient": 0.155,
+        "T-Value": "(0.125)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.096,
+        "T-Value": "(0.042)",
+        "Significance": "*",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1655,
+        "arid": 9480228,
+        "Coefficient": -0.096,
+        "T-Value": "(0.082)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 1661,
+        "arid": 9504713,
+        "Coefficient": -0.124,
+        "T-Value": "(0.038)",
+        "Significance": "**",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": -0.08,
+        "T-Value": "(0.057)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 1681,
+        "arid": 9723112,
+        "Coefficient": -0.058,
+        "T-Value": "(0.053)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 1688,
+        "arid": 9817824,
+        "Coefficient": 0.083,
+        "T-Value": "(0.066)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.051,
+        "T-Value": "(0.043)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1742,
+        "arid": 92618780,
+        "Coefficient": 0.399,
+        "T-Value": "(0.231)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Texas Capital Bank, National Association"
+    },
+    {
+        "arid_id": 1743,
+        "arid": 92712969,
+        "Coefficient": -0.116,
+        "T-Value": "(0.034)",
+        "Significance": "***",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Fifth Third Mortgage Company"
+    },
+    {
+        "arid_id": 1749,
+        "arid": 93303298,
+        "Coefficient": -0.072,
+        "T-Value": "(0.240)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": 0.189,
+        "T-Value": "(0.077)",
+        "Significance": "**",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1921,
+        "arid": 7208921389,
+        "Coefficient": -0.028,
+        "T-Value": "(0.036)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Home Point Financial Corporation"
+    },
+    {
+        "arid_id": 1929,
+        "arid": 7223039688,
+        "Coefficient": -0.036,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 1942,
+        "arid": 7232769131,
+        "Coefficient": 0.152,
+        "T-Value": "(0.065)",
+        "Significance": "**",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    },
+    {
+        "arid_id": 1952,
+        "arid": 7260595342,
+        "Coefficient": 0.103,
+        "T-Value": "(0.170)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": 0.022,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2021,
+        "arid": 7330941669,
+        "Coefficient": -0.115,
+        "T-Value": "(0.123)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Plaza Home Mortgage, INC."
+    },
+    {
+        "arid_id": 2036,
+        "arid": 7364115595,
+        "Coefficient": 0.45,
+        "T-Value": "(0.047)",
+        "Significance": "***",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Draper And Kramer Mortgage CORP."
+    },
+    {
+        "arid_id": 2039,
+        "arid": 7364327855,
+        "Coefficient": -0.065,
+        "T-Value": "(0.066)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 2045,
+        "arid": 7371493496,
+        "Coefficient": -0.099,
+        "T-Value": "(0.047)",
+        "Significance": "*",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Parkside Lending, LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.072,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2071,
+        "arid": 7421554181,
+        "Coefficient": -0.066,
+        "T-Value": "(0.065)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 2133,
+        "arid": 7571175755,
+        "Coefficient": -0.224,
+        "T-Value": "(0.189)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Crosscountry Mortgage, LLC"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": 0.248,
+        "T-Value": "(0.055)",
+        "Significance": "***",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2160,
+        "arid": 7680309242,
+        "Coefficient": -0.144,
+        "T-Value": "(0.141)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Cmg Mortgage, INC."
+    },
+    {
+        "arid_id": 2187,
+        "arid": 7752921540,
+        "Coefficient": 0.438,
+        "T-Value": "(0.078)",
+        "Significance": "***",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 2192,
+        "arid": 7760503625,
+        "Coefficient": 0.138,
+        "T-Value": "(0.067)",
+        "Significance": "*",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 2210,
+        "arid": 7815294275,
+        "Coefficient": 0.145,
+        "T-Value": "(0.077)",
+        "Significance": "*",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Guaranteed Rate Affinity, LLC"
+    },
+    {
+        "arid_id": 2338,
+        "arid": 73827009995,
+        "Coefficient": 0.413,
+        "T-Value": "(0.056)",
+        "Significance": "***",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Union Home Mortgage CORP."
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.031,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2367,
+        "arid": 77505400005,
+        "Coefficient": -0.184,
+        "T-Value": "(0.072)",
+        "Significance": "**",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Stearns Lending, LLC"
+    },
+    {
+        "arid_id": 2388,
+        "arid": 77810600004,
+        "Coefficient": 0.159,
+        "T-Value": "(0.052)",
+        "Significance": "**",
+        "County": 17043,
+        "Zipcode": "60103",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    }
+]

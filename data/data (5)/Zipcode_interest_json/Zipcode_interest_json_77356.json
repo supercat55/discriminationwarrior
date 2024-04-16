@@ -1,0 +1,242 @@
+[
+    {
+        "arid_id": 138,
+        "arid": 34239,
+        "Coefficient": 0.201,
+        "T-Value": "(0.071)",
+        "Significance": "**",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "First United Bank And Trust Company"
+    },
+    {
+        "arid_id": 1636,
+        "arid": 9146672,
+        "Coefficient": 0.164,
+        "T-Value": "(0.116)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.023,
+        "T-Value": "(0.053)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1655,
+        "arid": 9480228,
+        "Coefficient": -0.202,
+        "T-Value": "(0.081)",
+        "Significance": "**",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": 0.053,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 1673,
+        "arid": 9656733,
+        "Coefficient": 0.414,
+        "T-Value": "(0.242)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Mb Financial Bank, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.117,
+        "T-Value": "(0.020)",
+        "Significance": "***",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1713,
+        "arid": 22888798,
+        "Coefficient": 0.015,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 1749,
+        "arid": 93303298,
+        "Coefficient": 0.162,
+        "T-Value": "(0.024)",
+        "Significance": "***",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": 0.166,
+        "T-Value": "(0.048)",
+        "Significance": "**",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1918,
+        "arid": 7208693961,
+        "Coefficient": 0.042,
+        "T-Value": "(0.046)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Crestmark Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 1929,
+        "arid": 7223039688,
+        "Coefficient": -0.461,
+        "T-Value": "(0.055)",
+        "Significance": "***",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 1940,
+        "arid": 7232470039,
+        "Coefficient": 0.839,
+        "T-Value": "(0.104)",
+        "Significance": "***",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Cardinal Financial Company, Limited Partnership"
+    },
+    {
+        "arid_id": 2039,
+        "arid": 7364327855,
+        "Coefficient": 0.087,
+        "T-Value": "(0.131)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": -0.088,
+        "T-Value": "(0.025)",
+        "Significance": "**",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2071,
+        "arid": 7421554181,
+        "Coefficient": 0.04,
+        "T-Value": "(0.023)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": 0.287,
+        "T-Value": "(0.191)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2160,
+        "arid": 7680309242,
+        "Coefficient": -0.003,
+        "T-Value": "(0.048)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Cmg Mortgage, INC."
+    },
+    {
+        "arid_id": 2172,
+        "arid": 7731577221,
+        "Coefficient": 0.139,
+        "T-Value": "(0.046)",
+        "Significance": "**",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Gateway First Bank"
+    },
+    {
+        "arid_id": 2174,
+        "arid": 7742508160,
+        "Coefficient": -0.199,
+        "T-Value": "(0.070)",
+        "Significance": "**",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Swbc Mortgage Corporation"
+    },
+    {
+        "arid_id": 2189,
+        "arid": 7760236067,
+        "Coefficient": 0.111,
+        "T-Value": "(0.059)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Cornerstone Home Lending, INC."
+    },
+    {
+        "arid_id": 2192,
+        "arid": 7760503625,
+        "Coefficient": 0.1,
+        "T-Value": "(0.040)",
+        "Significance": "**",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 2323,
+        "arid": 72149009991,
+        "Coefficient": 0.188,
+        "T-Value": "(0.127)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.23,
+        "T-Value": "(0.190)",
+        "Significance": "Not Significant",
+        "County": 48339,
+        "Zipcode": "77356",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 6288,
+        "arid": 1708384,
+        "Coefficient": -0.248,
+        "T-Value": "(0.165)",
+        "Significance": "Not Significant",
+        "County": 15007,
+        "Zipcode": "96714",
+        "Bank_Name": "American Savings Bank, FSB"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.083,
+        "T-Value": "(0.089)",
+        "Significance": "Not Significant",
+        "County": 15007,
+        "Zipcode": "96714",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6954,
+        "arid": 9795968,
+        "Coefficient": -0.087,
+        "T-Value": "(0.111)",
+        "Significance": "Not Significant",
+        "County": 15007,
+        "Zipcode": "96714",
+        "Bank_Name": "Bank of Hawaii"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.127,
+        "T-Value": "(0.131)",
+        "Significance": "Not Significant",
+        "County": 15007,
+        "Zipcode": "96714",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.061,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 15007,
+        "Zipcode": "96714",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

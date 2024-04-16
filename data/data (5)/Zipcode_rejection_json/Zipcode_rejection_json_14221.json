@@ -1,0 +1,142 @@
+[
+    {
+        "arid_id": 1473,
+        "arid": 111583,
+        "Coefficient": 0.159,
+        "T-Value": "(0.022)",
+        "Significance": "***",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Evans Bank, National Association"
+    },
+    {
+        "arid_id": 3318,
+        "arid": 328178,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Northwest Bank"
+    },
+    {
+        "arid_id": 6661,
+        "arid": 2601416,
+        "Coefficient": 0.039,
+        "T-Value": "(0.092)",
+        "Significance": "Not Significant",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Five Star Bank"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": 0.073,
+        "T-Value": "(0.026)",
+        "Significance": "**",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.044,
+        "T-Value": "(0.029)",
+        "Significance": "Not Significant",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.094,
+        "T-Value": "(0.019)",
+        "Significance": "***",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6920,
+        "arid": 9501105,
+        "Coefficient": 0.01,
+        "T-Value": "(0.019)",
+        "Significance": "Not Significant",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Manufacturers And Traders Trust Company"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": 0.176,
+        "T-Value": "(0.135)",
+        "Significance": "Not Significant",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7628,
+        "arid": 7161222429,
+        "Coefficient": -0.082,
+        "T-Value": "(0.042)",
+        "Significance": "*",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Hunt Mortgage Corporation"
+    },
+    {
+        "arid_id": 7630,
+        "arid": 7161566654,
+        "Coefficient": 0.011,
+        "T-Value": "(0.006)",
+        "Significance": "Not Significant",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Premium Mortgage Corporation"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.353,
+        "T-Value": "(0.135)",
+        "Significance": "**",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8893,
+        "arid": 77107600005,
+        "Coefficient": -0.714,
+        "T-Value": "(0.140)",
+        "Significance": "***",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Ownerschoice Funding, Incorporated"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.207,
+        "T-Value": "(0.065)",
+        "Significance": "**",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8964,
+        "arid": 77776600008,
+        "Coefficient": -0.042,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 36029,
+        "Zipcode": "14221",
+        "Bank_Name": "1st Priority Mortgage, INC."
+    }
+]

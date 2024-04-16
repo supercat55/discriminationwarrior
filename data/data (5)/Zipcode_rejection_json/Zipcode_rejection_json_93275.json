@@ -1,0 +1,192 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.005,
+        "T-Value": "(0.038)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.118,
+        "T-Value": "(0.097)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.008,
+        "T-Value": "(0.089)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6957,
+        "arid": 9804963,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Bank of the West"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.022,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7229,
+        "arid": 94186591,
+        "Coefficient": -0.286,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Pennymac Loan Services, LLC"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7753,
+        "arid": 7223039688,
+        "Coefficient": 0.096,
+        "T-Value": "(0.149)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 7775,
+        "arid": 7232769131,
+        "Coefficient": 0.078,
+        "T-Value": "(0.072)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.02,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.294,
+        "T-Value": "(0.109)",
+        "Significance": "**",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8136,
+        "arid": 7470912342,
+        "Coefficient": -0.333,
+        "T-Value": "(0.264)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Loanpal, LLC"
+    },
+    {
+        "arid_id": 8183,
+        "arid": 7522354562,
+        "Coefficient": -0.006,
+        "T-Value": "(0.009)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Country Club Mortgage, INC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.217,
+        "T-Value": "(0.153)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8433,
+        "arid": 7770455415,
+        "Coefficient": -0.004,
+        "T-Value": "(0.038)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Kings Mortgage Services, INC."
+    },
+    {
+        "arid_id": 8493,
+        "arid": 7860860478,
+        "Coefficient": -0.333,
+        "T-Value": "(0.294)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Primary Residential Mortgage, INC."
+    },
+    {
+        "arid_id": 8501,
+        "arid": 7870623581,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Citywide Home Loans, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.069,
+        "T-Value": "(0.079)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8985,
+        "arid": 77976700006,
+        "Coefficient": 0.131,
+        "T-Value": "(0.108)",
+        "Significance": "Not Significant",
+        "County": 6107,
+        "Zipcode": "93275",
+        "Bank_Name": "Eagle Home Mortgage of California"
+    }
+]

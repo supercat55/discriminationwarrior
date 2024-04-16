@@ -1,0 +1,112 @@
+[
+    {
+        "arid_id": 5409,
+        "arid": 565856,
+        "Coefficient": 0.211,
+        "T-Value": "(0.061)",
+        "Significance": "***",
+        "County": 41039,
+        "Zipcode": "97413",
+        "Bank_Name": "Oregon Community"
+    },
+    {
+        "arid_id": 6885,
+        "arid": 9143662,
+        "Coefficient": -0.176,
+        "T-Value": "(0.064)",
+        "Significance": "**",
+        "County": 41039,
+        "Zipcode": "97413",
+        "Bank_Name": "Umpqua Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.167,
+        "T-Value": "(0.029)",
+        "Significance": "***",
+        "County": 41039,
+        "Zipcode": "97413",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.208,
+        "T-Value": "(0.044)",
+        "Significance": "***",
+        "County": 41039,
+        "Zipcode": "97413",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.246,
+        "T-Value": "(0.113)",
+        "Significance": "*",
+        "County": 41039,
+        "Zipcode": "97413",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7775,
+        "arid": 7232769131,
+        "Coefficient": 0.11,
+        "T-Value": "(0.034)",
+        "Significance": "**",
+        "County": 41039,
+        "Zipcode": "97413",
+        "Bank_Name": "Finance of America Mortgage LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.415,
+        "T-Value": "(0.061)",
+        "Significance": "***",
+        "County": 41039,
+        "Zipcode": "97413",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8350,
+        "arid": 7680309242,
+        "Coefficient": 0.005,
+        "T-Value": "(0.027)",
+        "Significance": "Not Significant",
+        "County": 41039,
+        "Zipcode": "97413",
+        "Bank_Name": "Cmg Mortgage, INC."
+    },
+    {
+        "arid_id": 8523,
+        "arid": 7911780488,
+        "Coefficient": -0.012,
+        "T-Value": "(0.014)",
+        "Significance": "Not Significant",
+        "County": 41039,
+        "Zipcode": "97413",
+        "Bank_Name": "Summit Funding, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.157,
+        "T-Value": "(0.062)",
+        "Significance": "**",
+        "County": 41039,
+        "Zipcode": "97413",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8932,
+        "arid": 77505400005,
+        "Coefficient": -0.25,
+        "T-Value": "(0.164)",
+        "Significance": "Not Significant",
+        "County": 41039,
+        "Zipcode": "97413",
+        "Bank_Name": "Stearns Lending, LLC"
+    }
+]

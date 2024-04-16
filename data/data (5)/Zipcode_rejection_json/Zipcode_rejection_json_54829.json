@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 2019,
+        "arid": 258243,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 55005,
+        "Zipcode": "54829",
+        "Bank_Name": "Johnson Bank"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 55005,
+        "Zipcode": "54829",
+        "Bank_Name": "U.S. Bank National Association"
+    }
+]

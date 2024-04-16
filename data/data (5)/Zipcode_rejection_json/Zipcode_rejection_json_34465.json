@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 5901,
+        "arid": 568645,
+        "Coefficient": 0.18,
+        "T-Value": "(0.147)",
+        "Significance": "Not Significant",
+        "County": 12017,
+        "Zipcode": "34465",
+        "Bank_Name": "Suncoast Credit Union"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.204,
+        "T-Value": "(0.175)",
+        "Significance": "Not Significant",
+        "County": 12017,
+        "Zipcode": "34465",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.042,
+        "T-Value": "(0.224)",
+        "Significance": "Not Significant",
+        "County": 12017,
+        "Zipcode": "34465",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.068,
+        "T-Value": "(0.136)",
+        "Significance": "Not Significant",
+        "County": 12017,
+        "Zipcode": "34465",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6944,
+        "arid": 9675332,
+        "Coefficient": -0.048,
+        "T-Value": "(0.452)",
+        "Significance": "Not Significant",
+        "County": 12017,
+        "Zipcode": "34465",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": -0.506,
+        "T-Value": "(0.163)",
+        "Significance": "**",
+        "County": 12017,
+        "Zipcode": "34465",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.2,
+        "T-Value": "(0.140)",
+        "Significance": "Not Significant",
+        "County": 12017,
+        "Zipcode": "34465",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.006,
+        "T-Value": "(0.165)",
+        "Significance": "Not Significant",
+        "County": 12017,
+        "Zipcode": "34465",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.19,
+        "T-Value": "(0.202)",
+        "Significance": "Not Significant",
+        "County": 12017,
+        "Zipcode": "34465",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

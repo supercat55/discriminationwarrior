@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 92,
+        "arid": 3686,
+        "Coefficient": 0.5,
+        "T-Value": "(0.093)",
+        "Significance": "***",
+        "County": 42037,
+        "Zipcode": "17815",
+        "Bank_Name": "First CO.umbia Bank & Trust CO."
+    },
+    {
+        "arid_id": 687,
+        "arid": 37404,
+        "Coefficient": 0.165,
+        "T-Value": "(0.076)",
+        "Significance": "*",
+        "County": 42037,
+        "Zipcode": "17815",
+        "Bank_Name": "First Keystone Community Bank"
+    }
+]

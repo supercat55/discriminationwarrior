@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1647,
+        "arid": 9311845,
+        "Coefficient": 0.393,
+        "T-Value": "(0.802)",
+        "Significance": "Not Significant",
+        "County": 29037,
+        "Zipcode": "64090",
+        "Bank_Name": "Arvest Bank"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.681,
+        "T-Value": "(0.589)",
+        "Significance": "Not Significant",
+        "County": 29037,
+        "Zipcode": "64090",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 748,
+        "arid": 38354,
+        "Coefficient": -0.035,
+        "T-Value": "(0.042)",
+        "Significance": "Not Significant",
+        "County": 31043,
+        "Zipcode": "68030",
+        "Bank_Name": "Iowa-nebraska State Bank"
+    },
+    {
+        "arid_id": 4833,
+        "arid": 524327,
+        "Coefficient": 0.188,
+        "T-Value": "(0.028)",
+        "Significance": "***",
+        "County": 31043,
+        "Zipcode": "68030",
+        "Bank_Name": "Siouxland Federal Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.294,
+        "T-Value": "(0.123)",
+        "Significance": "**",
+        "County": 31043,
+        "Zipcode": "68030",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

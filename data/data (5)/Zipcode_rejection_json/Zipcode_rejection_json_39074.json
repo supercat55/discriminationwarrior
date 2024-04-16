@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 104,
+        "arid": 3898,
+        "Coefficient": 0.304,
+        "T-Value": "(0.073)",
+        "Significance": "**",
+        "County": 28123,
+        "Zipcode": "39074",
+        "Bank_Name": "The Bank of Forest"
+    },
+    {
+        "arid_id": 807,
+        "arid": 38879,
+        "Coefficient": 0.136,
+        "T-Value": "(0.065)",
+        "Significance": "Not Significant",
+        "County": 28123,
+        "Zipcode": "39074",
+        "Bank_Name": "Community Bank of Mississippi"
+    }
+]

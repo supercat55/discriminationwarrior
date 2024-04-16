@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.603,
+        "T-Value": "(0.144)",
+        "Significance": "***",
+        "County": 48215,
+        "Zipcode": "78574",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -0.128,
+        "T-Value": "(0.035)",
+        "Significance": "***",
+        "County": 48215,
+        "Zipcode": "78574",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1940,
+        "arid": 7232470039,
+        "Coefficient": 0.013,
+        "T-Value": "(0.158)",
+        "Significance": "Not Significant",
+        "County": 48215,
+        "Zipcode": "78574",
+        "Bank_Name": "Cardinal Financial Company, Limited Partnership"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": 0.054,
+        "T-Value": "(0.182)",
+        "Significance": "Not Significant",
+        "County": 48215,
+        "Zipcode": "78574",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.316,
+        "T-Value": "(0.150)",
+        "Significance": "*",
+        "County": 48215,
+        "Zipcode": "78574",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2359,
+        "arid": 77257500009,
+        "Coefficient": -0.014,
+        "T-Value": "(0.135)",
+        "Significance": "Not Significant",
+        "County": 48215,
+        "Zipcode": "78574",
+        "Bank_Name": "Academy Mortgage Corporation"
+    }
+]

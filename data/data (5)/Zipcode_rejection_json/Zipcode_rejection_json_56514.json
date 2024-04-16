@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 2911,
+        "arid": 319581,
+        "Coefficient": -0.094,
+        "T-Value": "(0.036)",
+        "Significance": "**",
+        "County": 27027,
+        "Zipcode": "56514",
+        "Bank_Name": "Bell Bank"
+    },
+    {
+        "arid_id": 5980,
+        "arid": 1700257,
+        "Coefficient": -0.022,
+        "T-Value": "(0.024)",
+        "Significance": "Not Significant",
+        "County": 27027,
+        "Zipcode": "56514",
+        "Bank_Name": "Gate City Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 27027,
+        "Zipcode": "56514",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

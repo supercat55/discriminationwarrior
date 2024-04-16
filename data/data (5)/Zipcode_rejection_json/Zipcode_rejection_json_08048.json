@@ -1,0 +1,172 @@
+[
+    {
+        "arid_id": 2539,
+        "arid": 315697,
+        "Coefficient": -0.286,
+        "T-Value": "(0.254)",
+        "Significance": "Not Significant",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Beneficial Bank"
+    },
+    {
+        "arid_id": 3291,
+        "arid": 327614,
+        "Coefficient": -0.4,
+        "T-Value": "(0.145)",
+        "Significance": "**",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Fulton Bank of New Jersey"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.02,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.194,
+        "T-Value": "(0.109)",
+        "Significance": "Not Significant",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.019,
+        "T-Value": "(0.114)",
+        "Significance": "Not Significant",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": 0.134,
+        "T-Value": "(0.177)",
+        "Significance": "Not Significant",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6951,
+        "arid": 9722777,
+        "Coefficient": -0.3,
+        "T-Value": "(0.146)",
+        "Significance": "*",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.164,
+        "T-Value": "(0.097)",
+        "Significance": "Not Significant",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": -0.004,
+        "T-Value": "(0.006)",
+        "Significance": "Not Significant",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7642,
+        "arid": 7200378305,
+        "Coefficient": 0.571,
+        "T-Value": "(0.160)",
+        "Significance": "***",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Trident Mortgage Company LP"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.154,
+        "T-Value": "(0.084)",
+        "Significance": "Not Significant",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": -0.5,
+        "T-Value": "(0.326)",
+        "Significance": "Not Significant",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8846,
+        "arid": 73027509990,
+        "Coefficient": 0.333,
+        "T-Value": "(0.239)",
+        "Significance": "Not Significant",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Phh Mortgage Corporation"
+    },
+    {
+        "arid_id": 8847,
+        "arid": 73028209994,
+        "Coefficient": -0.091,
+        "T-Value": "(0.246)",
+        "Significance": "Not Significant",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Mortgage Access CORP."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.228,
+        "T-Value": "(0.093)",
+        "Significance": "**",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": -0.061,
+        "T-Value": "(0.079)",
+        "Significance": "Not Significant",
+        "County": 34005,
+        "Zipcode": "08048",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

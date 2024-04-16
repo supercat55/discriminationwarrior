@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 1669,
+        "arid": 9606046,
+        "Coefficient": 0.211,
+        "T-Value": "(0.998)",
+        "Significance": "Not Significant",
+        "County": 28047,
+        "Zipcode": "39540",
+        "Bank_Name": "Bancorpsouth Bank"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": 0.13,
+        "T-Value": "(0.173)",
+        "Significance": "Not Significant",
+        "County": 28047,
+        "Zipcode": "39540",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": 0.997,
+        "T-Value": "(0.303)",
+        "Significance": "**",
+        "County": 28047,
+        "Zipcode": "39540",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2192,
+        "arid": 7760503625,
+        "Coefficient": 0.766,
+        "T-Value": "(0.524)",
+        "Significance": "Not Significant",
+        "County": 28047,
+        "Zipcode": "39540",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 2300,
+        "arid": 71252000009,
+        "Coefficient": 0.115,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 28047,
+        "Zipcode": "39540",
+        "Bank_Name": "Home Point Mortgage Acceptance Corporation"
+    },
+    {
+        "arid_id": 2332,
+        "arid": 73027509990,
+        "Coefficient": 0.112,
+        "T-Value": "(0.162)",
+        "Significance": "Not Significant",
+        "County": 28047,
+        "Zipcode": "39540",
+        "Bank_Name": "Phh Mortgage Corporation"
+    }
+]

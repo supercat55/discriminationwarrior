@@ -1,0 +1,252 @@
+[
+    {
+        "arid_id": 1857,
+        "arid": 123922,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Cbc National Bank"
+    },
+    {
+        "arid_id": 2669,
+        "arid": 316889,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "United Community Bank"
+    },
+    {
+        "arid_id": 3008,
+        "arid": 321440,
+        "Coefficient": 0.014,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Fidelity Bank"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": -0.364,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.031,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.138,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.107,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.008,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6944,
+        "arid": 9675332,
+        "Coefficient": 0.394,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.047,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.023,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7143,
+        "arid": 23467828,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Capital City Home Loans, LLC"
+    },
+    {
+        "arid_id": 7208,
+        "arid": 92735146,
+        "Coefficient": -0.455,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 7307,
+        "arid": 1274370581,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Banksouth Mortgage Company, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.09,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.158,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.136,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8097,
+        "arid": 7460972768,
+        "Coefficient": -0.037,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Shelter Lending Services, L.L.C."
+    },
+    {
+        "arid_id": 8181,
+        "arid": 7522337558,
+        "Coefficient": 0.073,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Taylor Morrison Home Funding, LLC"
+    },
+    {
+        "arid_id": 8198,
+        "arid": 7542070914,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Emm Loans LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.4,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 0.048,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.022,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.105,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13089,
+        "Zipcode": "30307",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

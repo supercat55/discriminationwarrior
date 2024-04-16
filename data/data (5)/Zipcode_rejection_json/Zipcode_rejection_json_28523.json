@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.183,
+        "T-Value": "(0.120)",
+        "Significance": "Not Significant",
+        "County": 37049,
+        "Zipcode": "28523",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.077,
+        "T-Value": "(0.214)",
+        "Significance": "Not Significant",
+        "County": 37049,
+        "Zipcode": "28523",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6938,
+        "arid": 9617677,
+        "Coefficient": 0.24,
+        "T-Value": "(0.120)",
+        "Significance": "*",
+        "County": 37049,
+        "Zipcode": "28523",
+        "Bank_Name": "Navy Federal Credit Union"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.187,
+        "T-Value": "(0.049)",
+        "Significance": "***",
+        "County": 37049,
+        "Zipcode": "28523",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": -0.008,
+        "T-Value": "(0.079)",
+        "Significance": "Not Significant",
+        "County": 37049,
+        "Zipcode": "28523",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.187,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37049,
+        "Zipcode": "28523",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

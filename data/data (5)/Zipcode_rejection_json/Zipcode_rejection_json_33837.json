@@ -1,0 +1,162 @@
+[
+    {
+        "arid_id": 4680,
+        "arid": 518708,
+        "Coefficient": 0.233,
+        "T-Value": "(0.294)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Partners"
+    },
+    {
+        "arid_id": 5869,
+        "arid": 568600,
+        "Coefficient": 0.09,
+        "T-Value": "(0.048)",
+        "Significance": "*",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Midflorida"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.018,
+        "T-Value": "(0.028)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.02,
+        "T-Value": "(0.100)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.01,
+        "T-Value": "(0.094)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7283,
+        "arid": 750402708,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Embrace Home Loans, INC."
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": 0.093,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.07,
+        "T-Value": "(0.057)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.018,
+        "T-Value": "(0.161)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8248,
+        "arid": 7593345547,
+        "Coefficient": -0.001,
+        "T-Value": "(0.092)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "The Mortgage Firm, INC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.287,
+        "T-Value": "(0.168)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": -0.113,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.159,
+        "T-Value": "(0.119)",
+        "Significance": "Not Significant",
+        "County": 12105,
+        "Zipcode": "33837",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

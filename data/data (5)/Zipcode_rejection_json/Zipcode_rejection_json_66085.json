@@ -1,0 +1,232 @@
+[
+    {
+        "arid_id": 595,
+        "arid": 34626,
+        "Coefficient": 0.667,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Bank of the Prairie"
+    },
+    {
+        "arid_id": 2250,
+        "arid": 312219,
+        "Coefficient": 0.037,
+        "T-Value": "(0.023)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "First State Bank of St. Charles, Missouri"
+    },
+    {
+        "arid_id": 3740,
+        "arid": 335014,
+        "Coefficient": -0.044,
+        "T-Value": "(0.049)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Nbkc Bank"
+    },
+    {
+        "arid_id": 4939,
+        "arid": 524858,
+        "Coefficient": 0.215,
+        "T-Value": "(0.138)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Mainstreet Federal Credit Union"
+    },
+    {
+        "arid_id": 5618,
+        "arid": 567664,
+        "Coefficient": 0.002,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Communityamerica"
+    },
+    {
+        "arid_id": 5995,
+        "arid": 1700670,
+        "Coefficient": 0.059,
+        "T-Value": "(0.022)",
+        "Significance": "**",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Capitol Federal Savings Bank"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6900,
+        "arid": 9311845,
+        "Coefficient": -0.002,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Arvest Bank"
+    },
+    {
+        "arid_id": 6901,
+        "arid": 9339858,
+        "Coefficient": -0.2,
+        "T-Value": "(0.200)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Bokf, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.022,
+        "T-Value": "(0.032)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.058,
+        "T-Value": "(0.086)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.148,
+        "T-Value": "(0.077)",
+        "Significance": "*",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6935,
+        "arid": 9601050,
+        "Coefficient": 0.036,
+        "T-Value": "(0.096)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Commerce Bank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.093,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": -0.001,
+        "T-Value": "(0.027)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7205,
+        "arid": 92590037,
+        "Coefficient": 0.5,
+        "T-Value": "(0.195)",
+        "Significance": "**",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "State Farm Bank, F.S.B."
+    },
+    {
+        "arid_id": 7739,
+        "arid": 7208763489,
+        "Coefficient": -0.02,
+        "T-Value": "(0.034)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Community Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.463,
+        "T-Value": "(0.123)",
+        "Significance": "***",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8046,
+        "arid": 7411914032,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Homeservices Lending, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.25,
+        "T-Value": "(0.168)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 0.0,
+        "T-Value": "(0.001)",
+        "Significance": "Not Significant",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.157,
+        "T-Value": "(0.073)",
+        "Significance": "*",
+        "County": 20091,
+        "Zipcode": "66085",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

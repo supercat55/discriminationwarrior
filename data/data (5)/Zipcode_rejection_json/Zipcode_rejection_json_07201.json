@@ -1,0 +1,202 @@
+[
+    {
+        "arid_id": 5964,
+        "arid": 935570,
+        "Coefficient": -0.064,
+        "T-Value": "(0.078)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Investors Bank"
+    },
+    {
+        "arid_id": 6893,
+        "arid": 9229801,
+        "Coefficient": 0.201,
+        "T-Value": "(0.073)",
+        "Significance": "**",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Valley National Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.039,
+        "T-Value": "(0.025)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.037,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.056,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": 0.166,
+        "T-Value": "(0.182)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6951,
+        "arid": 9722777,
+        "Coefficient": -0.4,
+        "T-Value": "(0.129)",
+        "Significance": "**",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.634,
+        "T-Value": "(0.230)",
+        "Significance": "**",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.057,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7758,
+        "arid": 7223554558,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "American Financial Resources, INC."
+    },
+    {
+        "arid_id": 7788,
+        "arid": 7260021318,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Amerisave Mortgage Corporation"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.035,
+        "T-Value": "(0.038)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.487,
+        "T-Value": "(0.042)",
+        "Significance": "***",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8628,
+        "arid": 9223798625,
+        "Coefficient": -0.078,
+        "T-Value": "(0.164)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Investors Mortgage Company LLC"
+    },
+    {
+        "arid_id": 8837,
+        "arid": 72317700005,
+        "Coefficient": -0.012,
+        "T-Value": "(0.120)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Phh Home Loans LLC"
+    },
+    {
+        "arid_id": 8847,
+        "arid": 73028209994,
+        "Coefficient": -0.061,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Mortgage Access CORP."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.081,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8966,
+        "arid": 77810600004,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 34039,
+        "Zipcode": "07201",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    }
+]

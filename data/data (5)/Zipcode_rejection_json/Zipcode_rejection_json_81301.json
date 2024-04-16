@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 2682,
+        "arid": 316980,
+        "Coefficient": -0.034,
+        "T-Value": "(0.030)",
+        "Significance": "Not Significant",
+        "County": 8067,
+        "Zipcode": "81301",
+        "Bank_Name": "Bank of Colorado"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.098,
+        "T-Value": "(0.011)",
+        "Significance": "***",
+        "County": 8067,
+        "Zipcode": "81301",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 8067,
+        "Zipcode": "81301",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": -0.044,
+        "T-Value": "(0.010)",
+        "Significance": "***",
+        "County": 8067,
+        "Zipcode": "81301",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    }
+]

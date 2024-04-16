@@ -1,0 +1,292 @@
+[
+    {
+        "arid_id": 997,
+        "arid": 51976,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Addition Financial"
+    },
+    {
+        "arid_id": 5773,
+        "arid": 568417,
+        "Coefficient": 0.043,
+        "T-Value": "(0.068)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Fairwinds Credit Union"
+    },
+    {
+        "arid_id": 6254,
+        "arid": 1707635,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Trustco Bank"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.0,
+        "T-Value": "(0.234)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.008,
+        "T-Value": "(0.021)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.148,
+        "T-Value": "(0.099)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.003,
+        "T-Value": "(0.071)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": -0.308,
+        "T-Value": "(0.256)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.2,
+        "T-Value": "(0.206)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.286,
+        "T-Value": "(0.247)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.138,
+        "T-Value": "(0.043)",
+        "Significance": "**",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7431,
+        "arid": 3392001010,
+        "Coefficient": -0.303,
+        "T-Value": "(0.164)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Waterstone Mortgage Corporation"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": 0.273,
+        "T-Value": "(0.152)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7690,
+        "arid": 7203702275,
+        "Coefficient": -0.029,
+        "T-Value": "(0.040)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Fbc Mortgage, LLC"
+    },
+    {
+        "arid_id": 7753,
+        "arid": 7223039688,
+        "Coefficient": 0.255,
+        "T-Value": "(0.161)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 7771,
+        "arid": 7232470039,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Cardinal Financial Company, Limited Partnership"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7806,
+        "arid": 7260813134,
+        "Coefficient": 0.051,
+        "T-Value": "(0.042)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Mortgage Lenders Investment Trading Corporation"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.074,
+        "T-Value": "(0.085)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": -0.062,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.324,
+        "T-Value": "(0.198)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8134,
+        "arid": 7470873092,
+        "Coefficient": 0.286,
+        "T-Value": "(0.214)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Network Capital Funding Corporation"
+    },
+    {
+        "arid_id": 8181,
+        "arid": 7522337558,
+        "Coefficient": 0.17,
+        "T-Value": "(0.079)",
+        "Significance": "*",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Taylor Morrison Home Funding, LLC"
+    },
+    {
+        "arid_id": 8248,
+        "arid": 7593345547,
+        "Coefficient": 0.014,
+        "T-Value": "(0.022)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "The Mortgage Firm, INC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.057,
+        "T-Value": "(0.148)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.168,
+        "T-Value": "(0.110)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8846,
+        "arid": 73027509990,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Phh Mortgage Corporation"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.008,
+        "T-Value": "(0.062)",
+        "Significance": "Not Significant",
+        "County": 12117,
+        "Zipcode": "32772",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

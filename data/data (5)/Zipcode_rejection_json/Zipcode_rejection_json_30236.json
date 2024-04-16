@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 5439,
+        "arid": 566357,
+        "Coefficient": 0.3,
+        "T-Value": "(0.206)",
+        "Significance": "Not Significant",
+        "County": 13063,
+        "Zipcode": "30236",
+        "Bank_Name": "Delta Community Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.059,
+        "T-Value": "(0.104)",
+        "Significance": "Not Significant",
+        "County": 13063,
+        "Zipcode": "30236",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.043,
+        "T-Value": "(0.106)",
+        "Significance": "Not Significant",
+        "County": 13063,
+        "Zipcode": "30236",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.292,
+        "T-Value": "(0.131)",
+        "Significance": "*",
+        "County": 13063,
+        "Zipcode": "30236",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7208,
+        "arid": 92735146,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 13063,
+        "Zipcode": "30236",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.168,
+        "T-Value": "(0.022)",
+        "Significance": "***",
+        "County": 13063,
+        "Zipcode": "30236",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13063,
+        "Zipcode": "30236",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.136,
+        "T-Value": "(0.191)",
+        "Significance": "Not Significant",
+        "County": 13063,
+        "Zipcode": "30236",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.25,
+        "T-Value": "(0.100)",
+        "Significance": "**",
+        "County": 13063,
+        "Zipcode": "30236",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

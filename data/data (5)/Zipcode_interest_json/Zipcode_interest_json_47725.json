@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 219,
+        "arid": 51682,
+        "Coefficient": 0.615,
+        "T-Value": "(0.040)",
+        "Significance": "***",
+        "County": 18163,
+        "Zipcode": "47725",
+        "Bank_Name": "Evansville Teachers"
+    },
+    {
+        "arid_id": 782,
+        "arid": 329056,
+        "Coefficient": 0.228,
+        "T-Value": "(0.055)",
+        "Significance": "***",
+        "County": 18163,
+        "Zipcode": "47725",
+        "Bank_Name": "First Federal Savings Bank"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.124,
+        "T-Value": "(0.040)",
+        "Significance": "**",
+        "County": 18163,
+        "Zipcode": "47725",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 1525,
+        "arid": 113443,
+        "Coefficient": 0.4,
+        "T-Value": "(0.104)",
+        "Significance": "***",
+        "County": 48401,
+        "Zipcode": "75691",
+        "Bank_Name": "Verabank, National Association"
+    },
+    {
+        "arid_id": 2997,
+        "arid": 321074,
+        "Coefficient": 0.188,
+        "T-Value": "(0.047)",
+        "Significance": "***",
+        "County": 48401,
+        "Zipcode": "75691",
+        "Bank_Name": "Texas Bank"
+    },
+    {
+        "arid_id": 5634,
+        "arid": 567761,
+        "Coefficient": -0.333,
+        "T-Value": "(0.148)",
+        "Significance": "*",
+        "County": 48401,
+        "Zipcode": "75691",
+        "Bank_Name": "East Texas Professional Credit Union"
+    }
+]

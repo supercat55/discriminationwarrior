@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51680,
+        "Zipcode": "24503",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": -0.132,
+        "T-Value": "(0.052)",
+        "Significance": "**",
+        "County": 51680,
+        "Zipcode": "24503",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7283,
+        "arid": 750402708,
+        "Coefficient": 0.25,
+        "T-Value": "(0.017)",
+        "Significance": "***",
+        "County": 51680,
+        "Zipcode": "24503",
+        "Bank_Name": "Embrace Home Loans, INC."
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.25,
+        "T-Value": "(0.085)",
+        "Significance": "**",
+        "County": 51680,
+        "Zipcode": "24503",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    }
+]

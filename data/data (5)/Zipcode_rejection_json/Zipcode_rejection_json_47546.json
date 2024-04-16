@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 2723,
+        "arid": 317393,
+        "Coefficient": 0.061,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 18037,
+        "Zipcode": "47546",
+        "Bank_Name": "German American Bank"
+    },
+    {
+        "arid_id": 6889,
+        "arid": 9208244,
+        "Coefficient": -0.538,
+        "T-Value": "(0.180)",
+        "Significance": "**",
+        "County": 18037,
+        "Zipcode": "47546",
+        "Bank_Name": "Old National Bank"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": -0.034,
+        "T-Value": "(0.149)",
+        "Significance": "Not Significant",
+        "County": 18037,
+        "Zipcode": "47546",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 7207,
+        "arid": 92712969,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 18037,
+        "Zipcode": "47546",
+        "Bank_Name": "Fifth Third Mortgage Company"
+    }
+]

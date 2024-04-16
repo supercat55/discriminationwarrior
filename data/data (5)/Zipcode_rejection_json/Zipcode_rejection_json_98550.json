@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 3089,
+        "arid": 323041,
+        "Coefficient": -0.222,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 53027,
+        "Zipcode": "98550",
+        "Bank_Name": "Bank of the Pacific"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 53027,
+        "Zipcode": "98550",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

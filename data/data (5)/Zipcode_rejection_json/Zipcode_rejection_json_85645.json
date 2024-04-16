@@ -1,0 +1,282 @@
+[
+    {
+        "arid_id": 1284,
+        "arid": 57316,
+        "Coefficient": 0.208,
+        "T-Value": "(0.136)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Pima Federal Credit Union"
+    },
+    {
+        "arid_id": 5097,
+        "arid": 561315,
+        "Coefficient": -0.5,
+        "T-Value": "(0.517)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Oneaz Credit Union"
+    },
+    {
+        "arid_id": 5836,
+        "arid": 568558,
+        "Coefficient": 0.105,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Vantage West"
+    },
+    {
+        "arid_id": 6886,
+        "arid": 9146672,
+        "Coefficient": 0.0,
+        "T-Value": "(0.514)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.033,
+        "T-Value": "(0.015)",
+        "Significance": "*",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.529,
+        "T-Value": "(0.251)",
+        "Significance": "*",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.023,
+        "T-Value": "(0.022)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": -0.5,
+        "T-Value": "(0.393)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 6940,
+        "arid": 9656377,
+        "Coefficient": -0.135,
+        "T-Value": "(0.133)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Washington Federal Bank, National Association"
+    },
+    {
+        "arid_id": 6949,
+        "arid": 9697633,
+        "Coefficient": -0.034,
+        "T-Value": "(0.126)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Bbva USA"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.018,
+        "T-Value": "(0.023)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7679,
+        "arid": 7202715422,
+        "Coefficient": 0.016,
+        "T-Value": "(0.013)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Sunstreet Mortgage, LLC"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.023,
+        "T-Value": "(0.029)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8046,
+        "arid": 7411914032,
+        "Coefficient": -0.234,
+        "T-Value": "(0.135)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Homeservices Lending, LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.102,
+        "T-Value": "(0.060)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8063,
+        "arid": 7421720343,
+        "Coefficient": -0.005,
+        "T-Value": "(0.045)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "V.i.p. Mortgage, INC."
+    },
+    {
+        "arid_id": 8136,
+        "arid": 7470912342,
+        "Coefficient": -0.143,
+        "T-Value": "(0.272)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Loanpal, LLC"
+    },
+    {
+        "arid_id": 8139,
+        "arid": 7471809999,
+        "Coefficient": 0.041,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Guild Mortgage Company"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.217,
+        "T-Value": "(0.098)",
+        "Significance": "*",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 0.009,
+        "T-Value": "(0.021)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8455,
+        "arid": 7813798202,
+        "Coefficient": 0.0,
+        "T-Value": "(0.162)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Kbhs Home Loans, LLC"
+    },
+    {
+        "arid_id": 8483,
+        "arid": 7860415227,
+        "Coefficient": 0.015,
+        "T-Value": "(0.010)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Nova Financial & Investment Corporation"
+    },
+    {
+        "arid_id": 8523,
+        "arid": 7911780488,
+        "Coefficient": -0.003,
+        "T-Value": "(0.014)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Summit Funding, INC."
+    },
+    {
+        "arid_id": 8808,
+        "arid": 71746800001,
+        "Coefficient": 0.025,
+        "T-Value": "(0.148)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Moria Development, INC."
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.094,
+        "T-Value": "(0.120)",
+        "Significance": "Not Significant",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.098,
+        "T-Value": "(0.048)",
+        "Significance": "*",
+        "County": 4019,
+        "Zipcode": "85645",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

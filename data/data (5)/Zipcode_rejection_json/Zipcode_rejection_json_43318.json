@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 293,
+        "arid": 15425,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39091,
+        "Zipcode": "43318",
+        "Bank_Name": "Liberty National Bank"
+    },
+    {
+        "arid_id": 4652,
+        "arid": 517623,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 39091,
+        "Zipcode": "43318",
+        "Bank_Name": "Honda Federal Credit Union"
+    }
+]

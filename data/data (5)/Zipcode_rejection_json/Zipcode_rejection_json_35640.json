@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 1296,
+        "arid": 57544,
+        "Coefficient": 0.171,
+        "T-Value": "(0.026)",
+        "Significance": "***",
+        "County": 1103,
+        "Zipcode": "35640",
+        "Bank_Name": "Redstone Federal Credit Union"
+    },
+    {
+        "arid_id": 3232,
+        "arid": 326799,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 1103,
+        "Zipcode": "35640",
+        "Bank_Name": "Evabank"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.054,
+        "T-Value": "(0.032)",
+        "Significance": "Not Significant",
+        "County": 1103,
+        "Zipcode": "35640",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.105,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 1103,
+        "Zipcode": "35640",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 1103,
+        "Zipcode": "35640",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

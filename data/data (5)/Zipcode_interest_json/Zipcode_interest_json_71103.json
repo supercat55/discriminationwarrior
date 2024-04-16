@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.603,
+        "T-Value": "(0.212)",
+        "Significance": "**",
+        "County": 22017,
+        "Zipcode": "71103",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -1.57,
+        "T-Value": "(0.205)",
+        "Significance": "***",
+        "County": 22017,
+        "Zipcode": "71103",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

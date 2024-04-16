@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 2813,
+        "arid": 318203,
+        "Coefficient": 0.018,
+        "T-Value": "(0.004)",
+        "Significance": "***",
+        "County": 9013,
+        "Zipcode": "06076",
+        "Bank_Name": "United Bank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 9013,
+        "Zipcode": "06076",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

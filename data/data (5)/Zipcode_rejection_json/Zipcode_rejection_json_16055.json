@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 5387,
+        "arid": 565291,
+        "Coefficient": -0.207,
+        "T-Value": "(0.117)",
+        "Significance": "Not Significant",
+        "County": 42019,
+        "Zipcode": "16055",
+        "Bank_Name": "Armco Credit Union"
+    },
+    {
+        "arid_id": 6266,
+        "arid": 1708043,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42019,
+        "Zipcode": "16055",
+        "Bank_Name": "Dollar Bank, Federal Savings Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.124,
+        "T-Value": "(0.056)",
+        "Significance": "*",
+        "County": 42019,
+        "Zipcode": "16055",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": -0.284,
+        "T-Value": "(0.144)",
+        "Significance": "*",
+        "County": 42019,
+        "Zipcode": "16055",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.5,
+        "T-Value": "(0.236)",
+        "Significance": "*",
+        "County": 42019,
+        "Zipcode": "16055",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 8881,
+        "arid": 77015500006,
+        "Coefficient": 0.001,
+        "T-Value": "(0.005)",
+        "Significance": "Not Significant",
+        "County": 42019,
+        "Zipcode": "16055",
+        "Bank_Name": "Howard Hanna Financial Services, INC."
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.134,
+        "T-Value": "(0.076)",
+        "Significance": "Not Significant",
+        "County": 42019,
+        "Zipcode": "16055",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

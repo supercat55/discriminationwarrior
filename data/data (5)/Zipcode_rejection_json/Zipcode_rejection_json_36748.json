@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 7,
+        "arid": 339,
+        "Coefficient": 0.571,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 1091,
+        "Zipcode": "36748",
+        "Bank_Name": "Robertson Banking Company"
+    },
+    {
+        "arid_id": 6902,
+        "arid": 9342634,
+        "Coefficient": 0.6,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 1091,
+        "Zipcode": "36748",
+        "Bank_Name": "Trustmark National Bank"
+    }
+]

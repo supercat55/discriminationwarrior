@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 1327,
+        "arid": 58111,
+        "Coefficient": -0.143,
+        "T-Value": "(0.043)",
+        "Significance": "***",
+        "County": 48259,
+        "Zipcode": "78006",
+        "Bank_Name": "Randolph-brooks"
+    },
+    {
+        "arid_id": 4415,
+        "arid": 511065,
+        "Coefficient": 0.359,
+        "T-Value": "(0.086)",
+        "Significance": "***",
+        "County": 48259,
+        "Zipcode": "78006",
+        "Bank_Name": "Security Service"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.088,
+        "T-Value": "(0.098)",
+        "Significance": "Not Significant",
+        "County": 48259,
+        "Zipcode": "78006",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6949,
+        "arid": 9697633,
+        "Coefficient": 0.115,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 48259,
+        "Zipcode": "78006",
+        "Bank_Name": "Bbva USA"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.127,
+        "T-Value": "(0.088)",
+        "Significance": "Not Significant",
+        "County": 48259,
+        "Zipcode": "78006",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.205,
+        "T-Value": "(0.107)",
+        "Significance": "*",
+        "County": 48259,
+        "Zipcode": "78006",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

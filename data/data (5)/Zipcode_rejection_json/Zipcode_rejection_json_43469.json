@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 2067,
+        "arid": 310255,
+        "Coefficient": 0.097,
+        "T-Value": "(0.124)",
+        "Significance": "Not Significant",
+        "County": 39143,
+        "Zipcode": "43469",
+        "Bank_Name": "The Old Fort Banking Company"
+    },
+    {
+        "arid_id": 6542,
+        "arid": 2362717,
+        "Coefficient": 0.497,
+        "T-Value": "(0.046)",
+        "Significance": "***",
+        "County": 39143,
+        "Zipcode": "43469",
+        "Bank_Name": "The Croghan Colonial Bank"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.083,
+        "T-Value": "(0.145)",
+        "Significance": "Not Significant",
+        "County": 39143,
+        "Zipcode": "43469",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    }
+]

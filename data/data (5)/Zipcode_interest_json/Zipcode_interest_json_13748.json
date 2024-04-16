@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1757,
+        "arid": 510940996,
+        "Coefficient": 0.042,
+        "T-Value": "(0.073)",
+        "Significance": "Not Significant",
+        "County": 36007,
+        "Zipcode": "13748",
+        "Bank_Name": "Sefcu Services, LLC"
+    },
+    {
+        "arid_id": 1877,
+        "arid": 7141770243,
+        "Coefficient": -0.482,
+        "T-Value": "(0.149)",
+        "Significance": "**",
+        "County": 36007,
+        "Zipcode": "13748",
+        "Bank_Name": "Homestead Funding CORP."
+    }
+]

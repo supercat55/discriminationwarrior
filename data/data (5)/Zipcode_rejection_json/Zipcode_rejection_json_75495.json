@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 456,
+        "arid": 31467,
+        "Coefficient": 0.25,
+        "T-Value": "(0.253)",
+        "Significance": "Not Significant",
+        "County": 48181,
+        "Zipcode": "75495",
+        "Bank_Name": "Landmark Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.2,
+        "T-Value": "(0.110)",
+        "Significance": "Not Significant",
+        "County": 48181,
+        "Zipcode": "75495",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.4,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 48181,
+        "Zipcode": "75495",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 8404,
+        "arid": 7752945170,
+        "Coefficient": -0.5,
+        "T-Value": "(0.302)",
+        "Significance": "Not Significant",
+        "County": 48181,
+        "Zipcode": "75495",
+        "Bank_Name": "Aspire Financial, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.667,
+        "T-Value": "(0.158)",
+        "Significance": "***",
+        "County": 48181,
+        "Zipcode": "75495",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

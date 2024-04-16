@@ -1,0 +1,242 @@
+[
+    {
+        "arid_id": 5211,
+        "arid": 562574,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Premier Members Credit Union"
+    },
+    {
+        "arid_id": 5843,
+        "arid": 568565,
+        "Coefficient": -0.003,
+        "T-Value": "(0.010)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Elevations"
+    },
+    {
+        "arid_id": 6238,
+        "arid": 1706809,
+        "Coefficient": 0.616,
+        "T-Value": "(0.241)",
+        "Significance": "**",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Colonial Savings, F.a."
+    },
+    {
+        "arid_id": 6702,
+        "arid": 2666657,
+        "Coefficient": 0.286,
+        "T-Value": "(0.258)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Guaranty Bank And Trust Company"
+    },
+    {
+        "arid_id": 6899,
+        "arid": 9288853,
+        "Coefficient": 0.131,
+        "T-Value": "(0.104)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Firstbank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.009,
+        "T-Value": "(0.021)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.097,
+        "T-Value": "(0.299)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.038,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6957,
+        "arid": 9804963,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Bank of the West"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.064,
+        "T-Value": "(0.033)",
+        "Significance": "*",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7208,
+        "arid": 92735146,
+        "Coefficient": -1.5,
+        "T-Value": "(0.001)",
+        "Significance": "***",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.019,
+        "T-Value": "(0.037)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.022,
+        "T-Value": "(0.042)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.075,
+        "T-Value": "(0.097)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": -0.2,
+        "T-Value": "(0.132)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8349,
+        "arid": 7680295876,
+        "Coefficient": 0.3,
+        "T-Value": "(0.124)",
+        "Significance": "**",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Commerce Home Mortgage, INC."
+    },
+    {
+        "arid_id": 8380,
+        "arid": 7742508160,
+        "Coefficient": 0.008,
+        "T-Value": "(0.008)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Swbc Mortgage Corporation"
+    },
+    {
+        "arid_id": 8469,
+        "arid": 7841040263,
+        "Coefficient": -0.015,
+        "T-Value": "(0.012)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Cherry Creek Mortgage, LLC"
+    },
+    {
+        "arid_id": 8476,
+        "arid": 7841594306,
+        "Coefficient": 0.007,
+        "T-Value": "(0.059)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "American Financing Corporation"
+    },
+    {
+        "arid_id": 8501,
+        "arid": 7870623581,
+        "Coefficient": -0.107,
+        "T-Value": "(0.131)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Citywide Home Loans, LLC"
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.213,
+        "T-Value": "(0.186)",
+        "Significance": "Not Significant",
+        "County": 8013,
+        "Zipcode": "80501",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

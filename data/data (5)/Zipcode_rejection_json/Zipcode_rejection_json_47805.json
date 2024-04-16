@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 4,
+        "arid": 147,
+        "Coefficient": 0.017,
+        "T-Value": "(0.047)",
+        "Significance": "Not Significant",
+        "County": 18167,
+        "Zipcode": "47805",
+        "Bank_Name": "First Financial Bank, National Association"
+    },
+    {
+        "arid_id": 287,
+        "arid": 15267,
+        "Coefficient": 0.06,
+        "T-Value": "(0.089)",
+        "Significance": "Not Significant",
+        "County": 18167,
+        "Zipcode": "47805",
+        "Bank_Name": "The Riddell National Bank"
+    },
+    {
+        "arid_id": 2754,
+        "arid": 317736,
+        "Coefficient": 1.168,
+        "T-Value": "(0.104)",
+        "Significance": "***",
+        "County": 18167,
+        "Zipcode": "47805",
+        "Bank_Name": "Terre Haute Savings Bank"
+    },
+    {
+        "arid_id": 6889,
+        "arid": 9208244,
+        "Coefficient": -0.197,
+        "T-Value": "(0.075)",
+        "Significance": "**",
+        "County": 18167,
+        "Zipcode": "47805",
+        "Bank_Name": "Old National Bank"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.311,
+        "T-Value": "(0.142)",
+        "Significance": "*",
+        "County": 18167,
+        "Zipcode": "47805",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    }
+]

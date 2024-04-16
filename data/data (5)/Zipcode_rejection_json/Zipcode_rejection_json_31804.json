@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 3536,
+        "arid": 333010,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13145,
+        "Zipcode": "31804",
+        "Bank_Name": "First Peoples Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.019,
+        "T-Value": "(0.031)",
+        "Significance": "Not Significant",
+        "County": 13145,
+        "Zipcode": "31804",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 13145,
+        "Zipcode": "31804",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7386,
+        "arid": 2631113916,
+        "Coefficient": 0.5,
+        "T-Value": "(0.023)",
+        "Significance": "***",
+        "County": 13145,
+        "Zipcode": "31804",
+        "Bank_Name": "Synovus Mortgage CORP."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 13145,
+        "Zipcode": "31804",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.429,
+        "T-Value": "(0.054)",
+        "Significance": "***",
+        "County": 13145,
+        "Zipcode": "31804",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.037,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 24017,
+        "Zipcode": "20603",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.2,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 24017,
+        "Zipcode": "20603",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.231,
+        "T-Value": "(0.119)",
+        "Significance": "*",
+        "County": 24017,
+        "Zipcode": "20603",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6938,
+        "arid": 9617677,
+        "Coefficient": -0.173,
+        "T-Value": "(0.053)",
+        "Significance": "**",
+        "County": 24017,
+        "Zipcode": "20603",
+        "Bank_Name": "Navy Federal Credit Union"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 24017,
+        "Zipcode": "20603",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 8134,
+        "arid": 7470873092,
+        "Coefficient": 0.308,
+        "T-Value": "(0.118)",
+        "Significance": "**",
+        "County": 24017,
+        "Zipcode": "20603",
+        "Bank_Name": "Network Capital Funding Corporation"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.333,
+        "T-Value": "(0.130)",
+        "Significance": "**",
+        "County": 24017,
+        "Zipcode": "20603",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.3,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 24017,
+        "Zipcode": "20603",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.4,
+        "T-Value": "(0.100)",
+        "Significance": "***",
+        "County": 24017,
+        "Zipcode": "20603",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.053,
+        "T-Value": "(0.037)",
+        "Significance": "Not Significant",
+        "County": 24017,
+        "Zipcode": "20603",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

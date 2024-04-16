@@ -1,0 +1,112 @@
+[
+    {
+        "arid_id": 6104,
+        "arid": 1703575,
+        "Coefficient": 0.367,
+        "T-Value": "(0.104)",
+        "Significance": "***",
+        "County": 13217,
+        "Zipcode": "30054",
+        "Bank_Name": "Newton Federal Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.209,
+        "T-Value": "(0.047)",
+        "Significance": "***",
+        "County": 13217,
+        "Zipcode": "30054",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.333,
+        "T-Value": "(0.152)",
+        "Significance": "*",
+        "County": 13217,
+        "Zipcode": "30054",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.333,
+        "T-Value": "(0.112)",
+        "Significance": "**",
+        "County": 13217,
+        "Zipcode": "30054",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.13,
+        "T-Value": "(0.072)",
+        "Significance": "Not Significant",
+        "County": 13217,
+        "Zipcode": "30054",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.2,
+        "T-Value": "(0.180)",
+        "Significance": "Not Significant",
+        "County": 13217,
+        "Zipcode": "30054",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.222,
+        "T-Value": "(0.070)",
+        "Significance": "**",
+        "County": 13217,
+        "Zipcode": "30054",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.333,
+        "T-Value": "(0.100)",
+        "Significance": "**",
+        "County": 13217,
+        "Zipcode": "30054",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.145,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 13217,
+        "Zipcode": "30054",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.333,
+        "T-Value": "(0.131)",
+        "Significance": "**",
+        "County": 13217,
+        "Zipcode": "30054",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.08,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 13217,
+        "Zipcode": "30054",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

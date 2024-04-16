@@ -1,0 +1,232 @@
+[
+    {
+        "arid_id": 5964,
+        "arid": 935570,
+        "Coefficient": 0.062,
+        "T-Value": "(0.104)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Investors Bank"
+    },
+    {
+        "arid_id": 6893,
+        "arid": 9229801,
+        "Coefficient": 0.094,
+        "T-Value": "(0.059)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Valley National Bank"
+    },
+    {
+        "arid_id": 6909,
+        "arid": 9413208,
+        "Coefficient": 0.2,
+        "T-Value": "(0.100)",
+        "Significance": "*",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Hsbc Bank USA, National Association"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.008,
+        "T-Value": "(0.015)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.012,
+        "T-Value": "(0.022)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.116,
+        "T-Value": "(0.045)",
+        "Significance": "**",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": 0.039,
+        "T-Value": "(0.233)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.15,
+        "T-Value": "(0.177)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.043,
+        "T-Value": "(0.035)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7203,
+        "arid": 92489805,
+        "Coefficient": 0.714,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Morgan Stanley Private Bank, National Association"
+    },
+    {
+        "arid_id": 7208,
+        "arid": 92735146,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Tiaa, FSB"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": -0.154,
+        "T-Value": "(0.095)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7755,
+        "arid": 7223157857,
+        "Coefficient": -0.039,
+        "T-Value": "(0.019)",
+        "Significance": "*",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Nj Lenders CORP."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.171,
+        "T-Value": "(0.061)",
+        "Significance": "**",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": -0.076,
+        "T-Value": "(0.102)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8012,
+        "arid": 7382750395,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.3,
+        "T-Value": "(0.180)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8628,
+        "arid": 9223798625,
+        "Coefficient": -0.106,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Investors Mortgage Company LLC"
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": -0.286,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8845,
+        "arid": 73000809992,
+        "Coefficient": -0.218,
+        "T-Value": "(0.251)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "K. Hovnanian American Mortgage, L.L.C."
+    },
+    {
+        "arid_id": 8847,
+        "arid": 73028209994,
+        "Coefficient": 0.134,
+        "T-Value": "(0.095)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Mortgage Access CORP."
+    },
+    {
+        "arid_id": 8884,
+        "arid": 77053700008,
+        "Coefficient": 0.2,
+        "T-Value": "(0.119)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Jersey Mortgage Company of New Jersey, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.061,
+        "T-Value": "(0.059)",
+        "Significance": "Not Significant",
+        "County": 34013,
+        "Zipcode": "07043",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

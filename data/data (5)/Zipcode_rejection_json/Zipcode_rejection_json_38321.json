@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 778,
+        "arid": 38663,
+        "Coefficient": -0.261,
+        "T-Value": "(0.059)",
+        "Significance": "***",
+        "County": 47017,
+        "Zipcode": "38321",
+        "Bank_Name": "Firstbank"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.42,
+        "T-Value": "(0.046)",
+        "Significance": "***",
+        "County": 47017,
+        "Zipcode": "38321",
+        "Bank_Name": "Regions Bank"
+    }
+]

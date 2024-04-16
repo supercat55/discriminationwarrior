@@ -1,0 +1,182 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.035,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.014,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6918,
+        "arid": 9491224,
+        "Coefficient": -0.2,
+        "T-Value": "(0.178)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "First-citizens Bank & Trust Company"
+    },
+    {
+        "arid_id": 6919,
+        "arid": 9497404,
+        "Coefficient": -0.333,
+        "T-Value": "(0.300)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Td Bank, National Association"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.393,
+        "T-Value": "(0.190)",
+        "Significance": "*",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.113,
+        "T-Value": "(0.108)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.193,
+        "T-Value": "(0.094)",
+        "Significance": "*",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.231,
+        "T-Value": "(0.042)",
+        "Significance": "***",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": -0.012,
+        "T-Value": "(0.053)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.079,
+        "T-Value": "(0.041)",
+        "Significance": "*",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7912,
+        "arid": 7311076317,
+        "Coefficient": 0.308,
+        "T-Value": "(0.270)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "M/i Financial, LLC"
+    },
+    {
+        "arid_id": 8060,
+        "arid": 7421554181,
+        "Coefficient": 0.182,
+        "T-Value": "(0.181)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Pulte Mortgage LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": -0.019,
+        "T-Value": "(0.092)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.124,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.106,
+        "T-Value": "(0.088)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.149,
+        "T-Value": "(0.080)",
+        "Significance": "*",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8914,
+        "arid": 77275700004,
+        "Coefficient": 0.118,
+        "T-Value": "(0.124)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "TBI Mortgage Company"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.314,
+        "T-Value": "(0.169)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28079",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

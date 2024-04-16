@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.121,
+        "T-Value": "(0.027)",
+        "Significance": "***",
+        "County": 13313,
+        "Zipcode": "30720",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.116,
+        "T-Value": "(0.053)",
+        "Significance": "*",
+        "County": 13313,
+        "Zipcode": "30720",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.667,
+        "T-Value": "(0.155)",
+        "Significance": "***",
+        "County": 13313,
+        "Zipcode": "30720",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.06,
+        "T-Value": "(0.027)",
+        "Significance": "*",
+        "County": 13313,
+        "Zipcode": "30720",
+        "Bank_Name": "Truist Bank"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 6288,
+        "arid": 1708384,
+        "Coefficient": -0.158,
+        "T-Value": "(0.128)",
+        "Significance": "Not Significant",
+        "County": 15001,
+        "Zipcode": "96780",
+        "Bank_Name": "American Savings Bank, FSB"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.05,
+        "T-Value": "(0.102)",
+        "Significance": "Not Significant",
+        "County": 15001,
+        "Zipcode": "96780",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.143,
+        "T-Value": "(0.294)",
+        "Significance": "Not Significant",
+        "County": 15001,
+        "Zipcode": "96780",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6954,
+        "arid": 9795968,
+        "Coefficient": 0.42,
+        "T-Value": "(0.136)",
+        "Significance": "**",
+        "County": 15001,
+        "Zipcode": "96780",
+        "Bank_Name": "Bank of Hawaii"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.43,
+        "T-Value": "(0.116)",
+        "Significance": "***",
+        "County": 15001,
+        "Zipcode": "96780",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7957,
+        "arid": 7330941669,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 15001,
+        "Zipcode": "96780",
+        "Bank_Name": "Plaza Home Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.031,
+        "T-Value": "(0.177)",
+        "Significance": "Not Significant",
+        "County": 15001,
+        "Zipcode": "96780",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

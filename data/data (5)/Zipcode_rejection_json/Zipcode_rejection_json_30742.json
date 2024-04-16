@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.0,
+        "T-Value": "(0.241)",
+        "Significance": "Not Significant",
+        "County": 13047,
+        "Zipcode": "30742",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.4,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 13047,
+        "Zipcode": "30742",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.5,
+        "T-Value": "(0.296)",
+        "Significance": "Not Significant",
+        "County": 13047,
+        "Zipcode": "30742",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8463,
+        "arid": 7830310268,
+        "Coefficient": 0.571,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 13047,
+        "Zipcode": "30742",
+        "Bank_Name": "Mortgage Investors Group, INC."
+    }
+]

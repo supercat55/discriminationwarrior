@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 3484,
+        "arid": 331100,
+        "Coefficient": 0.08,
+        "T-Value": "(0.147)",
+        "Significance": "Not Significant",
+        "County": 45003,
+        "Zipcode": "29164",
+        "Bank_Name": "Security Federal Bank"
+    },
+    {
+        "arid_id": 4844,
+        "arid": 524410,
+        "Coefficient": -0.011,
+        "T-Value": "(0.021)",
+        "Significance": "Not Significant",
+        "County": 45003,
+        "Zipcode": "29164",
+        "Bank_Name": "Srp Federal Credit Union"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.171,
+        "T-Value": "(0.118)",
+        "Significance": "Not Significant",
+        "County": 45003,
+        "Zipcode": "29164",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.029,
+        "T-Value": "(0.096)",
+        "Significance": "Not Significant",
+        "County": 45003,
+        "Zipcode": "29164",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.3,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 45003,
+        "Zipcode": "29164",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.182,
+        "T-Value": "(0.135)",
+        "Significance": "Not Significant",
+        "County": 45003,
+        "Zipcode": "29164",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.025,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 45003,
+        "Zipcode": "29164",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 45003,
+        "Zipcode": "29164",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

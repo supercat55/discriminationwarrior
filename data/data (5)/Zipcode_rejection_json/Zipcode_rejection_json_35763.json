@@ -1,0 +1,162 @@
+[
+    {
+        "arid_id": 778,
+        "arid": 38663,
+        "Coefficient": -0.018,
+        "T-Value": "(0.029)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Firstbank"
+    },
+    {
+        "arid_id": 1296,
+        "arid": 57544,
+        "Coefficient": 0.154,
+        "T-Value": "(0.027)",
+        "Significance": "***",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Redstone Federal Credit Union"
+    },
+    {
+        "arid_id": 4271,
+        "arid": 358719,
+        "Coefficient": -0.011,
+        "T-Value": "(0.012)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Progress Bank And Trust"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.124,
+        "T-Value": "(0.068)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.051,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.32,
+        "T-Value": "(0.215)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6936,
+        "arid": 9606046,
+        "Coefficient": 0.168,
+        "T-Value": "(0.068)",
+        "Significance": "**",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Bancorpsouth Bank"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": 0.333,
+        "T-Value": "(0.276)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 6949,
+        "arid": 9697633,
+        "Coefficient": -0.127,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Bbva USA"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.288,
+        "T-Value": "(0.283)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.312,
+        "T-Value": "(0.220)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7753,
+        "arid": 7223039688,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.07,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8772,
+        "arid": 71252000009,
+        "Coefficient": 0.143,
+        "T-Value": "(0.134)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Home Point Mortgage Acceptance Corporation"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.086,
+        "T-Value": "(0.096)",
+        "Significance": "Not Significant",
+        "County": 1089,
+        "Zipcode": "35763",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

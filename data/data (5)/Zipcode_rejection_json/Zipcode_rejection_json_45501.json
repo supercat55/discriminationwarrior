@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 5427,
+        "arid": 566328,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 39023,
+        "Zipcode": "45501",
+        "Bank_Name": "Wright-patt Credit Union, INC."
+    },
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.194,
+        "T-Value": "(0.008)",
+        "Significance": "***",
+        "County": 39023,
+        "Zipcode": "45501",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.25,
+        "T-Value": "(0.015)",
+        "Significance": "***",
+        "County": 39023,
+        "Zipcode": "45501",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 7566,
+        "arid": 5311690008,
+        "Coefficient": 0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 39023,
+        "Zipcode": "45501",
+        "Bank_Name": "Mycumortgage, LLC"
+    }
+]

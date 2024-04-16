@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.1,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 53047,
+        "Zipcode": "98862",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 8516,
+        "arid": 7911374387,
+        "Coefficient": -0.012,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 53047,
+        "Zipcode": "98862",
+        "Bank_Name": "Evergreen Moneysource Mortgage Company"
+    }
+]

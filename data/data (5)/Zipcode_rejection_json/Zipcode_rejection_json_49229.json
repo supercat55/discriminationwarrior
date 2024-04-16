@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 5007,
+        "arid": 560509,
+        "Coefficient": 0.055,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 26091,
+        "Zipcode": "49229",
+        "Bank_Name": "Tlc Community Credit Union"
+    },
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.231,
+        "T-Value": "(0.168)",
+        "Significance": "Not Significant",
+        "County": 26091,
+        "Zipcode": "49229",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 6140,
+        "arid": 1704192,
+        "Coefficient": 0.103,
+        "T-Value": "(0.095)",
+        "Significance": "Not Significant",
+        "County": 26091,
+        "Zipcode": "49229",
+        "Bank_Name": "First Federal Bank of the Midwest"
+    },
+    {
+        "arid_id": 6889,
+        "arid": 9208244,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 26091,
+        "Zipcode": "49229",
+        "Bank_Name": "Old National Bank"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.539,
+        "T-Value": "(0.273)",
+        "Significance": "*",
+        "County": 26091,
+        "Zipcode": "49229",
+        "Bank_Name": "Citibank, National Association"
+    }
+]

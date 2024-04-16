@@ -1,0 +1,102 @@
+[
+    {
+        "arid_id": 513,
+        "arid": 32036,
+        "Coefficient": 0.086,
+        "T-Value": "(0.151)",
+        "Significance": "Not Significant",
+        "County": 37159,
+        "Zipcode": "28146",
+        "Bank_Name": "Farmers & Merchants Bank"
+    },
+    {
+        "arid_id": 4767,
+        "arid": 522458,
+        "Coefficient": 0.012,
+        "T-Value": "(0.076)",
+        "Significance": "Not Significant",
+        "County": 37159,
+        "Zipcode": "28146",
+        "Bank_Name": "Sharonview Federal Credit Union"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.035,
+        "T-Value": "(0.055)",
+        "Significance": "Not Significant",
+        "County": 37159,
+        "Zipcode": "28146",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.167,
+        "T-Value": "(0.124)",
+        "Significance": "Not Significant",
+        "County": 37159,
+        "Zipcode": "28146",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.3,
+        "T-Value": "(0.103)",
+        "Significance": "**",
+        "County": 37159,
+        "Zipcode": "28146",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.222,
+        "T-Value": "(0.123)",
+        "Significance": "Not Significant",
+        "County": 37159,
+        "Zipcode": "28146",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.021,
+        "T-Value": "(0.054)",
+        "Significance": "Not Significant",
+        "County": 37159,
+        "Zipcode": "28146",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": 0.059,
+        "T-Value": "(0.036)",
+        "Significance": "Not Significant",
+        "County": 37159,
+        "Zipcode": "28146",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37159,
+        "Zipcode": "28146",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37159,
+        "Zipcode": "28146",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    }
+]

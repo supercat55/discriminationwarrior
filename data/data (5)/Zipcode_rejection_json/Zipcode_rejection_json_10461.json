@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.055,
+        "T-Value": "(0.022)",
+        "Significance": "**",
+        "County": 36005,
+        "Zipcode": "10461",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 36005,
+        "Zipcode": "10461",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.078,
+        "T-Value": "(0.021)",
+        "Significance": "***",
+        "County": 36005,
+        "Zipcode": "10461",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.429,
+        "T-Value": "(0.051)",
+        "Significance": "***",
+        "County": 36005,
+        "Zipcode": "10461",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8935,
+        "arid": 77523800002,
+        "Coefficient": -0.333,
+        "T-Value": "(0.040)",
+        "Significance": "***",
+        "County": 36005,
+        "Zipcode": "10461",
+        "Bank_Name": "United Northern Mortgage Bankers Limited"
+    }
+]

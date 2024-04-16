@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 2392,
+        "arid": 314113,
+        "Coefficient": 0.36,
+        "T-Value": "(0.179)",
+        "Significance": "*",
+        "County": 18105,
+        "Zipcode": "47407",
+        "Bank_Name": "The Peoples State Bank"
+    },
+    {
+        "arid_id": 2723,
+        "arid": 317393,
+        "Coefficient": 0.2,
+        "T-Value": "(0.202)",
+        "Significance": "Not Significant",
+        "County": 18105,
+        "Zipcode": "47407",
+        "Bank_Name": "German American Bank"
+    },
+    {
+        "arid_id": 5852,
+        "arid": 568577,
+        "Coefficient": -0.077,
+        "T-Value": "(0.058)",
+        "Significance": "Not Significant",
+        "County": 18105,
+        "Zipcode": "47407",
+        "Bank_Name": "Indiana University Credit Union"
+    },
+    {
+        "arid_id": 6889,
+        "arid": 9208244,
+        "Coefficient": -0.681,
+        "T-Value": "(0.239)",
+        "Significance": "**",
+        "County": 18105,
+        "Zipcode": "47407",
+        "Bank_Name": "Old National Bank"
+    },
+    {
+        "arid_id": 6898,
+        "arid": 9280110,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 18105,
+        "Zipcode": "47407",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.276,
+        "T-Value": "(0.156)",
+        "Significance": "Not Significant",
+        "County": 18105,
+        "Zipcode": "47407",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7971,
+        "arid": 7351616238,
+        "Coefficient": 0.088,
+        "T-Value": "(0.014)",
+        "Significance": "***",
+        "County": 18105,
+        "Zipcode": "47407",
+        "Bank_Name": "Ruoff Mortgage Company, INC."
+    }
+]

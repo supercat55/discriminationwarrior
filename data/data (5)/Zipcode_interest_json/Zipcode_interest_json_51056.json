@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 827,
+        "arid": 332647,
+        "Coefficient": -0.079,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 19193,
+        "Zipcode": "51056",
+        "Bank_Name": "Northwest Bank"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.095,
+        "T-Value": "(0.048)",
+        "Significance": "*",
+        "County": 19193,
+        "Zipcode": "51056",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1661,
+        "arid": 9504713,
+        "Coefficient": -0.225,
+        "T-Value": "(0.077)",
+        "Significance": "**",
+        "County": 19193,
+        "Zipcode": "51056",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 2070,
+        "arid": 7421130287,
+        "Coefficient": -0.056,
+        "T-Value": "(0.116)",
+        "Significance": "Not Significant",
+        "County": 19193,
+        "Zipcode": "51056",
+        "Bank_Name": "Iowa Bankers Mortgage Corporation"
+    },
+    {
+        "arid_id": 2146,
+        "arid": 7621532940,
+        "Coefficient": -0.152,
+        "T-Value": "(0.085)",
+        "Significance": "Not Significant",
+        "County": 19193,
+        "Zipcode": "51056",
+        "Bank_Name": "Franklin American Mortgage CO."
+    }
+]

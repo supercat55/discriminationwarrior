@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 6885,
+        "arid": 9143662,
+        "Coefficient": 0.422,
+        "T-Value": "(0.190)",
+        "Significance": "*",
+        "County": 41053,
+        "Zipcode": "97361",
+        "Bank_Name": "Umpqua Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.039,
+        "T-Value": "(0.053)",
+        "Significance": "Not Significant",
+        "County": 41053,
+        "Zipcode": "97361",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.236,
+        "T-Value": "(0.050)",
+        "Significance": "***",
+        "County": 41053,
+        "Zipcode": "97361",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.154,
+        "T-Value": "(0.060)",
+        "Significance": "**",
+        "County": 41053,
+        "Zipcode": "97361",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.478,
+        "T-Value": "(0.198)",
+        "Significance": "**",
+        "County": 41053,
+        "Zipcode": "97361",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.235,
+        "T-Value": "(0.145)",
+        "Significance": "Not Significant",
+        "County": 41053,
+        "Zipcode": "97361",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8910,
+        "arid": 77257500009,
+        "Coefficient": -0.462,
+        "T-Value": "(0.015)",
+        "Significance": "***",
+        "County": 41053,
+        "Zipcode": "97361",
+        "Bank_Name": "Academy Mortgage Corporation"
+    }
+]

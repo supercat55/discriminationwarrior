@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 209,
+        "arid": 11493,
+        "Coefficient": 0.429,
+        "T-Value": "(0.238)",
+        "Significance": "Not Significant",
+        "County": 21141,
+        "Zipcode": "42206",
+        "Bank_Name": "First Southern National Bank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.143,
+        "T-Value": "(0.291)",
+        "Significance": "Not Significant",
+        "County": 21141,
+        "Zipcode": "42206",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

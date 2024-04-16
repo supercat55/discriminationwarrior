@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.102,
+        "T-Value": "(0.030)",
+        "Significance": "***",
+        "County": 48479,
+        "Zipcode": "78043",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.4,
+        "T-Value": "(0.145)",
+        "Significance": "**",
+        "County": 48479,
+        "Zipcode": "78043",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6949,
+        "arid": 9697633,
+        "Coefficient": 0.25,
+        "T-Value": "(0.092)",
+        "Significance": "**",
+        "County": 48479,
+        "Zipcode": "78043",
+        "Bank_Name": "Bbva USA"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48479,
+        "Zipcode": "78043",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.048,
+        "T-Value": "(0.125)",
+        "Significance": "Not Significant",
+        "County": 48479,
+        "Zipcode": "78043",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.231,
+        "T-Value": "(0.172)",
+        "Significance": "Not Significant",
+        "County": 48479,
+        "Zipcode": "78043",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

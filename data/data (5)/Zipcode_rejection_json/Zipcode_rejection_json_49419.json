@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 3680,
+        "arid": 334618,
+        "Coefficient": 0.067,
+        "T-Value": "(0.045)",
+        "Significance": "Not Significant",
+        "County": 26005,
+        "Zipcode": "49419",
+        "Bank_Name": "Macatawa Bank"
+    },
+    {
+        "arid_id": 5205,
+        "arid": 562514,
+        "Coefficient": 0.031,
+        "T-Value": "(0.043)",
+        "Significance": "Not Significant",
+        "County": 26005,
+        "Zipcode": "49419",
+        "Bank_Name": "Lake Michigan Credit Union"
+    },
+    {
+        "arid_id": 5961,
+        "arid": 912311,
+        "Coefficient": 0.755,
+        "T-Value": "(0.063)",
+        "Significance": "***",
+        "County": 26005,
+        "Zipcode": "49419",
+        "Bank_Name": "The Huntington National Bank"
+    },
+    {
+        "arid_id": 6952,
+        "arid": 9723112,
+        "Coefficient": 0.03,
+        "T-Value": "(0.112)",
+        "Significance": "Not Significant",
+        "County": 26005,
+        "Zipcode": "49419",
+        "Bank_Name": "Fifth Third Bank, National Association"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 200,
+        "arid": 39632,
+        "Coefficient": 0.217,
+        "T-Value": "(0.164)",
+        "Significance": "Not Significant",
+        "County": 17143,
+        "Zipcode": "61552",
+        "Bank_Name": "Fortress Bank"
+    },
+    {
+        "arid_id": 605,
+        "arid": 316450,
+        "Coefficient": -0.534,
+        "T-Value": "(0.204)",
+        "Significance": "**",
+        "County": 17143,
+        "Zipcode": "61552",
+        "Bank_Name": "Busey Bank"
+    },
+    {
+        "arid_id": 653,
+        "arid": 318429,
+        "Coefficient": -0.167,
+        "T-Value": "(0.133)",
+        "Significance": "Not Significant",
+        "County": 17143,
+        "Zipcode": "61552",
+        "Bank_Name": "Morton Community Bank"
+    },
+    {
+        "arid_id": 1688,
+        "arid": 9817824,
+        "Coefficient": -0.141,
+        "T-Value": "(0.073)",
+        "Significance": "*",
+        "County": 17143,
+        "Zipcode": "61552",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": 0.061,
+        "T-Value": "(0.073)",
+        "Significance": "Not Significant",
+        "County": 17143,
+        "Zipcode": "61552",
+        "Bank_Name": "Caliber Home Loans, INC."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 793,
+        "arid": 38798,
+        "Coefficient": 0.052,
+        "T-Value": "(0.002)",
+        "Significance": "***",
+        "County": 22009,
+        "Zipcode": "71362",
+        "Bank_Name": "The Cottonport Bank"
+    },
+    {
+        "arid_id": 794,
+        "arid": 38800,
+        "Coefficient": 0.143,
+        "T-Value": "(0.081)",
+        "Significance": "Not Significant",
+        "County": 22009,
+        "Zipcode": "71362",
+        "Bank_Name": "The Union Bank"
+    },
+    {
+        "arid_id": 6882,
+        "arid": 9112837,
+        "Coefficient": 0.5,
+        "T-Value": "(0.117)",
+        "Significance": "***",
+        "County": 22009,
+        "Zipcode": "71362",
+        "Bank_Name": "Capital One, National Association"
+    }
+]

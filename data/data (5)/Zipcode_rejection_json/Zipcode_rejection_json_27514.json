@@ -1,0 +1,92 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.024,
+        "T-Value": "(0.036)",
+        "Significance": "Not Significant",
+        "County": 37135,
+        "Zipcode": "27514",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.5,
+        "T-Value": "(0.230)",
+        "Significance": "*",
+        "County": 37135,
+        "Zipcode": "27514",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6944,
+        "arid": 9675332,
+        "Coefficient": -0.2,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 37135,
+        "Zipcode": "27514",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.304,
+        "T-Value": "(0.141)",
+        "Significance": "*",
+        "County": 37135,
+        "Zipcode": "27514",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.331,
+        "T-Value": "(0.159)",
+        "Significance": "*",
+        "County": 37135,
+        "Zipcode": "27514",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.156,
+        "T-Value": "(0.031)",
+        "Significance": "***",
+        "County": 37135,
+        "Zipcode": "27514",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37135,
+        "Zipcode": "27514",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8211,
+        "arid": 7562007637,
+        "Coefficient": 0.009,
+        "T-Value": "(0.002)",
+        "Significance": "***",
+        "County": 37135,
+        "Zipcode": "27514",
+        "Bank_Name": "Corporate Investors Mortgage Group, INC."
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.121,
+        "T-Value": "(0.080)",
+        "Significance": "Not Significant",
+        "County": 37135,
+        "Zipcode": "27514",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    }
+]

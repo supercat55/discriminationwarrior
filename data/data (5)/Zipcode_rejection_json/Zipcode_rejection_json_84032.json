@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 6897,
+        "arid": 9276579,
+        "Coefficient": 0.632,
+        "T-Value": "(0.176)",
+        "Significance": "***",
+        "County": 49051,
+        "Zipcode": "84032",
+        "Bank_Name": "Zions Bancorporation, N.A."
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.143,
+        "T-Value": "(0.061)",
+        "Significance": "**",
+        "County": 49051,
+        "Zipcode": "84032",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.255,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 49051,
+        "Zipcode": "84032",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.6,
+        "T-Value": "(0.143)",
+        "Significance": "***",
+        "County": 49051,
+        "Zipcode": "84032",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8948,
+        "arid": 77635500004,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 49051,
+        "Zipcode": "84032",
+        "Bank_Name": "Securitynational Mortgage Company"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 456,
+        "arid": 258243,
+        "Coefficient": -0.014,
+        "T-Value": "(0.002)",
+        "Significance": "***",
+        "County": 55059,
+        "Zipcode": "53179",
+        "Bank_Name": "Johnson Bank"
+    },
+    {
+        "arid_id": 1434,
+        "arid": 1706707,
+        "Coefficient": -0.18,
+        "T-Value": "(0.028)",
+        "Significance": "***",
+        "County": 55059,
+        "Zipcode": "53179",
+        "Bank_Name": "First Federal Bank"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.075,
+        "T-Value": "(0.051)",
+        "Significance": "Not Significant",
+        "County": 55059,
+        "Zipcode": "53179",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

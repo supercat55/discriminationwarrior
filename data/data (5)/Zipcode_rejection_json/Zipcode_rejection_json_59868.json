@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 3471,
+        "arid": 330788,
+        "Coefficient": 0.105,
+        "T-Value": "(0.054)",
+        "Significance": "*",
+        "County": 30063,
+        "Zipcode": "59868",
+        "Bank_Name": "Glacier Bank"
+    },
+    {
+        "arid_id": 4429,
+        "arid": 511300,
+        "Coefficient": 0.012,
+        "T-Value": "(0.016)",
+        "Significance": "Not Significant",
+        "County": 30063,
+        "Zipcode": "59868",
+        "Bank_Name": "Clearwater Federal Credit Union"
+    },
+    {
+        "arid_id": 6697,
+        "arid": 2659855,
+        "Coefficient": 0.209,
+        "T-Value": "(0.110)",
+        "Significance": "*",
+        "County": 30063,
+        "Zipcode": "59868",
+        "Bank_Name": "First Interstate Bank"
+    },
+    {
+        "arid_id": 6714,
+        "arid": 2685676,
+        "Coefficient": -0.01,
+        "T-Value": "(0.057)",
+        "Significance": "Not Significant",
+        "County": 30063,
+        "Zipcode": "59868",
+        "Bank_Name": "Opportunity Bank of Montana"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.202,
+        "T-Value": "(0.083)",
+        "Significance": "**",
+        "County": 30063,
+        "Zipcode": "59868",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "**",
+        "County": 30063,
+        "Zipcode": "59868",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7970,
+        "arid": 7342000096,
+        "Coefficient": -0.008,
+        "T-Value": "(0.025)",
+        "Significance": "Not Significant",
+        "County": 30063,
+        "Zipcode": "59868",
+        "Bank_Name": "Mann Financial INC."
+    },
+    {
+        "arid_id": 8932,
+        "arid": 77505400005,
+        "Coefficient": -0.76,
+        "T-Value": "(0.059)",
+        "Significance": "***",
+        "County": 30063,
+        "Zipcode": "59868",
+        "Bank_Name": "Stearns Lending, LLC"
+    }
+]

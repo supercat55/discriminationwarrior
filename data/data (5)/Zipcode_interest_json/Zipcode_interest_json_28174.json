@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": -0.222,
+        "T-Value": "(0.060)",
+        "Significance": "***",
+        "County": 37179,
+        "Zipcode": "28174",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1655,
+        "arid": 9480228,
+        "Coefficient": 0.114,
+        "T-Value": "(0.250)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28174",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": -0.008,
+        "T-Value": "(0.107)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28174",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 1674,
+        "arid": 9675332,
+        "Coefficient": 0.158,
+        "T-Value": "(0.153)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28174",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": 0.351,
+        "T-Value": "(0.133)",
+        "Significance": "**",
+        "County": 37179,
+        "Zipcode": "28174",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": -0.228,
+        "T-Value": "(0.127)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28174",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": -0.135,
+        "T-Value": "(0.111)",
+        "Significance": "Not Significant",
+        "County": 37179,
+        "Zipcode": "28174",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.198,
+        "T-Value": "(0.097)",
+        "Significance": "*",
+        "County": 37179,
+        "Zipcode": "28174",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

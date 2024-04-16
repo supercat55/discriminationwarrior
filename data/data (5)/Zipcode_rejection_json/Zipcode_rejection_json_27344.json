@@ -1,0 +1,72 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.046,
+        "T-Value": "(0.031)",
+        "Significance": "Not Significant",
+        "County": 37037,
+        "Zipcode": "27344",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.143,
+        "T-Value": "(0.120)",
+        "Significance": "Not Significant",
+        "County": 37037,
+        "Zipcode": "27344",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": 0.032,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 37037,
+        "Zipcode": "27344",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.286,
+        "T-Value": "(0.119)",
+        "Significance": "**",
+        "County": 37037,
+        "Zipcode": "27344",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8211,
+        "arid": 7562007637,
+        "Coefficient": -0.049,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 37037,
+        "Zipcode": "27344",
+        "Bank_Name": "Corporate Investors Mortgage Group, INC."
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.186,
+        "T-Value": "(0.124)",
+        "Significance": "Not Significant",
+        "County": 37037,
+        "Zipcode": "27344",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": -0.111,
+        "T-Value": "(0.044)",
+        "Significance": "**",
+        "County": 37037,
+        "Zipcode": "27344",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

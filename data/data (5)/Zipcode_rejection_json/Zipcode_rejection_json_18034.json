@@ -1,0 +1,162 @@
+[
+    {
+        "arid_id": 1262,
+        "arid": 56885,
+        "Coefficient": -0.25,
+        "T-Value": "(0.108)",
+        "Significance": "**",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "People First"
+    },
+    {
+        "arid_id": 1416,
+        "arid": 59607,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Apci Federal Credit Union"
+    },
+    {
+        "arid_id": 6432,
+        "arid": 2140018,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Lafayette Ambassador Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.085,
+        "T-Value": "(0.032)",
+        "Significance": "**",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.159,
+        "T-Value": "(0.228)",
+        "Significance": "Not Significant",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.5,
+        "T-Value": "(0.207)",
+        "Significance": "**",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.286,
+        "T-Value": "(0.245)",
+        "Significance": "Not Significant",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": -0.5,
+        "T-Value": "(0.228)",
+        "Significance": "*",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": -0.5,
+        "T-Value": "(0.436)",
+        "Significance": "Not Significant",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7642,
+        "arid": 7200378305,
+        "Coefficient": 0.163,
+        "T-Value": "(0.109)",
+        "Significance": "Not Significant",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Trident Mortgage Company LP"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.333,
+        "T-Value": "(0.160)",
+        "Significance": "*",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7885,
+        "arid": 7272389039,
+        "Coefficient": -0.301,
+        "T-Value": "(0.185)",
+        "Significance": "Not Significant",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "American Neighborhood Mortgage Acceptance Company LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.4,
+        "T-Value": "(0.295)",
+        "Significance": "Not Significant",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.5,
+        "T-Value": "(0.449)",
+        "Significance": "Not Significant",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8914,
+        "arid": 77275700004,
+        "Coefficient": 0.364,
+        "T-Value": "(0.469)",
+        "Significance": "Not Significant",
+        "County": 42077,
+        "Zipcode": "18034",
+        "Bank_Name": "TBI Mortgage Company"
+    }
+]

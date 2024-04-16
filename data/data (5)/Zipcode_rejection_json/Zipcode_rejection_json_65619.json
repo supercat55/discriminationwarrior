@@ -1,0 +1,122 @@
+[
+    {
+        "arid_id": 3352,
+        "arid": 328670,
+        "Coefficient": 0.229,
+        "T-Value": "(0.153)",
+        "Significance": "Not Significant",
+        "County": 29077,
+        "Zipcode": "65619",
+        "Bank_Name": "Guaranty Bank"
+    },
+    {
+        "arid_id": 3395,
+        "arid": 329546,
+        "Coefficient": -0.001,
+        "T-Value": "(0.144)",
+        "Significance": "Not Significant",
+        "County": 29077,
+        "Zipcode": "65619",
+        "Bank_Name": "Great Southern Bank"
+    },
+    {
+        "arid_id": 5246,
+        "arid": 562897,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 29077,
+        "Zipcode": "65619",
+        "Bank_Name": "Assemblies of God Credit Union"
+    },
+    {
+        "arid_id": 6512,
+        "arid": 2290052,
+        "Coefficient": 0.076,
+        "T-Value": "(0.095)",
+        "Significance": "Not Significant",
+        "County": 29077,
+        "Zipcode": "65619",
+        "Bank_Name": "Central Bank of the Ozarks"
+    },
+    {
+        "arid_id": 6900,
+        "arid": 9311845,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 29077,
+        "Zipcode": "65619",
+        "Bank_Name": "Arvest Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.392,
+        "T-Value": "(0.137)",
+        "Significance": "**",
+        "County": 29077,
+        "Zipcode": "65619",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.38,
+        "T-Value": "(0.147)",
+        "Significance": "**",
+        "County": 29077,
+        "Zipcode": "65619",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": -0.708,
+        "T-Value": "(0.256)",
+        "Significance": "**",
+        "County": 29077,
+        "Zipcode": "65619",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 29077,
+        "Zipcode": "65619",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7133,
+        "arid": 23374412,
+        "Coefficient": 0.043,
+        "T-Value": "(0.036)",
+        "Significance": "Not Significant",
+        "County": 29077,
+        "Zipcode": "65619",
+        "Bank_Name": "Oakstar Bank"
+    },
+    {
+        "arid_id": 7681,
+        "arid": 7202746596,
+        "Coefficient": -0.014,
+        "T-Value": "(0.020)",
+        "Significance": "Not Significant",
+        "County": 29077,
+        "Zipcode": "65619",
+        "Bank_Name": "Flat Branch Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.153,
+        "T-Value": "(0.158)",
+        "Significance": "Not Significant",
+        "County": 29077,
+        "Zipcode": "65619",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

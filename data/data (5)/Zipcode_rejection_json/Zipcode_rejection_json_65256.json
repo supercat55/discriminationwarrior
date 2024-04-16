@@ -1,0 +1,112 @@
+[
+    {
+        "arid_id": 456,
+        "arid": 31467,
+        "Coefficient": 0.072,
+        "T-Value": "(0.068)",
+        "Significance": "Not Significant",
+        "County": 29019,
+        "Zipcode": "65256",
+        "Bank_Name": "Landmark Bank"
+    },
+    {
+        "arid_id": 468,
+        "arid": 31617,
+        "Coefficient": 2.0,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 29019,
+        "Zipcode": "65256",
+        "Bank_Name": "The Bank of Missouri"
+    },
+    {
+        "arid_id": 5403,
+        "arid": 565656,
+        "Coefficient": 0.0,
+        "T-Value": "(0.002)",
+        "Significance": "Not Significant",
+        "County": 29019,
+        "Zipcode": "65256",
+        "Bank_Name": "Missouri Credit Union"
+    },
+    {
+        "arid_id": 6514,
+        "arid": 2299046,
+        "Coefficient": 0.148,
+        "T-Value": "(0.077)",
+        "Significance": "*",
+        "County": 29019,
+        "Zipcode": "65256",
+        "Bank_Name": "Central Bank of Boone County"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.583,
+        "T-Value": "(0.145)",
+        "Significance": "***",
+        "County": 29019,
+        "Zipcode": "65256",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.492,
+        "T-Value": "(0.184)",
+        "Significance": "**",
+        "County": 29019,
+        "Zipcode": "65256",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.622,
+        "T-Value": "(0.186)",
+        "Significance": "**",
+        "County": 29019,
+        "Zipcode": "65256",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 6935,
+        "arid": 9601050,
+        "Coefficient": 0.184,
+        "T-Value": "(0.124)",
+        "Significance": "Not Significant",
+        "County": 29019,
+        "Zipcode": "65256",
+        "Bank_Name": "Commerce Bank"
+    },
+    {
+        "arid_id": 7681,
+        "arid": 7202746596,
+        "Coefficient": 0.007,
+        "T-Value": "(0.009)",
+        "Significance": "Not Significant",
+        "County": 29019,
+        "Zipcode": "65256",
+        "Bank_Name": "Flat Branch Mortgage, INC."
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.5,
+        "T-Value": "(0.323)",
+        "Significance": "Not Significant",
+        "County": 29019,
+        "Zipcode": "65256",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.4,
+        "T-Value": "(0.367)",
+        "Significance": "Not Significant",
+        "County": 29019,
+        "Zipcode": "65256",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.233,
+        "T-Value": "(0.066)",
+        "Significance": "***",
+        "County": 28033,
+        "Zipcode": "38672",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1669,
+        "arid": 9606046,
+        "Coefficient": 0.578,
+        "T-Value": "(0.262)",
+        "Significance": "*",
+        "County": 28033,
+        "Zipcode": "38672",
+        "Bank_Name": "Bancorpsouth Bank"
+    },
+    {
+        "arid_id": 1686,
+        "arid": 9808176,
+        "Coefficient": -0.774,
+        "T-Value": "(0.171)",
+        "Significance": "***",
+        "County": 28033,
+        "Zipcode": "38672",
+        "Bank_Name": "Iberiabank"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -0.157,
+        "T-Value": "(0.534)",
+        "Significance": "Not Significant",
+        "County": 28033,
+        "Zipcode": "38672",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1713,
+        "arid": 22888798,
+        "Coefficient": 2.824,
+        "T-Value": "(0.341)",
+        "Significance": "***",
+        "County": 28033,
+        "Zipcode": "38672",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 1897,
+        "arid": 7202928975,
+        "Coefficient": 0.016,
+        "T-Value": "(0.265)",
+        "Significance": "Not Significant",
+        "County": 28033,
+        "Zipcode": "38672",
+        "Bank_Name": "Castle & Cooke Mortgage, LLC"
+    }
+]

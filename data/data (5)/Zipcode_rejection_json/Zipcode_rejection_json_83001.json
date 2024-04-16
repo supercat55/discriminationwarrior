@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 6697,
+        "arid": 2659855,
+        "Coefficient": 0.032,
+        "T-Value": "(0.004)",
+        "Significance": "***",
+        "County": 56039,
+        "Zipcode": "83001",
+        "Bank_Name": "First Interstate Bank"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 56039,
+        "Zipcode": "83001",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.06,
+        "T-Value": "(0.010)",
+        "Significance": "***",
+        "County": 56039,
+        "Zipcode": "83001",
+        "Bank_Name": "Guaranteed Rate, INC."
+    }
+]

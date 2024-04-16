@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 1197,
+        "arid": 55797,
+        "Coefficient": 0.023,
+        "T-Value": "(0.127)",
+        "Significance": "Not Significant",
+        "County": 47105,
+        "Zipcode": "37846",
+        "Bank_Name": "Ornl Federal Credit Union"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": -0.127,
+        "T-Value": "(0.103)",
+        "Significance": "Not Significant",
+        "County": 47105,
+        "Zipcode": "37846",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47105,
+        "Zipcode": "37846",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

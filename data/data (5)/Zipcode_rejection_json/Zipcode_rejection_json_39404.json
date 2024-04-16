@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": -0.08,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 28035,
+        "Zipcode": "39404",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6902,
+        "arid": 9342634,
+        "Coefficient": 0.333,
+        "T-Value": "(0.206)",
+        "Significance": "Not Significant",
+        "County": 28035,
+        "Zipcode": "39404",
+        "Bank_Name": "Trustmark National Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.3,
+        "T-Value": "(0.235)",
+        "Significance": "Not Significant",
+        "County": 28035,
+        "Zipcode": "39404",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6936,
+        "arid": 9606046,
+        "Coefficient": 0.046,
+        "T-Value": "(0.126)",
+        "Significance": "Not Significant",
+        "County": 28035,
+        "Zipcode": "39404",
+        "Bank_Name": "Bancorpsouth Bank"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 144,
+        "arid": 35033,
+        "Coefficient": 0.256,
+        "T-Value": "(0.167)",
+        "Significance": "Not Significant",
+        "County": 26037,
+        "Zipcode": "48822",
+        "Bank_Name": "The Dart Bank"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -0.395,
+        "T-Value": "(0.014)",
+        "Significance": "***",
+        "County": 26037,
+        "Zipcode": "48822",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

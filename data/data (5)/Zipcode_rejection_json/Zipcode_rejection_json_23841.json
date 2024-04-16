@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 5504,
+        "arid": 566836,
+        "Coefficient": -0.75,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51053,
+        "Zipcode": "23841",
+        "Bank_Name": "Virginia Credit Union, INC."
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.4,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51053,
+        "Zipcode": "23841",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.438,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51053,
+        "Zipcode": "23841",
+        "Bank_Name": "Truist Bank"
+    }
+]

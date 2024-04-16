@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 6245,
+        "arid": 1707056,
+        "Coefficient": 0.495,
+        "T-Value": "(0.042)",
+        "Significance": "***",
+        "County": 31079,
+        "Zipcode": "68801",
+        "Bank_Name": "Equitable Bank"
+    },
+    {
+        "arid_id": 6643,
+        "arid": 2554857,
+        "Coefficient": 0.13,
+        "T-Value": "(0.114)",
+        "Significance": "Not Significant",
+        "County": 31079,
+        "Zipcode": "68801",
+        "Bank_Name": "Five Points Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.222,
+        "T-Value": "(0.087)",
+        "Significance": "**",
+        "County": 31079,
+        "Zipcode": "68801",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6921,
+        "arid": 9504713,
+        "Coefficient": 0.435,
+        "T-Value": "(0.112)",
+        "Significance": "***",
+        "County": 31079,
+        "Zipcode": "68801",
+        "Bank_Name": "U.S. Bank National Association"
+    }
+]

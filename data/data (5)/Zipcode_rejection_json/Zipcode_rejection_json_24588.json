@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.091,
+        "T-Value": "(0.053)",
+        "Significance": "Not Significant",
+        "County": 51031,
+        "Zipcode": "24588",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.333,
+        "T-Value": "(0.091)",
+        "Significance": "***",
+        "County": 51031,
+        "Zipcode": "24588",
+        "Bank_Name": "Truist Bank"
+    }
+]

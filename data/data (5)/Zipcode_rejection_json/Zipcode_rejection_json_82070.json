@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 6238,
+        "arid": 1706809,
+        "Coefficient": 0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 56001,
+        "Zipcode": "82070",
+        "Bank_Name": "Colonial Savings, F.a."
+    },
+    {
+        "arid_id": 6697,
+        "arid": 2659855,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 56001,
+        "Zipcode": "82070",
+        "Bank_Name": "First Interstate Bank"
+    }
+]

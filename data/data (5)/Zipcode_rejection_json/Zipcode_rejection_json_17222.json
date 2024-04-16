@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 753,
+        "arid": 38405,
+        "Coefficient": 0.382,
+        "T-Value": "(0.093)",
+        "Significance": "***",
+        "County": 42055,
+        "Zipcode": "17222",
+        "Bank_Name": "Farmers And Merchants Trust Company of Chambersburg"
+    },
+    {
+        "arid_id": 6535,
+        "arid": 2342410,
+        "Coefficient": -0.324,
+        "T-Value": "(0.091)",
+        "Significance": "***",
+        "County": 42055,
+        "Zipcode": "17222",
+        "Bank_Name": "Orrstown Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.053,
+        "T-Value": "(0.022)",
+        "Significance": "**",
+        "County": 42055,
+        "Zipcode": "17222",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.128,
+        "T-Value": "(0.069)",
+        "Significance": "*",
+        "County": 6009,
+        "Zipcode": "95222",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.5,
+        "T-Value": "(0.149)",
+        "Significance": "**",
+        "County": 6009,
+        "Zipcode": "95222",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6009,
+        "Zipcode": "95222",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 6009,
+        "Zipcode": "95222",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

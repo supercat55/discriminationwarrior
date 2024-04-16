@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 1592,
+        "arid": 114488,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 55063,
+        "Zipcode": "54603",
+        "Bank_Name": "Merchants Bank, National Association"
+    },
+    {
+        "arid_id": 4801,
+        "arid": 524077,
+        "Coefficient": 0.046,
+        "T-Value": "(0.027)",
+        "Significance": "Not Significant",
+        "County": 55063,
+        "Zipcode": "54603",
+        "Bank_Name": "Altra"
+    },
+    {
+        "arid_id": 5491,
+        "arid": 566752,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 55063,
+        "Zipcode": "54603",
+        "Bank_Name": "Marine"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.366,
+        "T-Value": "(0.051)",
+        "Significance": "***",
+        "County": 55063,
+        "Zipcode": "54603",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6967,
+        "arid": 9917742,
+        "Coefficient": -0.017,
+        "T-Value": "(0.018)",
+        "Significance": "Not Significant",
+        "County": 55063,
+        "Zipcode": "54603",
+        "Bank_Name": "Associated Bank, National Association"
+    }
+]

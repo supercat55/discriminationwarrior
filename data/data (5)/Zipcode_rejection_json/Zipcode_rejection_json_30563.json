@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 2359,
+        "arid": 313425,
+        "Coefficient": -0.308,
+        "T-Value": "(0.157)",
+        "Significance": "*",
+        "County": 13137,
+        "Zipcode": "30563",
+        "Bank_Name": "South State Bank"
+    },
+    {
+        "arid_id": 2669,
+        "arid": 316889,
+        "Coefficient": -0.15,
+        "T-Value": "(0.089)",
+        "Significance": "Not Significant",
+        "County": 13137,
+        "Zipcode": "30563",
+        "Bank_Name": "United Community Bank"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.727,
+        "T-Value": "(0.096)",
+        "Significance": "***",
+        "County": 13137,
+        "Zipcode": "30563",
+        "Bank_Name": "Regions Bank"
+    }
+]

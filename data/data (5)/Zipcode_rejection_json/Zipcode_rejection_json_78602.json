@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 259,
+        "arid": 14093,
+        "Coefficient": -0.091,
+        "T-Value": "(0.039)",
+        "Significance": "**",
+        "County": 48021,
+        "Zipcode": "78602",
+        "Bank_Name": "The First National Bank of Bastrop"
+    },
+    {
+        "arid_id": 1327,
+        "arid": 58111,
+        "Coefficient": 0.3,
+        "T-Value": "(0.050)",
+        "Significance": "***",
+        "County": 48021,
+        "Zipcode": "78602",
+        "Bank_Name": "Randolph-brooks"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.027,
+        "T-Value": "(0.048)",
+        "Significance": "Not Significant",
+        "County": 48021,
+        "Zipcode": "78602",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.333,
+        "T-Value": "(0.092)",
+        "Significance": "***",
+        "County": 48021,
+        "Zipcode": "78602",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 48021,
+        "Zipcode": "78602",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    }
+]

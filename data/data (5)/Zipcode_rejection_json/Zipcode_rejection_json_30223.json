@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 53,
+        "arid": 3172,
+        "Coefficient": 0.762,
+        "T-Value": "(0.250)",
+        "Significance": "**",
+        "County": 13255,
+        "Zipcode": "30223",
+        "Bank_Name": "United Bank"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.5,
+        "T-Value": "(0.204)",
+        "Significance": "**",
+        "County": 13255,
+        "Zipcode": "30223",
+        "Bank_Name": "Loandepot.com, LLC"
+    }
+]

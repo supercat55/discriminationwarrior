@@ -1,0 +1,192 @@
+[
+    {
+        "arid_id": 1129,
+        "arid": 562745,
+        "Coefficient": 0.032,
+        "T-Value": "(0.091)",
+        "Significance": "Not Significant",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Onpoint Community Credit Union"
+    },
+    {
+        "arid_id": 1635,
+        "arid": 9143662,
+        "Coefficient": 0.051,
+        "T-Value": "(0.040)",
+        "Significance": "Not Significant",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Umpqua Bank"
+    },
+    {
+        "arid_id": 1636,
+        "arid": 9146672,
+        "Coefficient": -0.049,
+        "T-Value": "(0.142)",
+        "Significance": "Not Significant",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Flagstar Bank, FSB"
+    },
+    {
+        "arid_id": 1645,
+        "arid": 9280110,
+        "Coefficient": -0.037,
+        "T-Value": "(0.128)",
+        "Significance": "Not Significant",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Keybank National Association"
+    },
+    {
+        "arid_id": 1652,
+        "arid": 9451965,
+        "Coefficient": 0.006,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 1661,
+        "arid": 9504713,
+        "Coefficient": -0.031,
+        "T-Value": "(0.047)",
+        "Significance": "Not Significant",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "U.S. Bank National Association"
+    },
+    {
+        "arid_id": 1672,
+        "arid": 9619877,
+        "Coefficient": 0.099,
+        "T-Value": "(0.123)",
+        "Significance": "Not Significant",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 1689,
+        "arid": 9852218,
+        "Coefficient": -0.263,
+        "T-Value": "(0.087)",
+        "Significance": "**",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 1875,
+        "arid": 7136131491,
+        "Coefficient": -0.075,
+        "T-Value": "(0.068)",
+        "Significance": "Not Significant",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 1980,
+        "arid": 7264599244,
+        "Coefficient": -1.177,
+        "T-Value": "(0.112)",
+        "Significance": "***",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 2052,
+        "arid": 7382750395,
+        "Coefficient": -0.013,
+        "T-Value": "(0.032)",
+        "Significance": "Not Significant",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "United Wholesale Mortgage, LLC"
+    },
+    {
+        "arid_id": 2096,
+        "arid": 7471809999,
+        "Coefficient": -0.048,
+        "T-Value": "(0.099)",
+        "Significance": "Not Significant",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Guild Mortgage Company"
+    },
+    {
+        "arid_id": 2160,
+        "arid": 7680309242,
+        "Coefficient": -0.495,
+        "T-Value": "(0.059)",
+        "Significance": "***",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Cmg Mortgage, INC."
+    },
+    {
+        "arid_id": 2192,
+        "arid": 7760503625,
+        "Coefficient": -0.075,
+        "T-Value": "(0.040)",
+        "Significance": "*",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 2239,
+        "arid": 7911374387,
+        "Coefficient": 0.278,
+        "T-Value": "(0.116)",
+        "Significance": "**",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Evergreen Moneysource Mortgage Company"
+    },
+    {
+        "arid_id": 2348,
+        "arid": 77056000000,
+        "Coefficient": 0.845,
+        "T-Value": "(0.182)",
+        "Significance": "***",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Sierra Pacific Mortgage Company, INC."
+    },
+    {
+        "arid_id": 2356,
+        "arid": 77197000003,
+        "Coefficient": 0.119,
+        "T-Value": "(0.043)",
+        "Significance": "**",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 2359,
+        "arid": 77257500009,
+        "Coefficient": -0.036,
+        "T-Value": "(0.036)",
+        "Significance": "Not Significant",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Academy Mortgage Corporation"
+    },
+    {
+        "arid_id": 2388,
+        "arid": 77810600004,
+        "Coefficient": -0.372,
+        "T-Value": "(0.140)",
+        "Significance": "**",
+        "County": 41047,
+        "Zipcode": "97383",
+        "Bank_Name": "Provident Funding Associates, L.P."
+    }
+]

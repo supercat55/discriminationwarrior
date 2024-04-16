@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.333,
+        "T-Value": "(0.084)",
+        "Significance": "***",
+        "County": 22063,
+        "Zipcode": "70754",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.0,
+        "T-Value": "(0.024)",
+        "Significance": "Not Significant",
+        "County": 22063,
+        "Zipcode": "70754",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.333,
+        "T-Value": "(0.168)",
+        "Significance": "*",
+        "County": 22063,
+        "Zipcode": "70754",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.308,
+        "T-Value": "(0.039)",
+        "Significance": "***",
+        "County": 22063,
+        "Zipcode": "70754",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8365,
+        "arid": 7721441479,
+        "Coefficient": 0.105,
+        "T-Value": "(0.030)",
+        "Significance": "***",
+        "County": 22063,
+        "Zipcode": "70754",
+        "Bank_Name": "Gmfs LLC"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.333,
+        "T-Value": "(0.096)",
+        "Significance": "***",
+        "County": 51085,
+        "Zipcode": "23116",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": -0.25,
+        "T-Value": "(0.192)",
+        "Significance": "Not Significant",
+        "County": 51085,
+        "Zipcode": "23116",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.571,
+        "T-Value": "(0.159)",
+        "Significance": "***",
+        "County": 51085,
+        "Zipcode": "23116",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7800,
+        "arid": 7260595342,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 51085,
+        "Zipcode": "23116",
+        "Bank_Name": "Movement Mortgage, LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 51085,
+        "Zipcode": "23116",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8193,
+        "arid": 7541862878,
+        "Coefficient": -0.262,
+        "T-Value": "(0.048)",
+        "Significance": "***",
+        "County": 51085,
+        "Zipcode": "23116",
+        "Bank_Name": "Capital Center, L.L.C."
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": -0.154,
+        "T-Value": "(0.191)",
+        "Significance": "Not Significant",
+        "County": 51085,
+        "Zipcode": "23116",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.026,
+        "T-Value": "(0.031)",
+        "Significance": "Not Significant",
+        "County": 51085,
+        "Zipcode": "23116",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

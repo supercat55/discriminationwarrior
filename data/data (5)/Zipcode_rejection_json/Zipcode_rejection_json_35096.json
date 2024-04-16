@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1253,
+        "arid": 56774,
+        "Coefficient": -0.182,
+        "T-Value": "(0.088)",
+        "Significance": "*",
+        "County": 1121,
+        "Zipcode": "35096",
+        "Bank_Name": "Coosa Pines"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.304,
+        "T-Value": "(0.057)",
+        "Significance": "***",
+        "County": 1121,
+        "Zipcode": "35096",
+        "Bank_Name": "Regions Bank"
+    }
+]

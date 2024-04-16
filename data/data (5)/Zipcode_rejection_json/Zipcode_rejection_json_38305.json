@@ -1,0 +1,52 @@
+[
+    {
+        "arid_id": 5086,
+        "arid": 561185,
+        "Coefficient": 0.099,
+        "T-Value": "(0.107)",
+        "Significance": "Not Significant",
+        "County": 47113,
+        "Zipcode": "38305",
+        "Bank_Name": "Leaders Credit Union"
+    },
+    {
+        "arid_id": 6700,
+        "arid": 2663245,
+        "Coefficient": 0.5,
+        "T-Value": "(0.054)",
+        "Significance": "***",
+        "County": 47113,
+        "Zipcode": "38305",
+        "Bank_Name": "Simmons Bank"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": 0.306,
+        "T-Value": "(0.072)",
+        "Significance": "***",
+        "County": 47113,
+        "Zipcode": "38305",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6936,
+        "arid": 9606046,
+        "Coefficient": 0.063,
+        "T-Value": "(0.052)",
+        "Significance": "Not Significant",
+        "County": 47113,
+        "Zipcode": "38305",
+        "Bank_Name": "Bancorpsouth Bank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 47113,
+        "Zipcode": "38305",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    }
+]

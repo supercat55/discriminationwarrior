@@ -1,0 +1,212 @@
+[
+    {
+        "arid_id": 3756,
+        "arid": 335095,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Towne Bank"
+    },
+    {
+        "arid_id": 5428,
+        "arid": 566330,
+        "Coefficient": 0.56,
+        "T-Value": "(0.233)",
+        "Significance": "**",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "State Employees Credit Union of Maryland, Incorporated"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.034,
+        "T-Value": "(0.028)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.333,
+        "T-Value": "(0.091)",
+        "Significance": "***",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.156,
+        "T-Value": "(0.028)",
+        "Significance": "***",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6920,
+        "arid": 9501105,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Manufacturers And Traders Trust Company"
+    },
+    {
+        "arid_id": 6944,
+        "arid": 9675332,
+        "Coefficient": 0.286,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Suntrust Banks, INC."
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.152,
+        "T-Value": "(0.110)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.085,
+        "T-Value": "(0.133)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7081,
+        "arid": 22888798,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Primelending, A Plainscapital Company"
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.05,
+        "T-Value": "(0.046)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.333,
+        "T-Value": "(0.080)",
+        "Significance": "***",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8493,
+        "arid": 7860860478,
+        "Coefficient": -0.349,
+        "T-Value": "(0.180)",
+        "Significance": "*",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Primary Residential Mortgage, INC."
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.067,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8834,
+        "arid": 72149009991,
+        "Coefficient": 0.188,
+        "T-Value": "(0.136)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Eagle Home Mortgage, LLC"
+    },
+    {
+        "arid_id": 8845,
+        "arid": 73000809992,
+        "Coefficient": -0.227,
+        "T-Value": "(0.174)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "K. Hovnanian American Mortgage, L.L.C."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.055,
+        "T-Value": "(0.058)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8910,
+        "arid": 77257500009,
+        "Coefficient": -0.089,
+        "T-Value": "(0.142)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Academy Mortgage Corporation"
+    },
+    {
+        "arid_id": 8929,
+        "arid": 77442300004,
+        "Coefficient": -0.066,
+        "T-Value": "(0.058)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "First Home Mortgage Corporation"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.008,
+        "T-Value": "(0.042)",
+        "Significance": "Not Significant",
+        "County": 24005,
+        "Zipcode": "21131",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]

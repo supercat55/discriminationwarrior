@@ -1,0 +1,22 @@
+[
+    {
+        "arid_id": 1630,
+        "arid": 115108,
+        "Coefficient": 0.013,
+        "T-Value": "(0.007)",
+        "Significance": "Not Significant",
+        "County": 35028,
+        "Zipcode": "87544",
+        "Bank_Name": "Los Alamos National Bank"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": 0.5,
+        "T-Value": "(0.029)",
+        "Significance": "***",
+        "County": 35028,
+        "Zipcode": "87544",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

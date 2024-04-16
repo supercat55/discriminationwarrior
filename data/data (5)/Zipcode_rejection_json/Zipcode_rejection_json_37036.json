@@ -1,0 +1,32 @@
+[
+    {
+        "arid_id": 2715,
+        "arid": 317327,
+        "Coefficient": 0.25,
+        "T-Value": "(0.108)",
+        "Significance": "**",
+        "County": 47043,
+        "Zipcode": "37036",
+        "Bank_Name": "Bank of Dickson"
+    },
+    {
+        "arid_id": 3817,
+        "arid": 335417,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 47043,
+        "Zipcode": "37036",
+        "Bank_Name": "Tristar Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.3,
+        "T-Value": "(0.196)",
+        "Significance": "Not Significant",
+        "County": 47043,
+        "Zipcode": "37036",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    }
+]

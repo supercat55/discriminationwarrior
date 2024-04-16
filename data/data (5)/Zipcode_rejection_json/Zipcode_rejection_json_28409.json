@@ -1,0 +1,142 @@
+[
+    {
+        "arid_id": 3756,
+        "arid": 335095,
+        "Coefficient": 0.051,
+        "T-Value": "(0.059)",
+        "Significance": "Not Significant",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "Towne Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.019,
+        "T-Value": "(0.053)",
+        "Significance": "Not Significant",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.224,
+        "T-Value": "(0.140)",
+        "Significance": "Not Significant",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6918,
+        "arid": 9491224,
+        "Coefficient": -0.756,
+        "T-Value": "(0.211)",
+        "Significance": "***",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "First-citizens Bank & Trust Company"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.667,
+        "T-Value": "(0.340)",
+        "Significance": "*",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.002,
+        "T-Value": "(0.235)",
+        "Significance": "Not Significant",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 6963,
+        "arid": 9852320,
+        "Coefficient": 0.223,
+        "T-Value": "(0.152)",
+        "Significance": "Not Significant",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "Truist Bank"
+    },
+    {
+        "arid_id": 7196,
+        "arid": 91189117,
+        "Coefficient": -0.001,
+        "T-Value": "(0.034)",
+        "Significance": "Not Significant",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "State Employees'"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.296,
+        "T-Value": "(0.058)",
+        "Significance": "***",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": -0.01,
+        "T-Value": "(0.013)",
+        "Significance": "Not Significant",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8165,
+        "arid": 7510517525,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "On Q Financial, INC."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": 0.5,
+        "T-Value": "(0.259)",
+        "Significance": "*",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8692,
+        "arid": 9540259290,
+        "Coefficient": 0.5,
+        "T-Value": "(0.241)",
+        "Significance": "*",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "Suntrust Mortgage, INC."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.394,
+        "T-Value": "(0.248)",
+        "Significance": "Not Significant",
+        "County": 37129,
+        "Zipcode": "28409",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

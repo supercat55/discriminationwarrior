@@ -1,0 +1,82 @@
+[
+    {
+        "arid_id": 567,
+        "arid": 33657,
+        "Coefficient": 0.5,
+        "T-Value": "(0.070)",
+        "Significance": "***",
+        "County": 17091,
+        "Zipcode": "60954",
+        "Bank_Name": "First American Bank"
+    },
+    {
+        "arid_id": 2119,
+        "arid": 310802,
+        "Coefficient": 0.736,
+        "T-Value": "(0.077)",
+        "Significance": "***",
+        "County": 17091,
+        "Zipcode": "60954",
+        "Bank_Name": "Farmers State Bank of Danforth"
+    },
+    {
+        "arid_id": 2613,
+        "arid": 316375,
+        "Coefficient": 0.107,
+        "T-Value": "(0.025)",
+        "Significance": "***",
+        "County": 17091,
+        "Zipcode": "60954",
+        "Bank_Name": "Homestar Bank And Financial Services"
+    },
+    {
+        "arid_id": 2846,
+        "arid": 318566,
+        "Coefficient": 0.204,
+        "T-Value": "(0.114)",
+        "Significance": "Not Significant",
+        "County": 17091,
+        "Zipcode": "60954",
+        "Bank_Name": "Peoples Bank of Kankakee County"
+    },
+    {
+        "arid_id": 3114,
+        "arid": 323546,
+        "Coefficient": 0.228,
+        "T-Value": "(0.055)",
+        "Significance": "***",
+        "County": 17091,
+        "Zipcode": "60954",
+        "Bank_Name": "Municipal Trust And Savings Bank"
+    },
+    {
+        "arid_id": 6769,
+        "arid": 2773247,
+        "Coefficient": -0.185,
+        "T-Value": "(0.062)",
+        "Significance": "**",
+        "County": 17091,
+        "Zipcode": "60954",
+        "Bank_Name": "Midland States Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.167,
+        "T-Value": "(0.071)",
+        "Significance": "**",
+        "County": 17091,
+        "Zipcode": "60954",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": -0.333,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 17091,
+        "Zipcode": "60954",
+        "Bank_Name": "Pnc Bank, National Association"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "arid_id": 1966,
+        "arid": 124891,
+        "Coefficient": 0.018,
+        "T-Value": "(0.034)",
+        "Significance": "Not Significant",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Fulton Bank, National Association"
+    },
+    {
+        "arid_id": 3783,
+        "arid": 335257,
+        "Coefficient": -0.171,
+        "T-Value": "(0.180)",
+        "Significance": "Not Significant",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Union Community Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.026,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": 0.2,
+        "T-Value": "(0.202)",
+        "Significance": "Not Significant",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6951,
+        "arid": 9722777,
+        "Coefficient": -0.052,
+        "T-Value": "(0.058)",
+        "Significance": "Not Significant",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Santander Bank, N.A."
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.004,
+        "T-Value": "(0.032)",
+        "Significance": "Not Significant",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.5,
+        "T-Value": "(0.315)",
+        "Significance": "Not Significant",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7239,
+        "arid": 710464609,
+        "Coefficient": -0.016,
+        "T-Value": "(0.041)",
+        "Significance": "Not Significant",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Residential Mortgage Services, INC."
+    },
+    {
+        "arid_id": 7260,
+        "arid": 742992161,
+        "Coefficient": 0.121,
+        "T-Value": "(0.107)",
+        "Significance": "Not Significant",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Mortgage Network, INC."
+    },
+    {
+        "arid_id": 7619,
+        "arid": 7136131491,
+        "Coefficient": -0.94,
+        "T-Value": "(0.086)",
+        "Significance": "***",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Caliber Home Loans, INC."
+    },
+    {
+        "arid_id": 7828,
+        "arid": 7262261031,
+        "Coefficient": -0.5,
+        "T-Value": "(0.496)",
+        "Significance": "Not Significant",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Reliance First Capital, LLC"
+    },
+    {
+        "arid_id": 7843,
+        "arid": 7263295749,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Gmh Mortgage Services LLC"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.022,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.437,
+        "T-Value": "(0.219)",
+        "Significance": "*",
+        "County": 42071,
+        "Zipcode": "17509",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

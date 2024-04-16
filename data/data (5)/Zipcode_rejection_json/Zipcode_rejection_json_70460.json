@@ -1,0 +1,192 @@
+[
+    {
+        "arid_id": 3326,
+        "arid": 328316,
+        "Coefficient": 0.067,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Fidelity Bank"
+    },
+    {
+        "arid_id": 3532,
+        "arid": 332974,
+        "Coefficient": 0.41,
+        "T-Value": "(0.183)",
+        "Significance": "*",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Gulf Coast Bank And Trust Company"
+    },
+    {
+        "arid_id": 6108,
+        "arid": 1703691,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Heritage Bank of St Tammany"
+    },
+    {
+        "arid_id": 6882,
+        "arid": 9112837,
+        "Coefficient": -0.122,
+        "T-Value": "(0.087)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Capital One, National Association"
+    },
+    {
+        "arid_id": 6894,
+        "arid": 9233031,
+        "Coefficient": -0.299,
+        "T-Value": "(0.178)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Regions Bank"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": -0.057,
+        "T-Value": "(0.063)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6913,
+        "arid": 9463735,
+        "Coefficient": 0.048,
+        "T-Value": "(0.122)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Hancock Whitney Bank"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.308,
+        "T-Value": "(0.310)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6939,
+        "arid": 9619877,
+        "Coefficient": 0.5,
+        "T-Value": "(0.386)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "USAA Federal Savings Bank"
+    },
+    {
+        "arid_id": 6958,
+        "arid": 9808176,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Iberiabank"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.041,
+        "T-Value": "(0.065)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7753,
+        "arid": 7223039688,
+        "Coefficient": -0.333,
+        "T-Value": "(0.238)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Freedom Mortgage Corporation"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": -0.063,
+        "T-Value": "(0.069)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": -0.031,
+        "T-Value": "(0.086)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8263,
+        "arid": 7621532940,
+        "Coefficient": -0.227,
+        "T-Value": "(0.172)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Franklin American Mortgage CO."
+    },
+    {
+        "arid_id": 8361,
+        "arid": 7720593959,
+        "Coefficient": 0.161,
+        "T-Value": "(0.077)",
+        "Significance": "*",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Standard Mortgage Corporation"
+    },
+    {
+        "arid_id": 8365,
+        "arid": 7721441479,
+        "Coefficient": 0.015,
+        "T-Value": "(0.014)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Gmfs LLC"
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.005,
+        "T-Value": "(0.236)",
+        "Significance": "Not Significant",
+        "County": 22103,
+        "Zipcode": "70460",
+        "Bank_Name": "Quicken Loans, LLC"
+    }
+]

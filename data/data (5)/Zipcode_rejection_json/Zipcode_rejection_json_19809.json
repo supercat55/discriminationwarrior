@@ -1,0 +1,242 @@
+[
+    {
+        "arid_id": 3988,
+        "arid": 357777,
+        "Coefficient": -0.118,
+        "T-Value": "(0.077)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Meridian Bank Corporation"
+    },
+    {
+        "arid_id": 6260,
+        "arid": 1707938,
+        "Coefficient": 0.045,
+        "T-Value": "(0.074)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Wilmington Savings Fund Society, FSB"
+    },
+    {
+        "arid_id": 6911,
+        "arid": 9451965,
+        "Coefficient": 0.074,
+        "T-Value": "(0.018)",
+        "Significance": "***",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Wells Fargo Bank, National Association"
+    },
+    {
+        "arid_id": 6914,
+        "arid": 9476810,
+        "Coefficient": -0.204,
+        "T-Value": "(0.225)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Citibank, National Association"
+    },
+    {
+        "arid_id": 6915,
+        "arid": 9480228,
+        "Coefficient": 0.013,
+        "T-Value": "(0.033)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Bank of America, National Association"
+    },
+    {
+        "arid_id": 6960,
+        "arid": 9817824,
+        "Coefficient": 0.667,
+        "T-Value": "(0.233)",
+        "Significance": "**",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Pnc Bank, National Association"
+    },
+    {
+        "arid_id": 6962,
+        "arid": 9852218,
+        "Coefficient": 0.141,
+        "T-Value": "(0.043)",
+        "Significance": "**",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Jpmorgan Chase Bank, National Association"
+    },
+    {
+        "arid_id": 7221,
+        "arid": 93303298,
+        "Coefficient": 0.325,
+        "T-Value": "(0.265)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Citizens Bank, National Association"
+    },
+    {
+        "arid_id": 7239,
+        "arid": 710464609,
+        "Coefficient": 0.258,
+        "T-Value": "(0.213)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Residential Mortgage Services, INC."
+    },
+    {
+        "arid_id": 7260,
+        "arid": 742992161,
+        "Coefficient": -0.286,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Mortgage Network, INC."
+    },
+    {
+        "arid_id": 7623,
+        "arid": 7141841762,
+        "Coefficient": -0.5,
+        "T-Value": "(0.000)",
+        "Significance": "***",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Arc Home LLC"
+    },
+    {
+        "arid_id": 7642,
+        "arid": 7200378305,
+        "Coefficient": 0.038,
+        "T-Value": "(0.067)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Trident Mortgage Company LP"
+    },
+    {
+        "arid_id": 7771,
+        "arid": 7232470039,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Cardinal Financial Company, Limited Partnership"
+    },
+    {
+        "arid_id": 7859,
+        "arid": 7264599244,
+        "Coefficient": 0.066,
+        "T-Value": "(0.070)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Loandepot.com, LLC"
+    },
+    {
+        "arid_id": 7991,
+        "arid": 7364327855,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Guaranteed Rate, INC."
+    },
+    {
+        "arid_id": 8002,
+        "arid": 7371542226,
+        "Coefficient": -0.209,
+        "T-Value": "(0.144)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Newrez LLC"
+    },
+    {
+        "arid_id": 8043,
+        "arid": 7411795868,
+        "Coefficient": 0.154,
+        "T-Value": "(0.125)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Ditech Financial LLC"
+    },
+    {
+        "arid_id": 8163,
+        "arid": 7510370645,
+        "Coefficient": -0.014,
+        "T-Value": "(0.044)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Pike Creek Mortgage Services, INC."
+    },
+    {
+        "arid_id": 8201,
+        "arid": 7542409990,
+        "Coefficient": -0.385,
+        "T-Value": "(0.210)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Dhi Mortgage Company, LTD."
+    },
+    {
+        "arid_id": 8402,
+        "arid": 7752921540,
+        "Coefficient": -0.526,
+        "T-Value": "(0.109)",
+        "Significance": "***",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Nationstar Mortgage LLC"
+    },
+    {
+        "arid_id": 8413,
+        "arid": 7760503625,
+        "Coefficient": -0.044,
+        "T-Value": "(0.020)",
+        "Significance": "*",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Fairway Independent Mortgage Corporation"
+    },
+    {
+        "arid_id": 8845,
+        "arid": 73000809992,
+        "Coefficient": 0.0,
+        "T-Value": "(0.000)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "K. Hovnanian American Mortgage, L.L.C."
+    },
+    {
+        "arid_id": 8903,
+        "arid": 77197000003,
+        "Coefficient": -0.067,
+        "T-Value": "(0.053)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Quicken Loans, LLC"
+    },
+    {
+        "arid_id": 8936,
+        "arid": 77527300003,
+        "Coefficient": 0.092,
+        "T-Value": "(0.051)",
+        "Significance": "Not Significant",
+        "County": 10003,
+        "Zipcode": "19809",
+        "Bank_Name": "Nvr Mortgage Finance, INC."
+    }
+]
