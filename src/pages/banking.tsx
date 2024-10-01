@@ -233,10 +233,10 @@ const BankingPage = () => {
                     <div className={cls.label}>Coefficient</div>
                     <div className={cls.value}>{item.Coefficient}</div>
                   </div>
-                  <div className={cls.col}>
+                  {/* <div className={cls.col}>
                     <div className={cls.label}>Standard error</div>
                     <div className={cls.value}>{item["T-Value"]}</div>
-                  </div>
+                  </div> */}
                   <div className={cls.col2}>
                     <div className={cls.label}>
                       <Space>
@@ -255,7 +255,7 @@ const BankingPage = () => {
                     </div>
                     <div className={cls.value}>{item.Significance}</div>
                   </div>
-                  <div className={cls.col}>
+                  <div className={cls.col3}>
                     <div className={cls.label}>
                       {item.Zipcode ? "Zip-Code" : "State"}
                     </div>
