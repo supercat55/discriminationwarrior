@@ -19,20 +19,20 @@ enum Sort {
 
 const map: any = {
   [Type.AutoLoanRates]: {
-    title: "Auto loan rates",
-    fileType: "json_Web_InstitutionRank_SavingsFee_Full",
+    title: "Auto loan",
+    fileType: "json_Web_InstitutionRank_LendingAuto_Full",
     triggerText:
       "The numerical value of the coefficient indicates how much extra interest rate minority borrowers need to pay compared with white borrowers for auto loans at this bank.",
   },
   [Type.CreditCardLoanRates]: {
-    title: "Credit card loan rates",
-    fileType: "json_Web_InstitutionRank_SavingsFee_Full",
+    title: "Credit card loan",
+    fileType: "json_Web_InstitutionRank_LendingCredit_Full",
     triggerText:
       "The numerical value of the coefficient indicates how much extra interest minority credit cardholders need to pay compared with white credit cardholders at this bank.",
   },
   [Type.DepositRates]: {
-    title: "Deposit rates",
-    fileType: "json_Web_InstitutionRank_SavingsFee_Full",
+    title: "Deposit",
+    fileType: "json_Web_InstitutionRank_SavingsRate_Full",
     triggerText:
       "The numerical value of the coefficient indicates how much less interest minority depositors receive compared with white depositors at this bank. ",
   },
@@ -89,7 +89,7 @@ const ComparePage = () => {
           <h1>
             in
             <div className={cls.condition2}>{current?.title}</div>
-            in (Country-Wide)
+            rates in (Country-Wide)
           </h1>
         </div>
       </div>
