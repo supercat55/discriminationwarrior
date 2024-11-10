@@ -34,3 +34,11 @@ export const queryRejectionCountryByZipCode = async(zipCode: string): Promise<Op
 export const queryInterestStateByState = async(state: string): Promise<Option[]> => {
   return request(`/data/state_id_json/State_interest_json_${state}.json`);
 }
+
+/**
+ * 获取其他4个对比数据
+ * @returns 
+ */
+export const queryCompareData = async(type: string): Promise<Option[]> => {
+  return request(`/data/compare/${type}.json`);
+}

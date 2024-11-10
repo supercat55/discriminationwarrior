@@ -6,7 +6,8 @@ interface Option {
   Zipcode?: string;
   State?: string;
   Bank_Name: string;
-  County?: string
+  County?: string;
+  Institution_Name?: string;
 }
 
 interface Rule {

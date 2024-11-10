@@ -1,5 +1,4 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
-import { history } from "@umijs/max";
 import { Input, BackTop, List, Card, Select, Spin, Popover, Space } from "antd";
 import { QuestionCircleOutlined } from "@ant-design/icons";
 import {
@@ -11,6 +10,7 @@ import {
 import useLocalStorage from "./useLocal";
 import useQuery from "./useQuery";
 import cls from "@/pages/banking.less";
+import { GetHistoryQuery } from "@/utils";
 
 enum Type {
   Interest,
@@ -21,16 +21,6 @@ enum Sort {
   Descending,
   Ascending,
 }
-
-export const GetHistoryQuery = () => {
-  const query = {} as Record<string, string | undefined>;
-  const search = new URLSearchParams(history.location.search);
-
-  for (const [key, value] of search) {
-    query[key] = value;
-  }
-  return query;
-};
 
 const BankingPage = () => {
   const { type: locationQueryType = "interest" } = GetHistoryQuery();

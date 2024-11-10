@@ -8,6 +8,7 @@ export default defineConfig({
   routes: [
     { path: "/", component: "home" },
     { path: "/banking", component: "banking" },
+    { path: "/compare", component: "compare" },
   ],
   npmClient: 'pnpm',
   proxy: {
