@@ -19,25 +19,25 @@ enum Sort {
 
 const map: any = {
   [Type.AutoLoanRates]: {
-    title: "Auto loan",
+    title: "auto loan rates",
     fileType: "json_Web_InstitutionRank_LendingAuto_Full",
     triggerText:
       "The numerical value of the coefficient indicates how much extra interest rate minority borrowers need to pay compared with white borrowers for auto loans at this bank.",
   },
   [Type.CreditCardLoanRates]: {
-    title: "Credit card loan",
+    title: "credit card loan rates",
     fileType: "json_Web_InstitutionRank_LendingCredit_Full",
     triggerText:
       "The numerical value of the coefficient indicates how much extra interest minority credit cardholders need to pay compared with white credit cardholders at this bank.",
   },
   [Type.DepositRates]: {
-    title: "Deposit",
+    title: "deposit rates",
     fileType: "json_Web_InstitutionRank_SavingsRate_Full",
     triggerText:
       "The numerical value of the coefficient indicates how much less interest minority depositors receive compared with white depositors at this bank. ",
   },
   [Type.MaintenanceFees]: {
-    title: "Maintenance fees",
+    title: "maintenance fees",
     fileType: "json_Web_InstitutionRank_SavingsFee_Full",
     triggerText:
       "The numerical value of the coefficient indicates the additional percentage minority account holders need to pay in maintenance fees compared with white account holders at this bank.",
@@ -86,11 +86,7 @@ const ComparePage = () => {
       <div className="center-wrap">
         <div className={cls.header}>
           <h1 className={cls.title}>Compare the degree of discrimination</h1>
-          <h1>
-            in
-            <div className={cls.condition2}>{current?.title}</div>
-            rates in (Country-Wide)
-          </h1>
+          <h1>in {current?.title} (Country-Wide)</h1>
         </div>
       </div>
       <div className={cls.divider} />
@@ -120,8 +116,9 @@ const ComparePage = () => {
               </h2>
               <div className={cls.subTitle}>
                 <div>
-                  We arrange the results in descending order based on the size
-                  of the coefficients, by default
+                  We arrange the results in{" "}
+                  {type === Type.DepositRates ? "ascending" : "descending"}{" "}
+                  order based on the size of the coefficients, by default
                 </div>
                 <div style={{ marginTop: 6 }}>{current?.triggerText}</div>
               </div>
@@ -157,11 +154,25 @@ const ComparePage = () => {
                         </Popover>
                       </Space>
                     </div>
-                    <div className={cls.value}>{item.Significance}</div>
+                    <div
+                      className={cls.value}
+                      style={{
+                        fontSize:
+                          item.Significance === "Not Significant" ||
+                          item.Significance === "nan"
+                            ? "18px"
+                            : "24px",
+                      }}
+                    >
+                      {item.Significance === "nan"
+                        ? "Not Significant"
+                        : item.Significance}
+                    </div>
                   </div>
-                  <div className={cls.col3}>
-                    <div className={cls.label}>Bank’s name</div>
-                    <div className={cls.value}>{item.Institution_Name}</div>
+                  <div className={cls.right}>
+                    <span className={cls.bank} style={{ fontSize: "22px" }}>
+                      {item.Institution_Name}
+                    </span>
                   </div>
                 </div>
               </Card>

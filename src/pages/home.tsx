@@ -68,10 +68,10 @@ const HomePage = () => {
           <h1 className={cls.title}>Our Vision</h1>
           <div className={cls.desc}>
             <div>
-              When you‘re seeking fair banking services, we provide valuable
+              When you’re seeking fair banking services, we provide valuable
               insights by highlighting racial disparities in the following
-              financial products: mortgage loans, auto loan rates, credit card
-              loan rates, deposit rates, and account maintenance fees.
+              financial products: mortgage loans, auto loans, credit card loans,
+              deposits, and account maintenance fees.
             </div>
             <div className={cls.hrefText}>
               <a href="https://drive.google.com/file/d/1qDt1RZQcQziXk8dx2DtsdctTLHSobZqU/view?usp=drive_link">
@@ -80,7 +80,7 @@ const HomePage = () => {
               </a>
             </div>
             <div>
-              <a href="https://drive.google.com/file/d/1qDt1RZQcQziXk8dx2DtsdctTLHSobZqU/view?usp=drive_link">
+              <a href="https://drive.google.com/file/d/1YnW6WcqVNU9l7wuN2gSAkQ1sk7Rz8487/view?usp=drive_link">
                 For other financial products, we rank the racial discrimination
                 of banks by using this methodology.
               </a>
@@ -89,7 +89,7 @@ const HomePage = () => {
         </div>
       </div>
       <div className={cls.main}>
-        <h1>Banking loan shopping tools</h1>
+        <h1>Banking Services Shopping Tools</h1>
         <Row className={cls.wrap} gutter={[24, 24]}>
           {data.map((item) => (
             <Col xs={12} sm={8} md={6} lg={6} xl={6} xxl={4} key={item.type}>

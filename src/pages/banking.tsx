@@ -243,7 +243,17 @@ const BankingPage = () => {
                         </Popover>
                       </Space>
                     </div>
-                    <div className={cls.value}>{item.Significance}</div>
+                    <div
+                      className={cls.value}
+                      style={{
+                        fontSize:
+                          item.Significance === "Not Significant"
+                            ? "18px"
+                            : "24px",
+                      }}
+                    >
+                      {item.Significance}
+                    </div>
                   </div>
                   <div className={cls.col3}>
                     <div className={cls.label}>
